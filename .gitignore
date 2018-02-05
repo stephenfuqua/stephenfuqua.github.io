@@ -1,0 +1,7 @@
+# Jekyll buid files
+_site
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

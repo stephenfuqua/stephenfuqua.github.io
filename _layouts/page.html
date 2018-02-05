@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% assign post = page %}
+
+<article class="page">
+    {% if page.title %}
+    <h1 class="title">{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
+    {% endif %}
+    {% if page.date %}            
+    <h4 id="post-subtitle"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%b. %d, %Y' }}</time></h4>
+    {% endif %}
+    <div class="entry-content">
+        {{ content }}
+
+        {% if page.category %}
+            {% for site_category in site.data.categories %}
+                {% if site_category.slug == page.category %}
+                    {% assign category = site_category %}
+                {% endif %}
+            {% endfor %}
+            {% if category %}
+                {% capture category_content %} in <span class="label" style="background-color:{{ category.color }}"><a href="/blog/category/{{ category.slug }}/">{{ category.name }}</a></span>{% endcapture %}
+            {% endif %}
+        {% else %}
+            {% assign category_content = '' %}
+        {% endif %}
+
+        {% if page.tags.size > 0 %}
+            {% capture tags_content %} with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+            {% for post_tag in page.tags %}
+                {% for data_tag in site.data.tags %}
+                    {% if data_tag.slug == post_tag %}
+                        {% assign tag = data_tag %}
+                    {% endif %}
+                {% endfor %}
+                {% if tag %}
+                    {% capture tags_content_temp %}{{ tags_content }}<a href="/blog/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+                    {% assign tags_content = tags_content_temp %}
+                {% endif %}
+            {% endfor %}
+        {% else %}
+            {% assign tags_content = '' %}
+        {% endif %}
+
+        <p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p>
+        
+     </div>
+</article>
+{% if site.disqus_short_name and page.comments == true %}
+<section id="comment">
+    <h1 class="title">Comments</h1>
+    <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
+</section>
+{% endif %}

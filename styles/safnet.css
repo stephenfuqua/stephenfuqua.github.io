@@ -1,0 +1,91 @@
+body {
+    font-size: 18px;
+}
+
+
+
+.float-right {
+    float: right;
+    margin: 0 0 1em 1em
+}
+
+.float-left {
+    float: left;
+    margin: 0 1em 1em 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+    padding: 0;
+    border: none;
+}
+
+
+
+.container .jumbotron {
+    border-radius: 0;
+}
+
+.jumbotron .heading {
+    position: relative;
+    left: -2em;
+    top: -.5em;
+    padding: 0;
+    margin: 0;
+}
+
+.jumbotron h1 {
+    font-size: 3em;
+    padding: 0;
+    margin: 0;
+    color: #FFF!important;
+}
+
+.jumbotron h2 {
+    font-size: 2em;
+    padding: 0;
+    margin: 0;
+    color: #FFF!important;
+}
+
+#content {
+    margin-top: 0;
+    padding-top: 1em;
+    border: none;
+}
+
+#sidebar .block {
+    background-color: #ACB7A9;
+    padding: .5em;
+    margin: 0 0 1em 0;
+}
+
+#sidebar h1 {
+    font-size: 1em;
+    text-transform: uppercase;
+    border-bottom: 2px solid #fff;
+    padding-bottom: 2px;
+    margin: 0 0 .5em 0;
+    font-weight: 700;
+}
+
+#sidebar .well ul {
+    margin: 0;
+    padding: 0;
+}
+
+#sidebar .well li {
+    list-style: outside none none;
+    font-size: .9em;
+    line-height: 1.1em;
+    margin-bottom: 5px;
+    margin-left: 0;
+}
+
+footer {
+    margin-top: 1em;
+}
+
+.asset-footer {
+    clear: both;
+}

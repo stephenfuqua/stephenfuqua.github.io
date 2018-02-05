@@ -1,0 +1,30 @@
+.jumbotron {
+    background: transparent url(../images/mexicanHat.png) no-repeat;
+    margin: 0;
+    height: 338px;
+}
+
+h1 a {
+	text-decoration: none;
+    text-shadow: 0px 1px 1px rgba(0, 0, 128, 0.3);
+
+    color: #000;
+}
+
+a:hover, h1 a:focus {
+	text-decoration: underline;
+	background-color: #fff!important;
+}
+
+.meta {
+	margin-bottom: 1em;
+}
+
+.post {
+	margin-bottom: 3em;
+}
+
+
+.title {
+	margin-bottom: 0;
+}

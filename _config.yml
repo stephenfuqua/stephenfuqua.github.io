@@ -1,0 +1,33 @@
+title: Stephen Fuqua Tech Blog
+email: stephen@safnet.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Technical blogging from a (primarily) .NET software engineer
+  who occasionally dabbles in Linux, Node.js, testing, etc.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "stephenfuqua.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username:  stephenfuqua
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+
+permalink: /archive/:year/:month/:day/:title/
+paginate: 10
+paginate_path: "page/:num"
+category_dir: categories
