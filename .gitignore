@@ -1,6 +1,10 @@
 # Jekyll buid files
 _site
 
+# Misc
+.sass-cache
+Gemfile.lock
+
 # Windows files
 Thumbs.db
 ehthumbs.db

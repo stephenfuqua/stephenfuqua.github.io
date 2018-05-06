@@ -1,0 +1,20 @@
+- slug: meta
+  name: Meta
+  
+- slug: dotnet
+  name: Microsoft .NET Framework
+  
+- slug: devops
+  name: Tools and processes for build, integration, and deployment (DevOps) 
+  
+- slug: database
+  name: Microsoft SQL Server and other databases
+  
+- slug: architecture
+  name: System architectures, design
+  
+- slug: books
+  name: Book reviews and commentaries
+
+- slug: sdlc
+  name: Software Development Life Cycle
