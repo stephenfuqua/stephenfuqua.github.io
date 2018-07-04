@@ -4,7 +4,7 @@ title: "Why Create a Platform for Avian Conservation Monitoring?"
 date: 2015-09-24
 comments: true
 category: about
-tags: [birds]
+tags: [FlightNode]
 ---
 
 <div class="pull-right" style="width: 185px; margin: 0 0 1.5em 1.5em">

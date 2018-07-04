@@ -8,7 +8,6 @@ tags: [meta]
 sharing: true
 ---
 
-
 The plovers gather in their southern haunts.  
 The long journey north.  
 Migration.

@@ -18,7 +18,6 @@ Decimal temperature values, regardless of the scale, seem quite reasonable. The 
 
 This user also had helpful input regarding time. Many applications have drop-down menus for times, in 15 or 30 minute increments. I used the [Kendo Time Picker](https://demos.telerik.com/kendo-ui/timepicker/index) control. Unlike some time controls, it doesn't automatically drop the menu down - so you only know about it if you think to click the icon, which is not entirely intuitive. Once you do click on that, it can be a little confusing - are you allowed to type in your own, more precise, answer? I'll need to do a little more research before deciding if/how to improve this.
 
-
 <img src="/images/time_picker_1.png" width="361" height="117" class="center-block">
 <img src="/images/time_picker_2.png" width="348" height="276" class="center-block">
 

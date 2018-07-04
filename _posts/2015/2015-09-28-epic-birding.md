@@ -4,7 +4,7 @@ title: "An Epic Morning of Birding"
 date: 2015-09-28
 comments: true
 category: about
-tags: [birds]
+tags: [FlightNode]
 ---
 
 <img style="width: 100%; height: auto;" 
