@@ -14,7 +14,7 @@ It is 2018, and I have only just learned about the fantastic [FluentAssertions](
 
 [MSTest](https://en.wikipedia.org/wiki/Visual_Studio_Unit_Testing_Framework), [NUnit](http://nunit.org/), [XUnit](https://xunit.github.io/) - they are all useful. They are all well-integrated into Visual Studio now. I would not make a strong argument against any choice for a team that already knows the tool. For new development, I would unhesitatingly choose NUnit.
 
-I used XUnit for the [FlightNode project](https://github.com/flightnode). I enjoyed the flexibility with the assertion statements. I did not like the enforcement of only one assertion per unit test. The theory is that multiple assertions make it more difficult to know which thing failed (do yourself a favor and add a message in the assertion to solve this!) and you do not get verification on the assertions written below the one that failed. The latter is valid point, but I have very rarely found this to be a problem in the real world. Ultimately, I ended up spending too much time writing method signatures and extracting shared functionality in the name of small tests with one assertion. I also found that my XUnit tests were hard to maintain as the style caused me to extract so much into private functions, thus reducing the readability of any individual test.
+I used XUnit for the [FlightNode project](https://github.com/flightnode). I enjoyed the flexibility with the assertion statements. I did not like the enforcement of only one assertion per unit test. The theory is that multiple assertions make it more difficult to know which thing failed (do yourself a favor and add a message in the assertion to solve this!) and you do not get verification on the assertions written below the one that failed. The latter is a valid point, but I have very rarely found this to be a problem in the real world. Ultimately, I ended up spending too much time writing method signatures and extracting shared functionality in the name of small tests with one assertion. I also found that my XUnit tests were hard to maintain as the style caused me to extract so much into private functions, thus reducing the readability of any individual test.
 
 MSTest at this point might be as good as NUnit - I have not investigated in a long time. The _unit test_ first mentality of NUnit and its strong testing of exceptions and async make me a believer. Also, while Microsoft is a great company and all… I like promoting a diverse ecosystem.
 
@@ -22,7 +22,7 @@ MSTest at this point might be as good as NUnit - I have not investigated in a lo
 
 At another time, the richer set of assertions available in NUnit was a big factor in its favor over MSTest. Although I don't buy the single assertion per test mentality, I do agree that they should be clear and expressive. In the JavaScript world, I've come to enjoy the _should_ style of assertions in [Chai](http://www.chaijs.com/guide/styles/). Only recently did I learn of a similar library for .NET, [FluentAssertions](https://fluentassertions.com/), although it is several years old.
 
-1. This style helps me think about the value I'm testing first, rather than thinking about the assertion first
+1. This style helps me think about the value I'm testing first, rather than thinking about the assertion statement first
 1. It is easier to read.
 1. The assertion error messages are beautiful.
 1. The breadth and depth of the [syntax](https://fluentassertions.com/documentation) is awe-inspiring.

@@ -21,20 +21,6 @@
 Visual Studio-like style based on original C# coloring by Jason Diamond <jason@diamond.name>
 
 */
-pre code {
-  font-family: Consolas,Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;
-  font-size: 0.85em;
-  line-height: 1.5;
-  display: block;
-  background: #fff;
-  color: #000;
-  border: solid 1px #eee;
-  box-shadow: 1px 1px 2px #aaa;
-  margin: 10px 0 8px 0;
-  padding: 5px 15px;
-  overflow-x: auto;
-  word-wrap: break-word;
-}
 
 .highlight .m { color: #009999 } /* Literal Number */
 .highlight .o, .highlight .p, .highlight .p-indicator, .highlight .nv { color: #666666 } /* Operator */
