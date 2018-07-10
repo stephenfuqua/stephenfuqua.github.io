@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: toolkit
-permalink: /blog/tag/toolkit/
+tag: programming
+permalink: /blog/tag/programming/
 ---
