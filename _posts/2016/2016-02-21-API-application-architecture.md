@@ -1,10 +1,9 @@
 ---
 layout: page
-title: API Application Architecture
+title: FlightNode API Application Architecture
 date: 2016-02-21
 comments: true
-category: programming
-tags: [architecture]
+tags: [architecture, FlightNode]
 sharing: true
 ---
 

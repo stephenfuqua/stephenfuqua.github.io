@@ -3,7 +3,6 @@ layout: page
 title: Necessity of Independent Quality Assurance and Usability Testing
 date: 2018-5-06
 comments: true
-category: sdlc
 tags: [sdlc]
 sharing: true
 ---

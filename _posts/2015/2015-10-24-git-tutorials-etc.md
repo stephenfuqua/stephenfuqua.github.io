@@ -3,8 +3,7 @@ layout: page
 title: Git Tutorials, Workflow, and GUI
 date: 2015-10-24
 comments: true
-category: programming
-tags: [FlightNode]
+tags: [FlightNode, programming]
 sharing: true
 ---
 

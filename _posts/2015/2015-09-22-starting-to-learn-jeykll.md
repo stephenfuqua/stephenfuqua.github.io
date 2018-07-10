@@ -3,8 +3,7 @@ layout: page
 title: "Just starting to learn Jeykll"
 date: 2015-09-22
 comments: true
-category: about
-tags: [FlightNode]
+tags: [meta, FlightNode]
 ---
 
 Recently I ran across and old article from Phil Haack, about moving his blog to [Jekyll using GitHub](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). And I realized that this is (or might be?) a perfect solution for managing content *about* the FlightNode project (though it will not be part of the platform itself).

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Beta 2 User Stories
+title: FlightNode Beta 2 User Stories
 date: 2016-02-03
 comments: true
-category: ops
 tags: [FlightNode]
 sharing: true
 ---

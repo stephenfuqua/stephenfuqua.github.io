@@ -21,3 +21,12 @@
 
 - slug: unit-test
   name: Unit Testing
+
+- slug: os
+  name: Operating Systems
+
+- slug: FlightNode
+  name: "FlightNode: Citizen Science Bird-Monitoring"
+
+- slug: programming
+  name: General Programming

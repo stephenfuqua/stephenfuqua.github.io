@@ -3,8 +3,7 @@ layout: page
 title: Installing OpenSSH in Windows
 date: 2018-02-17
 comments: true
-category: ops
-tags: [ops, windows, powershell]
+tags: [devops, os]
 sharing: true
 ---
 

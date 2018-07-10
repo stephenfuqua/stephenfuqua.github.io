@@ -3,7 +3,6 @@ layout: page
 title: API Calls Fail Due to Browser Compression
 date: 2016-12-10
 comments: true
-category: dotnet
 tags: [dotnet]
 sharing: true
 ---
@@ -19,6 +18,6 @@ Chrome sends several headers that Postman does not, so I tried copying those hea
 And that's when I suddenly remember to look at the Windows Event Viewer. And sure enough, in the Application log I find a pair of error messages:
 
 1. Server cannot set status after HTTP headers have been sent.
-1. The directory specified for caching compressed content C:\Users\XYZ\AppData\Local\Temp\iisexpress\IIS Temporary Compressed Files\Clr4IntegratedAppPool is invalid. Static compression is being disabled.
+1. The directory specified for caching compressed content `C:\Users\XYZ\AppData\Local\Temp\iisexpress\IIS Temporary Compressed Files\Clr4IntegratedAppPool` is invalid. Static compression is being disabled.
 
 My hunch was right: something wrong with the compression. Why did this suddenly occur? I have no idea. I hadn't deleted files out of Temp recently. My NuGet package upgrades were for ancillary libraries, but not for ASP.NET itself. But the solution was trivial: as suggested by [Event ID 2264 -- IIS W3SVC Configuration](https://technet.microsoft.com/en-us/library/cc735199(v=ws.10).aspx), I just had to create the directory manually, and then everything was working again.

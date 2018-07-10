@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Logging Mechanism
+title: FlightNode Logging Mechanism
 date: 2016-01-06
 comments: true
-category: ops
 tags: [FlightNode]
 sharing: true
 ---

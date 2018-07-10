@@ -1,30 +1,25 @@
 ---
 layout: page
-title: Git Repository Consolidation
+title: FlightNode Git Repository Consolidation
 date: 2016-01-16
 comments: true
-category: ops
 tags: [FlightNode]
 sharing: true
 ---
 
-The .NET projects for FlightNode were created in several different Git repositories, 
-thus giving us several small, well-contained, and re-usable projects. These small
-projects would be installed into the *Service* project as NuGet packages, which
-also makes for a faster compile in each discrete solution:
+The .NET projects for FlightNode were created in several different Git repositories, thus giving us several small, well-contained, and re-usable projects. These small projects would be installed into the *Service* project as NuGet packages, which also makes for a faster compile in each discrete solution:
 
 1. FlightNode.Common
 1. FlightNode.DataCollection
 1. FlightNode.Identity
 
-But... this has approach has caused problems.
+But&hellip; this has approach has caused problems.
 
 1. Each developer has to clone four different repositories.
 1. Debugging a solution where core business logic is in a NuGet package is a huge pain.
 1. We are having problems with NuGet package reference consistency (bad DLL paths)
 
-After trying to solve the third problem several times, it is finally time to move
-on by fixing the problem.
+After trying to solve the third problem several times, it is finally time to move on by fixing the problem.
 
 ![Repository consolidation](/images/scm_consolidation.png)
 

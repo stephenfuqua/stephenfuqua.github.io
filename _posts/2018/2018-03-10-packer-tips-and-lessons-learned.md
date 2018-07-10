@@ -3,8 +3,7 @@ layout: page
 title: Packer Tips and Lessons Learned
 date: 2018-03-10
 comments: true
-category: ops
-tags: [ops, windows]
+tags: [devops, os]
 sharing: true
 ---
 
