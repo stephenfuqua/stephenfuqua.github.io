@@ -1,27 +1,8 @@
 /* Styles for C# Code Format http://www.manoli.net/csharpformat/format.aspx */
 
-.csharpcode .rem, .highlight .c1, .highlight .cs, .highlight .c, .highlight .cm, .highlight .nn { color: #008000; }
-.csharpcode .kwrd, .highlight .kt, .highlight .k, .highlight .kd { color: #0000ff; }
-.csharpcode .str, .highlight .s, .highlight .s1 { color: #a31515; }
-.csharpcode .op { color: #0000c0; }
-.csharpcode .preproc { color: #cc6633; }
-.csharpcode .asp { background-color: #ffff00; }
-.csharpcode .html { color: #800000; }
-.csharpcode .attr, .highlight .na { color: #ff0000; }
-.csharpcode .alt 
-{
-	background-color: #f4f4f4;
-	width: 100%;
-	margin: 0em;
-}
-.csharpcode .lnum { color: #606060; }
-
-/*
-
-Visual Studio-like style based on original C# coloring by Jason Diamond <jason@diamond.name>
-
-*/
-
+.highlight .c1, .highlight .cs, .highlight .c, .highlight .cm, .highlight .nn { color: #008000; }
+.highlight .kt, .highlight .k, .highlight .kd { color: #0000ff; }
+.highlight .s, .highlight .s1 { color: #a31515; }
 .highlight .m , /* Literal Number ?? */
 .language-csharp  .highlight.na  /* attribute, maybe other */
 { color: #009999 }
