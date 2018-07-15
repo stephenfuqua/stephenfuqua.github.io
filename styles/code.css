@@ -22,5 +22,7 @@ Visual Studio-like style based on original C# coloring by Jason Diamond <jason@d
 
 */
 
-.highlight .m { color: #009999 } /* Literal Number */
+.highlight .m , /* Literal Number ?? */
+.language-csharp  .highlight.na  /* attribute, maybe other */
+{ color: #009999 }
 .highlight .o, .highlight .p, .highlight .p-indicator, .highlight .nv { color: #666666 } /* Operator */

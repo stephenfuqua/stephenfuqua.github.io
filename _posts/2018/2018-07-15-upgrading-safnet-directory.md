@@ -15,11 +15,11 @@ First up: basic and trivial cleanup of the solution, bringing it up to .NET 4.7.
 All work in this and subsequent posts will be using Visual Studio 2017, git-bash, and other free tools.
 {: .alert .alert-info }
 
-# Improve the name
+# Improve the Name
 
 Long pascalCased names are not in favor any more. Snake case has become deservedly popular - it is easier to read. So let's rename this project from `safnetDirectory` to `safnet-directory`. GitHub repo's staying put though, out of laziness.
 
-# The .nuget directory is pass&eacute;
+# The .nuget Directory Is Pass&eacute;
 
 In the early days, no doubt for what were at the time good reasons, Microsoft had us creating `.nuget` folders containing `nuget.exe`, `nuget.config`, and `nuget.targets`. Right around the time that I created this application, perhaps just afterward, Microsoft eliminated the need for it (check out the evolution of the [Stack Overflow discussion](https://stackoverflow.com/questions/9146094/should-nuget-folder-be-added-to-version-control)).
 
