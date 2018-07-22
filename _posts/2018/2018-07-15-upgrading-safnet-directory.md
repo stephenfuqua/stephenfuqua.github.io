@@ -3,8 +3,7 @@ layout: page
 title: "Upgrading safnet-directory, Part 1: Trivial Cleanup"
 date: 2018-07-15
 comments: true
-category: testing
-tags: [unit-test]
+tags: [csharp, architecture]
 sharing: true
 ---
 
