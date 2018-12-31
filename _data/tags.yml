@@ -5,13 +5,13 @@
   name: Microsoft .NET Framework
   
 - slug: devops
-  name: Tools and processes for build, integration, and deployment (DevOps) 
+  name: DevOps Tools and Practices
   
 - slug: database
   name: Microsoft SQL Server and other databases
   
 - slug: architecture
-  name: System architectures, design
+  name: Application architecture and design
   
 - slug: books
   name: Book reviews and commentaries

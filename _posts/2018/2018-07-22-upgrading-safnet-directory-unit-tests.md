@@ -3,7 +3,7 @@ layout: page
 title: "Upgrading safnet-directory, Part 2: Unit Tests"
 date: 2018-07-21
 comments: true
-tags: [dotnet, architecture. unit-test]
+tags: [dotnet, architecture, unit-test]
 sharing: true
 ---
 

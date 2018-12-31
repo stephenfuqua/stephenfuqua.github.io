@@ -1,7 +1,7 @@
 title: Stephen Fuqua Tech Blog
 email: stephen@safnet.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Technical blogging from a (primarily) .NET software engineer
+  Technical blogging from a (primarily) .NET software architect
   who occasionally dabbles in Linux, Node.js, testing, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "stephenfuqua.github.io" # the base hostname & protocol for your site, e.g. http://example.com
