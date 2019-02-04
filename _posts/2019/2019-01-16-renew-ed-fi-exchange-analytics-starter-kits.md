@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Geeks in Vegas – Learning About Amazon Web Services
-date: 2018-11-30
+title: "(Re)New on the Ed-Fi Exchange: Analytics Starter Kits"
+date: 2019-01-16
 comments: true
 tags: [data, ed-fi]
 sharing: true
