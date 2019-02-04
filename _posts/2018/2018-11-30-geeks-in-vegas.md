@@ -16,4 +16,4 @@ According to Amazon Web Services (AWS) CEO Andy Jassy, at his keynote Wednesday 
 
 [continue reading on ed-fi.org...](https://www.ed-fi.org/blog/2018/11/geeks-vegas-learning-amazon-web-services/)
 
-![The geeks filling in the Venetian Theater to learn about Best Practices in Big Data Analytics Architecture](https://www.ed-fi.org/assets/2018/11/Venetian-Theater-AWS-768x578.png | width=350)
+<img alt="The geeks filling in the Venetian Theater to learn about Best Practices in Big Data Analytics Architecture" src="https://www.ed-fi.org/assets/2018/11/Venetian-Theater-AWS-768x578.png" style="width: 350px; height: auto">
