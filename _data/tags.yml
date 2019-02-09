@@ -25,9 +25,6 @@
 - slug: os
   name: Operating Systems
 
-- slug: FlightNode
-  name: "FlightNode: Citizen Science Bird-Monitoring"
-
 - slug: programming
   name: General Programming
 
@@ -36,3 +33,6 @@
 
 - slug: data
   name: Data analytics and visualization
+
+- slug: FlightNode
+  name: "FlightNode: Citizen Science Bird-Monitoring"
