@@ -30,10 +30,14 @@ a:hover, h1 a:focus {
 }
 
 .center-image {
-    margin: 0 auto;
+    margin: 1em auto 1em;
     display: block;
 }
 
 .max-90 {
 	max-width: 90%;
+}
+
+.entry-content p {
+	margin-bottom: 1.25em;
 }
