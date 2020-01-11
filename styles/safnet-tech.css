@@ -28,3 +28,12 @@ a:hover, h1 a:focus {
 .title {
 	margin-bottom: 0;
 }
+
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
+
+.max-90 {
+	max-width: 90%;
+}
