@@ -18,7 +18,7 @@ And please don't forget, [Mocks are not stubs](https://martinfowler.com/articles
 
 ## Static Methods
 
-At first glance it might seem that calls to static and extension methods are going to be a big thorn in your side. Thankfully Static Delegate Injection can easily solve that problem for you. I wrote about this in [Making Mockery of Extension Methods](http://www.safnet.com/writing/tech/2014/04/making-mockery-of-extension-methods.html).
+At first glance it might seem that calls to static and extension methods are going to be a big thorn in your side. Thankfully Static Delegate Injection can easily solve that problem for you. I wrote about this in [Making Mockery of Extension Methods](/archive/2014/04/10/making-a-mockery-of-extension-methods/).
 
 ## Sprout or Wrap
 
