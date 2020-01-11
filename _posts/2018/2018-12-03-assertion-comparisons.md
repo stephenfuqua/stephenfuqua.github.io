@@ -26,7 +26,7 @@ Questions in front of me:
 My conclusion: favor Shouldly. Upgrade old asserts opportunistically for 
 consistency, but no need to go out of the way.
 
-> _Full source code for these experiments is at https://github.com/stephenfuqua/AssertionComparison_.
+> _Full source code for these experiments is at [https://github.com/stephenfuqua/AssertionComparison](https://github.com/stephenfuqua/AssertionComparison)_.
 
 ## Why Use a Separate Library
 
