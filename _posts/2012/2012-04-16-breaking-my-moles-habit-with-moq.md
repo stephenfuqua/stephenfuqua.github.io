@@ -46,9 +46,9 @@ Thanks to the Strict behavior, I end up getting an error on another method in th
 
 ```csharp
 mockFacade.Setup(ibf => ibf.GetRowCount()).Returns(1);
-```csharp
+```
 
- In the Moles example, I would have ended up hitting the real `GetRowCount` method without realizing it. If I hadn’t implicitly setup a fake database with that Ninject call `m_kernel.Get<SomeController>`, the `GetRowCount` method would have actually queried the database. As a unit test, this is precisely what I was trying to avoid with Moles.
+In the Moles example, I would have ended up hitting the real `GetRowCount` method without realizing it. If I hadn’t implicitly setup a fake database with that Ninject call `m_kernel.Get<SomeController>`, the `GetRowCount` method would have actually queried the database. As a unit test, this is precisely what I was trying to avoid with Moles.
 
 I have lost one thing in translation &ndash; if one of the arguments is wrong, it can be a little more difficult to tell why. In the Moles example, I have the explicit Assert statements in the body of the Mole. In the MoQ example, with Strict behavior turned on, I am telling Mock to throw an error if any criteria other than those three Lambdas attached to `It.Is<T>(Func<T,bool>)` is passed to the `GetAll` method. When I manually mess up one of the input values to the test method, I get this result:
 
