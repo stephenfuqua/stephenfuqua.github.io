@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "References: Best Practices in Test-driven, Object Oriented, Green- and Brownfield Development"
+title: "References: Best Practices in Test-Driven, Object Oriented, Green- and Brownfield Development"
 permalink: /best-practices-tdd-oo/references
+date: 2020-01-12
+comments: true
+tags: [unit-test, programming, oo]
 ---
 
 Books and a few relevant articles that influenced the techniques found in this web site.
@@ -30,4 +33,4 @@ Books and a few relevant articles that influenced the techniques found in this w
 
 ------------------------------
 
-_[Back to the introduction / table of _contents](intro)_
+_[Back to the introduction / table of contents](intro)_

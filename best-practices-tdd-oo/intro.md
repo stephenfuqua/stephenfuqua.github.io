@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "Introduction: Best Practices in Test-driven, Object Oriented, Green- and Brownfield Development"
+title: "Introduction: Best Practices in Test-Driven, Object Oriented, Green- and Brownfield Development"
 permalink: /best-practices-tdd-oo/intro
+date: 2020-01-12
+comments: true
+tags: [unit-test, programming, oo]
 ---
 
 Developing clean, testable, code has been a passion since my first full-time job as a programmer, when I inherited a mess of spaghetti-code in the form of a large ASP classic web application. Since 2009 I've written written more than a dozen blog posts on [unit testing](https://tech.safnet.com/blog/tag/unit-test/), created several presentations, and evangelized unit testing at every opportunity. As with most fields of practice, some techniques are continuously relevant while others change with greater exposure or with advances in the available tools.
