@@ -7,9 +7,8 @@ tags: [programming]
 ---
 
 The news has been going around: "refactoring doesn't work," say researchers. Code quality does not improve. It isn't worth the time and effort. Here's why I don't buy it - why the research is fundamentally flawed and real software groups should ignore it.
-legoRefactoring.jpg
 
-![We don't need your wheels](/images/lego-refactoring.jpg)
+![We don't need your wheels](/images/lego-refactoring.jpg){: .center-image }
 
 The study's aim was to evaluate the use of refactoring techniques to improve code quality and maintenance. In brief, they conclude that "there is no quality improvement after refactoring treatment." Their analysis is based on computed code metrics (static analysis), performance, and perceived maintainability. The conclusion, however, is based solely on the code metrics, as the other two factors did not show statistically relevant changes.
 

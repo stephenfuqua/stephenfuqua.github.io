@@ -16,8 +16,10 @@ While all of the examples are in C#, the principles generally transcend the spec
 ## Contents
 
 1. [SOLID and Unit Testing](solid-testing)
+1. [Legacy Refactoring](legacy-refactoring)
+1. [Test-driven Development](test-driven-development)
+1. [Unit Test Tools and Patterns](unit-test-tools-patterns)
 1. [References](references)
-
 
 ## Change Log
 
