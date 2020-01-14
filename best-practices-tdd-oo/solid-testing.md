@@ -9,6 +9,7 @@ tags: [unit-test, programming, oo]
 
 S.O.L.I.D. (henceforth "SOLID") is a set of object-oriented design principals, assembled by Robert C. Martin and popularized in many of his articles and books. The following table is from his article [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod):
 
+{: .table .table-striped .table-bordered}
 | Acronym | Principle | Summary |
 | -- | -- | -- |
 | SRP | The Single Responsibility Principle | A class should have one, and only one, reason to change. |
@@ -27,7 +28,7 @@ How do you recover? Ideally you would have automated tests proving the code is w
 
 Let's look at a simple example:
 
-```charp
+```csharp
 public class PeopleRepository
 {
     private readonly IDataAccess _dataAccess;
@@ -149,11 +150,73 @@ The most obvious refactor in a case like this is to move the initialization code
 
 ## Interface Segregation Principle (ISP)
 
-_work in progress_
+From a testing perspective, creating small, well-constrained interfaces may make it moderately easier to create mocks and stubs. If nothing else, it constrains the options available for which method(s) or property(ies) should be mocked. An example of where I have used this principle: turning an Entity Framework DbContext into a data access layer. A typical Entity Framework DbContext might look like...
+
+```csharp
+public class HumanResourcesDbContext : DbContext
+{
+    public DbSet<Person> Persons { get; set;}
+
+    public DbSet<Job> Jobs { get; set; }
+
+    ...
+}
+```
+
+Perhaps there is a simple CRUD-based API using this context. It contains separate controllers for the `/people` and `/jobs` resources. Each controller needs to have access to this data access layer; a single interface could support both, but there is no reason (in this hypothetical example) for the `PeopleController` to be able to access the jobs. So create two _separate_ (or _segregated_) interfaces to get the job done.
+
+```csharp
+public interface IPersonDataAccess
+{
+    PersonModel Create(PersonModel model);
+    IReadOnlyList<PersonModel> Read();
+    PersonModel Read(int id);
+    PersonModel Update(PersonModel model);
+    void Delete(int id);
+    void Delete(PersonModel model);
+}
+
+public interface IJobDataAccess
+{
+    JobModel Create(JobModel model);
+    IReadOnlyList<JobModel> Read();
+    JobModel Read(int id);
+    JobModel Update(JobModel model);
+    void Delete(int id);
+    void Delete(JobModel model);
+}
+
+public class HumanResourcesDbContext : DbContext, IPersonDataAccess, IJobDataAccess
+{
+    public DbSet<Person> Persons { get; set;}
+
+    public DbSet<Job> Jobs { get; set; }
+
+    ...
+
+    PersonModel IPersonDataAccess.Create(PersonModel model)
+    {
+        ...
+    }
+
+    JobModel IJobDataAccess.Create(JobModel model)
+    {
+        ...
+    }
+
+    ... etc ..
+}
+```
+
+In effect, this is turning the `HumanResourcesDbContext` into a set of Repositories. This avoids the need for writing repository classes that need to be unit tested, and it effectively hides the [DbSet](/archive/2019/12/27/unit-testing-with-ef-core/) away. On the other hand, these functions are going to end up having logic. So they _should_ be tested. It would have been better to create separate repositories anyway. Plus, this is clearly an SRP violation.
+
+So while the principle is sound and theoretically useful, in practice clean code probably won't need to use it very often.
 
 ## Dependency Inversion Principle (DIP)
 
-_work in progress_
+This is the most important principle with respect to unit testing. Yes, even more than Single Responsibility. For if you can't isolate a class away from its dependencies, then you can't unit test it. All you can do is run integration testing.
+
+Code smell: if you find yourself injecting more than one dependency into a class &ndash; and thus needing multiple mocks in your unit tests &ndash; then your class under development might be violating SRP. "Might be". There are perfectly legitimate design decisions that go this way. But the more classes/interfaces that are injected into a class, the worse off you are from a testing perspective. Your code coupling and cyclomatic complexity go up: fancy words for this will be harder to maintain and understand.
 
 ------------------------------
 
