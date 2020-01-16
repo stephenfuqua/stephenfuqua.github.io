@@ -13,6 +13,7 @@ Books and a few relevant articles that influenced the techniques found in this w
 
 * _[Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/)_, by Steve Freeman and Nat Pryce
 * [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/), a series of conversations between Kent Beck, David Heinemeier Hansson, and Martin Fowler
+* [Software Testing Guide](https://martinfowler.com/testing), articles by Martin Fowler and friends on his website
 * _[Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)_, by Kent Beck
 * _[xUnit Test Patterns](http://xunitpatterns.com/)_, by Gerard Meszaros
 
