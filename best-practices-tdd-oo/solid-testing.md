@@ -216,6 +216,8 @@ So while the principle is sound and theoretically useful, in practice clean code
 
 This is the most important principle with respect to unit testing. Yes, even more than Single Responsibility. For if you can't isolate a class away from its dependencies, then you can't unit test it. All you can do is run integration testing.
 
+There is also no test-driven development, in its true sense, without interfaces: having an interface allows you to begin testing a class against that interface, before you've created a concrete version of that interface.
+
 Code smell: if you find yourself injecting more than one dependency into a class &ndash; and thus needing multiple mocks in your unit tests &ndash; then your class under development might be violating SRP. "Might be". There are perfectly legitimate design decisions that go this way. But the more classes/interfaces that are injected into a class, the worse off you are from a testing perspective. Your code coupling and cyclomatic complexity go up: fancy words for this will be harder to maintain and understand.
 
 ------------------------------
