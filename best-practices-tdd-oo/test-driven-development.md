@@ -7,4 +7,13 @@ comments: true
 tags: [unit-test, programming, oo]
 ---
 
-_placeholder_
+{: .panel .panel-warning }
+Unfinished work-in-progress
+
+Thinking like QA: what are your inputs and expected outputs.
+
+Will discuss red-green-refactor, and my variant green-red-green-refactor.
+
+Mention Behavior Driven Development (BDD) as well.
+
+Forces you to approach coding in a different style - one amenable to testing and therefore, typically better structured than otherwise.
