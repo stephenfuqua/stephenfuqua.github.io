@@ -38,7 +38,7 @@ Write a test that fails
 Write code that passes the test
 
 {: .bg-info }
-Cleanup the code so that it is easy understand and maintain.
+Cleanup the code so that it is easy to understand and maintain.
 
 Note the emphasis on writing a test first. Why is that?
 
@@ -57,11 +57,11 @@ If the code is not well-structured, this can be awfully hard to do. For tips on 
 
 ## Arrange-Act-Assert
 
-Within any given unit test, you'll have three bits of code:
+Within any given unit test, you'll have three sections of code, described by the terms:
 
-* **Arrange**: set up the inputs to the system, including dependencies.
-* **Act**: run the system under test.
-* **Assert**: verify that the results are correct, and potentially verifies that dependencies were used correctly.
+* **Arrange**: set up the inputs to the system, including dependencies. (INPUTS & DEPENDENCIES)
+* **Act**: run the system under test. (SYSTEM UNDER TEST)
+* **Assert**: verify that the results are correct, and potentially verifies that dependencies were used correctly. (OUTPUTS)
 
 To improve unit test readability, it is often helpful to [use these terms](patterns) directly in the tests.
 
@@ -75,4 +75,4 @@ Behavior-Driven Development, or BDD for short, is a variation on TDD that is foc
 &nbsp;Then _some expected output_  
 &nbsp;&nbsp;And _another expected output_
 
-It should be clear that this is a reformulation of Arrange-Act-Assert.
+It should be clear that this is a reformulation of Arrange-Act-Assert. This language can be useful in TDD, especially when [structuring test classes](patterns) and methods so that the test output report is meaningful to non-developers.
