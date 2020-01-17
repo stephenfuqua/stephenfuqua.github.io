@@ -7,9 +7,7 @@ comments: true
 tags: [unit-test, programming, oo]
 ---
 
-{: .panel .panel-warning }
-{: .panel-heading }Warning
-{: .panel-body }Unfinished work-in-progress
+{: .bg-warning }Unfinished work-in-progress
 
 My current favorite tools:
 
