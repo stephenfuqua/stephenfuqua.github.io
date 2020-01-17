@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SOLID and Unit Testing: Best Practices in Test-Driven, Object Oriented, Green- and Brownfield Development"
+title: "SOLID and Unit Testing"
 permalink: /best-practices-tdd-oo/solid-testing
 date: 2020-01-12
 comments: true

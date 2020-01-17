@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Legacy Refactoring Isolation Patterns: Best Practices in Test-Driven, Object Oriented, Green- and Brownfield Development"
+title: "Legacy Refactoring Isolation Patterns"
 permalink: /best-practices-tdd-oo/legacy-refactoring
 date: 2020-01-13
 comments: true

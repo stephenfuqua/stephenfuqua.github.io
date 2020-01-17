@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Patterns for Writing Clean Test Cases"
-permalink: /best-practices-tdd-oo/legacy-refactoring
+permalink: /best-practices-tdd-oo/patterns
 date: 2020-01-16
 comments: true
 tags: [unit-test, programming, oo]
