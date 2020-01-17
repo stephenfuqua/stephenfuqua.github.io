@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "References: Best Practices in Test-Driven, Object Oriented, Green- and Brownfield Development"
+title: "References on Test-Driven and Object Oriented Development"
 permalink: /best-practices-tdd-oo/references
 date: 2020-01-12
 comments: true

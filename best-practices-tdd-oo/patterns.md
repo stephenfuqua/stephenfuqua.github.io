@@ -1,28 +1,27 @@
 ---
 layout: page
-title: "Unit Test Tools and Patterns: Best Practices in Test-Driven, Object Oriented, Green- and Brownfield Development"
-permalink: /best-practices-tdd-oo/legacy-refactoring
+title: "Patterns for Writing Clean Test Cases"
+permalink: /best-practices-tdd-oo/patterns
 date: 2020-01-16
 comments: true
 tags: [unit-test, programming, oo]
 ---
 
 {: .panel .panel-warning }
-Unfinished work-in-progress
+{: .panel-heading }Warning
+{: .panel-body }Unfinished work-in-progress
 
-## Toolkit
+Each team will want to find its own style for expressing unit tests. Or multiple styles, depending on the situation. The patterns below represent just a handful of techniques that may be useful in creating easy-to-read and easy-to-maintain unit tests.
 
-My current favorite tools:
+* [Making Intent Clear with Comments](#making-intent-clear-with-comments)
+* [Making Intent Clear With Methods](#making-intent-clear-with-methods)
+* [Avoiding Duplication](#avoiding-duplication)
+* [One Assert Per Test](#one-assert-per-test)
+* [Do Not Mock By Hand](#do-not-mock-by-hand)
 
-* Unit test framework: NUnit3
-* Mock framework: FakeItEasy
-* Assertion library: Shouldly
+## Starting Point
 
-Will come back and explain why later.
-
-## Test Patterns
-
-Start with this example from [Legacy Refactoring](legacy-refactoring)
+Start with this example from [Legacy Refactoring](legacy-refactoring):
 
 ```csharp
 using System;
@@ -148,7 +147,7 @@ public void MethodTest_LocalMethods()
 }
 ```
 
-## Moving to Reusable Method to Avoid Duplication
+## Avoiding Duplication
 
 We should be testing multiple inputs and outputs. Using a refined class structure, along with NUnit conventions (attributes), is helpful.
 
@@ -292,18 +291,10 @@ public abstract class MethodTests_WithOneAssertionPerTest
 }
 ```
 
-## Using MoQ
+## Do Not Mock By Hand
 
-placeholder
+All of these examples have shown hand-coded stubs and mocks in order to provide a higher level of transparency without the cognitive overhead of understanding a mock framework. While it is clearly feasible, in practice it is rarely desirable. Instead, switch to using a framework like FakeItEasy or Mock. For examples, see [Toolkit for .NET Unit Testing](toolkit).
 
-## Using FakeItEasy
+------------------------------
 
-placeholder
-
-## Using Shoudly
-
-placeholder
-
-## Using FluentAssertions
-
-placeholder
+_[Back to the introduction / table of contents](intro)_

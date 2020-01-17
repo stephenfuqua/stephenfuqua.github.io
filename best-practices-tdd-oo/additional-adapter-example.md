@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Another Adapter Example: Best Practices in Test-Driven, Object Oriented, Green- and Brownfield Development"
+title: "Another Adapter Example"
 permalink: /best-practices-tdd-oo/additional-adapter-example
 date: 2020-01-16
 comments: true
@@ -249,3 +249,7 @@ Now look how easy it is to mock that adapter and unit test the original class:
 ```
 
 This example has a default constructor value in the sprouted object, allowing either dependency injection or for the class to take control of its own dependency. When using Sprouting for expediency as described in the scenario, this is a useful temporary hack to minimize the damage done to the original method: it does not need to know how to create the dependencies for the sprouted class.
+
+------------------------------
+
+_[Back to the introduction / table of contents](intro)_
