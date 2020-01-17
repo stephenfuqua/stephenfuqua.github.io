@@ -7,10 +7,6 @@ comments: true
 tags: [unit-test, programming, oo]
 ---
 
-{: .panel .panel-warning }
-{: .panel-heading }Warning
-{: .panel-body }Unfinished work-in-progress
-
 Each team will want to find its own style for expressing unit tests. Or multiple styles, depending on the situation. The patterns below represent just a handful of techniques that may be useful in creating easy-to-read and easy-to-maintain unit tests.
 
 * [Making Intent Clear with Comments](#making-intent-clear-with-comments)

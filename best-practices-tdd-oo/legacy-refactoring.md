@@ -691,7 +691,7 @@ public class FileSystemReporter
 }
 ```
 
-{: .panel .panel-info }
+{: .bg-info }
 Aside: since `StringBuilder` is a reference type, there was no requirement that the second method return the object. So why do so? Principle of "no suprises", discussed by Martin in _Clean Code_. In the main method it is very clear that second method is not just using the argument, but in fact modifying its state.
 
 Now we can write effective unit tests for those two new functions using a test-specific subclass. Here are a pair of tests that are passing withe "legacy" code, which can now be modified following the red-green-refactor methdology.

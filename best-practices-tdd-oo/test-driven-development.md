@@ -7,7 +7,7 @@ comments: true
 tags: [unit-test, programming, oo]
 ---
 
-{: .panel .panel-warning }
+{: .bg-danger }
 Unfinished work-in-progress
 
 Thinking like QA: what are your inputs and expected outputs.
