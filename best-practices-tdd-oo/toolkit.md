@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Patterns for Writing Clean Test Cases"
-permalink: /best-practices-tdd-oo/legacy-refactoring
+title: "Toolkit for .NET Unit Testing"
+permalink: /best-practices-tdd-oo/toolkit
 date: 2020-01-16
 comments: true
 tags: [unit-test, programming, oo]
@@ -17,7 +17,6 @@ Each team will want to find its own style for expressing unit tests. Or multiple
 * [Making Intent Clear With Methods](#making-intent-clear-with-methods)
 * [Avoiding Duplication](#avoiding-duplication)
 * [One Assert Per Test](#one-assert-per-test)
-* [Do Not Mock By Hand](#do-not-mock-by-hand)
 
 ## Starting Point
 
@@ -291,9 +290,33 @@ public abstract class MethodTests_WithOneAssertionPerTest
 }
 ```
 
-## Do Not Mock By Hand
+## Toolkit
 
-All of these examples have shown hand-coded stubs and mocks in order to provide a higher level of transparency without the cognitive overhead of understanding a mock framework. While it is clearly feasible, in practice it is rarely desirable. Instead, switch to using a framework like FakeItEasy or Mock. For examples, see [Toolkit for .NET Unit Testing](toolkit).
+My current favorite tools:
+
+* Unit test framework: NUnit3
+* Mock framework: FakeItEasy
+* Assertion library: Shouldly
+
+### Mocking
+
+### Using MoQ
+
+placeholder
+
+### Using FakeItEasy
+
+placeholder
+
+### Assertions
+
+### Using Shoudly
+
+placeholder
+
+## Using FluentAssertions
+
+placeholder
 
 ------------------------------
 
