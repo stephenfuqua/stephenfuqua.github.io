@@ -182,10 +182,9 @@ namespace mockAndStubExample
         }
     }
 }
-
 ```
 
-## Static Methods
+## Wrapping Static Methods
 
 Static methods are great. Sometimes. Really, almost never. Dapper, I love you, but why do you have so much static? In this example, `QueryFirstOrDefault` will do all kinds of work behind the scenes using that `IDbConnection`. Technically we could create a fake `IDbConnection`... but it would be painful. And in effect, we would be unit testing the internals of Dapper. In other words, our system under test is not isolated.
 
@@ -382,9 +381,226 @@ namespace Practices_For_TDD_OO
     }
 ```
 
-## Sprouting and Adapting
+## Finding Seams
 
-Here is a simple class and method for creating a "report" of all the files and their sizes in a diretory path.
+When Michael C. Feathers wrote about the Seam Model in _Working Effectively with Legacy Code_, I pictured unstitching the seams on a t-shirt, decomposing it into front, back, and two sleaves. I'm not sure if that's what he wanted me to think, but I do find the image helpful. How can I find the seams in the program - the places where it can come apart? Can I stitch a new sleave on?
+
+His Seam Model is about isolating bits of code that are hard to test, moving them out of the main body of code under test. Ultimately it is an exercise in careful use of the Extract Method refactoring (Fowler), and then taking advantage of object orientation when building a test:
+
+1. Move the hard-to-test element to a protected method.
+1. The original code is _essentially unchanged_ if you're careful.
+1. In the test project, create a test-specific subclass of the original sub-class.
+1. Override the new method, replacing it with a fake implementation that will give known results.
+1. Write your tests.
+
+This approach could easily have been used to solve the static method call problems above. First, let us flesh out the example a little to make it more interesting.
+
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using Dapper;
+
+namespace Practices_For_TDD_OO
+{
+    public class PersonDto
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Title { get; set; }
+        public string Name => $"{FirstName} {LastName}";
+
+        public static PersonDto From(Person entity)
+        {
+            if (entity == null)
+            {
+                return null;
+            }
+
+            return new PersonDto
+            {
+                FirstName = entity.FirstName,
+                LastName = entity.LastName,
+                Id = entity.Id
+            };
+        }
+    }
+
+    public class Job
+    {
+        public string Title { get; set; }
+        public int PersonId { get; set; }
+    }
+
+    public class BadRepository2
+    {
+        private readonly IDbConnection _dbConnection;
+
+        public BadRepository2(IDbConnection dbConnection)
+        {
+            _dbConnection = dbConnection ?? throw new ArgumentNullException(nameof(dbConnection));
+        }
+
+        public PersonDto GetPerson(int id)
+        {
+            var entity = _dbConnection.QueryFirstOrDefault<Person>("select firstname, lastname from public.person where id = @id", new { id });
+            var job = _dbConnection.QueryFirstOrDefault<Job>("select title from public.job where personid = @id", new { id });
+
+            var dto = PersonDto.From(entity);
+            dto.Title = job?.Title;
+
+            return dto;
+        }
+
+        public IReadOnlyList<PersonDto> GetPerson(string lastName)
+        {
+            var entities = _dbConnection.Query<Person>("select firstname, lastname from public.person where lastname = @lastName", new { lastName });
+
+            return entities.Select(PersonDto.From)
+                .ToList();
+        }
+    }
+}
+```
+
+The second method, which looks up a person by their last name, failed to get the person's job title. This was reported as bug that needs to be fixed. We want to unit test this while fixing the problem. The seams are the Dapper queries.
+
+Before operating, perhaps things would be cleaner if all of the queries were using the same Dapper method. `QueryFirstOrDefault` is just a convenience method. It can easily be changed:
+
+```csharp
+var entity = _dbConnection.Query<Person>("select firstname, lastname from public.person where id = @id", new { id })
+                        .FirstOrDefault();
+```
+
+Make that little change, then run the application to confirm that it was harmless. Now instead of creating an entire Adapter layer for Dapper, just extract `_dbConnection.Query` to a protected function:
+
+```csharp
+public class BadRepository2
+{
+    private readonly IDbConnection _dbConnection;
+
+    public BadRepository2(IDbConnection dbConnection)
+    {
+        _dbConnection = dbConnection ?? throw new ArgumentNullException(nameof(dbConnection));
+    }
+
+    public PersonDto GetPerson(int id)
+    {
+        var entity = Get<Person>("select firstname, lastname from public.person where id = @id", new { id }).FirstOrDefault();
+        var job = Get<Job>("select title from public.job where personid = @id", new { id }).FirstOrDefault();
+
+        var dto = PersonDto.From(entity);
+        dto.Title = job?.Title;
+
+        return dto;
+    }
+
+    public IReadOnlyList<PersonDto> GetPerson(string lastName)
+    {
+        var entities = Get<Person>("select firstname, lastname from public.person where lastname = @lastName", new { lastName });
+
+        return entities.Select(PersonDto.From)
+            .ToList();
+    }
+
+    protected virtual IEnumerable<TEntity> Get<TEntity>(string command, object parameters)
+    {
+        return _dbConnection.Query<TEntity>(command, parameters);
+    }
+}
+```
+
+This is the same code as before, but with the problem statement moved out. Now we can work TDD style, following the green-red-green-refactor approach. First a test that passes (focused on the method that needs to change):
+
+```csharp
+[TestFixture]
+public class BadRepository2Tests
+{
+    [Test]
+    public void GetPersonByLastName()
+    {
+        var fakeDbConnection = A.Fake<IDbConnection>();
+        var expectedPersonEntity = new Person {FirstName = "a", LastName = "b", Id = 2134};
+
+        var systemUnderTest = new TestSpecificBadRepository(fakeDbConnection)
+        {
+            ExpectedPerson = expectedPersonEntity
+        };
+
+        var result = systemUnderTest.GetPerson(expectedPersonEntity.LastName);
+
+        Assert.That(result, Is.Not.Null);
+        Assert.That(result.Count, Is.EqualTo(1));
+
+        var first = result.First();
+        Assert.That(first.FirstName, Is.EqualTo(expectedPersonEntity.FirstName));
+        Assert.That(first.LastName, Is.EqualTo(expectedPersonEntity.LastName));
+        Assert.That(first.Id, Is.EqualTo(expectedPersonEntity.Id));
+    }
+
+    private class TestSpecificBadRepository : BadRepository2
+    {
+        public Person ExpectedPerson { get; set; }
+        public Job ExpectedJob { get; set; }
+
+        public TestSpecificBadRepository(IDbConnection dbConnection) : base(dbConnection) { }
+
+        protected override IEnumerable<TEntity> Get<TEntity>(string command, object parameters)
+        {
+            if(typeof(TEntity) == typeof(Person))
+            {
+                return new TEntity[] { (TEntity) (ExpectedPerson as object) };
+            }
+            if (typeof(TEntity) == typeof(Job))
+            {
+                return new TEntity[] { (TEntity)(ExpectedJob as object) };
+            }
+
+            return Array.Empty<TEntity>();
+        }
+    }
+}
+```
+
+This test passes. There is no explicit behavior verification on the mock `Get<TEntity>` method. The very fact that we got the expected response back already tells us that the method was called. But, we don't know that it was called correctly. For that, we would need to add some behavior verification capability into the `Get<TEntity>` method as we did elsewhere.
+
+To turn this into a test that fails, just add a fake Job and an assertion.
+
+```csharp
+    [Test]
+    public void GetPersonByLastName()
+    {
+        var fakeDbConnection = A.Fake<IDbConnection>();
+        var expectedPersonEntity = new Person {FirstName = "a", LastName = "b", Id = 2134};
+        var jobEntity = new Job {Title = "title"};
+
+        var systemUnderTest = new TestSpecificBadRepository(fakeDbConnection)
+        {
+            ExpectedPerson = expectedPersonEntity,
+            ExpectedJob =  jobEntity
+        };
+
+        var result = systemUnderTest.GetPerson(expectedPersonEntity.LastName);
+
+        Assert.That(result, Is.Not.Null);
+        Assert.That(result.Count, Is.EqualTo(1));
+
+        var first = result.First();
+        Assert.That(first.FirstName, Is.EqualTo(expectedPersonEntity.FirstName));
+        Assert.That(first.LastName, Is.EqualTo(expectedPersonEntity.LastName));
+        Assert.That(first.Id, Is.EqualTo(expectedPersonEntity.Id));
+
+        Assert.That(first.Title, Is.EqualTo(jobEntity.Title));
+    }
+```
+
+Ultimately this was a little easier than creating an entire Adapter to wrap up the Dapper methods. But not re-usable outside of the current class. So in a crunch, pulling at the seams helped isolate the code that needed testing - but didn't give the best long-term solution.
+
+## Sprouting
+
+Where a Seam pulled untestable code out of the main code body, a Sprout does the opposite: extracts testable code into a separate method. This is also a Michael C. Feathers technique. Here is a class that relies on `System.IO` classes in several ways, making it difficult to unit test:
 
 ```csharp
 using System.IO;
@@ -421,206 +637,111 @@ namespace Practices_For_TDD_OO
 }
 ```
 
-A new requirement comes in: only report on csv files. There is no need to change the report format. And you need to get it done quickly. Michael C. Feathers's _Sprout_ method comes to the rescue: extract just the thing that you need to change, and make sure it is testable.
+New requirement: change the report so that its output will be like
 
-In this case, it is this one line that needs to change:
+```none
+Filesystem report for directory `xyz`
 
-```csharp
-var fileInfos = new DirectoryInfo(path).EnumerateFiles();
+File Name    File Size
+------------ -----------
+file 1       12345
+file 2       23456
 ```
 
-We can create `FileEnumerator` class:
+Thus, the StringBuilder calls need to be modified. There are two separate sets of StringBuilder calls that need to modify, so let's extract (Sprout) two methods. The methods need to be accessible to a unit test, but they should not be advertised as `public`. Therefore they will be `protected`. Note that the lines of code are essentially the same before &ndash; just moved to a different location, and with a small change in that the new `AppendReportLine` method's formatting string references two strings instead of properties on an object. Good time to run the application and manually double-check that the output is still as expected.
 
 ```csharp
-    public class FileEnumerator
-    {
-        public IEnumerable<FileInfo> GetCsvFilesIn(string path)
-        {
-            _ = path ?? throw new ArgumentNullException(nameof(path));
-
-            if (!Directory.Exists(path))
-            {
-                throw new ArgumentException($"Path '{path} does not exist or is not a directory");
-            }
-
-            return new DirectoryInfo(path).EnumerateFiles();
-        }
-    }
-    public class BetterFileSystemReporter
-    {
-        public string BuildFileReport(string path)
-        {
-            _ = path ?? throw new ArgumentNullException(nameof(path));
-
-            if (!Directory.Exists(path))
-            {
-                throw new ArgumentException($"Path '{path} does not exist or is not a directory");
-            }
-
-            var builder = new StringBuilder();
-            builder.AppendLine($"Report for directory {path}");
-            builder.AppendLine(string.Empty);
-            builder.AppendLine("File Name\tFile Size");
-
-            var fileInfos = new FileEnumerator().GetCsvFilesIn(path);
-
-            foreach (var file in fileInfos)
-            {
-                builder.AppendLine($"{file.Name}\t{file.Length}");
-            }
-
-            return builder.ToString();
-        }
-    }
-```
-
-Almost there; we could test this by writing out a few real files into the assembly's directory, with known file sizes. But that would be an integration test. To unit test the new class, we need to take one more step: introduce an Adapter class for our methods calls in the `System.IO` namespace. And we'll want to hide the `FileInfo` object with a new POCO, since it is difficult to fake out a `FileInfo`.
-
-```csharp
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using NUnit.Framework;
-
-namespace Practices_For_TDD_OO
+public class FileSystemReporter
 {
-   public class FileNameAndSize
+    public string BuildFileReport(string path)
     {
-        public string Name { get; set; }
-        public long Length { get; set; }
+        _ = path ?? throw new ArgumentNullException(nameof(path));
+
+        if (!Directory.Exists(path))
+        {
+            throw new ArgumentException($"Path '{path} does not exist or is not a directory");
+        }
+
+        var builder = CreateReportHeader(path);
+
+        var fileInfos = new DirectoryInfo(path).EnumerateFiles();
+
+        foreach (var file in fileInfos)
+        {
+            builder = AppendReportLine(builder, file.Name, file.Length);
+        }
+
+        return builder.ToString();
     }
 
-    public interface IDirectoryBrowser
+    protected static StringBuilder CreateReportHeader(string path)
     {
-        bool Exists(string path);
-        IEnumerable<FileNameAndSize> EnumerateFiles(string path, string pattern);
+        var builder = new StringBuilder();
+        builder.AppendLine($"Report for directory {path}");
+        builder.AppendLine(string.Empty);
+        builder.AppendLine("File Name\tFile Size");
+        return builder;
     }
 
-    public class FileSystemAdapter : IDirectoryBrowser
+    protected static StringBuilder AppendReportLine(StringBuilder builder, string fileName, int fileLength)
     {
-        public bool Exists(string path)
-        {
-            return Directory.Exists(path);
-        }
-
-        public IEnumerable<FileNameAndSize> EnumerateFiles(string path, string pattern)
-        {
-            return new DirectoryInfo(path).EnumerateFiles(pattern)
-                .Select(x => new FileNameAndSize
-                {
-                    Name = x.Name,
-                    Length = x.Length
-                });
-        }
-    }
-
-    public class BetterFileEnumerator
-    {
-        private readonly IDirectoryBrowser _directoryBrowser;
-
-        public BetterFileEnumerator(IDirectoryBrowser directoryBrowser= null)
-        {
-            _directoryBrowser = directoryBrowser ?? new FileSystemAdapter();
-        }
-
-        public IEnumerable<FileNameAndSize> GetCsvFilesIn(string path)
-        {
-            _ = path ?? throw new ArgumentNullException(nameof(path));
-
-            if (!_directoryBrowser.Exists(path))
-            {
-                throw new ArgumentException($"Path '{path} does not exist or is not a directory");
-            }
-
-            return _directoryBrowser.EnumerateFiles(path, "*.csv");
-        }
-    }
-
-    public class BestFileSystemReporter
-    {
-        public string BuildFileReport(string path)
-        {
-            _ = path ?? throw new ArgumentNullException(nameof(path));
-
-            if (!Directory.Exists(path))
-            {
-                throw new ArgumentException($"Path '{path} does not exist or is not a directory");
-            }
-
-            var builder = new StringBuilder();
-            builder.AppendLine($"Report for directory {path}");
-            builder.AppendLine(string.Empty);
-            builder.AppendLine("File Name\tFile Size");
-
-            var fileInfos = new BetterFileEnumerator().GetCsvFilesIn(path);
-
-            foreach (var file in fileInfos)
-            {
-                builder.AppendLine($"{file.Name}\t{file.Length}");
-            }
-
-            return builder.ToString();
-        }
-    }
-
-    [TestFixture]
-    public class BetterFileEnumeratorTests
-    {
-        [Test]
-        public void GetCsvFilesIn()
-        {
-            const string path = "c:\\some\\where";
-            var fileOne = new FileNameAndSize();
-
-            var directoryBrowser = new FakeDirectoryBrowser();
-            directoryBrowser.DirectoryExists.Add(path, true);
-            directoryBrowser.Files.Add(fileOne);
-
-            var systemUnderTest = new BetterFileEnumerator(directoryBrowser);
-            var files = systemUnderTest.GetCsvFilesIn(path).ToList();
-
-            Assert.That(files, Is.Not.Null);
-            Assert.That(files.Count, Is.EqualTo(1));
-            Assert.That(files[0], Is.SameAs(fileOne));
-
-            Assert.That(directoryBrowser.EnumerateFilesWasCalled, Is.True);
-            Assert.That(directoryBrowser.EnumerateFilesArguments.path, Is.EqualTo(path));
-            Assert.That(directoryBrowser.EnumerateFilesArguments.pattern, Is.EqualTo("*.csv"));
-        }
-
-        private class FakeDirectoryBrowser : IDirectoryBrowser
-        {
-            public Dictionary<string, bool> DirectoryExists { get; } = new Dictionary<string, bool>();
-            public List<FileNameAndSize> Files { get; } = new List<FileNameAndSize>();
-
-            public bool EnumerateFilesWasCalled { get; private set; }
-            public (string path, string pattern) EnumerateFilesArguments { get; private set; }
-
-            public bool Exists(string path)
-            {
-                if (DirectoryExists.ContainsKey(path))
-                {
-                    return DirectoryExists[path];
-                }
-
-                return false;
-            }
-
-            public IEnumerable<FileNameAndSize> EnumerateFiles(string path, string pattern)
-            {
-                EnumerateFilesWasCalled = true;
-                EnumerateFilesArguments = (path, pattern);
-
-                return Files;
-            }
-        }
+        builder.AppendLine($"{fileName}\t{fileLength}");
+        return StringBuilder
     }
 }
 ```
 
-This example has a default constructor value in the sprouted object, allowing either dependency injection or for the class to take control of its own dependency. When using Sprouting for expediency as described in the scenario, this is a useful temporary hack to minimize the damage done to the original method: it does not need to know how to create the dependencies for the sprouted class.
+{: .panel .panel-info }
+Aside: since `StringBuilder` is a reference type, there was no requirement that the second method return the object. So why do so? Principle of "no suprises", discussed by Martin in _Clean Code_. In the main method it is very clear that second method is not just using the argument, but in fact modifying its state.
+
+Now we can write effective unit tests for those two new functions using a test-specific subclass. Here are a pair of tests that are passing withe "legacy" code, which can now be modified following the red-green-refactor methdology.
+
+```csharp
+    [TestFixture]
+    public class FileSystemReporterTest
+    {
+        public class TestSpecificFileSystemReporter: FileSystemReporter_2
+        {
+            public new static StringBuilder CreateReportHeader(string path)
+            {
+                return FileSystemReporter_2.CreateReportHeader(path);
+            }
+
+            public new static StringBuilder AppendReportLine(StringBuilder builder, string fileName, long fileLength)
+            {
+                return FileSystemReporter_2.AppendReportLine(builder, fileName, fileLength);
+            }
+        }
+
+        [Test]
+        public void CreateReportHeader()
+        {
+            const string path = "c:\\some\\where";
+            const string expected = @"Report for directory c:\some\where
+
+File Name	File Size
+";
+
+            var actual = TestSpecificFileSystemReporter.CreateReportHeader(path);
+
+            Assert.That(actual.ToString(), Is.EqualTo(expected));
+        }
+
+        [Test]
+        public void AppendReportLine()
+        {
+            const string fileName = "file.txt";
+            const long fileLength = 234;
+            const string expected = @"file.txt	234
+";
+
+            var builder = new StringBuilder();
+            var actual = TestSpecificFileSystemReporter.AppendReportLine(builder, fileName, fileLength);
+
+            Assert.That(actual.ToString(), Is.EqualTo(expected));
+        }
+    }
+```
 
 ------------------------------
 
