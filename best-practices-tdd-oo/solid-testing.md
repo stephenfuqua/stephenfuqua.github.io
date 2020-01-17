@@ -212,9 +212,8 @@ In effect, this is turning the `HumanResourcesDbContext` into a set of Repositor
 
 So while the principle is sound and theoretically useful, in practice I've not seen it used often in clean code, highly testable code.
 
-{: .panel .panel-success }
-{: .panel-heading}tip
-{: .panel-body }For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/unit-testing-with-ef-core/)
+{: .bg-info }
+For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/unit-testing-with-ef-core/)
 
 ## Dependency Inversion Principle (DIP)
 
