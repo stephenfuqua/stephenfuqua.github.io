@@ -8,7 +8,8 @@ tags: [unit-test, programming, oo]
 ---
 
 {: .panel .panel-warning }
-Unfinished work-in-progress
+{: .panel-heading }Warning
+{: .panel-body }Unfinished work-in-progress
 
 ## Toolkit
 
@@ -307,3 +308,7 @@ placeholder
 ## Using FluentAssertions
 
 placeholder
+
+------------------------------
+
+_[Back to the introduction / table of contents](intro)_
