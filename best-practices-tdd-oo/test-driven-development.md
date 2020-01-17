@@ -2,18 +2,77 @@
 layout: page
 title: "Test Driven Development"
 permalink: /best-practices-tdd-oo/test-driven-development
-date: 2020-01-13
+date: 2020-01-17
 comments: true
 tags: [unit-test, programming, oo]
 ---
 
+* [Thinking Like QA](#thinking-like-qa)
+* [Red-Green-Refactor](#red-green-refactor)
+* [Introducing TDD Into Untested Code](#introducing-tdd-into-untested-code)
+* [Arrange-Act-Assert](#arrange-act-assert)
+* [Behavior-Driven Development](#behavior-driven-development)
+
+## Thinking Like QA
+
+When approaching any kind of testing, every developer needs to start thinking like a tester. There are three essential questions to ask yourself when evaluating a system under test:
+
+1. what are the expected inputs?
+1. What are the expected outputs?
+1. What are the dependencies?
+
+Develop test cases the explore a reasonable set of inputs. Build test cases that explore boundary conditions:
+
+1. Does the system behave as expected with null input?
+1. Does the system behave as expected with max value input (e.g. largest integer, a string that is longer than expected, etc.)
+1. Does the system behave as expected when a dependency does not behave well?
+
+## Red-Green-Refactor
+
+This is the classic mantra of test-driven development (TDD):
+
 {: .bg-danger }
-Unfinished work-in-progress
+Write a test that fails
 
-Thinking like QA: what are your inputs and expected outputs.
+{: .bg-success }
+Write code that passes the test
 
-Will discuss red-green-refactor, and my variant green-red-green-refactor.
+{: .bg-info }
+Cleanup the code so that it is easy understand and maintain.
 
-Mention Behavior Driven Development (BDD) as well.
+Note the emphasis on writing a test first. Why is that?
 
-Forces you to approach coding in a different style - one amenable to testing and therefore, typically better structured than otherwise.
+1. Forces you to think clearly about expected inputs, outputs, and dependencies.
+1. Lets you iteratively build code that satisfies those different conditions, instead of trying to tackle the entire problem at once.
+1. Allows you to safely refactor, knowing that the test(s) will catch any errors.
+1. Typically results in better OO code, more closely adhering to [SOLID principles](solid-testing).
+
+## Introducing TDD Into Untested Code
+
+Q: How do you go about doing test-first development in legacy code that does not already have unit tests?
+
+A: By changing to "Green-red-green-refactor". That is, write a test that the current code passes. Then modify the test to reflect new requirements, thus making the current code fail the test.
+
+If the code is not well-structured, this can be awfully hard to do. For tips on safely restructuring your code to facilitate g-r-g-r style testing, see [Legacy Refactoring](legacy-refactoring).
+
+## Arrange-Act-Assert
+
+Within any given unit test, you'll have three bits of code:
+
+* **Arrange**: set up the inputs to the system, including dependencies.
+* **Act**: run the system under test.
+* **Assert**: verify that the results are correct, and potentially verifies that dependencies were used correctly.
+
+To improve unit test readability, it is often helpful to [use these terms](patterns) directly in the tests.
+
+## Behavior-Driven Development
+
+Behavior-Driven Development, or BDD for short, is a variation on TDD that is focused on describing the application's behavior in business terminology. Often times it is used with integration and acceptance tests, using real-world language based approach to describe the testing conditions (the inputs, system, and outputs). The technique of "given-when-then" is used to write a plain-(English, Spanish, etc) description of the system behavior:
+
+> Given _some input condition_  
+&nbsp;&nbsp;And _another input condition_  
+&nbsp;When _some user or system takes an action_  
+&nbsp;Then _some expected output_  
+&nbsp;&nbsp;And _another expected output_
+
+It should be clear that this is a reformulation of Arrange-Act-Assert.
