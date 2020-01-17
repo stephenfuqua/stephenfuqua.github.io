@@ -76,3 +76,7 @@ Behavior-Driven Development, or BDD for short, is a variation on TDD that is foc
 &nbsp;&nbsp;And _another expected output_
 
 It should be clear that this is a reformulation of Arrange-Act-Assert. This language can be useful in TDD, especially when [structuring test classes](patterns) and methods so that the test output report is meaningful to non-developers.
+
+------------------------------
+
+_[Back to the introduction / table of contents](intro)_
