@@ -697,50 +697,50 @@ Aside: since `StringBuilder` is a reference type, there was no requirement that 
 Now we can write effective unit tests for those two new functions using a test-specific subclass. Here are a pair of tests that are passing withe "legacy" code, which can now be modified following the red-green-refactor methdology.
 
 ```csharp
-    [TestFixture]
-    public class FileSystemReporterTest
+[TestFixture]
+public class FileSystemReporterTest
+{
+    public class TestSpecificFileSystemReporter: FileSystemReporter_2
     {
-        public class TestSpecificFileSystemReporter: FileSystemReporter_2
+        public new static StringBuilder CreateReportHeader(string path)
         {
-            public new static StringBuilder CreateReportHeader(string path)
-            {
-                return FileSystemReporter_2.CreateReportHeader(path);
-            }
-
-            public new static StringBuilder AppendReportLine(StringBuilder builder, string fileName, long fileLength)
-            {
-                return FileSystemReporter_2.AppendReportLine(builder, fileName, fileLength);
-            }
+            return FileSystemReporter_2.CreateReportHeader(path);
         }
 
-        [Test]
-        public void CreateReportHeader()
+        public new static StringBuilder AppendReportLine(StringBuilder builder, string fileName, long fileLength)
         {
-            const string path = "c:\\some\\where";
-            const string expected = @"Report for directory c:\some\where
+            return FileSystemReporter_2.AppendReportLine(builder, fileName, fileLength);
+        }
+    }
+
+    [Test]
+    public void CreateReportHeader()
+    {
+        const string path = "c:\\some\\where";
+        const string expected = @"Report for directory c:\some\where
 
 File Name	File Size
 ";
 
-            var actual = TestSpecificFileSystemReporter.CreateReportHeader(path);
+        var actual = TestSpecificFileSystemReporter.CreateReportHeader(path);
 
-            Assert.That(actual.ToString(), Is.EqualTo(expected));
-        }
+        Assert.That(actual.ToString(), Is.EqualTo(expected));
+    }
 
-        [Test]
-        public void AppendReportLine()
-        {
-            const string fileName = "file.txt";
-            const long fileLength = 234;
-            const string expected = @"file.txt	234
+    [Test]
+    public void AppendReportLine()
+    {
+        const string fileName = "file.txt";
+        const long fileLength = 234;
+        const string expected = @"file.txt	234
 ";
 
-            var builder = new StringBuilder();
-            var actual = TestSpecificFileSystemReporter.AppendReportLine(builder, fileName, fileLength);
+        var builder = new StringBuilder();
+        var actual = TestSpecificFileSystemReporter.AppendReportLine(builder, fileName, fileLength);
 
-            Assert.That(actual.ToString(), Is.EqualTo(expected));
-        }
+        Assert.That(actual.ToString(), Is.EqualTo(expected));
     }
+}
 ```
 
 ------------------------------
