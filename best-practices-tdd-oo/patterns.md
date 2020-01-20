@@ -9,12 +9,6 @@ tags: [unit-test, programming, oo]
 
 Each team will want to find its own style for expressing unit tests. Or multiple styles, depending on the situation. The patterns below represent just a handful of techniques that may be useful in creating easy-to-read and easy-to-maintain unit tests.
 
-* [Making Intent Clear with Comments](#making-intent-clear-with-comments)
-* [Making Intent Clear With Methods](#making-intent-clear-with-methods)
-* [Avoiding Duplication](#avoiding-duplication)
-* [One Assert Per Test](#one-assert-per-test)
-* [Do Not Mock By Hand](#do-not-mock-by-hand)
-
 ## Starting Point
 
 Start with this example from [Legacy Refactoring](legacy-refactoring):
@@ -286,6 +280,93 @@ public abstract class MethodTests_WithOneAssertionPerTest
     }
 }
 ```
+
+## Abstract Test Fixture Pattern
+
+In the example above, code duplication was avoided because of the lack of adequate test coverage. In this final example, duplication is further removed with use of abstract test fixture clases. In addition, the words "arrange" and "act" are mixed into the picture for method names. Is that better, neutral, or worse than the approach above? Probably just a matter of preference.
+
+```csharp
+[TestFixture]
+public abstract class BestRepositoryTests
+{
+    protected BestRepository System;
+    protected MockOrm Orm;
+
+    protected abstract void AdditionalArrangement();
+
+    [OneTimeSetUp]
+    public void Arrange()
+    {
+        Orm = new MockOrm();
+        System = new BestRepository(Orm);
+
+        AdditionalArrangement();
+    }
+
+    [TestFixture]
+    public abstract class When_getting_a_person_by_id : BestRepositoryTests
+    {
+        protected Person Expected = new Person { Id = ValidId };
+        protected const int ValidId = 123;
+        protected const int InvalidId = -123;
+        protected Person Result;
+
+        protected abstract int LookupId { get; }
+
+        [SetUp]
+        public void Act()
+        {
+            Result = System.GetPerson(LookupId);
+        }
+
+        [Test]
+        public void Then_called_repository_with_correct_arguments()
+        {
+            // Not one assert per test, but these simply belong together. Plus when
+            // using a mocking tool, it would only be one line of code.
+            Assert.That(Orm.WasCalled, Is.True);
+            Assert.That(Orm.Arguments.id, Is.EqualTo(LookupId));
+            Assert.That(Orm.Arguments.statement, Is.EqualTo(BestRepository.SelectPersonById));
+        }
+
+        [TestFixture]
+        public class Given_person_exists : When_getting_a_person_by_id
+        {
+            protected override int LookupId => ValidId;
+
+            protected override void AdditionalArrangement()
+            {
+                Orm.Expected = Expected;
+            }
+
+            [Test]
+            public void Then_returns_correct_person()
+            {
+                Assert.That(Result, Is.SameAs(Expected));
+            }
+        }
+
+        [TestFixture]
+        public class Given_person_does_not_exist : When_getting_a_person_by_id
+        {
+            protected override int LookupId => InvalidId;
+
+            protected override void AdditionalArrangement()
+            {
+                Orm.Expected = null;
+            }
+
+            [Test]
+            public void Then_returns_correct_person()
+            {
+                Assert.That(Result, Is.Null);
+            }
+        }
+    }
+}
+```
+
+![Visual Studio test explorer with nested classes](/images/bestRepository_nestedClasses_nunit.png){: .center-image }
 
 ## Do Not Mock By Hand
 
