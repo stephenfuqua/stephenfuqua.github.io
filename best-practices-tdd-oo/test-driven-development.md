@@ -7,12 +7,6 @@ comments: true
 tags: [unit-test, programming, oo]
 ---
 
-* [Thinking Like QA](#thinking-like-qa)
-* [Red-Green-Refactor](#red-green-refactor)
-* [Introducing TDD Into Untested Code](#introducing-tdd-into-untested-code)
-* [Arrange-Act-Assert](#arrange-act-assert)
-* [Behavior-Driven Development](#behavior-driven-development)
-
 ## Thinking Like QA
 
 When approaching any kind of testing, every developer needs to start thinking like a tester. There are three essential questions to ask yourself when evaluating a system under test:
@@ -21,7 +15,7 @@ When approaching any kind of testing, every developer needs to start thinking li
 1. What are the expected outputs?
 1. What are the dependencies?
 
-Develop test cases the explore a reasonable set of inputs. Build test cases that explore boundary conditions:
+Develop test cases to explore a reasonable set of inputs. Build test cases that explore boundary conditions:
 
 1. Does the system behave as expected with null input?
 1. Does the system behave as expected with max value input (e.g. largest integer, a string that is longer than expected, etc.)
@@ -57,7 +51,7 @@ If the code is not well-structured, this can be awfully hard to do. For tips on 
 
 ## Arrange-Act-Assert
 
-Within any given unit test, you'll have three sections of code, described by the terms:
+Within any given unit test, you'll have three sections of code, frequently described by the terms:
 
 * **Arrange**: set up the inputs to the system, including dependencies. (INPUTS & DEPENDENCIES)
 * **Act**: run the system under test. (SYSTEM UNDER TEST)
@@ -75,7 +69,9 @@ Behavior-Driven Development, or BDD for short, is a variation on TDD that is foc
 &nbsp;Then _some expected output_  
 &nbsp;&nbsp;And _another expected output_
 
-It should be clear that this is a reformulation of Arrange-Act-Assert. This language can be useful in TDD, especially when [structuring test classes](patterns) and methods so that the test output report is meaningful to non-developers.
+It should be clear that this is a reformulation of Arrange-Act-Assert. This language can be useful in TDD, especially when [structuring test classes](patterns) and methods so that the test output report is meaningful to non-developers. When writing tests as [nested classes](patterns#one-assert-per-test), I like to keep the action (which is invariant) in a parent class, changing the order to _When-Given-Then_. In ReSharper, I thus getting something like this:
+
+![Example When-Given-Then test results](/images/test_results_when_given_then.png)
 
 ------------------------------
 

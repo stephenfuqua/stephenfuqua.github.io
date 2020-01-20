@@ -9,12 +9,6 @@ tags: [unit-test, programming, oo]
 
 Each team will want to find its own style for expressing unit tests. Or multiple styles, depending on the situation. The patterns below represent just a handful of techniques that may be useful in creating easy-to-read and easy-to-maintain unit tests.
 
-* [Making Intent Clear with Comments](#making-intent-clear-with-comments)
-* [Making Intent Clear With Methods](#making-intent-clear-with-methods)
-* [Avoiding Duplication](#avoiding-duplication)
-* [One Assert Per Test](#one-assert-per-test)
-* [Do Not Mock By Hand](#do-not-mock-by-hand)
-
 ## Starting Point
 
 Start with this example from [Legacy Refactoring](legacy-refactoring):
