@@ -3,7 +3,7 @@ layout: page
 title: "(Re)New on the Ed-Fi Exchange: Analytics Starter Kits"
 date: 2019-01-16
 comments: true
-tags: [data, ed-fi]
+tags: [data-and-analytics, ed-fi]
 sharing: true
 ---
 
