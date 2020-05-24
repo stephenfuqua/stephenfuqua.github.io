@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Points on Bugs and Spikes"
-date: 2019-05-24
+date: 2020-05-24
 comments: true
 tags: [sdlc]
 sharing: true
@@ -50,8 +50,10 @@ consider a team with the following data:
 | Five | 23 |
 | Six | 24 |
 | Statistics| &mu; = 23, &sigma; = 2 |
+{: .table .table-striped .table-bordered}
 
-The backlog for the next release has been estimated at 83 points.
+The backlog for the next release has been estimated at 83 points. How many
+sprints is that?
 
 * 83.0/(23-2) = 3.95
 * 83.0/(23+2) = 3.32
