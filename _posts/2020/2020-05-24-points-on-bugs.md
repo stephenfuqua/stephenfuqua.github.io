@@ -107,3 +107,17 @@ That is, it would be more accurate to estimate that the release will be ready in
 four or five sprints. And if the product owner really wants to hit four sprints,
 then they'll need to cut around 25 points from the release to be on the safe
 side.
+
+----
+
+What about taking the opposite tack? That is, subtract the bug and spike points
+from the point total before calculating velocity. That is certainly a viable
+approach and perhaps worth experimenting on.  What I like better about the first
+approach:
+
+1. If there are going to be spikes, bugs, and rework, then it is nice to have
+   the extra data to apply to the future projections proactively. Sure, a
+   reduced velocity would have also padded out the sprint length. With the first
+   approach it would be easier to justify lowering the padding if their is less
+   non-story work than "arbitrarily" raising the expected velocity.
+1. Better respect's the teams' desire to track their progress and throughput.
