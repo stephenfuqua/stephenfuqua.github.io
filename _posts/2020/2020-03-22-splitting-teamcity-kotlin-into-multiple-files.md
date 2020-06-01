@@ -59,12 +59,12 @@ project {
 
 An approach to splitting this could result in the following structure:
 
-.teamcity directory\
-|-- _self\
-&nbsp;&nbsp;&nbsp;|-- buildTypes\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- EchoHelloWorld.kt\
-&nbsp;&nbsp;&nbsp;|-- Project.kt\
-|-- pom.xml\
+.teamcity directory<br>
+|-- _self<br>
+&nbsp;&nbsp;&nbsp;|-- buildTypes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- EchoHelloWorld.kt<br>
+&nbsp;&nbsp;&nbsp;|-- Project.kt<br>
+|-- pom.xml<br>
 |-- settings.kts
 {: .panel-body }
 {: .panel .panel-default }
