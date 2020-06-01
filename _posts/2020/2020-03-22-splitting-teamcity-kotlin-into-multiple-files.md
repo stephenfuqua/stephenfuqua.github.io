@@ -1,7 +1,12 @@
 ---
-layout: page title: Splitting TeamCity Kotlin Into Multiple Files date:
-2020-03-21 comments: true tags: [devops] sharing: true
+layout: page title: Splitting TeamCity Kotlin Into Multiple Files
+date: 2020-03-21 
+comments: true 
+tags: [devops]
+sharing: true
 ---
+
+## Motivation
 
 I don't like having a single large file for a TeamCity project, which is the
 default when exporting a project. It violates the Single Responsibility
@@ -10,6 +15,8 @@ Principle (SRP). For maintenance, I would rather find each element of interest
 own small file, so that I don't have to hunt inside a large file. And I would
 rather add new files than modify existing ones.
 
+### Is This a Good Idea?
+
 [This note about non-portable
 DSL](https://www.jetbrains.com/help/teamcity/kotlin-dsl.html#KotlinDSL-Non-PortableDSL)
 explains the basic structure when you want to use multiple files. And yet I
@@ -17,15 +24,14 @@ never noticed it while hunting in detail for help on this topic a week ago; only
 stumbled on it while writing this blog piece. It seems to imply that using
 multiple files is "non-portable," but apparently I _have_ been using the
 portable DSL: "The portable format does not require specifying the uuid", which
-I've not been doing. But there is a small risk that I could do something drastic
-and lose my build history without a uuid. Since I also have server backups, I'm
-not too worried.
+I've not been doing.
 
-When converting from a single portable script to multiple "non-portable"
-scripts, be sure to set the package name correctly at the top of each file (for
-C# developers, this is equivalent to setting the correct namespace). Otherwise
-you will likely trip yourself up with compilation errors, unless you explictly
-reference the package name in an import.
+There is a small risk that I could do something drastic and lose my build
+history without a uuid. Since I also have server backups, I'm not too worried.
+And in all of my experiments I've not been able to find any problems with this
+approach so far.
+
+## Starting Point
 
 The official help page has the following sample `settings.kts` file:
 
@@ -48,6 +54,8 @@ project {
 }
 ```
 
+## File Structure
+
 An approach to splitting this could result in the following structure:
 
 .teamcity directory\
@@ -60,7 +68,7 @@ An approach to splitting this could result in the following structure:
 {: .panel-body }
 {: .panel .panel-default }
 
-Three conventions to note here:
+Some conventions to note here:
 
 * Per the [Kotlin Coding
   Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html),
@@ -72,10 +80,14 @@ Three conventions to note here:
 * Root-level project files are in the `_self` directory. The TeamCity help pages
   mention this as `_Self`, but I prefer `_self` as it reinforces the Kotlin
   coding convention.
+* When converting from a single portable script to multiple scripts, be sure to
+  set the package name correctly at the top of each file. Otherwise you will
+  likely trip yourself up with compilation errors, unless you explicitly
+  reference the package name in an import.
 
-The indivdiual files are shown below, not including `pom.xml`; there is no
+The individual files are shown below, not including `pom.xml`; there is no
 reason to modify it. Note the package imports section, containing both local
-packages and the jetbrains packages.
+packages and the `jetbrains` packages.
 
 ### EchoHelloWorld.kt
 
@@ -142,10 +154,10 @@ To further demonstrate, let's add a new file defining a Git VCS root.
 
 See the previous post's [Managing Secure
 Data](/archive/2020/03/21/infrastructure-as-code-in-teamcity/#managing-secure-data)
-section for important information on teh `accessToken` variable. Note that the
+section for important information on the `accessToken` variable. Note that the
 GitHub organization name is specified as a variable &mdash; allowing a developer
 to test in a fork (substitute user's username for organization) before
-submitting a pull reuqest.
+submitting a pull request.
 
 ```kotlin
 package installer.vcsRoots
@@ -167,3 +179,11 @@ object HelloWorldRepo : GitVcsRoot({
     }
 })
 ```
+
+## Next Steps
+
+Hoping to cover in a future post...
+
+* Templates are just specialized BuildTypes.
+* Build Features
+* Generate XML for further validation
