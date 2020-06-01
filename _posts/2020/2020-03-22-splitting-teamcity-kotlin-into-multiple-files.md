@@ -139,14 +139,14 @@ project(_self.HelloWorldProject)
 
 To further demonstrate, let's add a new file defining a Git VCS root. 
 
-.teamcity directory\
-|-- _self\
-&nbsp;&nbsp;&nbsp;|-- buildTypes\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- EchoHelloWorld.kt\
-&nbsp;&nbsp;&nbsp;|-- vcsRoots\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- HelloWorldRepo.kt\
-&nbsp;&nbsp;&nbsp;|-- Project.kt\
-|-- pom.xml\
+.teamcity directory<br>
+|-- _self<br>
+&nbsp;&nbsp;&nbsp;|-- buildTypes<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- EchoHelloWorld.kt<br>
+&nbsp;&nbsp;&nbsp;**|-- vcsRoots**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|-- HelloWorldRepo.kt**<br>
+&nbsp;&nbsp;&nbsp;|-- Project.kt<br>
+|-- pom.xml<br>
 |-- settings.kts
 {: .panel-body }
 {: .panel .panel-default }
