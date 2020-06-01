@@ -43,6 +43,7 @@ The [references](#references) at the bottom of this article can do much to help 
 Many of the operations you can perform in the TeamCity web site ("the UI") will let you view the Kotlin version of your change before committing that change. This is a great way to begin learning how to work with the Kotlin DSL, especially things like build features. The API documentation is of course correct, but hard to translate into reality without seeing these working examples.
 
 ### Export an Entire Project
+
 Likewise, you can start your first projects in the UI and learn from them, instead of having to figure everything out from scratch. Take a project - preferably a relatively simple one without dependencies in other projects - and export it to Kotlin. Now you have a detailed example to study.
 
 ### Internal Setting for Creating Smaller Files
@@ -65,7 +66,7 @@ One problem with VS Code debugging is that it is not always obvious why somethin
 
 Now that you know it compiles, it would be nice to test out your project / modifications before updating your production server. TeamCity has made their free [Professional Server](https://www.jetbrains.com/teamcity/buy/#new) quite powerful. This is not a crippled demo. You can install this on your localhost or a test/QA server. Push your DSL scripts to a branch or a fork (not the ones used by your production server), sync your test instance of TeamCity, and test that it really does what you think it does. Now create that pull request.
 
-## Managing secure data
+## Managing Secure Data
 
 TeamCity has features for [managing tokens](https://www.jetbrains.com/help/teamcity/storing-project-settings-in-version-control.html#StoringProjectSettingsinVersionControl-ManagingTokens) that secure private data (e.g. api key, password, etc)  in your Kotlin scripts. Personally, I prefer the other recommended approach mentioned in the above article:
 
