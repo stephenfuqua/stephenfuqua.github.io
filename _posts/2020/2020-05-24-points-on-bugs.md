@@ -120,4 +120,4 @@ approach:
    reduced velocity would have also padded out the sprint length. With the first
    approach it would be easier to justify lowering the padding if their is less
    non-story work than "arbitrarily" raising the expected velocity.
-1. Better respect's the teams' desire to track their progress and throughput.
+1. Better respects the teams' desire to track their progress and throughput.
