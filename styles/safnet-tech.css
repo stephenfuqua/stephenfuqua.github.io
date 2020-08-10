@@ -41,3 +41,7 @@ a:hover, h1 a:focus {
 .entry-content p {
 	margin-bottom: 1.25em;
 }
+
+h4 {
+    font-weight: bold;
+}
