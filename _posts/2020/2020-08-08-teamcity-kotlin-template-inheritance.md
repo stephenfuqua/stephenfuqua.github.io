@@ -8,27 +8,18 @@ sharing: true
 ---
 
 This summer, one of the development teams at the Ed-Fi Alliance has been hard at
-work building Project Buzz ([Fix-It-Fridays Delivers Project Buzz, A Mobile App
+work building Project Buzz: "When school shutdowns went into effect across the
+country as a result of COVID-19, much of the information teachers need to
+support students in the new online-school model had become fragmented across
+multiple surveys and the Student Information System." ([Fix-It-Fridays Delivers Project Buzz, A Mobile App
 to Help Teachers Prepare for
-Back-to-School](https://www.ed-fi.org/blog/2020/07/fix-it-fridays-delivers-project-buzz-a-mobile-app-to-help-teachers-prepare-for-back-to-school/)),
-an application designed to help classroom teachers review student survey
-results. This project came about as a reaction to COVID-19: in conversations
-with the Alliance's community members, our team found that the
-schooling-from-home regime is driving increased usage of surveys to guage
-student access to technology, engagement, home life, etc. The Alliance's
-software will help teachers by providing data ingestion and facilitating
-navigation from class to student to results spanning multiple surveys.
+Back-to-School](https://www.ed-fi.org/blog/2020/07/fix-it-fridays-delivers-project-buzz-a-mobile-app-to-help-teachers-prepare-for-back-to-school/)).
 
 As project architect, my role has been one of support for the development team,
 guiding technology toolkit choices and supporting downstream build and
-deployment operations. This is a relatively new development team, and Ed-Fi
-traditionally has focused more heavily on back-end than front-end systems. Based
-on proof-of-concept research, the team agreed to develop the entire system in
-JavaScript so that front-end and back-end code would be in the same language.
-More specifically, the team adopted TypeScript.
-
-My challenge: rapidly create TeamCity build configurations for all components
-using Kotlin code.
+deployment operations. The team agreed to develop the applications in TypeScript
+on both the front- and back-ends. My next challenge: rapidly create TeamCity
+build configurations for all components using Kotlin code.
 
 ## Components
 
@@ -518,7 +509,6 @@ All code samples above are Copyright &copy; 2020, Ed-Fi Alliance, LLC and
 contributors. These samples are re-used under the terms of the [Apache License,
 Version
 2](https://github.com/Ed-Fi-Exchange-OSS/EdFi-Project-Buzz/blob/development/LICENSE).
-
 
 ## Previous Articles on TeamCity and Kotlin
 
