@@ -1,18 +1,18 @@
 - slug: meta
   name: Meta
-  
+
 - slug: dotnet
   name: Microsoft .NET Framework
-  
+
 - slug: devops
   name: DevOps Tools and Practices
-  
+
 - slug: database
   name: Microsoft SQL Server and other databases
-  
+
 - slug: architecture
-  name: Application architecture and design
-  
+  name: Application Architecture and Design
+
 - slug: books
   name: Book reviews and commentaries
 
@@ -32,7 +32,10 @@
   name: Ed-Fi Alliance
 
 - slug: data-and-analytics
-  name: Data analytics and visualization
+  name: Data Analytics and Visualization
 
 - slug: FlightNode
   name: "FlightNode: Citizen Science Bird-Monitoring"
+
+- slug: Inclusion
+  name: Inclusion and Anti-Racism
