@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: "tech"
+tag: tech
 permalink: /blog/tag/tech
 ---

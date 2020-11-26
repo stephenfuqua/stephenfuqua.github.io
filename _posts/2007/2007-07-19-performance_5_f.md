@@ -9,10 +9,10 @@ basename: performance_5_f
 categories:
 - c
 ---
-   
+
 
 _This article is part of the series <a
-href="/archives/2007/06/an_exercise_in">An Exercise in Performance Tuning
+href="/archive/2007/06/an_exercise_in">An Exercise in Performance Tuning
 in C#.Net</a>_.
 
 It's time to stop ignoring the 800 pound gorilla in the room: `System.String`.

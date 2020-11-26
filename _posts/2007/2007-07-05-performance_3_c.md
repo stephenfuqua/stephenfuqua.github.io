@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-_This article is part of the series <a href="/archives/2007/06/an_exercise_in">
+_This article is part of the series <a href="/archive/2007/06/an_exercise_in">
 An Exercise in Performance Tuning in C#.Net</a>_.
 
 Where else could I improve performance? I thought I should inspect the memory usage
@@ -30,8 +30,8 @@ drilling down to the data types used.
 
 <p class="center">{Image file no longer available}</p>
 <!--
-<a href="http://www.safnet.com/writing/tech/archives/clr1.jpg" target="_blank">
-<img src="http://www.safnet.com/writing/tech/archives/clr1_sm.jpg" width="600" height="133"
+<a href="http://www.safnet.com/writing/tech/archive/clr1.jpg" target="_blank">
+<img src="http://www.safnet.com/writing/tech/archive/clr1_sm.jpg" width="600" height="133"
     border="1" alt="CLR 1" /></a>
 -->
 
@@ -42,7 +42,7 @@ ProcessFile, we find the following breakdown:
 <p class="center">{Image file no longer available}</p>
 <!--
 <p style="text-align: center">
-<img src="http://www.safnet.com/writing/tech/archives/clr2.jpg" width="418" height="337"
+<img src="http://www.safnet.com/writing/tech/archive/clr2.jpg" width="418" height="337"
 border="1" alt="CLR 2" />
 -->
 
@@ -51,7 +51,7 @@ And then drilling down once more into `processSingleLine`:
 <p class="center">{Image file no longer available}</p>
 <!--
 <p style="text-align: center">
-<img src="http://www.safnet.com/writing/tech/archives/clr3.jpg" width="472" height="498"
+<img src="http://www.safnet.com/writing/tech/archive/clr3.jpg" width="472" height="498"
 border="1" alt="CLR 3" />
 -->
 
@@ -73,7 +73,7 @@ processing time (between all functions calling the Enums):
 <p class="center">{Image file no longer available}</p>
 <!--
 <p style="text-align: center">
-<img src="/archives/images/clr4.jpg" width="164" height="98"
+<img src="/archive/images/clr4.jpg" width="164" height="98"
 border="1" alt="CLR 4" />
 -->
 
