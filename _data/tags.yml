@@ -25,7 +25,7 @@
 - slug: os
   name: Operating Systems
 
-- slug: tech-os
+- slug: "tech:os"
   name: Operating Systems
 
 - slug: programming
