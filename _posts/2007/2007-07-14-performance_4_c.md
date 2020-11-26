@@ -4,7 +4,8 @@ title: 'Performance #4: Consolidate Object Creation from Database'
 date: '2007-07-14 15:01:21 -0500'
 basename: performance_4_c
 categories:
-- "tech:csharp"
+- tech
+- dotnet
 excerpt_separator: <!--more-->
 ---
 

@@ -4,7 +4,8 @@ title: 'Microsoft says: use Netscape'
 date: '2007-07-10 21:07:42 -0500'
 basename: microsoft_says
 categories:
-- "tech:os"
+- tech
+- os
 excerpt_separator: <!--more-->
 ---
 

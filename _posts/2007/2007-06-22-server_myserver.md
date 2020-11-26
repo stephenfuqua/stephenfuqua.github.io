@@ -4,7 +4,8 @@ title: Server 'myserver' is not configured for RPC
 date: '2007-06-22 18:25:07 -0500'
 basename: server_myserver
 categories:
-- "tech:sql"
+- tech
+- database
 excerpt_separator: <!--more-->
 ---
 
@@ -24,7 +25,7 @@ Server 'myserver' is not configured for RPC.
 server. That is not a default option, after all. You can see what settings are
 configured with `exec <a
 href="http://msdn2.microsoft.com/en-us/library/ms189804.aspx">sp_helpserver</a>`,
-run on the client server (not the linked server). 
+run on the client server (not the linked server).
 
 If 'rpc,rpc out' is not in your results, then the the linked server isn't
 configured for RPC. To do so, run these two commands on the client server:

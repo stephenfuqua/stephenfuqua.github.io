@@ -4,7 +4,8 @@ title: Passing Objects Does Not Require 'ref'
 date: '2007-10-02 16:05:21 -0500'
 basename: passing_objects
 categories:
-- "tech:csharp"
+- tech
+- dotnet
 excerpt_separator: <!--more-->
 ---
 
