@@ -42,3 +42,12 @@
 
 - slug: inclusion
   name: Inclusion and Anti-Racism
+
+- slug: "sql-server"
+  name: SQL Server
+
+- slug: ssis
+  name: SQL Server Integration Service
+
+- slug: performance
+  name: Performance Tuning
