@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'RS and XSLT, pt3.2: Using XSLT for Custom Reporting Services Output'
 date: '2008-08-17 21:40:36 -0500'
 basename: rs_and_xslt_pt3_1
@@ -9,9 +9,9 @@ tags:
 - sql-server
 ---
 
-In the third installment of a series, we defined some intended flat file output, designed 
-a simple report in MSSQL Reporting Services, and looked at the plain XML output 
-from Reporting Services. Now, long after that post, we can create and apply the 
+In the third installment of a series, we defined some intended flat file output, designed
+a simple report in MSSQL Reporting Services, and looked at the plain XML output
+from Reporting Services. Now, long after that post, we can create and apply the
 XLST needed to convert that report to the desired output.
 
 <!--more-->
@@ -21,9 +21,9 @@ Here's the raw XML output again:
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <Report p1:schemaLocation="RsXsltDemo
-http://reportserver?/RsXsltDemo&rs%3aFormat=XML&rc%3aSchema=True" Name="RsXsltDemo" 
+http://reportserver?/RsXsltDemo&rs%3aFormat=XML&rc%3aSchema=True" Name="RsXsltDemo"
 executeTimeStamp="2008-02-28T14:49:23.7940175"
-textbox2="3" 
+textbox2="3"
 xmlns:p1="http://www.w3.org/2001/XMLSchema-instance"
 xmlns="RsXsltDemo">
 	<resultSet>
@@ -36,7 +36,7 @@ xmlns="RsXsltDemo">
 </Report>
 ```
 
-And here is the intended output, fixed up so that it consistently uses the 
+And here is the intended output, fixed up so that it consistently uses the
 pipe character instead of commas in the header and trailer:
 
 ```none
@@ -57,8 +57,8 @@ Now let's build up the XSL needed to transform this.
   <xsl:strip-space elements="*"/>
 ```
 
-So, we have the standard start to an XML stylesheet, followed by a command to 
-save the output as plain text in UTF-8 format, and a command to trim all data 
+So, we have the standard start to an XML stylesheet, followed by a command to
+save the output as plain text in UTF-8 format, and a command to trim all data
 elements.
 
 ## Create a Template
@@ -77,9 +77,9 @@ Taking this line-by-line:
     <li value="5">Sets this template applicable to the <span class="command">
     Report</span> element in our source XML. </li>
     <li>Places static header into the output.</li>
-    <li>Selects the timestamp value from the input and places it into the 
+    <li>Selects the timestamp value from the input and places it into the
     output.</li>
-    <li>Line break and carriage return (or is that carriage return and line 
+    <li>Line break and carriage return (or is that carriage return and line
     break?)</li>
     <li>Start a loop on all <span class="command">Detail </span>elements in
     <span class="command">Detail_Collection</span>.</li>
@@ -125,10 +125,10 @@ Taking this line-by-line:
 
 ## Applying the Template on Output of XML
 
-In the Report Builder, Layout tab, open the report's properties box and 
-switch to the Data Output tab. Add the name of the transform (full file name, 
-including the XSL extension) Finally, preview the report and export as XML. Is 
+In the Report Builder, Layout tab, open the report's properties box and
+switch to the Data Output tab. Add the name of the transform (full file name,
+including the XSL extension) Finally, preview the report and export as XML. Is
 your output what you hoped for?
 
-In the next and final installment, we'll add the complexity of a fixed 
+In the next and final installment, we'll add the complexity of a fixed
 format.

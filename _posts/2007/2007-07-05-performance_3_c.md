@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'Performance #3: CLR Profiler'
 date: '2007-07-05 19:59:15 -0500'
 basename: performance_3_c

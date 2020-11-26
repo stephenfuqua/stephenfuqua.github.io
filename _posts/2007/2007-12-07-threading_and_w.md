@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Threading and Waiting with Delegates
 date: '2007-12-07 10:33:45 -0600'
 basename: threading_and_w

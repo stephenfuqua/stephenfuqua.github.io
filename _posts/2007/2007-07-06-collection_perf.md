@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Collection Performance Comparisons
 date: '2007-07-06 20:55:01 -0500'
 basename: collection_perf

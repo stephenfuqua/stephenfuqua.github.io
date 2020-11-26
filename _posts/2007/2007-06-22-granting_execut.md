@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Granting Execute Permission to All Stored Procedures
 date: '2007-06-22 22:39:17 -0500'
 basename: granting_execut

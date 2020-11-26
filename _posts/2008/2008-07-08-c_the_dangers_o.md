@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'C#: The Dangers of Foreach'
 date: '2008-07-08 18:55:11 -0500'
 basename: c_the_dangers_o
@@ -25,11 +25,11 @@ personal experience. How much slower? Well, I suppose that depends on your
 particular circumstances. Here are a few interesting references:
 
 <ul>
-	<li><a href="http://www.codeproject.com/KB/cs/foreach.aspx">FOREACH Vs. FOR 
+	<li><a href="http://www.codeproject.com/KB/cs/foreach.aspx">FOREACH Vs. FOR
 	(C#)</a>: shows the extra IL code created for a `foreach` loop</li>
 	<li>
 	<a href="http://blogs.msdn.com/kevin_ransom/archive/2004/04/19/116072.aspx">
-	To foreach or not to foreach that is the question</a>: claims it isn't so clear-cut, 
+	To foreach or not to foreach that is the question</a>: claims it isn't so clear-cut,
 	at least for regular arrays. Not absolutely conclusive.</li>
 </ul>
 
@@ -79,7 +79,7 @@ _imported from old Movable Type blog_
 > date: '2009-02-11 12:29:51 -0600'
 >
 > You should read "C# 2008 and 2005 Threaded Programming: Beginner's Guide", by Gaston C. Hillar - http://www.packtpub.com/beginners-guide-for-C-sharp-2008-and-2005-threaded-programming/book
-> 
+>
 > Amazon: http://www.amazon.com/2008-2005-Threaded-Programming-Beginners/dp/1847197108
 >
 > The book is for beginners who want to exploit multi-core with C# 2005; 2008
@@ -101,7 +101,7 @@ _imported from old Movable Type blog_
 > profiling tells you that it's actually worthwhile - so my conclusion is
 > definitely to use foreach wherever it's convenient, unless I have *evidence*
 > that it's impacting performance significantly in that particular situation.
-> 
+>
 > As for the "unpredictability" side of things - I think you've misunderstood
 > the point of the warning. The idea is that you shouldn't add or remove items
 > from the collection over which you're iterating. Well-designed collections

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: SSIS - 32 Bit ForEach File Enumerator Was Not Registered
 date: '2008-09-19 21:57:08 -0500'
 basename: ive_been_having

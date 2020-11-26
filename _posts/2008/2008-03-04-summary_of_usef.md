@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Summary of Useful Features in SQL Server 2008
 date: '2008-03-04 10:29:28 -0600'
 basename: summary_of_usef
@@ -72,7 +72,7 @@ Allows the administrator to allocate resource slices to different users or
 classes of users; thus for instance you could specify that the core processing
 user would always get (if needed) a minimum of 40% of the CPU & RAM, and you
 could specify that the marketing users (once they have beefy report models to
-work with) never get more than 10% of the resources. For example. 
+work with) never get more than 10% of the resources. For example.
 
 <ul>
 <li>Blog: <a href="http://portal.sqltrainer.com/2007/12/sql-2008-resource-governor.html">SQL 2008 Resource Governor</a></li>

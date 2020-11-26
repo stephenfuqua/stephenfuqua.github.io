@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'Performance #1 and #2: Clean Client / Server Interaction'
 date: '2007-06-29 22:00:56 -0500'
 basename: performance_1_a

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'RS and XSLT, pt3.1: Using XSLT for Custom Reporting Services Output'
 date: '2008-02-28 14:54:25 -0600'
 basename: rs_and_xslt_pt3

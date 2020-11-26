@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'Performance #5: File Buffering'
 date: '2007-07-19 18:54:22 -0500'
 basename: performance_5_f

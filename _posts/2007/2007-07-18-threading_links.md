@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Threading Links
 date: '2007-07-18 14:08:30 -0500'
 basename: threading_links
