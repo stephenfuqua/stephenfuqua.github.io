@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-_This article is part of the series <a href="/archive/2007/06/an_exercise_in">
+_This article is part of the series <a href="/archive/2007/06/26/an_exercise_in/">
 An Exercise in Performance Tuning in C#.Net</a>_.
 
 Where else could I improve performance? I thought I should inspect the memory usage

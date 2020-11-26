@@ -7,7 +7,7 @@ tags: [tech, dotnet, performance]
 excerpt_separator: <!--more-->
 ---
 
-_This article is part of the series <a href="/archive/2007/06/an_exercise_in">
+_This article is part of the series <a href="/archive/2007/06/26/an_exercise_in/">
 An Exercise in Performance Tuning in C#.Net</a>_.
 
 At this point I did not re-run the profiler but continued investigating memory allocation.
