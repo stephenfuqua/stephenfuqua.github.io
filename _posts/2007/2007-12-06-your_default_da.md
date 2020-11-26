@@ -3,9 +3,7 @@ layout: post
 title: Your Default Database Is Offline - How Do You Login?
 date: '2007-12-06 10:22:27 -0600'
 basename: your_default_da
-categories:
-- tech
-- database
+tags: [tech, database]
 excerpt_separator: <!--more-->
 ---
 

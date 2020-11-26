@@ -3,9 +3,7 @@ layout: post
 title: 'Performance #3: CLR Profiler'
 date: '2007-07-05 19:59:15 -0500'
 basename: performance_3_c
-categories:
-- tech
-- dotnet
+tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 

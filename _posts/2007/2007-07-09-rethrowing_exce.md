@@ -3,9 +3,7 @@ layout: post
 title: Rethrowing Exceptions Is a Dangerous Business
 date: '2007-07-09 04:21:14 -0500'
 basename: rethrowing_exce
-categories:
-- tech
-- dotnet
+tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 

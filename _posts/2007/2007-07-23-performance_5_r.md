@@ -3,9 +3,7 @@ layout: post
 title: 'Performance #6: Reading Directly Into the Parser'
 date: '2007-07-23 17:10:25 -0500'
 basename: performance_5_r
-categories:
-- tech
-- dotnet
+tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 

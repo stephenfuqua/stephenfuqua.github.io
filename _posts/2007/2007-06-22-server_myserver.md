@@ -3,9 +3,7 @@ layout: post
 title: Server 'myserver' is not configured for RPC
 date: '2007-06-22 18:25:07 -0500'
 basename: server_myserver
-categories:
-- tech
-- database
+tags: [tech, database]
 excerpt_separator: <!--more-->
 ---
 

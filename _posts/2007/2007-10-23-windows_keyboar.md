@@ -3,9 +3,7 @@ layout: post
 title: Windows Keyboard Shortcuts
 date: '2007-10-23 15:45:15 -0500'
 basename: windows_keyboar
-categories:
-- tech
-- os
+tags: [tech, os]
 excerpt_separator: <!--more-->
 ---
 

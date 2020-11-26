@@ -3,9 +3,7 @@ layout: post
 title: WindowsXP Service Pack 2 Warning
 date: '2004-08-05 10:47:51 -0500'
 basename: windowsxp_servi
-categories:
-- tech
-- os
+tags: [tech, os]
 excerpt_separator: <!--more-->
 ---
 

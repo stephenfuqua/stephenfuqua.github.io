@@ -3,9 +3,7 @@ layout: post
 title: Grad School and The Linux Guru
 date: '2003-11-11 18:23:49 -0600'
 basename: grad_school_and
-categories:
-- tech
-- os
+tags: [tech, os]
 excerpt_separator: <!--more-->
 ---
 
