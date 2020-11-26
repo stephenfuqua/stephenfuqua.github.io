@@ -4,7 +4,8 @@ title: Replacing Ad Hoc Query Text When Fields Change
 date: '2007-06-27 17:10:47 -0500'
 basename: replacing_ad_ho
 categories:
-- "tech:sql"
+- tech
+- database
 excerpt_separator: <!--more-->
 ---
 
@@ -94,8 +95,8 @@ Now extract the three parts:
 
 ```sql
 
-SET @before = SUBSTRING(@WHERE, 1, @pos_myField - 1) 
-SET @criteria = SUBSTRING(@WHERE, @pos_APOS_1 + 1, @pos_APOS_2 - @pos_APOS_1 - 1) 
+SET @before = SUBSTRING(@WHERE, 1, @pos_myField - 1)
+SET @criteria = SUBSTRING(@WHERE, @pos_APOS_1 + 1, @pos_APOS_2 - @pos_APOS_1 - 1)
 SET @after = SUBSTRING(@WHERE, @pos_APOS_2 + 1, LEN(@WHERE)-@pos_APOS_2)
 ```
 
@@ -121,34 +122,34 @@ End result:
 
 ```sql
 
-CREATE FUNCTION dbo.fnFixMyFieldAdHoc(@WHERE varchar(1000)) 
-RETURNS varchar(1000) 
+CREATE FUNCTION dbo.fnFixMyFieldAdHoc(@WHERE varchar(1000))
+RETURNS varchar(1000)
 AS
 
 BEGIN
 
-     DECLARE @return as varchar(1000) 
+     DECLARE @return as varchar(1000)
      SET @return = @WHERE
 
 
      DECLARE @before as varchar(1000), @after as varchar(1000), @criteria as varchar(1000), @pos_myField as INT, @pos_APOS_1 as INT, @pos_APOS_2 as INT
 
-     SET @pos_myField = CHARINDEX('myField = ', @return) 
+     SET @pos_myField = CHARINDEX('myField = ', @return)
 
-     WHILE (@pos_myField <> 0) 
+     WHILE (@pos_myField <> 0)
      BEGIN
 
-          SET @pos_APOS_1 = CHARINDEX('''', @return, @pos_myField + 1) 
+          SET @pos_APOS_1 = CHARINDEX('''', @return, @pos_myField + 1)
 
-          SET @pos_APOS_2 = CHARINDEX('''', @return, @pos_APOS_1  + 1) 
+          SET @pos_APOS_2 = CHARINDEX('''', @return, @pos_APOS_1  + 1)
 
-          SET @before = SUBSTRING(@return, 1, @pos_myField - 1) 
-          SET @criteria = SUBSTRING(@return, @pos_APOS_1 + 1, @pos_APOS_2 - @pos_APOS_1 - 1) 
-          SET @after = SUBSTRING(@return, @pos_APOS_2 + 1, LEN(@return)-@pos_APOS_2) 
+          SET @before = SUBSTRING(@return, 1, @pos_myField - 1)
+          SET @criteria = SUBSTRING(@return, @pos_APOS_1 + 1, @pos_APOS_2 - @pos_APOS_1 - 1)
+          SET @after = SUBSTRING(@return, @pos_APOS_2 + 1, LEN(@return)-@pos_APOS_2)
 
           SET @return = @before + ' myFieldHash = HashBytes(''MD2'', ''' + @criteria + ''') ' + @after
 
-          SET @pos_myField = CHARINDEX('myField = ', @return) 
+          SET @pos_myField = CHARINDEX('myField = ', @return)
 
      END
 

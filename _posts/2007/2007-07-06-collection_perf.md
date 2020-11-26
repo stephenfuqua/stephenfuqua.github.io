@@ -4,7 +4,8 @@ title: Collection Performance Comparisons
 date: '2007-07-06 20:55:01 -0500'
 basename: collection_perf
 categories:
-- "tech:csharp"
+- tech
+- dotnet
 excerpt_separator: <!--more-->
 ---
 
@@ -45,4 +46,4 @@ not surprisingly takes two `object`s.
 So for now I'll go with the `HybridDictionary`. Perhaps I could write my own
 collection class that would get the job done; maybe I could do some more
 research and find that Microsoft has already provided the answer for me. But
-that's just not worth the return on investment at this point. 
+that's just not worth the return on investment at this point.

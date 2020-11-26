@@ -4,7 +4,8 @@ title: Granting Execute Permission to All Stored Procedures
 date: '2007-06-22 22:39:17 -0500'
 basename: granting_execut
 categories:
-- "tech:sql"
+- tech
+- database
 excerpt_separator: <!--more-->
 ---
 
@@ -35,7 +36,7 @@ BEGIN
 
      SET @stmt = 'GRANT EXECUTE ON ' + @name + ' TO PUBLIC'
      EXEC(@stmt)
-	
+
      PRINT @stmt
 
      FETCH NEXT FROM procs INTO @name

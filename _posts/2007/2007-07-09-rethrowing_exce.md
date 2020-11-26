@@ -4,7 +4,8 @@ title: Rethrowing Exceptions Is a Dangerous Business
 date: '2007-07-09 04:21:14 -0500'
 basename: rethrowing_exce
 categories:
-- "tech:csharp"
+- tech
+- dotnet
 excerpt_separator: <!--more-->
 ---
 
@@ -32,8 +33,8 @@ private class CustomError : Exception
      public CustomError() : base() { }
      public CustomError(string message) { this.Message = message; }
   }
-  
-  private void libraryFunction() 
+
+  private void libraryFunction()
   {
      try
      {
@@ -43,9 +44,9 @@ private class CustomError : Exception
      }
      catch (Exception ex)
           throw new CustomError(ex.Message);
-  } 
-  
-  private void innerFunction() 
+  }
+
+  private void innerFunction()
   {
      try
      {
@@ -60,7 +61,7 @@ Now, if you're debugging your application and you run across an exception coming
 from `libraryFunction()`, the stack trace will report that the error came from
 `CustomError` instead of `innerFunction()`. You won't be able to see that it
 came from line _x_ in `innerFunction()`. Thankfully there are several ways that
-we can and should clean up this code. 
+we can and should clean up this code.
 
 **1. Do we really need `try` in `innerFunction()`?**
 
@@ -78,10 +79,10 @@ You might want to add a constructor in `CustomError` that takes the exception
 itself as an argument, along with a string for a more customized message:
 
 ```csharp
-public CustomError(Exception inner, string message) 
-{ 
+public CustomError(Exception inner, string message)
+{
      this.InnerException = inner;
-     this.Message = message; 
+     this.Message = message;
 }
 ```
 
@@ -95,7 +96,7 @@ then you'll have better performance &#8212; and no loss of information &#8212;
 if you specifically catch `CustomError` and rethrow it as is, without using new:
 
 ```csharp
-private void libraryFunction() 
+private void libraryFunction()
 {
      try
      {
@@ -114,4 +115,4 @@ Now, if I had fully read the <a
 href="http://msdn2.microsoft.com/en-us/library/ms954599.aspx">Exception
 Management Architecture Guide</a>, I'm sure I could have explained this all in
 more technically precise language. Then again, maybe (hopefully) its more
-intelligible in this form =).  
+intelligible in this form =).

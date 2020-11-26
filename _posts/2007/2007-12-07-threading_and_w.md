@@ -4,7 +4,8 @@ title: Threading and Waiting with Delegates
 date: '2007-12-07 10:33:45 -0600'
 basename: threading_and_w
 categories:
-- "tech:csharp"
+- tech
+- dotnet
 excerpt_separator: <!--more-->
 ---
 
@@ -14,7 +15,7 @@ wrote some basic examples in the second semester, but that could hardly be
 called extensive use. Thus, a number of years on, it has been a bit of a
 struggle for me to use threads in a practical manner. Further complicating the
 matter is that I've wanted to use anonymous methods (aka delegates) and
-generally want to do some work after _all_ threads have finished executing. 
+generally want to do some work after _all_ threads have finished executing.
 
 <!--more-->
 
@@ -70,7 +71,7 @@ TheProcess(f);
 (this._excpList)
                {
 /* Actually, its a Dictionary<string, Exception> so that I can capture the file name and the exception together. */
-                
+
 
 this._excpList.Add(f.FullName, ex);
                }

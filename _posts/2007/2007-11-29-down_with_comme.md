@@ -4,7 +4,8 @@ title: Down With Comment Spam
 date: '2007-11-29 22:35:30 -0600'
 basename: down_with_comme
 categories:
-- "tech:meta"
+- tech
+- meta
 ---
 
 Frequent blog readers will easily recognize comment spam: unrelated or gibberish

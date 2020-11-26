@@ -4,7 +4,8 @@ title: 'Visual Studio Says: "Failed to create component"'
 date: '2007-07-17 20:27:07 -0500'
 basename: visual_studio_s
 categories:
-- "tech:csharp"
+- tech
+- dotnet
 excerpt_separator: <!--more-->
 ---
 

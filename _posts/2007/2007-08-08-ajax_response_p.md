@@ -4,7 +4,8 @@ title: AJAX RESPONSE Parsing Exception
 date: '2007-08-08 15:27:13 -0500'
 basename: ajax_response_p
 categories:
-- "tech:csharp"
+- tech
+- dotnet
 excerpt_separator: <!--more-->
 ---
 
@@ -38,6 +39,6 @@ _imported from old Movable Type blog_
 
 > author: Drew\
 > date: '2007-10-12 08:55:02 -0500'
-> 
+>
 > Thanks for sharing your knowledge!
 > Saved me hours of banging my head on the keyboard :)

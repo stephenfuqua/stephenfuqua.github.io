@@ -4,7 +4,8 @@ title: 'Securing and Optimizing Linux, pt. 1: Services'
 date: '2003-11-13 17:47:07 -0600'
 basename: securing_and_op
 categories:
-- "tech:os"
+- tech
+- os
 excerpt_separator: <!--more-->
 ---
 
@@ -18,7 +19,7 @@ In part 1, we look at _runlevel services_.
 <!--more-->
 
 _This is not intended to be an all-inclusive manual. This site is called
-Penguin_ Notes _, afterall!_ 
+Penguin_ Notes _, afterall!_
 
 Be sure to turn off all services you don't need. Services in Linux are those
   background daemons and operations that you're usually not even aware of, such
@@ -37,7 +38,7 @@ to 6. Each of these corresponds to a _run level_:
 * `3` - full multiuser mode
 * `4` -unused _(I have no idea why)_
 * `5` - startup in X-windows
-* `6` - reboot  
+* `6` - reboot
 
 Within each directory are a number of <acronym title="also called shortcuts,
 created with ln -s command">soft links</acronym> to the scripts in `init.d`.
@@ -53,7 +54,7 @@ partitions. Everything that you don't need is taking up a little bit of memory
 and/or processor and, if it turns out to have a security flaw of any kind, may
 be opening you up to a lot of problems. So figure out what each one does (using
 the `man`; command and possibly the <a href="http://www.tldp.org">Linux
-Documentation Project</a> if need be), and delete those which you don't need. 
+Documentation Project</a> if need be), and delete those which you don't need.
 
 In particular keep a look out for unnecessary network protocols, such as NFS,
 portmap, and xinetd. Obviously these do have their uses, but if you don't know
@@ -61,7 +62,7 @@ what they are, then you won't need these particular entries I assure you. If
 your main startup mode is at the command prompt, you'll need to remove these and
 other extraneous entries from `/etc/rc.d/rc3.d`. If you startup in X windows
 with a graphical login prompt, then you'll need to clean up `/etc/rc.d/rc5.d`.
-Probably best to clean up both. 
+Probably best to clean up both.
 
 You probably won't ever need runlevel 2, but to be safe you should remove
 unnecessary links there as well. I do not recommend messing with levels 0, 1, or
