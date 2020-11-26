@@ -3,9 +3,7 @@ layout: post
 title: AJAX RESPONSE Parsing Exception
 date: '2007-08-08 15:27:13 -0500'
 basename: ajax_response_p
-categories:
-- tech
-- dotnet
+tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 

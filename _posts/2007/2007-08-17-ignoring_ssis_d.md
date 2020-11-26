@@ -3,9 +3,7 @@ layout: post
 title: Ignoring SSIS Data Conversion Failures
 date: '2007-08-17 20:39:51 -0500'
 basename: ignoring_ssis_d
-categories:
-- tech
-- database
+tags: [tech, database]
 excerpt_separator: <!--more-->
 ---
 

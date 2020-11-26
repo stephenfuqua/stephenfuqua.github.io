@@ -3,9 +3,7 @@ layout: post
 title: Image Conversion Made Easy in .Net
 date: '2007-06-20 21:29:16 -0500'
 basename: image_conversio
-categories:
-- tech
-- dotnet
+tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 

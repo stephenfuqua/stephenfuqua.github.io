@@ -3,9 +3,7 @@ layout: post
 title: Do not trust the generic List!
 date: '2007-09-28 13:43:11 -0500'
 basename: do_not_trust_th
-categories:
-- tech
-- dotnet
+tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 

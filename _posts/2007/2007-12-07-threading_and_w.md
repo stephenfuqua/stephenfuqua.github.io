@@ -3,9 +3,7 @@ layout: post
 title: Threading and Waiting with Delegates
 date: '2007-12-07 10:33:45 -0600'
 basename: threading_and_w
-categories:
-- tech
-- dotnet
+tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 

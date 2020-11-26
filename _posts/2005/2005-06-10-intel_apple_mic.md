@@ -3,9 +3,7 @@ layout: post
 title: Intel + Apple = Microsoft Killer?
 date: '2005-06-10 12:36:05 -0500'
 basename: intel_apple_mic
-categories:
-- tech
-- os
+tags: [tech, os]
 ---
 
 PBS's Robert X. Cringeley thinks Intel is <a

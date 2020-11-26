@@ -3,9 +3,7 @@ layout: post
 title: Threading Links
 date: '2007-07-18 14:08:30 -0500'
 basename: threading_links
-categories:
-- tech
-- dotnet
+tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 
