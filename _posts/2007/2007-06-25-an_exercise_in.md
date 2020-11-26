@@ -25,10 +25,10 @@ improvement" is quite the understatement. I'll be posting a series of articles
 on the resources and methods used to achieve this huge jump.
 
 <ol>
-<li><a href="/archive/2007/06/29/performance_1_a">Performance #1 and #2: Clean Client / Server Interaction</a></li>
-<li><a href="/archive/2007/07/05/performance_3_c">Performance #3: CLR Profiler</a></li>
-<li><a href="/archive/2007/07/14/performance_4_c">Performance #4: Consolidate Object Creation from Database</a></li>
-<li><a href="/archive/2007/07/19/performance_5_f">Performance #5: File Buffering</a></li>
-<li><a href="/archive/2007/07/23/performance_5_r">Performance #6: Reading Directly Into the Parser</a></li>
-<li><a href="/archive/2007/09/21/performance_7_f">Performance #7: An (unsafe) Dead End</a></li>
+<li><a href="/archive/2007/06/30/performance_1_a/">Performance #1 and #2: Clean Client / Server Interaction</a></li>
+<li><a href="/archive/2007/07/06/performance_3_c/">Performance #3: CLR Profiler</a></li>
+<li><a href="/archive/2007/07/14/performance_4_c/">Performance #4: Consolidate Object Creation from Database</a></li>
+<li><a href="/archive/2007/07/19/performance_5_f/">Performance #5: File Buffering</a></li>
+<li><a href="/archive/2007/07/23/performance_5_r/">Performance #6: Reading Directly Into the Parser</a></li>
+<li><a href="/archive/2007/09/21/performance_7_f/">Performance #7: An (unsafe) Dead End</a></li>
 </ol>
