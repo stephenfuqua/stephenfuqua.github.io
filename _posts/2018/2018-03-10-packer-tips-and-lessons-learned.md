@@ -3,7 +3,7 @@ layout: page
 title: Packer Tips and Lessons Learned
 date: 2018-03-10
 comments: true
-tags: [devops, os]
+tags: [tech, devops, windows]
 sharing: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Replacing Ad Hoc Query Text When Fields Change
 date: '2007-06-27 17:10:47 -0500'
 basename: replacing_ad_ho
-tags: [tech, database]
+tags: [tech, database, sql-server]
 excerpt_separator: <!--more-->
 ---
 

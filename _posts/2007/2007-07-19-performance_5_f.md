@@ -2,14 +2,13 @@
 layout: post
 title: 'Performance #5: File Buffering'
 date: '2007-07-19 18:54:22 -0500'
-mt_id: 364
-blog_id: 3
-post_id: 364
 basename: performance_5_f
-categories:
-- c
+tags:
+- tech
+- dotnet
+- performance
+excerpt_separator: <!--more-->
 ---
-
 
 _This article is part of the series <a
 href="/archive/2007/06/an_exercise_in">An Exercise in Performance Tuning
