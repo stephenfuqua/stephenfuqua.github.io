@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sample Code for Using the XML Datatype in SQL Server 2005
 date: '2008-03-24 16:27:48 -0500'
 basename: sample_code_for
@@ -57,7 +57,7 @@ separate columns using <a href="http://www.w3.org/TR/xpath">XPATH</a> queries:
 
 ```sql
 select id,
-xval.value('(/subscription/myID)[1]', 'varchar(9)') as myID, 
+xval.value('(/subscription/myID)[1]', 'varchar(9)') as myID,
 xval.value('(/subscription/recipients)[1]', 'varchar(500)') as recipients
 from #sub
 ```

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Autoscrolling in the DataGridView
 date: '2007-05-30 15:48:51 -0500'
 basename: autoscrolling_i

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "(SQL) Blocking Giving You the Blues?"
 date: '2008-10-05 22:02:03 -0500'
 basename: sql_blocking_gi
@@ -10,7 +10,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-**Problem:** You have a long-running query in SQL Server that is causing failures 
+**Problem:** You have a long-running query in SQL Server that is causing failures
 all over the place. Activity Monitor shows you the cause is blocking.
 
 **Causes:** Blocking essentially means "you've locked a table, and now someone
@@ -34,7 +34,7 @@ re-evaluate the strategy. Small transactions are needed. You might even need to
 fake a transaction. Real SQL gurus might have a better strategy, but one that I
 have used is to mark a record with an error code of "TR" for transaction. For
 instance, I have two tables, one that somewhat summarizes the second. I insert
-into the first, and then insert thousands of records into the second one. 
+into the first, and then insert thousands of records into the second one.
 
 Originally I thought to rollback the whole transaction if any of the thousands
 of inserts failed. But I realized that would be impractical. So instead I marked

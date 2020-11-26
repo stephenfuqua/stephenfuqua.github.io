@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Server 'myserver' is not configured for RPC
 date: '2007-06-22 18:25:07 -0500'
 basename: server_myserver

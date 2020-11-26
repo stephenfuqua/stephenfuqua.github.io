@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'SSIS: Access Is Denied from SQL Agent'
 date: '2008-05-01 15:57:30 -0500'
 basename: ssis_access_is

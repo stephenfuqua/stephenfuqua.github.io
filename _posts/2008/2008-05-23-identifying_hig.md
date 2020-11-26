@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Identifying Highly Fragmented (and important) Indexes
 date: '2008-05-23 22:10:08 -0500'
 basename: identifying_hig
@@ -26,7 +26,7 @@ that should be slowing down the server. Likewise you've checked the memory and
 CPU utilization and they don't seem out of line. Did you check the indexes
 fragmentation? Ah, there's the problem &mdash; a highly fragmented index was
 slowing things down. Is there a way to pre-emptively find and fix these?
-  
+
 **Solution:** SQL Server MVP Lara Rubbelke has addressed procedures for
 scheduling index de-fragmentation in a few places:
 
@@ -39,7 +39,7 @@ scheduling index de-fragmentation in a few places:
   Smart Index Defrag/Reindex for a Consolidated SQL Server 2005
   Environment</a></li>
 </ul>
-  
+
 These solutions are great for automation. But when you're crunched for time,
 implementing and testing automatic solutions might be too much to handle. It
 might pay off to do some quick-hit analysis, identifying the worst fragmentation
@@ -49,15 +49,15 @@ view</a> that provides fragmentation statistics: `<a href=
 "http://msdn.microsoft.com/en-us/library/ms188917.aspx">dm_db_index_physical_stats</a>`.
 There are five arguments. For this purpose, it is useful to supply the Database
 ID for the specific database in question (don't know it? try:
-  
+
 ```sql
   select * from sys.databases
-  
+
   -- Database of interest is 7
   -- supply null for the rest:
   select * from sys.dm_db_index_physical_stats(7,null,null,null,null)
 ```
-  
+
 Of course, the output really isn't all that useful yet &mdash; which indexes are
 these? To get the name of the index, and the table to which it applies, you can
 join to `sys.objects` and `sys.indexes`. It is also helpful to pick out only the
@@ -68,9 +68,9 @@ select obj.[name], ind.[name], frag.avg_fragmentation_in_percent, frag.fragment_
 from sys.dm_db_index_physical_stats(7,null,null,null,null) frag
 inner join sys.objects obj on frag.object_id = obj.object_id
 inner join sys.indexes ind on frag.index_id = ind.index_id and frag.object_id = ind.object_id
-order by frag.avg_fragmentation_in_percent desc 
+order by frag.avg_fragmentation_in_percent desc
 ```
-  
+
 Finally, to have the most impact, it might be useful to pull in usage statistics
 to find the indexes that are used the most, employing the
 `sys.dm_db_index_usage_stats` management view. Since this is for quick

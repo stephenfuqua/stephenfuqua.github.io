@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Configuring Apache (Wamp) With Additional Ports
 date: '2008-08-22 20:18:36 -0500'
 basename: configuring_apa
@@ -37,7 +37,7 @@ last two lines are new:
 # ports, instead of the default. See also the <VirtualHost>
 # directive.
 #
-# Change this to Listen on specific IP addresses as shown below to 
+# Change this to Listen on specific IP addresses as shown below to
 # prevent Apache from glomming onto all bound IP addresses.
 #
 #Listen 12.34.56.78:80

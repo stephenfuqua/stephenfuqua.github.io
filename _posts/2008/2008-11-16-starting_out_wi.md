@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Starting Out with Service Broker
 date: '2008-11-16 20:35:05 -0600'
 basename: starting_out_wi

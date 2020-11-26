@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Diagnosing an Obnoxious Reporting Timeout Problem
 date: '2008-12-24 22:10:58 -0600'
 basename: diagnosing_an_o
@@ -68,12 +68,12 @@ abandons the compiled files when they have not been accessed for some period of
 time. Let's call that period X minutes. Here's what happens:
 
 <ol>
-<li>User A is the first person on the website. User A 
-must wait some short period of time (depends on the complexity of the site) 
+<li>User A is the first person on the website. User A
+must wait some short period of time (depends on the complexity of the site)
 while IIS recompiles.</li>
-<li>User B comes in to the site less than X minutes 
+<li>User B comes in to the site less than X minutes
 after A left it. User B has no wait time, as the site is compiled.</li>
-<li>User C comes in to the site more than X minutes 
+<li>User C comes in to the site more than X minutes
 after B left it. User C has the same wait time as User A.</li></ol>
 
 The application was running in the evening, when few people are in the office

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'RS and XSLT, pt3.3: Using XSLT for Custom Reporting Services Output'
 date: '2008-08-17 21:45:24 -0500'
 basename: rs_and_xslt_pt3_2
@@ -34,7 +34,7 @@ the data in the SQL query to make sure it doesn't exceed the data width:
 |Trailer |03 |  |2   |
 |Trailer |  |Row count   |9   |
 
-New problem for our XSL: need to dynamically pad a column to make sure that 
+New problem for our XSL: need to dynamically pad a column to make sure that
 it reaches the specified width.
 
 ## Introducing the Recursive Space Template
@@ -59,7 +59,7 @@ Line-by-line analysis:
   <li value="5">Start the template</li>
   <li>Create an input parameter/variable <span class="command">called </span>
   count (think of this like a function's argument)</li>
-  <li>Branch the template when the <span class="command">count </span>variable 
+  <li>Branch the template when the <span class="command">count </span>variable
   has data (is greater than zero)</li>
   <li>Add a space character</li>
   <li>Call the template again, recursively</li>
@@ -90,7 +90,7 @@ Analysis:
 <ol>
   <li value="23">Insert the col1 value</li>
   <li>Call the Space template</li>
-  <li>Set the input parameter as the pre-defined column width for column1 
+  <li>Set the input parameter as the pre-defined column width for column1
   minus the length of the data value</li>
   <li>End the Space template call</li>
 </ol>
