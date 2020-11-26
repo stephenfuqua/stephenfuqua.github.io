@@ -25,6 +25,9 @@
 - slug: os
   name: Operating Systems
 
+- slug: tech-os
+  name: Operating Systems
+
 - slug: programming
   name: General Programming
 
