@@ -246,7 +246,7 @@ public abstract class XUnit
             // using a mocking tool, it would only be one line of code.
             Assert.True(Orm.WasCalled);
 
-            // xUnit really doesn't want you to do this. 
+            // xUnit really doesn't want you to do this.
             Assert.Equal(LookupId+50, Orm.Arguments.id);
             Assert.Equal(BestRepository.SelectPersonById, Orm.Arguments.statement);
         }

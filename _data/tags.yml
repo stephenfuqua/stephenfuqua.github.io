@@ -22,8 +22,11 @@
 - slug: unit-test
   name: Unit Testing
 
-- slug: os
-  name: Operating Systems
+- slug: linux
+  name: linux
+
+- slug: windows
+  name: Windows
 
 - slug: tech
   name: Tech

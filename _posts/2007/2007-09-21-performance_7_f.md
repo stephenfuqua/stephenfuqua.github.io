@@ -3,7 +3,7 @@ layout: post
 title: 'Performance #7: An (unsafe) Dead End'
 date: '2007-09-21 09:25:17 -0500'
 basename: performance_7_f
-tags: [tech, dotnet]
+tags: [tech, dotnet, performance]
 excerpt_separator: <!--more-->
 ---
 

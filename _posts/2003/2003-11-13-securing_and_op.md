@@ -3,7 +3,7 @@ layout: post
 title: 'Securing and Optimizing Linux, pt. 1: Services'
 date: '2003-11-13 17:47:07 -0600'
 basename: securing_and_op
-tags: [tech, os]
+tags: [tech, linux]
 excerpt_separator: <!--more-->
 ---
 
