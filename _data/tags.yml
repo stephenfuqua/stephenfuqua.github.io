@@ -54,3 +54,6 @@
 
 - slug: performance
   name: Performance Tuning
+
+- slug: security
+  name: Security
