@@ -27,57 +27,57 @@ href="http://api.jquery.com/after/">after</a>.
 
 ## Demonstration
 
-	<table id="table1" style="background-color: Lime" class="displayTable">
-        <caption>Table 1</caption>
-        <thead>
-            <tr>
-                <th>One</th>
-                <th>Two</th>
-                <th>Three</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr id="row1">
-                <td>R1 C1</td>
-                <td>R1 C2</td>
-                <td>
-                    <a href="#" id="row1Link" class="rowLink">Move Me</a> |
-                    <a href="#" id="row1Up" class="rowUp">Up</a> | 
-                    <a href="#" id="row1Down" class="rowDown">Down</a>
-                </td>
-            </tr>
-            <tr id="row2">
-                <td>R2 C1</td>
-                <td>R2 C2</td>
-                <td>
-                    <a href="#" id="row2Link" class="rowLink">Move Me</a> |
-                    <a href="#" id="row2Up" class="rowUp">Up</a> | 
-                    <a href="#" id="row2Down" class="rowDown">Down</a>
-                </td>
-            </tr>
-            <tr id="row3">
-                <td>R3 C1</td>
-                <td>R3 C2</td>
-                <td>
-                    <a href="#" id="row3Link" class="rowLink">Move Me</a> |
-                    <a href="#" id="row3Up" class="rowUp">Up</a> | 
-                    <a href="#" id="row3Down" class="rowDown">Down</a>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-    <table id="table2" style="background-color: Yellow; margin-top: 30px;" class="displayTable">
-        <caption>Table 2</caption>
-        <thead>
-            <tr>
-                <th>One</th>
-                <th>Two</th>
-                <th>Three</th>
-            </tr>
-        </thead>
-        <tbody>
-        </tbody>
-    </table>
+<table id="table1" style="background-color: Lime" class="displayTable">
+    <caption>Table 1</caption>
+    <thead>
+        <tr>
+            <th>One</th>
+            <th>Two</th>
+            <th>Three</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr id="row1">
+            <td>R1 C1</td>
+            <td>R1 C2</td>
+            <td>
+                <a href="#" id="row1Link" class="rowLink">Move Me</a> |
+                <a href="#" id="row1Up" class="rowUp">Up</a> |
+                <a href="#" id="row1Down" class="rowDown">Down</a>
+            </td>
+        </tr>
+        <tr id="row2">
+            <td>R2 C1</td>
+            <td>R2 C2</td>
+            <td>
+                <a href="#" id="row2Link" class="rowLink">Move Me</a> |
+                <a href="#" id="row2Up" class="rowUp">Up</a> |
+                <a href="#" id="row2Down" class="rowDown">Down</a>
+            </td>
+        </tr>
+        <tr id="row3">
+            <td>R3 C1</td>
+            <td>R3 C2</td>
+            <td>
+                <a href="#" id="row3Link" class="rowLink">Move Me</a> |
+                <a href="#" id="row3Up" class="rowUp">Up</a> |
+                <a href="#" id="row3Down" class="rowDown">Down</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<table id="table2" style="background-color: Yellow; margin-top: 30px;" class="displayTable">
+    <caption>Table 2</caption>
+    <thead>
+        <tr>
+            <th>One</th>
+            <th>Two</th>
+            <th>Three</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
 
 ## Table Source Code
 
@@ -99,7 +99,7 @@ A couple of very basic tables, with "action" links in the third column. Judiciou
               <td>R1 C2</td>
               <td>
                   <a href="#" id="row1Link" class="rowLink">Move Me</a> |
-                  <a href="#" id="row1Up" class="rowUp">Up</a> | 
+                  <a href="#" id="row1Up" class="rowUp">Up</a> |
                   <a href="#" id="row1Down" class="rowDown">Down</a>
               </td>
           </tr>
@@ -108,7 +108,7 @@ A couple of very basic tables, with "action" links in the third column. Judiciou
               <td>R2 C2</td>
               <td>
                   <a href="#" id="row2Link" class="rowLink">Move Me</a> |
-                  <a href="#" id="row2Up" class="rowUp">Up</a> | 
+                  <a href="#" id="row2Up" class="rowUp">Up</a> |
                   <a href="#" id="row2Down" class="rowDown">Down</a>
               </td>
           </tr>
@@ -117,7 +117,7 @@ A couple of very basic tables, with "action" links in the third column. Judiciou
               <td>R3 C2</td>
               <td>
                   <a href="#" id="row3Link" class="rowLink">Move Me</a> |
-                  <a href="#" id="row3Up" class="rowUp">Up</a> | 
+                  <a href="#" id="row3Up" class="rowUp">Up</a> |
                   <a href="#" id="row3Down" class="rowDown">Down</a>
               </td>
           </tr>
@@ -144,7 +144,7 @@ One principle is that I don't want to hard-code all of the ID values. But that d
 ```javascript
 // Setup the "Move Me" links
 $(".rowLink").click(function () {
-    // get the row containing this link 
+    // get the row containing this link
     var row = $(this).closest("tr");
 
     // find out in which table it resides
@@ -196,70 +196,69 @@ $(".rowUp").click(function () {
 });
 ```
 
-    <script type="text/javascript">
-        $(document).ready(function () {
-            // Setup the "Move Me" links
-            $(".rowLink").click(function () {
-                // get the row containing this link 
-                var row = $(this).closest("tr");
+<script type="text/javascript">
+    $(document).ready(function () {
+        // Setup the "Move Me" links
+        $(".rowLink").click(function () {
+            // get the row containing this link
+            var row = $(this).closest("tr");
 
-                // find out in which table it resides
-                var table = $(this).closest("table");
+            // find out in which table it resides
+            var table = $(this).closest("table");
 
-                // move it
+            // move it
+            row.detach();
+
+            if (table.is("#table1")) {
+                $("#table2").append(row);
+            }
+            else {
+                $("#table1").append(row);
+            }
+
+            // draw the user's attention to it
+            row.fadeOut();
+            row.fadeIn();
+        });
+
+        // Setup the "Up" links
+        $(".rowUp").click(function () {
+            var row = $(this).closest("tr");
+
+            // Get the previous element in the DOM
+            var previous = row.prev();
+
+            // Check to see if it is a row
+            if (previous.is("tr")) {
+                // Move row above previous
                 row.detach();
-
-                if (table.is("#table1")) {
-                    $("#table2").append(row);
-                }
-                else {
-                    $("#table1").append(row);
-                }
+                previous.before(row);
 
                 // draw the user's attention to it
                 row.fadeOut();
                 row.fadeIn();
-            });
-
-            // Setup the "Up" links
-            $(".rowUp").click(function () {
-                var row = $(this).closest("tr");
-
-                // Get the previous element in the DOM
-                var previous = row.prev();
-
-                // Check to see if it is a row
-                if (previous.is("tr")) {
-                    // Move row above previous
-                    row.detach();
-                    previous.before(row);
-
-                    // draw the user's attention to it
-                    row.fadeOut();
-                    row.fadeIn();
-                }
-                // else - already at the top
-            });
-
-            // Setup the "Up" links
-            $(".rowDown").click(function () {
-                var row = $(this).closest("tr");
-
-                // Get the previous element in the DOM
-                var next = row.next();
-
-                // Check to see if it is a row
-                if (next.is("tr")) {
-                    // Move row above previous
-                    row.detach();
-                    next.after(row);
-
-                    // draw the user's attention to it
-                    row.fadeOut();
-                    row.fadeIn();
-                }
-                // else - already at the bottom
-            });
+            }
+            // else - already at the top
         });
 
-    </script>
+        // Setup the "Up" links
+        $(".rowDown").click(function () {
+            var row = $(this).closest("tr");
+
+            // Get the previous element in the DOM
+            var next = row.next();
+
+            // Check to see if it is a row
+            if (next.is("tr")) {
+                // Move row above previous
+                row.detach();
+                next.after(row);
+
+                // draw the user's attention to it
+                row.fadeOut();
+                row.fadeIn();
+            }
+            // else - already at the bottom
+        });
+    });
+</script>
