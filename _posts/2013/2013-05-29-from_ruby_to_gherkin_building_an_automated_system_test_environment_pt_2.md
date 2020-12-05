@@ -9,9 +9,7 @@ tags:
 ---
 
 
-<div class="float-right shadow p-3 rounded">
-![image depicting a ruby and gherkin](/images/fromRubyToGherkin.jpg)
-</div>
+![image depicting a ruby and gherkin](/images/fromRubyToGherkin.jpg){: .float-right .shadow .p-3 .rounded }
 
 _Follow-up to [Building a Test Script Environment with C# and IronRuby, pt
 1](/archive/2012/10/11/building_a_test_script_environment_with_c_and_ironruby_pt_1/),
@@ -48,15 +46,11 @@ them into the deep end with inadequate support. The <a
 href="http://marcbless.blogspot.com/2011/05/agile-principle-12-inspect-and-adapt.html">inspect-and-adapt</a>
 mentality suggests modifying the system testing approach.
 
-<div class="float-right shadow p-3 rounded bg-dark text-light">
-
+{:.float-right .shadow .p-3 .rounded .bg-dark .text-light}
 **Inspect and adapt:**
-
 1. Tests are still too hard to read, and
 1. The learning curve was too high,
 1. Therefore find a simpler product.
-
-</div>
 
 <a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> to the
 rescue! The Gherkin language provides a very simple format for writing tests in
