@@ -23,6 +23,8 @@ potential for positive use weighed against potential for misuse.
 
 <!--more-->
 
+![Coded Bias film poster](/images/CODED_Instagram_Post_1080px.jpg){: .float-right}
+
 The films [Coded Bias](https://www.codedbias.com/) (now in virtual theaters) and
 [The Social Dilemma](https://www.thesocialdilemma.com/) (Netflix) probe these
 issues in detail through powerful documentary filmmaking and storytelling. Where
