@@ -75,7 +75,7 @@ prominently in _Coded Bias_, and their website provides many resources for
 exploring this topic in more detail.
 
 These works send a clear message that data and the algorithms that exploit them
-are causing and will continue to cause harm unless reined in reconceptualized.
+are causing and will continue to cause harm unless reined in and reconceptualized.
 This is the techno-bureaucratic side of #BlackLivesMatter, calling for
 #InclusiveTech and #ResponsibleAI. As with so many other issues of equity and
 justice, we all need to stand up, take notice, and act.
