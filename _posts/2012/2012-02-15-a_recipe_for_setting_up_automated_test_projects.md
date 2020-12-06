@@ -6,27 +6,27 @@ basename: a_recipe_for_setting_up_automated_test_projects
 tags:
 - tech
 - dotnet
-- unit-test
+- testing
 excerpt_separator: <!--more-->
 ---
 
-Assuming that you are already sold on the notion of automated testing, it can be 
-useful to put a little thought into how projects will be setup. There are many 
-approaches to this; my approach is based on experience, the wisdom in _xUnit 
-Test Patterns_, and standard coding best practices. I will try to keep this 
-language agnostic, though my examples will be in C#. 
+Assuming that you are already sold on the notion of automated testing, it can be
+useful to put a little thought into how projects will be setup. There are many
+approaches to this; my approach is based on experience, the wisdom in _xUnit
+Test Patterns_, and standard coding best practices. I will try to keep this
+language agnostic, though my examples will be in C#.
 
 <!--more-->
 
 ### Separate Projects
 
-First, to maximize the benefit of unit testing, let's make a clear (and 
-industry standard) delineation between _unit_ and _integration_ 
+First, to maximize the benefit of unit testing, let's make a clear (and
+industry standard) delineation between _unit_ and _integration_
 testing:
 
 <ul>
-	<li>**Unit test** are in isolation from external resources, 
-	e.g. files, databases, web services; in SQL, it might be isolation from 
+	<li>**Unit test** are in isolation from external resources,
+	e.g. files, databases, web services; in SQL, it might be isolation from
 	foreign keys.</li>
 	<li>**Integration tests** utilize these resources.</li>
 </ul>
@@ -106,7 +106,7 @@ describe, in plain English, the purpose of the test. To be a real stickler about
 traceability, the method-level comments might mention a user story to which the
 test applies.
 
-Example from my <a href="http://reggie.codeplex.com">Reggie</a> project (more about Moles in a 
+Example from my <a href="http://reggie.codeplex.com">Reggie</a> project (more about Moles in a
 separate article):
 
 ```csharp

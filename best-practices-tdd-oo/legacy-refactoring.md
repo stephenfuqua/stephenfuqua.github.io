@@ -4,7 +4,7 @@ title: "Legacy Refactoring Isolation Patterns"
 permalink: /best-practices-tdd-oo/legacy-refactoring
 date: 2020-01-13
 comments: true
-tags: [unit-test, programming, oo]
+tags: [testing, programming, oo]
 ---
 
 Any code that has been released is "legacy code." This article is about that really old legacy code your team inherited (from itself?). It wasn't designed in a way that is amenable to unit testing, and yet you're on a mission to add features, stamp out bugs, and improve the quality through refactoring. Here are some brief, practical tips for getting through this Gordian knot without a scimitar.
@@ -32,9 +32,9 @@ Find the right pattern, and slowly refactor to take advantage of it (or them, as
 
 Write unit tests as you go, as soon as possible, so that further refactoring will now be covered. And soon you'll find yourself able to fix bugs and add features using full [test-driven development](test-driven-development), instead of always having the test coverage lag behind.
 
-Here's a handy flowchart to help think about test isolation (updated since [the original from 2014](archive/2014/08/06/unit-test-isolation-legacy/)):
+Here's a handy flowchart to help think about test isolation (updated since [the original from 2014](archive/2014/08/06/testing-isolation-legacy/)):
 
-![Test isolation flowchart](/images/unit-test-isolation-flowchart-2020.png){: .center-image .max-90 }
+![Test isolation flowchart](/images/testing-isolation-flowchart-2020.png){: .center-image .max-90 }
 
 ## Stubs and Mocks
 
@@ -42,7 +42,7 @@ Stubs and mocks are about faking out dependencies, allowing you to isolate the s
 
 Mocks are used for behavior verification after the system under test has run, whereas stubs more simply allow you to inject pre-defined input behavior into that system. Some mocking frameworks are very strict about this. And I used to be very strict about mocks and behavior: with MoQ, I would also use `MockBehavior.Strict` to ensure that no unexpected method calls were made on the mock. In a quickly evolving system, my teams found this resulted in brittle unit test code with little upside (that we could detect). So we stopped being so strict&hellip; and thousands of unit tests later I cannot think of a single time this decision has haunted me.
 
-Last year, the team I support began getting rid of RhinoMocks, which has been dead for a long time. Before blindly jumping on the well-trodden path of MoQ, the team evaluated FakeItEasy. And liked it. So do I. It made for an easy transition from RhinoMocks, as it has some similar syntax. And it does away with the explicit distinction between mocks and stubs. Again, haven't seen a problem with that yet. (See [Unit Test Tools and Patterns](unit-test-tools-patterns) for more on these frameworks).
+Last year, the team I support began getting rid of RhinoMocks, which has been dead for a long time. Before blindly jumping on the well-trodden path of MoQ, the team evaluated FakeItEasy. And liked it. So do I. It made for an easy transition from RhinoMocks, as it has some similar syntax. And it does away with the explicit distinction between mocks and stubs. Again, haven't seen a problem with that yet. (See [Unit Test Tools and Patterns](testing-tools-patterns) for more on these frameworks).
 
 But you can only create a fake object (aka test double, aka either stub or mock, &hellip;) when you are [using interfaces](solid-testing).
 
@@ -132,7 +132,7 @@ namespace mockAndStubExample
 }
 ```
 
-And now unit test it with the help of a hand-created mock (with behavior verification capability) and stub. See [Unit Test Tools and Patterns](unit-test-tools-patterns) for improved versions that use mock/fake tools and a more structured approach to test writing.
+And now unit test it with the help of a hand-created mock (with behavior verification capability) and stub. See [Unit Test Tools and Patterns](testing-tools-patterns) for improved versions that use mock/fake tools and a more structured approach to test writing.
 
 ```csharp
 using System;

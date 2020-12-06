@@ -3,7 +3,7 @@ layout: page
 title: Best Practices in TDD and OOD
 date: 2020-01-20
 comments: true
-tags: [unit-test, dotnet, programming]
+tags: [testing, dotnet, programming]
 sharing: true
 ---
 

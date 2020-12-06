@@ -3,7 +3,7 @@ layout: page
 title: "Upgrading safnet-directory, Part 2: Unit Tests"
 date: 2018-07-21
 comments: true
-tags: [dotnet, architecture, unit-test]
+tags: [dotnet, architecture, testing]
 sharing: true
 ---
 
@@ -45,7 +45,7 @@ private void ConfigureDependencyInjection(HttpConfiguration config)
 
 On the MVC-side of the house, I was using Owin as a cheap dependency manager for authentication with ASP.NET Identity framework. I will leave this alone for the moment, since that will likely require more radical change in the .NET Core future anyway.
 
-The members of the `IDbContext` were easy to identify, based on how the Controllers were using `ApplicationDbContext`. One of those members returns an `IQueryable`. For unit testing, I need to be able to mock it. [MockQueryable](https://github.com/romantitov/MockQueryable) will do nicely. It seems that it is also time to Install my [preferred unit testing tools](/archive/2018/07/04/dotnet-unit-test-tools/), [NUnit 3](http://nunit.org/) and [FluentAssertions](https://fluentassertions.com/).
+The members of the `IDbContext` were easy to identify, based on how the Controllers were using `ApplicationDbContext`. One of those members returns an `IQueryable`. For unit testing, I need to be able to mock it. [MockQueryable](https://github.com/romantitov/MockQueryable) will do nicely. It seems that it is also time to Install my [preferred unit testing tools](/archive/2018/07/04/dotnet-testing-tools/), [NUnit 3](http://nunit.org/) and [FluentAssertions](https://fluentassertions.com/).
 
 ```PowerShell
 > Install-package MockQueryable.Moq

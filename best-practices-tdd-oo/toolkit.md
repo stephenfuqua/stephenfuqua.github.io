@@ -4,7 +4,7 @@ title: "Toolkit for .NET Unit Testing"
 permalink: /best-practices-tdd-oo/toolkit
 date: 2020-01-16
 comments: true
-tags: [unit-test, programming, oo]
+tags: [testing, programming, oo]
 ---
 
 {: .bg-warning }Unfinished work-in-progress

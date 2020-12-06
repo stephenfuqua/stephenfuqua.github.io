@@ -3,7 +3,7 @@ layout: page
 title: Making a Mockery of Extension Methods
 date: 2014-04-10
 comments: true
-tags: [programming, unit-test]
+tags: [programming, testing]
 ---
 
 Recently I have been looking at <a href="https://github.com/ServiceStack/ServiceStack.OrmLite">ServiceStack's OrmLite </a> "Micro ORM" as a light-weight alternative to Entity Framework. It is relatively easy to use and very powerful, with capability for both code-first and database-first development. After learning the basic interaction, it was time to flip back into TDD-mode.
@@ -188,8 +188,8 @@ namespace TestProject
                 Assert.AreEqual(1, items.Count(), "items array count");
                 Assert.AreSame(input, items[0], "wrong item sent to the Save command");
 
-                // **** Inject an exception *** 
-                // don't worry that this isn't a SQL exception - just make sure to 
+                // **** Inject an exception ***
+                // don't worry that this isn't a SQL exception - just make sure to
                 // test that this same exception occurs when Save is called
                 throw new InvalidCastException();
             };

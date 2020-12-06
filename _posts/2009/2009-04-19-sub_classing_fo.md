@@ -6,7 +6,7 @@ basename: sub_classing_fo
 tags:
 - tech
 - dotnet
-- unit-test
+- testing
 excerpt_separator: <!--more-->
 ---
 
@@ -59,8 +59,8 @@ class tMyClass : MyClass
 
 		int actual = base.doSomething(inValue)
 
-		Assert.AreEqual(expected, actual, "Expected \"" 
-			+ expected.ToString() + "\" but actual was \"" 
+		Assert.AreEqual(expected, actual, "Expected \""
+			+ expected.ToString() + "\" but actual was \""
 			+ actual.ToString() + "\"");
 	}
 }
@@ -92,8 +92,8 @@ class tMyClass
 		int actual = sut.doSomething(inValue)
 
 
-		Assert.AreEqual(expected, actual, "Expected \"" 
-			+ expected.ToString() + "\" but actual was \"" 
+		Assert.AreEqual(expected, actual, "Expected \""
+			+ expected.ToString() + "\" but actual was \""
 			+ actual.ToString() + "\"");
 	}
 }

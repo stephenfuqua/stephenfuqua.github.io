@@ -4,7 +4,7 @@ title: "Another Adapter Example"
 permalink: /best-practices-tdd-oo/additional-adapter-example
 date: 2020-01-16
 comments: true
-tags: [unit-test, programming, oo]
+tags: [testing, programming, oo]
 ---
 
 Here is a class that was introduced in [Legacy Refactoring](legacy-refactoring):

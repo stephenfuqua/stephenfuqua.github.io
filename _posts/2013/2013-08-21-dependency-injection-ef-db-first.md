@@ -3,7 +3,7 @@ layout: page
 title: Making a Mockery of Extension Methods
 date: 2013-08-21
 comments: true
-tags: [dotnet, unit-test]
+tags: [dotnet, testing]
 ---
 
 **Problem**: how do you use Entity Framework, in database-first mode, when following the dependency injection development patterns?
@@ -35,11 +35,11 @@ public interface IIbaUnitTestEntities : IDisposable
     ObjectSet<Location> Locations { get; }
     ObjectSet<Person> People { get; }
     ObjectResult<Person> Person_Get(Guid? id, string openId, bool? all);
-    ObjectResult<Person> Person_Get(Guid? id, string openId, bool? all,  
+    ObjectResult<Person> Person_Get(Guid? id, string openId, bool? all,
         System.Data.Objects.MergeOption mergeOption);
-    int Person_Save(Guid? id, string firstName, string lastName, string openId,  
-        string emailAddress, string phoneNumber, string address1, string address2,  
-        string city, string state, string zipCode, string country, bool? hasBeenTrained,  
+    int Person_Save(Guid? id, string firstName, string lastName, string openId,
+        string emailAddress, string phoneNumber, string address1, string address2,
+        string city, string state, string zipCode, string country, bool? hasBeenTrained,
         bool? hasClipboard, short? personStatus, short? personRole);
 }
 ```
@@ -99,7 +99,7 @@ public class Class1
             var allPeople = db.Person_Get(null, "", true)
                               .ToList();
 
-            // Update the address for the first person in the list. 
+            // Update the address for the first person in the list.
             // Bad code! Doesn't check for null
             var firstPerson = allPeople.FirstOrDefault();
             firstPerson.Address1 = "new address";

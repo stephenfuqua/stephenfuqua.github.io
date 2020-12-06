@@ -4,7 +4,7 @@ title: "Test Driven Development"
 permalink: /best-practices-tdd-oo/test-driven-development
 date: 2020-01-17
 comments: true
-tags: [unit-test, programming, oo]
+tags: [testing, programming, oo]
 ---
 
 ## Thinking Like QA
@@ -63,10 +63,10 @@ To improve unit test readability, it is often helpful to [use these terms](patte
 
 Behavior-Driven Development, or BDD for short, is a variation on TDD that is focused on describing the application's behavior in business terminology. Often times it is used with integration and acceptance tests, using real-world language based approach to describe the testing conditions (the inputs, system, and outputs). The technique of "given-when-then" is used to write a plain-(English, Spanish, etc) description of the system behavior:
 
-> Given _some input condition_  
-&nbsp;&nbsp;And _another input condition_  
-&nbsp;When _some user or system takes an action_  
-&nbsp;Then _some expected output_  
+> Given _some input condition_
+&nbsp;&nbsp;And _another input condition_
+&nbsp;When _some user or system takes an action_
+&nbsp;Then _some expected output_
 &nbsp;&nbsp;And _another expected output_
 
 It should be clear that this is a reformulation of Arrange-Act-Assert. This language can be useful in TDD, especially when [structuring test classes](patterns) and methods so that the test output report is meaningful to non-developers. When writing tests as [nested classes](patterns#one-assert-per-test), I like to keep the action (which is invariant) in a parent class, changing the order to _When-Given-Then_. In ReSharper, I thus getting something like this:

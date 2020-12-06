@@ -4,7 +4,7 @@ title: "SOLID and Unit Testing"
 permalink: /best-practices-tdd-oo/solid-testing
 date: 2020-01-12
 comments: true
-tags: [unit-test, programming, oo]
+tags: [testing, programming, oo]
 ---
 
 S.O.L.I.D. (henceforth "SOLID") is a set of object-oriented design principals, assembled by Robert C. Martin and popularized in many of his articles and books. The following table is from his article [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod):
@@ -35,7 +35,7 @@ public class PeopleRepository
 
     public PeopleRepository(IDataAccess dataAccess)
     {
-        _dataAccess = dataAccess ??  
+        _dataAccess = dataAccess ??
             throw new ArgumentNullException(nameof(dataAccess));
     }
 
@@ -127,7 +127,7 @@ public EmailProcessor : IProcessor
     public void Initialize()
     {
         throw new NotImplementedException();
-    }  
+    }
 }
 
 public ProcessManager
@@ -213,7 +213,7 @@ In effect, this is turning the `HumanResourcesDbContext` into a set of Repositor
 So while the principle is sound and theoretically useful, in practice I've not seen it used often in clean code, highly testable code.
 
 {: .bg-info }
-For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/unit-testing-with-ef-core/)
+For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/testinging-with-ef-core/)
 
 ## Dependency Inversion Principle (DIP)
 

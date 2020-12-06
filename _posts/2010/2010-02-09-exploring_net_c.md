@@ -6,7 +6,7 @@ basename: exploring_net_c
 tags:
 - tech
 - dotnet
-- unit-test
+- testing
 excerpt_separator: <!--more-->
 ---
 
@@ -31,12 +31,12 @@ my last post</a>.
 <li>Must be patient with it - exploring .Net code takes some time</li>
 <li>Doesn't replace regular unit testing; rather, it augments by helping find cases you might not have thought about.</li>
 <li>Particularly useful for API and user applications where you don't know what data are coming in.</li>
-<li>It is up to the user to interpret the results; a "failing" test (exception thrown) might be due to a design feature 
+<li>It is up to the user to interpret the results; a "failing" test (exception thrown) might be due to a design feature
 (throw MyException in some situation), and a "passing" test might expose a logical problem that is programmatically legit.</li>
-<li>It comes with <a href="http://www.safnet.com/writing/tech/archives/2010/01/c_extension_met.html">ExtendedReflection</a>, 
+<li>It comes with <a href="http://www.safnet.com/writing/tech/archives/2010/01/c_extension_met.html">ExtendedReflection</a>,
 which can be used for instrumentation/performance profiling.</li>
 <li>It also comes with <a href="http://research.microsoft.com/en-us/projects/stubs/moles.aspx">Moles</a>, which creates "redirector"
-methods that can be used while writing unit test &mdash; e.g. can create a mock method body on method A that injects a particular 
+methods that can be used while writing unit test &mdash; e.g. can create a mock method body on method A that injects a particular
 behavior, and then test method B that calls method A to see if B handles the behavior properly. There are other mock-ing
 libraries out there, but this little one apparently goes farther than most by getting at static methods and sealed classes.</li>
 </ul>
@@ -64,16 +64,16 @@ Before I run this through, how about some self-criticism? Then we'll find out wh
 <ol>
 <li>What if `reader` is closed?</li>
 <li>What if `colName` is null, or empty?</li>
-<li>What if `colName` does not exist in the reader, and therefore `GetOrdinal` throws 
+<li>What if `colName` does not exist in the reader, and therefore `GetOrdinal` throws
 `IndexOutOfRangeException`?</li>
 </ol>
 
 Pex is installed. I'm in Visual Studio 2008, and I right-click on `GetStringFromName` to run Pex. Code
 build and Pex starts running. Response: "could not find any test to run.". I didn't expect that. In the demonstrations
-I saw today, Mr. Bock simply did I stated above, and it worked. I have a warning: "no explorations found after 
+I saw today, Mr. Bock simply did I stated above, and it worked. I have a warning: "no explorations found after
 applying all filters; did you forget a [PexClass] or [PexMethod] attribute?" Head back to the documentation&hellip; it
-looks like I need to "Run Pex Explorations" first, but I'm not given that option in the context menu. However, 
-I think "Run Pex" might be the same command as "Run Pex Explorations", so I'm not convinced that I did anything 
+looks like I need to "Run Pex Explorations" first, but I'm not given that option in the context menu. However,
+I think "Run Pex" might be the same command as "Run Pex Explorations", so I'm not convinced that I did anything
 wrong. Click on "could not find any test to run," and I get a helpful window stating:
 
 > This error occurs when Pex could not find an appropriate method to explore.
