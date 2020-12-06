@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Making a Mockery of Extension Methods
+title: Dependency Injection with DB-first Entity Framework
 date: 2013-08-21
 comments: true
 tags: [dotnet, testing]
