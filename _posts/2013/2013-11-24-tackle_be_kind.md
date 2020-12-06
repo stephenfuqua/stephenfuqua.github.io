@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'TACKLE: Be Kind'
+title: 'Be Kind'
 date: '2013-11-24 22:25:20 -0600'
 basename: tackle_be_kind
 - tech
@@ -42,11 +42,11 @@ What does it mean? <a href="https://www.etymonline.com/index.php?term=kind">Etym
 Online</a> suggests the original meaning was something like treating people like
 family. Let's focus on the ideal of family treatment, not the dysfunction, shall
 we? Why be kind? That whole Golden Rule thing, for one. To whom should
-programmers be kind? Users, stakeholders, each other, themselves. 
+programmers be kind? Users, stakeholders, each other, themselves.
 
 <ul>
 	<li>**USERS**: a successful application tries to help the user, actively thinking about his/her tasks and the context for those tasks. Is the individual use the application constantly? Then place even more emphasis than usual on easy screen navigation, without the need of repetitive wrist movements. Use clear and easy-to-understand terminology, on screen and in error messages. Learn the language of your users, so that these messages are meaningful to them, rather than being cryptic programmer-speak.</li>
-	<li>**STAKEHOLDERS**: provide meaningful insight into project status, so that they can react to delays, innovations, questions. They can't do their jobs without those insights. And if they can't do their jobs, then your software project is unlikely to be successful.</li> 
+	<li>**STAKEHOLDERS**: provide meaningful insight into project status, so that they can react to delays, innovations, questions. They can't do their jobs without those insights. And if they can't do their jobs, then your software project is unlikely to be successful.</li>
 <li>**EACH OTHER**: provide documentation; write clean, <a href="/archive/2013/07/tackle-be-coherent.html">coherent code</a>; support and encourage each other.</li>
 	<li>**YOURSELF**: think of your future self. Don't take shortcuts or be lazy, as it will come back to haunt you at 2:00 AM when production is down. Go ahead and write a few more tests to bring that test coverage up to 90% or more, even if no one else is looking. Your future self will thank you for it.</li>
 </ul>

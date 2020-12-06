@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'TACKLE: Be Coherent'
+title: 'Be Coherent'
 date: '2013-07-26 13:55:38 -0500'
 basename: tackle_be_coherent
 tags:
