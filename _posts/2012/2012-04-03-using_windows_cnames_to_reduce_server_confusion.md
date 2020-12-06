@@ -5,7 +5,7 @@ date: '2012-04-03 19:20:19 -0500'
 basename: using_windows_cnames_to_reduce_server_confusion
 tags:
 - tech
-- windows
+- Windows
 excerpt_separator: <!--more-->
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Fork Problem with Cygwin
 date: '2003-12-18 04:34:56 -0600'
 basename: fork_problem_with_cy
-tags: [tech, windows]
+tags: [tech, Windows]
 excerpt_separator: <!--more-->
 ---
 

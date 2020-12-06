@@ -3,7 +3,7 @@ layout: page
 title: 'Securing and Optimizing Linux, pt. 1: Services'
 date: '2003-11-13 17:47:07 -0600'
 basename: securing_and_op
-tags: [tech, linux]
+tags: [tech, Linux]
 excerpt_separator: <!--more-->
 ---
 
@@ -35,7 +35,7 @@ to 6. Each of these corresponds to a _run level_:
 * `2` - multiuser mode, no NFS mounting
 * `3` - full multiuser mode
 * `4` -unused _(I have no idea why)_
-* `5` - startup in X-windows
+* `5` - startup in X-Windows
 * `6` - reboot
 
 Within each directory are a number of <acronym title="also called shortcuts,
@@ -58,7 +58,7 @@ In particular keep a look out for unnecessary network protocols, such as NFS,
 portmap, and xinetd. Obviously these do have their uses, but if you don't know
 what they are, then you won't need these particular entries I assure you. If
 your main startup mode is at the command prompt, you'll need to remove these and
-other extraneous entries from `/etc/rc.d/rc3.d`. If you startup in X windows
+other extraneous entries from `/etc/rc.d/rc3.d`. If you startup in X Windows
 with a graphical login prompt, then you'll need to clean up `/etc/rc.d/rc5.d`.
 Probably best to clean up both.
 

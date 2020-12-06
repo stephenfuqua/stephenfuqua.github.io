@@ -3,7 +3,7 @@ layout: page
 title: Configuring RP-PPPOE in Red Hat Linux 9
 date: '2003-11-09 18:03:32 -0600'
 basename: configuring_rpp
-tags: [tech, linux]
+tags: [tech, Linux]
 excerpt_separator: <!--more-->
 ---
 

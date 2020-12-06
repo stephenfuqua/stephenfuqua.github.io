@@ -5,7 +5,7 @@ date: '2009-10-15 20:43:29 -0500'
 basename: bonjour_is_evil
 tags:
 - tech
-- windows
+- Windows
 excerpt_separator: <!--more-->
 ---
 
