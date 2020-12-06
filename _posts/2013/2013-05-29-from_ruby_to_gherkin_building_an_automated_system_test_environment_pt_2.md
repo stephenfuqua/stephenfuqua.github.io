@@ -6,6 +6,7 @@ basename: from_ruby_to_gherkin_building_an_automated_system_test_environment_pt_
 tags:
 - tech
 - programming
+- testing
 ---
 
 
