@@ -80,7 +80,7 @@ This is the techno-bureaucratic side of #BlackLivesMatter, calling for
 #InclusiveTech and #ResponsibleAI. As with so many other issues of equity and
 justice, we all need to stand up, take notice, and act.
 
-1. Think twice before choosing to us AI/ML. Then get an outside review.
+1. Think twice before choosing to use AI/ML. Then get an outside review.
 2. Vet your data sets carefully and clearly describe their origin and use for
    posterity and review.
 3. Ask yourself: what are the potential impacts of the technology I am
@@ -88,3 +88,7 @@ justice, we all need to stand up, take notice, and act.
 4. Cross-validate your assumptions, data, and results with a broad and
    representative audience.
 5. Keep listening. Keep learning.
+
+{: .text-center}
+![Slack - choosing skin tone](/images/choose_skin_tone.png)<br>
+_Something positive: choosing an emoji skin tone_
