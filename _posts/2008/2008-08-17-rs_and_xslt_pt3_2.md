@@ -18,6 +18,7 @@ the data in the SQL query to make sure it doesn't exceed the data width:
 
 <!--more-->
 
+{: .table .table-condensed .table-bordered}
 | Record Type | Static Data | Dynamic Data | Width |
 | -- | -- | -- | -- |
 | Header | 01 |  | 2 |
@@ -150,8 +151,8 @@ Analysis:
 
 _imported from old Movable Type blog_
 
-> author: James Telfer\
-> date: '2008-10-28 18:44:11 -0500'\
+> author: James Telfer<br>
+> date: '2008-10-28 18:44:11 -0500'<br>
 > url: http://jtnlex.com/blog
 >
 > After going through pretty much the same experience as you seem to have with
@@ -171,7 +172,7 @@ _imported from old Movable Type blog_
 
 ---
 
-> author: Stephen Fuqua\
+> author: Stephen Fuqua<br>
 > date: '2008-10-28 20:15:19 -0500'
 >
 > I haven't needed these characters in any of my text reports so hadn't run into

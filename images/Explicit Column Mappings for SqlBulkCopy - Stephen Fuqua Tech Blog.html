@@ -1,0 +1,171 @@
+<!DOCTYPE HTML>
+<html>
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Explicit Column Mappings for SqlBulkCopy - Stephen Fuqua Tech Blog</title>
+    <meta name="author" content="">
+    <meta name="description" content=" Technical blogging from a (primarily) .NET software architect who occasionally dabbles in Linux, Node.js, testing, etc. ">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="" rel="alternate" title="Stephen Fuqua Tech Blog" type="application/atom+xml">
+    <link rel="canonical" href="http://localhost:4000/archive/2011/01/18/explicit_column/">
+    <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <!-- <link href="https://www.safnet.com/css/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="/styles/safnet.css" rel="stylesheet" name="safnet" type="text/css">
+    <link href="/styles/safnet-tech.css" rel="stylesheet" name="safnet" type="text/css">
+    <link href="/styles/code.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-550669-1', 'safnet.com');
+    ga('send', 'pageview');
+    </script>
+    <link rel="icon" href="/favicon.png">
+</head>
+
+<body>
+    <div class="container">
+  <div class="row">
+      <section class="col-sm-12">
+        <div class="jumbotron">
+        </div>
+      </section>
+  </div>
+</div>
+    <section>
+        <div class="container">
+            <div class="row">
+                <section class="col-sm-9">
+                    <div id="content" class="inner">
+
+<article class="page">
+
+    <h1 class="title">Explicit Column Mappings for SqlBulkCopy</h1>
+
+
+    <h4 id="post-subtitle"><time datetime="2011-01-18T10:25:57-06:00">Jan. 18, 2011</time></h4>
+
+    <div class="entry-content">
+        <p>Recently, I received a code delivery that worked on our development server but
+failed in unit tests on my box. The culprit was a method that transformed a
+<code class="highlighter-rouge">List<T></code> into a <code class="highlighter-rouge">DataTable</code> and used that <code class="highlighter-rouge">DataTable</code> to load data into
+SQL Server using <a href="http://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy.aspx">SqlBulkCopy</a>.
+Lesson: apply column mappings.</p>
+
+<!--more-->
+
+<p>We went back and forth: “it doesn’t work,” I reported. “But it works on the dev
+server,” says the developer. Can we both be right? I rebuild the code from my
+machine, where the unit test is not passing (due to an attempt to insert a value
+into a calculated column). Install on the dev server. Works without error.</p>
+
+<p>Next day I’m reviewing another application that uses <code class="highlighter-rouge">SqlBulkCopy</code>. Another
+error. This time, data for one field is being inserted into another field. All
+along I suspected that the explicit ColumnMappings were needed. Now with a
+second data point, I went to look at the schema.</p>
+
+<ul>
+<li>On the dev server, the first table had the calculated column as the last field, but on mine the last two fields were flipped.</li>
+<li>An older version of the second table's create script did not have an identity field. It exists in production, but if the corrected script were not loaded on the developer's unit testing database, then the field would be missing. It is the first field in the table.</li>
+</ul>
+
+<p>So, although I see nothing  stating this in the <a href="http://msdn.microsoft.com/en-us/library/434atets.aspx">documentation</a>,
+it appears that the order of the columns in the destination table matters. In
+fact, without explicitly mapping columns using the <a href="http://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy.columnmappings.aspx">ColumnMappings</a>
+property, the source and destination are matched by index, rather than column
+name. Thus if <code class="highlighter-rouge">Table1</code> is defined as <code class="highlighter-rouge">(Field1 varchar(10), Field2 varchar(10))</code>
+and it is loaded using <code class="highlighter-rouge">Object2 { string Field2; string Field1 }</code>, then the
+values loaded into the database will be flipped, <code class="highlighter-rouge">Object2.Field2</code> →
+<code class="highlighter-rouge">Table1.Field1</code>. Add an explicit mapping and now it works.</p>
+
+
+
+
+
+
+        <p id="post-meta">Posted  with <i class="fa fa-tags"></i>: <a href="/tag/tech/">Tech</a>, <a href="/tag/dotnet/">Microsoft .NET Framework</a>, <a href="/tag/programming/">General Programming</a></p>
+
+     </div>
+</article>
+
+</div>
+                </section>
+                <section id="sidebar" class="col-sm-3" style="margin-top: 1em;">
+                    <div id="about" class="well">
+                        <h1>About</h1>
+                        <p>Stephen A. Fuqua (SAF) is a Bahá'í, software developer, and conservation and interfaith advocate who lives in Austin, Texas, USA.</p>
+                    </div>
+                    <div id="recentposts" class="well">
+                        <h1>Recent Posts</h1>
+                        <li><a href="/archive/2020/12/05/2013-11-24-tackle_be_kind/"></a></li>
+
+                        <li><a href="/archive/2020/08/18/whats-in-a-name-attitude/">What's in a Name? Attitude.</a></li>
+
+                        <li><a href="/archive/2020/08/08/teamcity-kotlin-template-inheritance/">Template Inheritance with TeamCity Kotlin</a></li>
+
+                        <li><a href="/archive/2020/06/24/ed-fi-in-containers/">Call for Community Expertise and Input – Ed-Fi in Containers!</a></li>
+
+                        <li><a href="/archive/2020/05/24/points-on-bugs/">Points on Bugs and Spikes</a></li>
+
+                        <li><a href="/archive/2020/03/22/splitting-teamcity-kotlin-into-multiple-files/">Splitting TeamCity Kotlin Into Multiple Files</a></li>
+
+                        <li><a href="/archive/2020/03/21/infrastructure-as-code-in-teamcity/">Getting Started with Infrastructure as Code in TeamCity</a></li>
+
+                        <li><a href="/archive/2020/02/14/analytics-middle-tier-grows-up/">The Analytics Middle Tier Grows Up</a></li>
+
+                        <li><a href="/archive/2020/01/20/best-practices-tdd-oo/">Best Practices in TDD and OOD</a></li>
+
+                        <li><a href="/archive/2019/12/27/unit-testing-with-ef-core/">Unit Testing with Entity Framework Core and Async</a></li>
+
+                    </div>
+                    <div id="logcontent" class="well">
+                        <h1>Meta</h1>
+                        <p>Archives: <a href="https://www.safnet.com/archives.html">Blog</a> &middot; <a href="/archive/index.html">Tech</a>
+                        </p>
+                        <p>Feeds: <a href="https://www.safnet.com/atom.xml">Blog</a> &middot; <a href="/feed.xml">Tech</a>
+                        </p>
+                        <div id="tagcloud">
+                        	<!-- TODO -->
+                        </div>
+                    </div>
+                </section>
+                </div>
+                </div>
+    </section>
+    <footer id="footer" class="inner">
+        <div class="container well">
+                    <p>
+            The information on this site, unless otherwise attributed, is the sole opinion of its author and should not be construed as reflecting the views of any organization or employer unless explicitly stated.</p>
+        <p>
+            Copyright &copy; 2020 - <a href="https://www.safnet.com">Stephen A. Fuqua</a>. Content and design are published under the Creative Commons <a href="http://creativecommons.org/licenses/by-sa/3.0/">
+                Attribution - ShareAlike 3.0</a> License. Unless otherwise stated or granted, source code is licensed under the <a href="/LICENSE">MIT license</a>.
+        </p>
+
+        </div>
+    </footer>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+    <script>
+    $(function() {
+        $('[data-toggle="tooltip"]').tooltip();
+    });
+    </script>
+</body>
+
+</html>

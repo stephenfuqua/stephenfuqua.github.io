@@ -91,10 +91,8 @@ Studio-integrated</a> Report Designer, though the things I've heard had left me
 confused on that point (BOL may be out of date, or the presentation at TechFuse
 was wrong?). The blog link below clears up the confusion.
 
-<ul>
-<li>Blog: <a href="http://blogs.msdn.com/bwelcker/archive/2007/12/11/transmissions-from-the-satellite-heart-what-s-up-with-report-builder.aspx">Transmissions from the Satellite Heart (What's up with Report Builder?)</li>
-<li>Books Online: <a href="http://msdn2.microsoft.com/en-us/library/ms159750(SQL.100).aspx">Designing and Implementing Reports Using Report Builder</a></li>
-</ul>
+* Blog: <a href="http://blogs.msdn.com/bwelcker/archive/2007/12/11/transmissions-from-the-satellite-heart-what-s-up-with-report-builder.aspx">Transmissions from the Satellite Heart (What's up with Report Builder?)
+* Books Online: <a href="http://msdn2.microsoft.com/en-us/library/ms159750(SQL.100).aspx">Designing and Implementing Reports Using Report Builder</a>
 
 ## Integration Services
 
@@ -131,8 +129,8 @@ bulk loads.
 
 _imported from old Movable Type blog_
 
-> author: Derek Comingore\
-> date: '2008-06-13 19:56:34 -0500'\
+> author: Derek Comingore<br>
+> date: '2008-06-13 19:56:34 -0500'<br>
 > url: http://weblogs.sqlteam.com/derekc
 >
 > Thanks for the reference.

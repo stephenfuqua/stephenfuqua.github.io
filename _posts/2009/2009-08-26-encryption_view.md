@@ -21,6 +21,7 @@ to this has been an adventure.
 
 Let's give this as the table structure:
 
+{: .table .table-striped .table-bordered .table-condensed}
 | ADDRESS |
 | -- |
 | ADDRESS_ID INT IDENTITY(1,1) PRIMARY KEY |
@@ -81,15 +82,15 @@ using (UnitTestEntities db = new UnitTestEntities())
 }
 ```
 
-But InsertAddress doesn't exist. Why? Because in my case it returns a scalar 
-rather than an Entity. The solution is that you must hand-code the C# 
-representation of the function. You see, when it was added to the model, it was 
+But InsertAddress doesn't exist. Why? Because in my case it returns a scalar
+rather than an Entity. The solution is that you must hand-code the C#
+representation of the function. You see, when it was added to the model, it was
 just in XML  - there is no link in C#.
 
 ## Creating the Custom Function in C#
 
 Finally I found helpful documentation: How to:
-<a href="http://msdn.microsoft.com/en-us/library/dd296754.aspx">Define Custom 
+<a href="http://msdn.microsoft.com/en-us/library/dd296754.aspx">Define Custom
 Functions in the Storage Model</a>.
 
 It turns out that the Entity Framework is essentially its own database layer. So
@@ -121,15 +122,15 @@ public void InsertRecord(ADDRESS record)
     command.Parameters.Add(new EntityParameter ("ANOTHER_ID", DbType.Int32) { Value = record.ANOTHER_ID });
     if (command.Connection.State == ConnectionState.Closed)
     {
-	    command.Connection.Open();
+        command.Connection.Open();
     }
     try
     {
-		  record.ADDRESS_ID = int.Parse(command.ExecuteScalar().ToString());
+        record.ADDRESS_ID = int.Parse(command.ExecuteScalar().ToString());
     }
     finally
     {
-		  Connection.Close();
+        Connection.Close();
     }
-} 
+}
 ```

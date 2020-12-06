@@ -4,11 +4,14 @@ title: Dependency Injection with DB-first Entity Framework
 date: 2013-08-21
 comments: true
 tags: [dotnet, testing]
+excerpt_separator: <!--more-->
 ---
 
 **Problem**: how do you use Entity Framework, in database-first mode, when following the dependency injection development patterns?
 
 **Answer**: take advantage of partial classes and manually create the interface. The following notes are just a sketch without full details.
+
+<!--more-->
 
 For this demonstration, I'll create a new Entity Framework "ADO.NET Data Model" with a couple of tables and two stored procedure calls. This is a quick-and-dirty demonstration, so I'm not trying to setup Entity Framework and my procedure calls in an ideal fashion; it will be "just enough" for the demo.
 

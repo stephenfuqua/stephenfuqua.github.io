@@ -35,11 +35,11 @@ private method called doSomething(int inValue) and returns an int:
 ```csharp
 class MyClass
 {
-	private int doSomething(int inValue)
-	{
-		int value = inValue + 1;
-		return value;
-	}
+    private int doSomething(int inValue)
+    {
+        int value = inValue + 1;
+        return value;
+    }
 }
 ```
 
@@ -51,18 +51,18 @@ that. But, here's the way we were writing the test:
 [Test]
 class tMyClass : MyClass
 {
-	[Test]
-	public void t_doSomething()
-	{
-		int inValue = 1;
-		int expected = 2;
+    [Test]
+    public void t_doSomething()
+    {
+        int inValue = 1;
+        int expected = 2;
 
-		int actual = base.doSomething(inValue)
+        int actual = base.doSomething(inValue)
 
-		Assert.AreEqual(expected, actual, "Expected \""
-			+ expected.ToString() + "\" but actual was \""
-			+ actual.ToString() + "\"");
-	}
+        Assert.AreEqual(expected, actual, "Expected \""
+            + expected.ToString() + "\" but actual was \""
+            + actual.ToString() + "\"");
+    }
 }
 ```
 
@@ -72,29 +72,29 @@ probably work better, if we do the following:
 ```csharp
 class MyClassTestStub : MyClass
 {
-	public override int doSomething(int inValue)
-	{
-		return base.doSomething(inValue);
-	}
+    public override int doSomething(int inValue)
+    {
+        return base.doSomething(inValue);
+    }
 }
 
 [Test]
 class tMyClass
 {
-	[Test]
-	public void t_doSomething()
-	{
-		int inValue = 1;
-		int expected = 2;
+    [Test]
+    public void t_doSomething()
+    {
+        int inValue = 1;
+        int expected = 2;
 
-		MyClassTestStub sut = new MyClassTestStub();
+        MyClassTestStub sut = new MyClassTestStub();
 
-		int actual = sut.doSomething(inValue)
+        int actual = sut.doSomething(inValue)
 
 
-		Assert.AreEqual(expected, actual, "Expected \""
-			+ expected.ToString() + "\" but actual was \""
-			+ actual.ToString() + "\"");
-	}
+        Assert.AreEqual(expected, actual, "Expected \""
+            + expected.ToString() + "\" but actual was \""
+            + actual.ToString() + "\"");
+    }
 }
 ```

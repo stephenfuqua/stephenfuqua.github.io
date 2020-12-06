@@ -7,6 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
+excerpt_separator: <!--more-->
 ---
 
 
@@ -29,9 +30,8 @@ applications, we were able to utilize netTcpBinding for increased performance
 and simpler security, in comparison to httpBinding and wsHttpBinding. But as we
 shall see, that decision had an unforeseen consequence.
 
-<div class="float-right shadow p-3 rounded">
+{: .float-right .shadow .p-3 .rounded}
 ![image showing two services communicating through a firewall](/images/wcfClientServer1.png)
-</div>
 
 TCP binding with either Message or Transport is secured by Kerberos tokens
 issued by Active Directory in a Windows network, whereas wsHttpBinding uses a
@@ -52,9 +52,8 @@ under different service accounts in production, and (b) one of the service
 accounts  was not in the same Active Directory domain as the servers (both
 domains being in the same Tree, however).
 
-<div class="float-right shadow p-3 rounded">
+{: .float-right .shadow .p-3 .rounded}
 ![image showing a domain controller reachable by servers on both sides of the firewall](/images/wcfClientServer2.png)
-</div>
 
 To prevent getting too long winded, I won't repeat most of what I found in three
 particularly helpful Microsoft resources &mdash; well, helpful once I was able
@@ -96,7 +95,7 @@ var uri = "net.tcp://Service2.MyTree.MyForest.local:1234/SomeContract";
 var upn = EndpointIdentity.CreateUpnIdentity("asdf@domain2.MyTree.MyForest.local");
 var endpointAddress = new EndpointAddress(uri, upn);
 
-var binding = new NetTcpBinding(); 
+var binding = new NetTcpBinding();
 // set additional options
 var channelFactory = new ChannelFactory<ISomeContract>(binding, endpointAddress);
 
@@ -113,7 +112,7 @@ When running under the Network Service account &mdash; that is, using an SPN ins
 
 **Important Note:** the syntax highlighter is converting `userPrincipleName` to the incorrect `userprinciplename` and likewise, `servicePrincipleName` to `serviceprinciplename`.
 
-And 
+And
 
 ```csharp
 var upn = EndpointIdentity.CreateSpnIdentity("host/Service2.MyTree.MyForest.local:1234");

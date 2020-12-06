@@ -17,11 +17,15 @@ running under a very high load). Two easy steps:
 
 <!--more-->
 
-<ol>
-<li>Per <a href="http://support.microsoft.com/kb/894435">http://support.microsoft.com/kb/894435</a>, set IIS to 32 bit compability mode, and re-installed (with `aspnet_regiis.exe`) both versions in all sites.
-</li>
-<li>Once this is done you can't get the ASP.Net tab back in IIS properties. To manually install the proper ASP.Net version in a particular app (i.e. /MyApp): in cmd line, under appropriate version in `c:\windows\Microsoft.Net\Framework\{version}`, type `aspnet_regiis.exe -sn W3SVC/1/Root/MyApp`.</li>
-</ol>
+* Per <a
+  href="http://support.microsoft.com/kb/894435">http://support.microsoft.com/kb/894435</a>,
+  set IIS to 32 bit compability mode, and re-installed (with
+  `aspnet_regiis.exe`) both versions in all sites.
+* Once this is done you can't get the ASP.Net tab back in IIS properties. To
+  manually install the proper ASP.Net version in a particular app (i.e. /MyApp):
+  in cmd line, under appropriate version in
+  `c:\windows\Microsoft.Net\Framework\{version}`, type `aspnet_regiis.exe -sn
+  W3SVC/1/Root/MyApp`.
 
 Hat tip to <a href="http://www.egilh.com/blog/archive/2005/03/17/602.aspx">Egil
-Hogholt</a> for the `aspnet_regiis **-sn**` suggestion.
+Hogholt</a> for the `aspnet_regiis -sn` suggestion.

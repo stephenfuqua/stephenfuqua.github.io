@@ -67,7 +67,7 @@ is the rare class which has public methods. These methods should be _covered_ in
 tests of the domain layer, but I don't see much point right now in trying to
 write tests that only run the constructor and inspect the properties. So, with
 the domain layer, we would try to write tests if there are custom _methods_ but
-for now we would not need tests to cover _properties _or _constructors_.
+for now we would not need tests to cover _properties_ or _constructors_.
 
 The code supplied does a covers a number of methods in the DataMapper layer, so
 that's good. But, the service layer is left out entirely; it has not been

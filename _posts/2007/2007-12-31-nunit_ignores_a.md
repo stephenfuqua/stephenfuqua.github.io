@@ -27,7 +27,7 @@ as expected.
 
 _imported from old Movable Type blog_
 
-> author: Asif\
+> author: Asif<br>
 > date: '2009-02-26 04:14:50 -0600'
 >
-> Better explanation::http://david.givoni.com/blog/?p=4
+> Better explanation :: http://david.givoni.com/blog/?p=4

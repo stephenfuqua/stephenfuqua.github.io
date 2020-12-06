@@ -7,6 +7,7 @@ tags:
 - tech
 - sdlc
 - meta
+excerpt_separator: <!--more-->
 ---
 
 Hypothesis: at the beginning of their careers (and perhaps well into them), most

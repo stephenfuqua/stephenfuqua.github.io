@@ -11,13 +11,13 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Dr. Brooks is my new&hellip; well, I can't think of an appropriate noun. Certainly 
-not a deity. One book does not make him a favorite tech author. Static text cannot make 
+Dr. Brooks is my new&hellip; well, I can't think of an appropriate noun. Certainly
+not a deity. One book does not make him a favorite tech author. Static text cannot make
 him a mentor. Maybe tech hero?
 
 <!--more-->
 
-_The Mythical Man-Month _is a true classic. Many have heard of it; I wonder how
+_The Mythical Man-Month_ is a true classic. Many have heard of it; I wonder how
 many in my generation have taken the time to read it? Although it was written
 primarily* in the mid-seventies, based on experiences from the mid-sixties, it
 nevertheless offers
@@ -26,7 +26,7 @@ nevertheless offers
 	<li>Brilliant insights on the working of computers and software;</li>
 	<li>Brilliant insights on the workings of the people who work on them;</li>
 	<li>Unintentional but illuminating lessons in history;</li>
-	<li>A powerful argument for the importance of _process_ but against 
+	<li>A powerful argument for the importance of _process_ but against
 	its ossification;</li>
 	<li>And of course, much sage advice.</li>
 </ol>

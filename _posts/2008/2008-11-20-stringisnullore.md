@@ -33,7 +33,7 @@ should avoid its usage:
 
 _imported from old Movable Type blog_
 
-> author: Rob\
+> author: Rob<br>
 > date: '2009-03-10 06:39:07 -0500'
 >
 > As well as not being an issue for .Net 3/3.5 as you suggest, it was also fixed

@@ -9,7 +9,7 @@ tags:
 - sql-server
 ---
 
-**Problem: **you have an application that needs to trigger some process via SQL
+**Problem:** you have an application that needs to trigger some process via SQL
 Server but don't want your main process hung up waiting. So you decide to setup
 Service Broker in order to make an asynchronous call, with the receiving service
 doing your work for you. You've read all about it, and tried it out after hours,
@@ -25,7 +25,7 @@ anything was occurring. The SQLTeam blog <a
 href="http://www.sqlteam.com/article/how-to-troubleshoot-service-broker-problems">
 pointed out </a>that there are a number of events that can be monitored in the
 SQL Profiler. Thanks to the Profiler, I could see this error: `Could not obtain
-information about Windows NT group/user&hellip; `. Working from home, and
+information about Windows NT group/user...`. Working from home, and
 apparently it was trying to validate me, even though I've never had any other
 problems with the database. Found an MSDN <a
 href="http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=542041&amp;SiteID=1">

@@ -7,7 +7,7 @@ tags: [tech, dotnet]
 excerpt_separator: <!--more-->
 ---
 
-Actually, that's a slightly misleading title. You should trust `List&lt;T&gt;`,
+Actually, that's a slightly misleading title. You should trust `List<T>`,
 but you should also know its limitations. Here is one of the dangers of
 launching into using new functionality without reading all of the documentation.
 I've been having trouble because a client application produces thousands of
@@ -21,7 +21,7 @@ sort order, but then the ordering is getting lost. Why is that?
 
 <!--more-->
 
-`List&lt;T&gt;` is basically what I remember as a vector in C++: an expandable,
+`List<T>` is basically what I remember as a vector in C++: an expandable,
 more flexible array. Its been a while since I wrote anything in C++, so I don't
 remember if vectors (in the STL) behave this way, but it seems like a pretty
 natural assumption that the generic `List` would behave like arrays, with a
@@ -35,7 +35,7 @@ to be sorted."
 
 I was not a computer science major. I only took a few programming classes, so I
 don't always have a strong intuitive sense for memory allocation and usage. But
-now that I think about it, this makes perfect sense. `List&lt;T&gt;` is the
+now that I think about it, this makes perfect sense. `List<T>` is the
 generic implementation of an `ArrayList`. And as we <a
 href="http://msdn2.microsoft.com/en-us/library/system.collections.arraylist(VS.80).aspx">know</a>,
 `ArrayList` "Implements the IList interface using an array whose size is
@@ -55,15 +55,13 @@ than input sequence.
 
 So what should I do? There should be two answers:
 
-<ol>
-<li>Sort the results before using them, using `List&lt;T&gt;`'s `Sort()` method, or</li>
-<li>find another generic that stores its info in a queue instead.</li>
-</ol>
+1. Sort the results before using them, using `List<T>`'s `Sort()` method, or
+1. find another generic that stores its info in a queue instead.
 
-A quick search through the <a
-href="http://msdn2.microsoft.com/en-us/library/system.collections.generic.aspx">System.Collections.Generic</a>
-namespace reveals that there is indeed a generic `<a
-href="http://msdn2.microsoft.com/en-us/library/7977ey2c.aspx">Queue&lt;T&gt;</a>`,
-which "Represents a first-in, first-out collection of objects." So there you go:
-if you care about the order in which you added the entries into your collection,
+A quick search through the
+[System.Collections.Generic](http://msdn2.microsoft.com/en-us/library/system.collections.generic.aspx)
+namespace reveals that there is indeed a generic
+[Queue&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/7977ey2c.aspx), which
+"Represents a first-in, first-out collection of objects." So there you go: if
+you care about the order in which you added the entries into your collection,
 then use a `Queue` instead of a `List`.

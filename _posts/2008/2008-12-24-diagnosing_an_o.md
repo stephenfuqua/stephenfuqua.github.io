@@ -91,8 +91,8 @@ finally solved.
 
 _imported from old Movable Type blog_
 
-> author: Mike Fiedler\
-> date: '2009-02-10 18:36:56 -0600'\
+> author: Mike Fiedler<br>
+> date: '2009-02-10 18:36:56 -0600'<br>
 > url: http://www.miketheman.net
 >
 > Hi there.

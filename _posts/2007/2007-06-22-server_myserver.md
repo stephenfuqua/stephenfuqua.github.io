@@ -37,7 +37,7 @@ exec sp_serveroption @server='myserver', @optname='rpc out', @optvalue='true'
 
 _imported from old Movable Type blog_
 
-> author: Kshitij Punjani\
+> author: Kshitij Punjani<br>
 > date: '2007-06-25 15:42:17 -0500'
 >
 > Nice way out!

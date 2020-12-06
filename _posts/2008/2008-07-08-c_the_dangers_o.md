@@ -75,7 +75,7 @@ altogether.
 
 _imported from old Movable Type blog_
 
-> author: Abel Newland\
+> author: Abel Newland<br>
 > date: '2009-02-11 12:29:51 -0600'
 >
 > You should read "C# 2008 and 2005 Threaded Programming: Beginner's Guide", by Gaston C. Hillar - http://www.packtpub.com/beginners-guide-for-C-sharp-2008-and-2005-threaded-programming/book
@@ -88,8 +88,8 @@ _imported from old Movable Type blog_
 
 ---
 
-> author: Jon Skeet\
-> date: '2009-05-07 15:48:18 -0500'\
+> author: Jon Skeet<br>
+> date: '2009-05-07 15:48:18 -0500'<br>
 > url: http://csharpindepth.com
 >
 > In my experience the performance difference between for and foreach is
@@ -115,7 +115,7 @@ _imported from old Movable Type blog_
 
 ---
 
-> author: Stephen Fuqua\
+> author: Stephen Fuqua<br>
 > date: '2009-05-07 22:18:17 -0500'
 >
 > At this point I think you're definitely right in labeling this

@@ -20,7 +20,7 @@ AssemblyInfo.cs file, using System.Reflection where necessary:
 
 <!--more-->
 
-```sharp
+```csharp
 string copyright = string.Empty;
 
 foreach (Attribute att in Assembly.GetEntryAssembly().GetCustomAttributes(true))

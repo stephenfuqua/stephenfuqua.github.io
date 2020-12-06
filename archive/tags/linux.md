@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: linux
+tag: Linux
 permalink: /tag/linux/
 ---

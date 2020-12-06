@@ -7,6 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
+excerpt_separator: <!--more-->
 ---
 
 
@@ -94,8 +95,8 @@ public class TransitionMap : Dictionary<Type, Dictionary<StateTransition, Type>>
 	}
 
 
-	public static void Add<TIdentity, TResponse>(StateTransition transition) 
-		where TIdentity : IScreen 
+	public static void Add<TIdentity, TResponse>(StateTransition transition)
+		where TIdentity : IScreen
 		where TResponse : IScreen
 	{
 		var instance = GetInstance();

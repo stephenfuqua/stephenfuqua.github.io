@@ -68,16 +68,12 @@ facilitates full integration of the system test framework as well).
 
 ## Preferred Tools
 
-<ul>
-<li>_Unit test execution:_ <a href="http://msdn.microsoft.com/en-us/library/dd264975.aspx">Microsoft Unit Test Framework</a>, built into Visual Studio</li>
-<li>_Unit test mocking framework:_ <a href="http://code.google.com/p/moq/">MoQ</a></li>
-<li>_System/Specification tests:_ written in <a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> using <a href="http://www.specflow.org/specflownew/">SpecFlow</a></li>
-<li>_Automated-build:_ <a href="http://www.cruisecontrolnet.org/">CruiseControl.Net</a>, or <a href="http://msdn.microsoft.com/en-us/magazine/jj721597.aspx">Team Foundation Server</a> if you have it.<ul>
-<li>Note: <a href="http://msdn.microsoft.com/en-us/library/hh549175.aspx">Microsoft Fakes</a> might be an excellent framework, but since it is based on Moles, I am <a href="/archive/2012/04/moles-no-longer-fit-for-unit-tests.html">leery of it</a> except when working with legacy code that you can't afford to refactor &hellip; yet. The "stubs" part is equivalent to Moq, but the latter has been around longer and is thus better established.</li>
-</ul>
-</li>
-<li>_Source Control:_ most of my experience is with <a href="http://www.accurev.com/">AccuRev</a> (and VSS years ago). AccuRev has its merits, but I wouldn't necessarily recommend it over TFS, SVN, GIT, etc. Personally, I just want to make sure that the tool has atomic transaction support, has good branching/merging, and is well integrated with the rest of the toolset.</li>
-</ul>
+* _Unit test execution:_ <a href="http://msdn.microsoft.com/en-us/library/dd264975.aspx">Microsoft Unit Test Framework</a>, built into Visual Studio
+* _Unit test mocking framework:_ <a href="http://code.google.com/p/moq/">MoQ</a>
+* _System/Specification tests:_ written in <a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> using <a href="http://www.specflow.org/specflownew/">SpecFlow</a>
+* _Automated-build:_ <a href="http://www.cruisecontrolnet.org/">CruiseControl.Net</a>, or <a href="http://msdn.microsoft.com/en-us/magazine/jj721597.aspx">Team Foundation Server</a> if you have it.
+    * Note: <a href="http://msdn.microsoft.com/en-us/library/hh549175.aspx">Microsoft Fakes</a> might be an excellent framework, but since it is based on Moles, I am <a href="/archive/2012/04/moles-no-longer-fit-for-unit-tests.html">leery of it</a> except when working with legacy code that you can't afford to refactor &hellip; yet. The "stubs" part is equivalent to Moq, but the latter has been around longer and is thus better established.
+* _Source Control:_ most of my experience is with <a href="http://www.accurev.com/">AccuRev</a> (and VSS years ago). AccuRev has its merits, but I wouldn't necessarily recommend it over TFS, SVN, GIT, etc. Personally, I just want to make sure that the tool has atomic transaction support, has good branching/merging, and is well integrated with the rest of the toolset.
 
 ## Resources
 
@@ -90,7 +86,9 @@ facilitates full integration of the system test framework as well).
 <li>* Cohn's diagram is in <a href="http://www.succeedingwithagile.com/">Succeeding with Agile Software Development Using Scrum</a></li>
 <li><a href="http://www.manning.com/kawalerowicz/">Continuous Integration in .Net</a></li>
 </ul>
+
 ### Articles
+
 <ul>
 <li><a href="http://docs.behat.org/guides/1.gherkin.html">Writing Features - Gherkin Language</a>, a worthy companion to the official documentation in the link above</li>
 <li><a href="http://www.jamesshore.com/Blog/Red-Green-Refactor.html">Red, Green, Refactor</a>, the critical attitude required for TDD</a>
@@ -98,12 +96,4 @@ facilitates full integration of the system test framework as well).
 
 ### Related posts from this blog
 
-<ul>
-<li><a href="/archive/2013/05/from-ruby-to-gherkin-building-an-automated-system-test-environment-pt-2">From Ruby to Gherkin: Building Automated System Tests, pt 2</a></li>
-<li><a href="/archive/2012/10/building-a-test-script-environment-with-c-and-ironruby-pt-1">C# + IronRuby: Building Automated System Tests, pt 1</a></li>
-<li><a href="/archive/2012/04/breaking-down-a-unit-test-from-reggie-that-uses-moq">Breaking Down a Unit Test from "Reggie" That Uses MoQ</a></li>
-<li><a href="/archive/2012/03/test-naming-convention">Test Naming Conventions</a></li>
-<li><a href="/archive/2009/09/tdd-scenario-fo">TDD - Scenario for Red, Green, Refactor</a></li>
-<li><a href="/archive/2009/04/sub-classing-fo">Sub classing for test automation</a></li>
-<li><a href="/archive/2009/02/unit-testing-co">Unit Testing - Code Coverage and Separation of Layers</a></li>
-</ul>
+[/tag/testing](/tag/testing)

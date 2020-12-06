@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 _This article is part of the series <a
-href="/archive/2007/06/26/an_exercise_in/">An Exercise in Performance Tuning in
+href="/archive/2007/06/25/an_exercise_in/">An Exercise in Performance Tuning in
 C#.Net</a>_.
 
 As I look at the code I now have, I wonder if the fileLines variable is an

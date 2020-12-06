@@ -7,6 +7,7 @@ tags:
 - tech
 - programming
 - testing
+excerpt_separator: <!--more-->
 ---
 
 

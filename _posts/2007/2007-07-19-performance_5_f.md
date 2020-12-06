@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 ---
 
 _This article is part of the series <a
-href="/archive/2007/06/26/an_exercise_in/">An Exercise in Performance Tuning
+href="/archive/2007/06/25/an_exercise_in/">An Exercise in Performance Tuning
 in C#.Net</a>_.
 
 It's time to stop ignoring the 800 pound gorilla in the room: `System.String`.

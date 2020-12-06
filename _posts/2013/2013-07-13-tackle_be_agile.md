@@ -7,6 +7,7 @@ tags:
 - tech
 - programming
 - agile
+excerpt_separator: <!--more-->
 ---
 
 Like many, when I first encountered the term "agile software development," I
@@ -70,9 +71,4 @@ books that I have actually read and recommend:
 
 ### Related posts from this blog
 
-<ul>
-<li><a href="http://www.safnet.com/writing/tech/2013/05/agile-introverts.html">Agile Introverts</a></li>
-<li><a href="http://www.safnet.com/writing/tech/2013/02/start-stop-continue-stickies.html">Start Stop Continue Stickies</a></li>
-<li><a href="http://www.safnet.com/writing/tech/2011/12/mythical-man-month-planning-for-change.html">Mythical Man-Month: Planning for Change</a></li>
-<li><a href="http://www.safnet.com/writing/tech/2010/11/what-about-this.html">What about this "agile" thing?</a></li>
-</ul>
+[/tag/agile](/tag/agile)
