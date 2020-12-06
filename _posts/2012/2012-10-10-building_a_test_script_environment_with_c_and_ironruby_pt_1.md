@@ -6,6 +6,7 @@ basename: building_a_test_script_environment_with_c_and_ironruby_pt_1
 tags:
 - tech
 - programming
+- testing
 excerpt_separator: <!--more-->
 ---
 

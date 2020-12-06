@@ -14,11 +14,7 @@ excerpt_separator: <!--more-->
 **Problem:** In SSIS, you want to update a variable from a Script Component
 embedded in a Data Transform task. You get an error message reading "the
 collection of variables locked for read and write access is not available
-outside of postexecute". What's up? <span class="mt-enclosure
-mt-enclosure-image"><img alt="ssis resultset variables.jpg"
-src="http://www.safnet.com/writing/tech/archives/2008/01/29/ssis%20resultset%20variables.jpg"
-width="165" height="148" class="mt-image-center" style="text-align: center;
-display: block; margin: 0 auto 20px;"/></span>
+outside of postexecute". What's up?
 
 <!--more-->
 

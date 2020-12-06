@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 
 
-_This article is part of the series <a href="/archive/2007/06/26/an_exercise_in/">
+_This article is part of the series <a href="/archive/2007/06/25/an_exercise_in/">
 An Exercise in Performance Tuning in C#.Net</a>_.
 
 Where else could I improve performance? I thought I should inspect the memory usage
@@ -64,7 +64,7 @@ the shear number of calls.
 Looking into (a), I could not find any instances where an Enum was being explicitly
 converted to a string with ToString(). The Enums are being used as indexes in a
 Dictionary object. Even though the Dictionary object is declared as a generic <a
-href="http://msdn2.microsoft.com/en-us/library/xfhwa508.aspx">Dictionary&lt;T,T&gt;</a>
+href="http://msdn2.microsoft.com/en-us/library/xfhwa508.aspx">Dictionary<T,T></a>
 with the Enum as the key type, there must be an implicit conversion going on. Zooming
 back out of this function, and zooming in on greater detail within the functions,
 I was able to find that calls to Enum::GetValueField was taking 8.5% of the total

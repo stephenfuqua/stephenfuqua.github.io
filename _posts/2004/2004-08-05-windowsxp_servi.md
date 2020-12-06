@@ -78,10 +78,10 @@ To maximally protect yourself, I recommend these steps:
    desktop and My Documents. And if you use Outlook or Outlook Express you'll
    need to hunt for your mail files to backup them. I don't know about Outlook
    Express, but Outlook typically stores its mail file in `c:\documents and
-   settings\&lt;YOUR LOGIN NAME&gt;\Application
+   settings\<YOUR LOGIN NAME>\Application
    Data\Microsoft\Outlook\outlook.pst` (most computers will hide the ".pst"
    extension on your file). In some cases there is a "Local Folders" directory
-   in between &lt;YOUR LOGIN NAME&gt; (which means substitute in the name you
+   in between <YOUR LOGIN NAME> (which means substitute in the name you
    logon to Windows as) and Application Data. Now, Application Data and Local
    Folders will be hidden from you most likely, so in Windows Explorer (i.e. My
    Computer) click on Tools then Options. In the second tab, I think (I'm typing

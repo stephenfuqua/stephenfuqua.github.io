@@ -20,7 +20,7 @@ very often, I forgot that I'm now using a DataGridView control instead of a
 DataGrid control. So that stymied me for a bit.
 
 First thing I needed was to recognize that the latest entry is now off the
-screen &mdash in other words, I had to recognize that the scrollbar is showing.
+screen &mdash; in other words, I had to recognize that the scrollbar is showing.
 Found a very helpful <a
 href="http://groups.google.com/group/microsoft.public.dotnet.framework.windowsforms.controls/browse_thread/thread/54f69a9aec43d913/087328404ccdf5ac?lnk=st&q=ScrollLastRowIntoView&rnum=1#087328404ccdf5ac">newsgroup
 posting</a> for that.
@@ -55,7 +55,7 @@ private void autoScroll()
 
 _imported from old Movable Type blog_
 
-> author: obisunk\
+> author: obisunk<br>
 > date: '2007-09-29 03:42:29 -0500'
 >
 > Works like a charm =)
@@ -64,7 +64,7 @@ _imported from old Movable Type blog_
 
 ---
 
-> author: Praveen\
+> author: Praveen<br>
 > date: '2008-03-19 18:07:31 -0500'\
 > url: http://praveensg.com
 >

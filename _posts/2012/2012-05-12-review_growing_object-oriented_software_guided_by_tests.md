@@ -12,8 +12,11 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-<p style="float: left; padding-right: 20px; width: 120px; font-size: .85em">
-<a href="http://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests"><img alt="Growing Object-Oriented Software, Guided by Tests" border="0" src="http://photo.goodreads.com/books/1266624968m/4268826.jpg" /></a><a href="http://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests">Growing Object-Oriented Software, Guided by Tests</a> by <a href="http://www.goodreads.com/author/show/27264.Steve_Freeman">Steve Freeman and Nat Pryce</a>
+<div class="float-right shadow p-3">
+<a href="http://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests"><img alt="Growing Object-Oriented Software, Guided by Tests" border="0" src="http://photo.goodreads.com/books/1266624968m/4268826.jpg" /></a><a href="http://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests"><br>
+Growing Object-Oriented Software, Guided by Tests</a><br>
+by <a href="http://www.goodreads.com/author/show/27264.Steve_Freeman">Steve Freeman and Nat Pryce</a>
+</div>
 
 I did not realize how much I still have to learn about writing good
 object-oriented  (OO) code, and about hewing to a tight test driven development

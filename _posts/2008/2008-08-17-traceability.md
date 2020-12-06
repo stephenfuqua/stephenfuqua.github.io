@@ -36,6 +36,7 @@ or _hidden_. This latter labeling helps communicate with the business when
 you've listed out something that must happen "behind the scenes", which they
 might not have thought about.
 
+{: .table .table-condensed .table-bordered}
 | Number | Requirement | Category |
 | -- | -- |-- |
 || **Application - Login** |

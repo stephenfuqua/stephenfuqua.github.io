@@ -56,22 +56,16 @@ for (int i = 0; i < readyFiles.Length; i++)
           try
           {
 /* A private function in the same class that does some action on the input file */
-               this.run
-
-TheProcess(f);
+               this.runTheProcess(f);
           }
 /* I found that the thread would loop infinitely if I tried to let exceptions go, therefore I just catch the exceptions and add them to a list. */
           catch (Exception ex)
           {
 /* Important to lock this global list, otherwise can get a race condition. */
-               lock
-
-(this._excpList)
+               lock(this._excpList)
                {
 /* Actually, its a Dictionary<string, Exception> so that I can capture the file name and the exception together. */
-
-
-this._excpList.Add(f.FullName, ex);
+                  this._excpList.Add(f.FullName, ex);
                }
           }
           finally
@@ -79,12 +73,8 @@ this._excpList.Add(f.FullName, ex);
 /* Important to have this in the finally. Initially it was in the try. I
 purposefully created an error condition. When I noticed that the threads never
 stopped, I realized it was because this code had not been hit. */
-               if
-
-(Interlocked.Decrement(ref numberLeft) == 0)
-
-
-are.Set();
+               if (Interlocked.Decrement(ref numberLeft) == 0)
+                  are.Set();
           }
      });
 }

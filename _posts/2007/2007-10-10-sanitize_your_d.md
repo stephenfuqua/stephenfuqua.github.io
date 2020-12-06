@@ -7,8 +7,8 @@ tags: [tech, database]
 excerpt_separator: <!--more-->
 ---
 
-<p style="background: white!Important; overflow: scroll;">
-<img src="https://imgs.xkcd.com/comics/exploits_of_a_mom.png" width="666" height="205" />
+{: .text-center }
+![exploits of a mom - xkcd comic](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)<br>
 From <a href="https://www.xkcd.org/">www.xkcd.org</a>
 
 That's reason number 1 to use  stored procedures in your application code

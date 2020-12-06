@@ -5,6 +5,7 @@ date: '2013-11-24 22:25:20 -0600'
 basename: tackle_be_kind
 - tech
 - meta
+excerpt_separator: <!--more-->
 ---
 
 This is a technical blog, right? Why would I mention this virtue? In <a

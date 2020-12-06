@@ -50,13 +50,13 @@ problem for me? Indeed, they have already created a `MockTraceListener` class.
 As with any other TraceListener, you must specify this MockTracelistener in the NUnit
 project's config file:
 
-* In the &lt;listeners&gt; section add:
+* In the <listeners> section add:
 
   ```xml
    <add name="sharedMockListener"  type="Microsoft.Practices.EnterpriseLibrary.Logging.TraceListeners.Tests.MockTraceListener, Microsoft.Practices.EnterpriseLibrary.Logging.Tests" listenerDataType="Microsoft.Practices.EnterpriseLibrary.Logging.Tests.TraceListeners.MockTraceListenerData, Microsoft.Practices.EnterpriseLibrary.Logging.Tests" />
   ```
 
-* In the &lt;specialSources&gt; section, add:
+* In the <specialSources> section, add:
 
   ```xml
   <allEvents switchValue="All" name="All Events">

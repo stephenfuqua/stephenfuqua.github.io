@@ -6,9 +6,9 @@ basename: reusing_code_in
 tags: [tech, database, sql-server, ssis]
 ---
 
-**Problem: ** you have an SSIS package that you want to reuse, as a template, in
+**Problem:** you have an SSIS package that you want to reuse, as a template, in
 a number of new packages.
 
-**Solution: ** follow <a
+**Solution:** follow <a
 href="http://support.microsoft.com/kb/908018">Microsoft's simple
 instructions</a>.

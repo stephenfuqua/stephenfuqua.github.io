@@ -12,7 +12,7 @@ excerpt_separator: <!--more-->
 
 Recently, I received a code delivery that worked on our development server but
 failed in unit tests on my box. The culprit was a method that transformed a
-`List&lt;T&gt;` into a `DataTable` and used that `DataTable` to load data into
+`List<T>` into a `DataTable` and used that `DataTable` to load data into
 SQL Server using <a
 href="http://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy.aspx">SqlBulkCopy</a>.
 Lesson: apply column mappings.
