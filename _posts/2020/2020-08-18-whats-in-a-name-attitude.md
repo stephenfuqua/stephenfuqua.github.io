@@ -3,8 +3,13 @@ layout: page
 title: "What's in a Name? Attitude."
 date: 2020-08-18
 comments: true
-tags: [inclusion]
+tags:
+- discourse
+- justice
+- inclusion
+- tech
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
 Last month my manager asked me about changing our naming convention for the
@@ -13,6 +18,8 @@ anything but "master." I admit to initial hesitancy. I needed to think about it.
 After all, it seems like the name derives from the multimedia concept of a
 "master copy." It's not like the terribly-named "master-slave" software and
 hardware patterns. Or is it?
+
+<!--more-->
 
 ***
 
