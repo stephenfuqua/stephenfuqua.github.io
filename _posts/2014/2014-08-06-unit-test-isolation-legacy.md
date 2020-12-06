@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Unit Test Isolation for Legacy .Net Code 
+title: Unit Test Isolation for Legacy .Net Code
 date: 2014-08-06
 comments: true
-tags: [unit-test, csharp]
+tags: [testing, csharp]
 ---
 
 Isolating code from dependencies is crucial for developing small, well-defined, easy-to-understand tests. And it is an absolute must when those dependencies call external resources, such as a database, filesystem, or heavy-duty component (e.g. for interacting with office docs). But how do you introduce isolation in new unit tests for legacy .Net code? Well, that depends... and I have a flow chart and brief notes to help you figure it out.

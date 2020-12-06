@@ -6,7 +6,7 @@ basename: change_hosttype
 tags:
 - tech
 - dotnet
-- unit-test
+- testing
 excerpt_separator: <!--more-->
 ---
 

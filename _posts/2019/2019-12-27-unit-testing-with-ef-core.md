@@ -3,7 +3,7 @@ layout: page
 title: Unit Testing with Entity Framework Core and Async
 date: 2019-12-27
 comments: true
-tags: [unit-test, dotnet, programming]
+tags: [testing, dotnet, programming]
 sharing: true
 ---
 
@@ -11,7 +11,7 @@ Entity Framework Core has a few changes that impact unit testing, particularly w
 
 ## Background
 
-IdentityServer4 has a [`ConfigurationDbContext`](https://github.com/IdentityServer/IdentityServer4/blob/master/src/EntityFramework.Storage/src/DbContexts/ConfigurationDbContext.cs) that provides access for managing `Client` entities, along with an interface `IConfigurationDbContext`. While IdentityServer4's infrastructure handles all of the OAuth processing, CRUD operations for clients is left up to us. Therefore I created a `ClientsController` and a `ClientRepository`, and injected the interface into the repository. 
+IdentityServer4 has a [`ConfigurationDbContext`](https://github.com/IdentityServer/IdentityServer4/blob/master/src/EntityFramework.Storage/src/DbContexts/ConfigurationDbContext.cs) that provides access for managing `Client` entities, along with an interface `IConfigurationDbContext`. While IdentityServer4's infrastructure handles all of the OAuth processing, CRUD operations for clients is left up to us. Therefore I created a `ClientsController` and a `ClientRepository`, and injected the interface into the repository.
 
 ```csharp
 public class ClientsController : ControllerBase
@@ -59,7 +59,7 @@ If I were hand-coding the `DbContext` class, I would have made sure to include a
 
 ## Unit Testing Challenges
 
-So now we have two classes to test: the controller and the repository. Let's focus on the repository. At first glance, it would seem trivial to write tests, and make them pass, using the `Clients` property and `SaveChangesAsync` method. The challenge comes from `DbSet`: it is an abstract class, it contains no implemented methods, the query logic requires an `IQueryable`, and the modification logic now returns `EntityEntry` objects. The `EntityEntry` object in turn is difficult to construct and the classes involved have warnings in the source code that they should not be directly relied on in non EntityFramework code. 
+So now we have two classes to test: the controller and the repository. Let's focus on the repository. At first glance, it would seem trivial to write tests, and make them pass, using the `Clients` property and `SaveChangesAsync` method. The challenge comes from `DbSet`: it is an abstract class, it contains no implemented methods, the query logic requires an `IQueryable`, and the modification logic now returns `EntityEntry` objects. The `EntityEntry` object in turn is difficult to construct and the classes involved have warnings in the source code that they should not be directly relied on in non EntityFramework code.
 
 Also of note: EntityFrameworkCore now has an `Update` method to go along with `Add` and `Remove`, so that those of who do not like using EntityFramework change tracking (more on this below) no longer need to use `Attach` and manually set `EntityState.Modified`, subject of my [February blog post](2019-02-08-refactor-awayfrom-global-static).
 
@@ -67,7 +67,7 @@ In order to unit test this, we will need some kind of test double that gives us 
 
 ## IAsyncEnumerable and IAsyncQueryProvider
 
-For this purpose, it is easier to hand-create a set of test-only classes than to use a mocking framework. Because of the async calls on `IQueryable`, this turns out to be harder than first thought: Linq is being used, and it invokes behind-the-scenes logic on interfaces hidden deeply away from us. This finally reveals a deep truth about ORMs: true isolation in unit tests is impossible when you are relying on a tool to generate SQL statements for you. 
+For this purpose, it is easier to hand-create a set of test-only classes than to use a mocking framework. Because of the async calls on `IQueryable`, this turns out to be harder than first thought: Linq is being used, and it invokes behind-the-scenes logic on interfaces hidden deeply away from us. This finally reveals a deep truth about ORMs: true isolation in unit tests is impossible when you are relying on a tool to generate SQL statements for you.
 
 As I tried to work my own way through the additional difficulty of Linq with async support, I kept running up against an exception like this:
 

@@ -47,7 +47,7 @@ conclusion, what are the goals for this project?
 These goals rule out the normal .Net languages. A dynamic scripting language is
 more appropriate. From the many out there, Ruby seems to be the most obvious
 choice. With the help of <a href="www.ironruby.net/">IronRuby</a>, the
-data-access components can be written (and fully unit-tested) in C#, while
+data-access components can be written (and fully testinged) in C#, while
 scripts are written in Ruby. <a href="http://rspec.info/">RSpec</a> might
 eventually be used for BDD. Follow-up posts will dig into some of the
 implementation details, as well as the lessons learned along the way.

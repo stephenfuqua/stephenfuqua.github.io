@@ -3,7 +3,7 @@ layout: page
 title: 'Breaking My Moles Habit, With MoQ'
 date: 2012-04-16
 comments: true
-tags: [dotnet, unit-test]
+tags: [dotnet, testing]
 ---
 
 ![jester](/images/johnny_automatic_jester.png){: .float-right }
@@ -30,8 +30,8 @@ Replace with…
 
 ```csharp
 var mockFacade = new Mock(MockBehavior.Strict);
-mockFacade.Setup(ibf => ibf.GetAll(It.Is(i => i == startRow),  
-    It.Is(j => j == rowCount), It.Is(k => k is OrderBySomeProperty))  
+mockFacade.Setup(ibf => ibf.GetAll(It.Is(i => i == startRow),
+    It.Is(j => j == rowCount), It.Is(k => k is OrderBySomeProperty))
     ).Returns(
         (int iStartRow, int iRowcount, IOrderBy iOrderBy) =>
         {

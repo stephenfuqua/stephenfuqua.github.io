@@ -6,7 +6,7 @@ basename: review_growing_object-oriented_software_guided_by_tests
 tags:
 - tech
 - programming
-- unit-test
+- testing
 - books
 - agile
 excerpt_separator: <!--more-->
@@ -64,5 +64,5 @@ A few particular highlights for me:
 <li>Deploy as early as possible. Do so even before the application does anything, just to prove that the framework _can be_ deployed.</li>
 <li>Readability applies to test code as well. I already believed that, but this presentation will help me explain that better to doubters.</li>
 <li>Test names can be <a href="http://www.safnet.com/writing/tech/2012/03/test-naming-convention.html">extremely descriptive</a> (prior post)</li>
-<li><a href="http://www.safnet.com/writing/tech/2012/04/moles-no-longer-fit-for-unit-tests.html">I have been over-reliant</a> on Microsoft's Moles (prior post)</li>
+<li><a href="http://www.safnet.com/writing/tech/2012/04/moles-no-longer-fit-for-testings.html">I have been over-reliant</a> on Microsoft's Moles (prior post)</li>
 </ul>

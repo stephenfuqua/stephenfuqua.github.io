@@ -46,11 +46,14 @@ them into the deep end with inadequate support. The <a
 href="http://marcbless.blogspot.com/2011/05/agile-principle-12-inspect-and-adapt.html">inspect-and-adapt</a>
 mentality suggests modifying the system testing approach.
 
-{:.float-right .shadow .p-3 .rounded .bg-dark .text-light}
-**Inspect and adapt:**
-1. Tests are still too hard to read, and
-1. The learning curve was too high,
-1. Therefore find a simpler product.
+<div class="float-right shadow p-3 rounded bg-dark text-light">
+<p><b>Inspect and adapt:</b></p>
+<ol>
+<li>Tests are still too hard to read, and</li>
+<li>The learning curve was too high,</li>
+<li>Therefore find a simpler product.</li>
+</ol>
+</div>
 
 <a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> to the
 rescue! The Gherkin language provides a very simple format for writing tests in

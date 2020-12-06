@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Refactoring Legacy Web Forms for Test Automation 
+title: Refactoring Legacy Web Forms for Test Automation
 date: 2015-01-02
 comments: true
-tags: [unit-test, csharp]
+tags: [testing, csharp]
 ---
 
 The Challenge:
 
-> Given you understand the value of test automation.  
-> Given you are handed a legacy application to maintain and enhance.  
-> Given the application is in ASP.Net Web Forms.  
-> When you try to add tests.  
+> Given you understand the value of test automation.
+> Given you are handed a legacy application to maintain and enhance.
+> Given the application is in ASP.Net Web Forms.
+> When you try to add tests.
 > Then you find that test-driven development is literally impossible.
 
 Here's one solution, in long slide-style presentation:

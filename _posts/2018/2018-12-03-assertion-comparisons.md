@@ -3,7 +3,7 @@ layout: page
 title: Comparing Assertion Libraries for .NET Framework
 date: 2018-12-03
 comments: true
-tags: [unit-test, dotnet, programming]
+tags: [testing, dotnet, programming]
 sharing: true
 ---
 
@@ -23,7 +23,7 @@ Questions in front of me:
 3. If selecting Shouldly or FluentAssertions, ought we to upgrade the old
    asserts?
 
-My conclusion: favor Shouldly. Upgrade old asserts opportunistically for 
+My conclusion: favor Shouldly. Upgrade old asserts opportunistically for
 consistency, but no need to go out of the way.
 
 > _Full source code for these experiments is at [https://github.com/stephenfuqua/AssertionComparison](https://github.com/stephenfuqua/AssertionComparison)_.
@@ -149,7 +149,7 @@ frameworks, you're left with catching and inspecting the exception.
 ### NUnit3 Constraint Model Inner Exception
 
 ```csharp
-Assert.That(RunSeriesWithNullValue, 
+Assert.That(RunSeriesWithNullValue,
         Throws.TypeOf<CalculatorException>()
             .With.InnerException.TypeOf<InvalidOperationException>());
 ```csharp
@@ -226,7 +226,7 @@ Should tests in place would seem to be harmless since the performance is good.
 | Framework | Documentation | Richness | Performance |
 |----------|-------------|---------|--------------------|
 | NUnit3 (Classic) | ++ | + | / |
-| NUnit3 (Constraint) | ++ | ++ | ++ | 
+| NUnit3 (Constraint) | ++ | ++ | ++ |
 | FluentAssertions | +++ | +++ | - |
 | Should | + | + | ++ |
 | Shouldly | + | ++ | ++ |

@@ -3,7 +3,7 @@ layout: page
 title: 'Moles: No Longer Fit for Unit Tests'
 date: 2012-04-19
 comments: true
-tags: [dotnet, unit-test]
+tags: [dotnet, testing]
 ---
 
 ![No moles](/images/noMoles.png){: .float-right }

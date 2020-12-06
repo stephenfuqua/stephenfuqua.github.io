@@ -3,7 +3,7 @@ layout: page
 title: 'Breaking Down a Unit Test from "Reggie" That Uses MoQ'
 date: 2012-04-21
 comments: true
-tags: [dotnet, unit-test]
+tags: [dotnet, testing]
 ---
 
 Test driven development is hard. Perhaps it would not be if we were taught to think about OO development from a TDD perspective in the first place; but those muscles are poorly developed, and the exercise leaves you sore and panting a bit. As with physical exercise, there is a reward in the pain. Perhaps others do not see it, but I can already see the benefits accruing in [Reggie](https://github.com/stephenfuqua/reggie) as I rebuild it with [SOLID principles](https://en.wikipedia.org/wiki/SOLID) in mind, driven by tests. To help me consolidate where I’m going, and help others whose TDD muscles are likewise under-developed, let us walk through a test, shall we?
@@ -26,19 +26,19 @@ public void SaveSessionLoadsSessionIntoPersistenceService()
 
     // Setup mocks
     Mock mockSession = m_mockFactory.Create<IReggieSession>();
-    mockSession.SetupSet(ms => ms.RegularExpressionPattern =  
+    mockSession.SetupSet(ms => ms.RegularExpressionPattern =
         It.Is<string>(x => x == regularExpressionPattern));
-    mockSession.SetupGet(ms => ms.RegularExpressionPattern)  
+    mockSession.SetupGet(ms => ms.RegularExpressionPattern)
         .Returns(regularExpressionPattern);
-    mockSession.SetupSet(ms => ms.SampleText =  
+    mockSession.SetupSet(ms => ms.SampleText =
         It.Is<string>(x => x == sampleText));
     mockSession.SetupGet(ms => ms.SampleText).Returns(sampleText);
 
     m_helperFactory.Setup(hf => hf.BuildReggieSession())
                    .Returns(mockSession.Object);
 
-    m_persistence.Setup(p => p.Save(It.Is<IReggieSession>(x =>  
-        x.SampleText == sampleText  
+    m_persistence.Setup(p => p.Save(It.Is<IReggieSession>(x =>
+        x.SampleText == sampleText
         && x.RegularExpressionPattern == regularExpressionPattern)));
 
     // Call the system under test
@@ -83,7 +83,7 @@ m_helperFactory.Setup(hf => hf.BuildReggieSession())
 When the factory’s BuildReggieSession method is called, return the mock Session object.
 
 ```csharp
-m_persistence.Setup(p => p.Save(It.Is<IReggieSession>(x => x.SampleText == sampleText 
+m_persistence.Setup(p => p.Save(It.Is<IReggieSession>(x => x.SampleText == sampleText
     && x.RegularExpressionPattern == regularExpressionPattern)));
 ```
 
