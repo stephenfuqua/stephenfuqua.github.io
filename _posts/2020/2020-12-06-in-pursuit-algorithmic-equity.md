@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "In Pursuit of Data and Algorithmic Equity"
-date: 2020-08-18
+date: 2020-12-06
 comments: true
 tags:
 - discourse
