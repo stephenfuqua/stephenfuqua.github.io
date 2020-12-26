@@ -3,7 +3,7 @@ layout: page
 title: Making a Mockery of Extension Methods
 date: 2014-04-10
 comments: true
-tags: [programming, testing]
+tags: [programming, testing, dotnet]
 ---
 
 Recently I have been looking at <a href="https://github.com/ServiceStack/ServiceStack.OrmLite">ServiceStack's OrmLite </a> "Micro ORM" as a light-weight alternative to Entity Framework. It is relatively easy to use and very powerful, with capability for both code-first and database-first development. After learning the basic interaction, it was time to flip back into TDD-mode.
