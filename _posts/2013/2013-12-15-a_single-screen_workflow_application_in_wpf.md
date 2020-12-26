@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Single-Screen Workflow Application in WPF
-date: '2013-12-15 22:30:13 -0600'
+date: 2013-12-15
 basename: a_single-screen_workflow_application_in_wpf
 tags:
 - tech
@@ -223,3 +223,32 @@ code for a WPF wizard-like interface. <a
 href="https://github.com/stephenfuqua/WorkflowDemonstration">Download the
 complete application from GitHub</a>.
 
+## Comments
+
+_Comments manually imported from old blog_
+
+> author: sanathandroiddev<br>
+> date: '2015-03-03 21:35:07 -0600'
+>
+> Nice work
+
+---
+
+> author: Gerhard<br>
+> date: '2017-11-05 15:20:37 -0600'
+>
+> Hi,
+> I tried to download the sample code, but two files failed (Insert1View.xaml, Insert3View.xaml). Maybe you can send me a .zip with the sample code.
+>
+>THANKS A LOT.
+>
+>With best regards
+>
+>Gerhard
+
+---
+
+> author: Stephen Fuqua<br>
+> date: '2017-11-06 22:19:23 -0600'
+>
+> Hi Gerhard, I mistakenly put in the wrong file links.  Please refresh the page and you'll find the links have been corrected.

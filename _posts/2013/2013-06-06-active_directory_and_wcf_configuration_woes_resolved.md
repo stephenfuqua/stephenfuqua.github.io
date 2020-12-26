@@ -134,3 +134,20 @@ By the way, after finding the answer, I learned that the System log on Service2 
 > target domain (<user's domain>) is different from the client domain (<client's
 > domain>.LOCAL), check if there are identically named server accounts in these
 > two domains, or use the fully-qualified name to identify the server.
+
+## Comments
+
+_Comments manually imported from old blog_
+
+> date: '2013-08-28 02:10:05 -0500'
+>
+> I think you mean userPrincipalName and serverPrincipalName - (case and spelling)
+>
+> -david
+
+---
+
+> author: Stephen Fuqua<br>
+> date: '2013-11-17 23:11:36 -0600'
+>
+> Actually, I spelled it correctly but the JS/CSS for code formatting converted it to lower case. I'll add a note in the text.
