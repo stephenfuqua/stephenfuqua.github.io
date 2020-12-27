@@ -26,5 +26,5 @@ that were hiding under leaves and around stems.
 * <a href="https://photos.app.goo.gl/vveh5DqBy1RmbBCG2">View more photos of our
   passionflower and its denizens</a>
 
-{: .text-center}
-![photo collage](/images/20170912_134051-COLLAGE.jpg)
+{: .center-block}
+![photo collage](/images/20170912_134051-COLLAGE.jpg){: .img-responsive }
