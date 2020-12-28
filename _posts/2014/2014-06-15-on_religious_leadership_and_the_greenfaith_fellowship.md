@@ -27,7 +27,7 @@ leader: either you live into your God-given potential, or you hold yourself back
 artificially.
 
 {: .center-block}
-***
+\***
 
 {: .float-right }
 ![photo of tree with pink flowers](/images/IMG_1689.JPG){: .img-rounded }<br>
@@ -49,7 +49,7 @@ process, realized that bright-eyed, idealistic youth were needed. A call for
 participants went out, a call that found a student of physics and philosophy,
 one who was utterly without a clue about organizational development but who was
 nonetheless eager to engage in dialogue with his elders. A key lesson from this
-experience was the need for intentional diversity and inclusiveness. 
+experience was the need for intentional diversity and inclusiveness.
 
 From 1997 to 2008 I was engaged with global and regional URI bodies as a
 participant, volunteer, and eventually part-time staff.  By 2008, I realized
@@ -58,7 +58,7 @@ Combined with increasing service opportunities within my own Faith, it was time
 for a change. I stepped back from the URI in order to go local.
 
 {: .center-block}
-***
+\***
 
 In my childhood, concern for the environment came before concern about
 spirituality. In college I strayed into the abstract and slowly came back to
@@ -93,11 +93,11 @@ my ability to engage in dialogue and action with people from diverse religious
 and social backgrounds.
 
 {: .center-block}
-![pelican photo](/images/IMG_2069.JPG)
+![pelican photo](/images/IMG_2069.JPG){: .img-rounded .img-responsive }<br>
 <small>Brown Pelican, precariously perched, on a small caye off the coast of Belize (Hopkins area)</small>
 
 {: .center-block}
-***
+\***
 
 The folks in the URI were, for me, the first public face of true service. Within
 my own community I began to notice the private side of service. One man's quite

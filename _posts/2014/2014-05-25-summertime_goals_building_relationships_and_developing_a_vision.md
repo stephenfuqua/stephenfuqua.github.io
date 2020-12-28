@@ -9,7 +9,7 @@ tags:
 - climate
 ---
 
-**Stirring up a grassroots movement is hard work. **
+**Stirring up a grassroots movement is hard work.**
 
 <a href="http://www.dallasinterfaith.org">Dallas Interfaith Power &amp;
 Light</a>'s steering committee has been working together for about two years
@@ -21,7 +21,8 @@ attendance count is 84 across all events.
 
 _Continue reading at the <a href="http://www.texasinterfaithcenter.org/blog/summertime-goals-building-relationships-and-developing-vision">Texas Interfaith Center for Public Policy</a>_.
 
-{: .center-block } ![blurry and crisp
-photos](/images/ovenbirdLearningToFocus.png)<br> <small>"Learning to focus"
+{: .center-block }
+![blurry and crisp
+photos](/images/ovenbirdLearningToFocus.png){: .img-rounded }<br> <small>"Learning to focus"
 &copy; 2013, S. Fuqua / T. Homayoun. Ovenbird at Paradise Pond in Port Aransas,
 Texas.</small>
