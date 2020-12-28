@@ -11,9 +11,9 @@ tags:
 
 {: .float-right }
 ![aqueduct](/images/MazraehAquaduct.JPG){: .img-rounded }<br>
-Aqueduct-as-garden outside<br>
+<small>Aqueduct-as-garden outside<br>
 the Mansion of Mazra'eh<br>
-in Israel. November 2010.
+in Israel. November 2010.</small>
 
 A small group gathered at the Bah&aacute;'&iacute;­ Center of Irving last night
 in our second meeting on the _discourses of society_, reflecting on climate
@@ -42,7 +42,7 @@ stirred up conversation. A few of the points I took note of:
 <li>What incentives are used by governments to encourage proper sorting of garbage, recyclables, and even compost?</li>
 </ul>
 </li>
-<li>The educational system must teach kids about environmental concerns. This led us into a struggle to precisely remember <a href="http://reference.bahai.org/en/t/b/GWB/gwb-122.html">this quote</a>: 
+<li>The educational system must teach kids about environmental concerns. This led us into a struggle to precisely remember <a href="http://reference.bahai.org/en/t/b/GWB/gwb-122.html">this quote</a>:
 <blockquote>
 "Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit therefrom."
 </blockquote>

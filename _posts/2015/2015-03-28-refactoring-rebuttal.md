@@ -1,14 +1,18 @@
 ---
-layout: page title: Refactoring Rebuttal date: 2015-05-27 comments: true tags:
-[programming]
+layout: page title: Refactoring Rebuttal
+date: 2015-05-27
+comments: true
+tags:
+- programming
 ---
 
 The news has been going around: "refactoring doesn't work," say researchers.
 Code quality does not improve. It isn't worth the time and effort. Here's why I
-don't buy it - why the research is fundamentally flawed and real software groups
+don't buy it &mdash; why the research is fundamentally flawed and real software groups
 should ignore it.
 
-![We don't need your wheels](/images/lego-refactoring.jpg){: .center-image }
+{: .center-block }
+![We don't need your wheels](/images/lego-refactoring.jpg){: .img-responsive .img-rounded }
 
 The study's aim was to evaluate the use of refactoring techniques to improve
 code quality and maintenance. In brief, they conclude that "there is no quality
