@@ -30,7 +30,16 @@ a:hover, h1 a:focus {
 }
 
 .center-image {
-    margin: 1em auto 1em;
+    margin: 1em auto;
+    display: block;
+}
+
+.center-block {
+    text-align: center;
+}
+
+.center-block img {
+    margin: 1em auto 0 auto;
     display: block;
 }
 
