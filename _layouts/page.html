@@ -44,7 +44,9 @@ layout: default
             {% assign tags_content = '' %}
         {% endif %}
 
+        {% if tags_content != '' or category_content != '' %}
         <p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p>
+        {% endif %}
 
      </div>
 </article>
