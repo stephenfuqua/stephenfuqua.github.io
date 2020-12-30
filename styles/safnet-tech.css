@@ -1,7 +1,9 @@
 .jumbotron {
     background: transparent url(../images/mexicanHat.png) no-repeat;
     margin: 0;
-    height: 338px;
+    height: 250px;
+    padding: 0;
+    position: relative
 }
 
 h1 a {
