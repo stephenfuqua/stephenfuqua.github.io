@@ -9,10 +9,6 @@
                     <div id="content" class="inner">{{ content }}</div>
                 </section>
                 <section id="sidebar" class="col-sm-3" style="margin-top: 1em;">
-                    <div id="about" class="well">
-                        <h1>About</h1>
-                        <p>Stephen A. Fuqua (SAF) is a Bahá'í, software developer, and conservation and interfaith advocate who lives in Austin, Texas, USA.</p>
-                    </div>
                     <div id="recentposts" class="well">
                         <h1>Recent Posts</h1> {% for post in site.posts limit:10 %}
                         <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
@@ -20,13 +16,15 @@
                     </div>
                     <div id="logcontent" class="well">
                         <h1>Meta</h1>
-                        <p>Archives: <a href="https://www.safnet.com/archives.html">Blog</a> &middot; <a href="/archive/index.html">Tech</a>
+                        <p>
+                            <a href="/archive">All Posts</a>
                         </p>
-                        <p>Feeds: <a href="https://www.safnet.com/atom.xml">Blog</a> &middot; <a href="/feed.xml">Tech</a>
+                        <p>
+                            <a href="/feed.xml"><i class="fas fa-rss"><span class="sr-only">RSS</span></i></a>&nbsp;
+                            <a href="https://www.github.com/stephenfuqua"><i class="fab fa-github"><span class="sr-only">GitHub</span></i></a>&nbsp;
+                            <a href="https://www.linkedin.com/in/stephenfuqua/"><i class="fab fa-linkedin-in"><span class="sr-only">LinkedId</span></i></a>&nbsp;
+                            <a href="https://www.twitter.com/stephen_fuqua"><i class="fab fa-twitter"><span class="sr-only">Twitter</span></i></a>
                         </p>
-                        <div id="tagcloud">
-                        	<!-- TODO -->
-                        </div>
                     </div>
                 </section>
                 </div>
