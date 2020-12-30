@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /tags/
+permalink: /tags
 title: Tags
 ---
 
@@ -21,12 +21,15 @@ Browse articles by tag:
         </div>
         <div id="collapse{{ tag_name | slugize }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTech">
             <div class="panel-body">
-
+                <table class="table table-striped" style="margin-top: 2rem;">
                 {% for post in site.tags[tag_name] %}
-                <article class="archive-item">
-                    {{ post.date | date_to_string }} &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-                </article>
+                    <tr>
+                        <td width="15%">
+                        {{ post.date | date_to_string }}</td>
+                        <td><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></td>
+                    </tr>
                 {% endfor %}
+                </table>
             </div>
         </div>
     </div>
