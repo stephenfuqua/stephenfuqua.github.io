@@ -1,0 +1,34 @@
+---
+layout: page
+permalink: /tags/
+title: Tags
+---
+
+Browse articles by tag:
+
+<div id="archives" class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  {% assign sortedTags = site.tags | sort | order: 'title' %}
+  {% for tag in sortedTags %}
+  <div class="archive-group panel panel-default">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+
+    <div class="panel-heading" role="tab" id="heading{{ tag_name | slugize }}">
+        <h3 class="panel-title">
+            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ tag_name | slugize }}" aria-expanded="true" aria-controls="collapse{{ tag_name | slugize }}">
+                {{ tag_name }}
+            </a>
+        </h3>
+        </div>
+        <div id="collapse{{ tag_name | slugize }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTech">
+            <div class="panel-body">
+
+                {% for post in site.tags[tag_name] %}
+                <article class="archive-item">
+                    {{ post.date | date_to_string }} &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+                </article>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endfor %}
+</div>
