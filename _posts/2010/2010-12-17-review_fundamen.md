@@ -2,11 +2,11 @@
 layout: page
 title: 'Review: Fundamental Modeling Concepts: Effective Communication of IT Systems'
 date: '2010-12-17 21:22:18 -0600'
-basename: review_fundamen
+basename: review_fundamental_modeling_concepts
 tags:
 - tech
 - architecture
-- book
+- books
 excerpt_separator: <!--more-->
 ---
 
