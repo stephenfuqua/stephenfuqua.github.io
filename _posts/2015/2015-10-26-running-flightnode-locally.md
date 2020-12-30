@@ -3,7 +3,10 @@ layout: page
 title: Running FlightNode Locally
 date: 2015-10-26
 comments: true
-tags: [FlightNode]
+tags:
+- tech
+- programming
+- FlightNode
 sharing: true
 ---
 

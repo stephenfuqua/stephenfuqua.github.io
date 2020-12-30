@@ -3,7 +3,11 @@ layout: page
 title: FlightNode API Application Architecture
 date: 2016-02-21
 comments: true
-tags: [architecture, FlightNode]
+tags:
+- tech
+- programming
+- architecture
+- FlightNode
 sharing: true
 ---
 
@@ -13,7 +17,8 @@ concept. Follow that link for a full description of the concept. Because my
 graphics toolkit is currently limited, my diagram for FlightNode has boxes
 instead of concentric onion-looking circles...
 
-![onion architecture](/images/flightnode.onion.png){: .text-center }
+{: .center-block }
+![onion architecture](/images/flightnode.onion.png){: .img-responsive .img-rounded }
 
 One key takeaway is the direction of dependencies: all of the solid line
 dependencies in this chart move from left to right. The Domain Entities are at

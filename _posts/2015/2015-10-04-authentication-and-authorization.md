@@ -1,9 +1,13 @@
 ---
 layout: page
-title: FligthNode Authentication and Authorization
+title: FlightNode Authentication and Authorization
+basename: flightnode_authentication_and_authorization
 date: 2015-10-04
 comments: true
-tags: [architecture, FlightNode]
+tags:
+- tech
+- architecture
+- FlightNode
 ---
 
 Here is a a brief demonstration of authentication and authorization using the FlightNode.Identity API. Significant help developing this received from [ASP.NET Identity 2.1 with ASP.NET Web API 2.2 (Accounts Management)](http://bitoftech.net/2015/01/21/asp-net-identity-2-with-asp-net-web-api-2-accounts-management/)
@@ -63,5 +67,5 @@ And now&hellip;
 
 Everything is OK!
 
-Oh, and while working on this code, I actually removed the password save. 
+Oh, and while working on this code, I actually removed the password save.
 That should probably only occur with a special request to change the password.

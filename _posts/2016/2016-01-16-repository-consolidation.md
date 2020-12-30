@@ -2,8 +2,12 @@
 layout: page
 title: FlightNode Git Repository Consolidation
 date: 2016-01-16
+basename: flightnode_git_repository_consolidation
 comments: true
-tags: [FlightNode]
+tags:
+- tech
+- programming
+- FlightNode
 sharing: true
 ---
 

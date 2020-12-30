@@ -3,19 +3,23 @@ layout: page
 title: Git Tutorials, Workflow, and GUI
 date: 2015-10-24
 comments: true
-tags: [FlightNode, programming]
+basename: git_tutorials_workflow_gui
+tags:
+- tech
+- sdlc
+- FlightNode
 sharing: true
 ---
 
 ## Tutorials
 
-Git is a fabulous tool for source control management. While incredibly powerful, 
+Git is a fabulous tool for source control management. While incredibly powerful,
 it can be a little daunting to learn at first. The following tutorials will
 help. They are organized from basic to more advanced.
 
 * [tryGit](https://try.github.io/levels/1/challenges/1), an interactive tutorial
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/), an interactive tutorial
-* [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), a very 
+* [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow), a very
   good read on the basic workflow / process used for FlightNode development
 * [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow),
   in fact we using the Forking Workflow to facilitate collaboration, but with the
@@ -24,7 +28,7 @@ help. They are organized from basic to more advanced.
     main repository: <br> `git remote add upstream https://github.com/FlightNode/FlightNode.xyz`
   * When you want to get the latest code from the shared repository, you'll now
     be able to use <br> `git pull upstream <somebranch>`.
-* [Pull Request Tutorial]9https://github.com/yangsu/pull-request-tutorial), 
+* [Pull Request Tutorial]9https://github.com/yangsu/pull-request-tutorial),
   with many nice screenshots and some advanced functionality, such as *squash*,
   *rebase*, and *cherry-pick*.
 * [Pro Git](https://git-scm.com/book/en/v2), the entire book, is available online for free.
@@ -45,25 +49,25 @@ a typical day might look like this:
    1. All existing files:<br> `git add -u :/`
    1. All existing files in a particular directory:<br> `git add -u :full/path`
 1. Do some more work, stage some more work.
-1. Commit your changes: <br> `git commit -m "10 - brief description"` 
-   <br> (for longer description, enter a brief description on first line, 
-   then hit enter to  type the longer description starting on the next line. 
+1. Commit your changes: <br> `git commit -m "10 - brief description"`
+   <br> (for longer description, enter a brief description on first line,
+   then hit enter to  type the longer description starting on the next line.
    Finish with ").
-1. Done for the day? Want to backup your code? Push to your fork: 
+1. Done for the day? Want to backup your code? Push to your fork:
    <br> `git push origin feature/10`
 1. Is the feature ready for other people to use? Then create a pull request
    in GitHub. In the pull request, add comments directly in the file
-   if you want to explain something about your work. And invite others to 
+   if you want to explain something about your work. And invite others to
    review your code.
-   
+
 ## Graphical Git
 
 ### SourceTree
-   
-Many people really like SourceTree, [a tool from Atlassian](https://www.sourcetreeapp.com/). 
-I have it installed and have not yet really used it, because I'm completely 
+
+Many people really like SourceTree, [a tool from Atlassian](https://www.sourcetreeapp.com/).
+I have it installed and have not yet really used it, because I'm completely
 comfortable with using the command line.
-   
+
 ### Visual Studio Code
 
 Visual Studio Code's Git support is top-notch, when you don't feel like using
@@ -85,9 +89,9 @@ of un-staging and/or reverting your code changes very easy.
 ### Visual Studio 2015
 
 Visual Studio 2015's support is actually pretty good too. I was biased against
-it for a long time, probably because they automatically stage files ("tracked 
-files") and make you purposefully unstage them ("un-tracked files"). But for 
-most people that's probably not a bad thing. And while I haven't used it 
+it for a long time, probably because they automatically stage files ("tracked
+files") and make you purposefully unstage them ("un-tracked files"). But for
+most people that's probably not a bad thing. And while I haven't used it
 in VS2013 in many months, I feel like the 2015 experience is somehow a little
 better and a little more powerful than its predecessor.
 

@@ -1,6 +1,8 @@
 ---
-layout: page title: Refactoring Rebuttal
-date: 2015-05-27
+layout: page
+title: Refactoring Rebuttal
+date: '2015-05-27'
+basename: refactoring_rebuttal
 comments: true
 tags:
 - programming
