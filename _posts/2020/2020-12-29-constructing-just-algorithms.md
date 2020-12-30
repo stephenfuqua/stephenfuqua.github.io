@@ -4,12 +4,33 @@ title: Constructing Just Algorithms
 date: 2020-12-29
 comments: true
 tags:
+- tech
 - discourse
 - justice
 - inclusion
-- tech
+- data-and-analytics
 sharing: true
 excerpt_separator: <!--more-->
+excerpt: '<p>
+Are algorithms doomed to be racist and harmful, or is there a legitimate
+role for them in a just and equitable society?
+</p>
+<p>
+Algorithms have been causing disproportionate harm to low- and middle-income
+individuals, especially people of color, since long before this current age of
+machine learning and artificial intelligence. Two cases in point: neighborhood
+redlining and credit scores. While residential redlining was a deliberately
+racist anti-black practice, FICO-based credit scoring does not appear to
+have been created from a racist motive. By amplifying and codifying existing
+inequities, however, the credit score can easily become another tool for racial
+oppression.
+</p>
+<p>
+Still, with appropriate measures in place, and a bit of pragmatic optimism,
+perhaps we can find ways to achieve the scalability/impartiality goals of
+algorithms while upholding true equity and justice.
+</p>
+'
 ---
 
 Are algorithms doomed to be racist and harmful, or is there a legitimate role
@@ -24,8 +45,6 @@ have been created from a racist motive. By amplifying and codifying existing
 inequities, however, the credit score can easily become another tool for racial
 oppression [2].
 
-<!--more-->
-
 Still, with appropriate measures in place, and a bit of pragmatic optimism,
 perhaps we can find ways to achieve the scalability/impartiality goals of
 algorithms while upholding true equity and justice.
@@ -36,8 +55,10 @@ algorithms while upholding true equity and justice.
 source to credit, so I drew my own version of this thought-provoking graphic. I
 leave the sport being played behind the fence up to your imagination.</small>
 
+<!--more-->
+
 {: .center-block }
-\***
+<i class="fas fa-bahai"></i><i class="fas fa-bahai"></i><i class="fas fa-bahai"></i>
 
 Fresh out of college I served as an AmeriCorps*VISTA at a non-profit dedicated
 to supporting small business development for women and minorities. There I began
@@ -50,14 +71,14 @@ full. Could we come up with a scoring mechanism that would help focus our
 attention on the most promising opportunities, bring a measure of objectivity
 and accountability, and yet remain true to our mission?
 
-The organization was founded and, at that time, run by an African American woman
-with a background in business finance and a passion for helping small businesses
-to succeed. Where credit scores attempt to judge credit worthiness through a
-complex calculation based on repayment histories, she asked me to take a broader
-approach that was dubbed the Four C's of lending: Cash Flow, Character, Credit,
-and Collateral. Thus: what manner of calculation, utilizing these four concepts,
-would yield a useful prediction of a potential borrower's capacity and
-capability to thrive and repay the loan?
+The organization was founded and, at that time, run by Jeannette Peten, an
+African American woman with a background in business finance and a passion for
+helping small businesses to succeed. Where credit scores attempt to judge credit
+worthiness through a complex calculation based on repayment histories, she asked
+me to take a broader approach that was dubbed the Four C's of lending: Cash
+Flow, Character, Credit, and Collateral. Thus: what manner of calculation,
+utilizing these four concepts, would yield a useful prediction of a potential
+borrower's capacity and capability to thrive and repay the loan?
 
 Roughly following a knowledge engineering [3] approach, we brainstormed simple
 scoring systems for each of the C's, with Character counting disproportionately
@@ -107,7 +128,7 @@ baked in rather than bolted on.
 ![blurred image of the scoring spreadsheet](/images/prequalification.png){: .img-responsive .img-rounded }
 
 {: .center-block }
-\***
+<i class="fas fa-bahai"></i><i class="fas fa-bahai"></i><i class="fas fa-bahai"></i>
 
 Algorithms are increasingly machine-automated and increasingly impacting our
 lives, all too often for the worse. The MIT Technology Review summarizes the
@@ -126,7 +147,7 @@ our way out of this mess to the benefit of all people. But it's gonna take a lot
 of work.
 
 {: .center-block}
-\***
+<i class="fas fa-bahai"></i><i class="fas fa-bahai"></i><i class="fas fa-bahai"></i>
 
 ## Resources
 
