@@ -3,7 +3,11 @@ layout: page
 title: Geeks in Vegas – Learning About Amazon Web Services
 date: 2018-11-30
 comments: true
-tags: [architecture, ed-fi, data-and-analytics]
+tags:
+- tech
+- architecture
+- ed-fi
+- data-and-analytics
 sharing: true
 ---
 
@@ -16,4 +20,5 @@ According to Amazon Web Services (AWS) CEO Andy Jassy, at his keynote Wednesday 
 
 [continue reading on ed-fi.org...](https://www.ed-fi.org/blog/2018/11/geeks-vegas-learning-amazon-web-services/)
 
-![The geeks filling in the Venetian Theater to learn about Best Practices in Big Data Analytics Architecture](https://www.ed-fi.org/assets/2018/11/Venetian-Theater-AWS-768x578.png{: .center-image }
+{: .center-block}
+![The geeks filling in the Venetian Theater to learn about Best Practices in Big Data Analytics Architecture](https://www.ed-fi.org/assets/2018/11/Venetian-Theater-AWS-768x578.png){: .img-responsive .img-rounded }

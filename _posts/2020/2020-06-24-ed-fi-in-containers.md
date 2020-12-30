@@ -3,14 +3,17 @@ layout: page
 title: "Call for Community Expertise and Input – Ed-Fi in Containers!"
 date: 2020-06-24
 comments: true
-tags: [devops, ed-fi]
+tags:
+- tech
+- devops
+- ed-fi
 sharing: true
 ---
 
 While the Ed-Fi Alliance has made investments to improve the installation
 processes for its tools, it is still a time–consuming task: easy to get wrong,
 you must have the right runtime libraries, and it is problematic to have
-multiple versions running on the same server.  
+multiple versions running on the same server.
 
 What if end-users could quickly startup and switch between ODS/API versions,
 testing out vendor integrations and new APIs with little development cost and
