@@ -6,6 +6,7 @@ basename: flightnode_a_platform_for_avian_conservation_monitoring
 tags:
 - tech
 - programming
+- FlightNode
 excerpt_separator: <!--more-->
 ---
 

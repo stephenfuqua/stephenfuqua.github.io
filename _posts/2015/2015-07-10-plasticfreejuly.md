@@ -2,7 +2,7 @@
 layout: page
 title: "#PlasticFreeJuly"
 date: 2015-07-10
-basename: plasticfreejuly
+basename: plastic_free_july
 tags:
 - discourse
 - nature

@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Atom and Visual Studio Code, JavaScript Perspective 
+title: Atom and Visual Studio Code, JavaScript Perspective
 date: 2015-05-27
+basename: atom_and_visual_studio_code
 comments: true
 tags: [tools]
 ---
 
 Does <a href="https://code.visualstudio.com/">Visual Studio Code</a> measure up to its close kin, <a href="https://atom.io/">Atom</a>?
 
-A friend asked me what I thought of Code. When I installed it a few weeks ago, my first reaction was: this is nice, if you're not used to Atom already. Never satisfied with a simple gut reaction, I thought for a moment, and realized that I had not looked closely at Microsoft's additions – particularly, debugging. 
+A friend asked me what I thought of Code. When I installed it a few weeks ago, my first reaction was: this is nice, if you're not used to Atom already. Never satisfied with a simple gut reaction, I thought for a moment, and realized that I had not looked closely at Microsoft's additions – particularly, debugging.
 
 ## Overall Impressions
 
@@ -32,7 +33,7 @@ In Atom, I have <a href="https://atom.io/packages/autocomplete-plus">autocomplet
 
 ## File Explorer / Tree View
 
-This presents open files in a list, and the application does not use the familiar horizontal tabs metaphor - instead, you see a vertical list of "Working Files". This is useful when more than a handful of files are open, but it certainly takes some getting used to, and I have not decided if I like it yet. 
+This presents open files in a list, and the application does not use the familiar horizontal tabs metaphor - instead, you see a vertical list of "Working Files". This is useful when more than a handful of files are open, but it certainly takes some getting used to, and I have not decided if I like it yet.
 
 The list of files is perfectly useful. Code does not have the Git-status color coding of Atom, but more on Git below.
 
@@ -82,7 +83,7 @@ Overall, the Code interface to Git is better, except for one flaw (for now): Com
 
 There are some quirks, but this is promising. As you can see in this screenshot, variables aren't displaying for me, so I don't know what values I'm dealing with. No doubt that will improve with time. But at least it is possible to walk through the stack trace and try to understand what's going on. This is going to be powerful and is reason enough to keep this Visual Studio Code around.
 
-That said, there is a <a href="https://atom.io/packages/node-debugger">node debugger</a> project for Atom. The pictures look promising, but even the maintainer admits it is buggy. I cannot get it to work at all - opening the debugger palette, you are presented with an opportunity to fill in a few paths. But the fields, at least in my install, are not enabled. 
+That said, there is a <a href="https://atom.io/packages/node-debugger">node debugger</a> project for Atom. The pictures look promising, but even the maintainer admits it is buggy. I cannot get it to work at all - opening the debugger palette, you are presented with an opportunity to fill in a few paths. But the fields, at least in my install, are not enabled.
 
 ![codeAtom_9](/images/codeAtom_9.png)
 
