@@ -1,11 +1,12 @@
-title: Stephen Fuqua Tech Blog
+title: Stephen A. Fuqua (safnet)
+author: Stephen A. Fuqua
 email: stephen@safnet.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Technical blogging from a (primarily) .NET software architect
-  who occasionally dabbles in Linux, Node.js, testing, etc.
+  Stephen A. Fuqua (SAF) is a Bahá'í, software engineer, and
+  nature lover who lives in Austin, Texas, USA.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "stephenfuqua.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
+url: "https://blog.safnet.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: stephen_fuqua
 github_username:  stephenfuqua
 
 # Build settings
