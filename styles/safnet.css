@@ -1,6 +1,6 @@
 body {
-    font-size: 18px;
-    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-family: "Open Sans", Roboto, Arial, Helvetica, sans-serif;
 }
 
 
@@ -109,4 +109,11 @@ hr {
     border-width: 1px;
     border-style: solid;
     margin-bottom: 2rem;
+}
+
+.fa-links {
+    margin-top: 1rem;
+}
+.fa-links a {
+    color: gray;
 }
