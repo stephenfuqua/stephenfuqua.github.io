@@ -21,7 +21,7 @@ hardware patterns. Or is it?
 
 <!--more-->
 
-***
+---
 
 From 1996 to 2001 I spent near countless hours in two buildings on the
 University of Texas campus: RLM Hall and an un-named annex to the Engineering
@@ -61,12 +61,12 @@ students. And the Physics, Math, and Astronomy Building now takes its place on
 campus as, I hope, a more welcoming place for diverse groups of students,
 faculty, and staff to continue advancing the boundaries of science.
 
-***
+---
 
 And that's exactly what we need in software development: a welcoming place.
 Detaching from the name "RLM" was quite easy. But I had to think through the
 source code problem for a minute or two, rather than just rely strictly on
-[GitHub’s judgment](https://github.com/github/renaming). My conclusion: if it
+[GitHub's judgment](https://github.com/github/renaming). My conclusion: if it
 bothers someone, then do something about it. And then I found one person who
 acknowledged: yes, it is disturbing being a Black programmer and confronting
 this loaded word on a regular basis (sadly I didn't hang onto the URL and can't
@@ -85,15 +85,15 @@ A simple attitude adjustment is all it took: no sympathy for that which is lost,
 for the way we've always done things. Instead, a quick and painless removal of a
 useless reminder of a cruel past.
 
-***
+---
 
 Steps taken to change this blog's source code repository:
 
-1. Create the main branch\
-   ![Screenshot showing creation of main branch](/images/main-create-branch.png)
-2. Switch the default from `master` to `main`\
-   ![Screenshot showing change of default branch](/images/main-switch-default-branch.png)
-3. Change the branch used by GitHub Pages\
-   ![Screenshot showing change to the GitHub Pages branch](/images/main-change-gh-pages.png)
-4. Finally, delete the old branch\
-   ![Screenshot showing deletion of old branch](/images/main-delete-old.png)
+1. Create the main branch<br>
+   ![Screenshot showing creation of main branch](/images/main-create-branch.png){: .img-responsive .img-rounded .img-border }
+2. Switch the default from `master` to `main`<br>
+   ![Screenshot showing change of default branch](/images/main-switch-default-branch.png){: .img-responsive .img-rounded .img-border }
+3. Change the branch used by GitHub Pages<br>
+   ![Screenshot showing change to the GitHub Pages branch](/images/main-change-gh-pages.png){: .img-responsive .img-rounded .img-border }
+4. Finally, delete the old branch<br>
+   ![Screenshot showing deletion of old branch](/images/main-delete-old.png){: .img-responsive .img-rounded .img-border }

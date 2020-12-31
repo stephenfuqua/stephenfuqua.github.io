@@ -10,7 +10,6 @@ tags:
 - inclusion
 - data-and-analytics
 sharing: true
-excerpt_separator: <!--more-->
 excerpt: '<p>
 Are algorithms doomed to be racist and harmful, or is there a legitimate
 role for them in a just and equitable society?
@@ -55,10 +54,7 @@ algorithms while upholding true equity and justice.
 source to credit, so I drew my own version of this thought-provoking graphic. I
 leave the sport being played behind the fence up to your imagination.</small>
 
-<!--more-->
-
-{: .center-block }
-<i class="fas fa-bahai"></i><i class="fas fa-bahai"></i><i class="fas fa-bahai"></i>
+---
 
 Fresh out of college I served as an AmeriCorps*VISTA at a non-profit dedicated
 to supporting small business development for women and minorities. There I began
@@ -127,8 +123,7 @@ baked in rather than bolted on.
 {: .center-block }
 ![blurred image of the scoring spreadsheet](/images/prequalification.png){: .img-responsive .img-rounded }
 
-{: .center-block }
-<i class="fas fa-bahai"></i><i class="fas fa-bahai"></i><i class="fas fa-bahai"></i>
+---
 
 Algorithms are increasingly machine-automated and increasingly impacting our
 lives, all too often for the worse. The MIT Technology Review summarizes the
@@ -146,8 +141,7 @@ way. With forethought, care, and a bit of the human touch, I believe we can work
 our way out of this mess to the benefit of all people. But it's gonna take a lot
 of work.
 
-{: .center-block}
-<i class="fas fa-bahai"></i><i class="fas fa-bahai"></i><i class="fas fa-bahai"></i>
+---
 
 ## Resources
 
