@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.safnet.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stephen_fuqua
 github_username:  stephenfuqua
+disqus_short_name: safnet
 
 # Build settings
 markdown: kramdown
