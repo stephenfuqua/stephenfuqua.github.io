@@ -15,7 +15,8 @@ call external resources, such as a database, filesystem, or heavy-duty component
 new unit tests for legacy .Net code? Well, that depends... and I have a flow
 chart and brief notes to help you figure it out.
 
-![Test toolkit flow chart](/images/testIsolationLegacyCode.png){: .center-image .max-90 }
+{: .center-block }
+![Test toolkit flow chart](/images/testIsolationLegacyCode.png){: .img-responsive .img-rounded }
 
 ## Stubs, Mocks, Etc.
 

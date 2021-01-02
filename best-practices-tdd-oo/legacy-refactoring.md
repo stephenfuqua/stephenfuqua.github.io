@@ -11,7 +11,8 @@ Any code that has been released is "legacy code." This article is about that rea
 
 ## Justification
 
-![Lego wheel improvement](/images/lego-refactoring.jpg){: .center-image }
+{: .center-block }
+![Lego wheel improvement](/images/lego-refactoring.jpg){: .img-responsive .img-rounded }
 
 Before getting into the patterns, let's talk a bit more about refactoring. We've all heard the argument "I don't have time to refactor". Counter:
 
@@ -34,7 +35,8 @@ Write unit tests as you go, as soon as possible, so that further refactoring wil
 
 Here's a handy flowchart to help think about test isolation (updated since [the original from 2014](archive/2014/08/06/testing-isolation-legacy/)):
 
-![Test isolation flowchart](/images/testing-isolation-flowchart-2020.png){: .center-image .max-90 }
+{: .center-block }
+![Test isolation flowchart](/images/testing-isolation-flowchart-2020.png){: .img-responsive .img-rounded }
 
 ## Stubs and Mocks
 
@@ -743,6 +745,6 @@ File Name	File Size
 }
 ```
 
-------------------------------
+---
 
 _[Back to the introduction / table of contents](intro)_
