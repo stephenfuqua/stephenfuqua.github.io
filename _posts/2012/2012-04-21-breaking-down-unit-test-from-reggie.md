@@ -10,9 +10,10 @@ Test driven development is hard. Perhaps it would not be if we were taught to th
 
 First, some context. I’m working on adding persistence to the application: ability to save and re-open session data. I have a [ViewModel](http://en.wikipedia.org/wiki/Model_View_ViewModel), called `ReggieBasicViewModel`, which initially contains the data to persist and which binds the View to my business logic. The ViewModel is being instantiated with a factory object, which allows the ViewModel to build concrete instances of various dependencies. This illustrates the [Abstract Factory pattern](https://www.oodesign.com/abstract-factory-pattern.html), and the [Open-Closed Principle](https://docs.microsoft.com/en-us/archive/msdn-magazine/2008/june/patterns-in-practice-the-open-closed-principle), but arguably violates Single Responsibility Principle [same link as OCP] by grouping un-related functionality into the factory. The proper factory object is configured in the application’s bootstrapper class, or or it is setup in a unit test using an alternate factory implementation.
 
-![Class model diagram](/images/diggingIntoTests1.png){: .center-image }
+{: .center-block}
+![Class model diagram](/images/diggingIntoTests1.png){: .img-responsive .img-rounded }
 
-![ISessionPersistence](/images/diggingIntoTests2.png){: .float-right }
+![ISessionPersistence](/images/diggingIntoTests2.png){: .float-right .img-rounded }
 
 I’d like to save to / retrieve from an XML file. But what if my requirements change in a few days? I’m told to save to a database, or a web service. It would not be wise to design for that – but I can easily make the system flexible enough to handle addition of other types of persistence in the future. So I create an interface in my business layer, called `ISessionPersistence`. As you can see, I’ve added a factory method to the `IHelperFactory`, for building an instance of `ISessionPersistence`.
 
@@ -60,7 +61,8 @@ Mock<IReggieSession> mockSession = m_mockFactory.Create<IReggieSession>();
 
 Use MoQ to create a mockup of an `IReggieSession`. I forgot to mention this: it is a small interface for holding the Sample Text and Regular Expression Pattern that will be saved.
 
-![IReggieSession interface](/images/diggingIntoTests3.png){: .center-image }
+{: .center-block }
+![IReggieSession interface](/images/diggingIntoTests3.png){: .img-responsive .img-rounded }
 
 ```csharp
  mockSession.SetupSet(ms => ms.RegularExpressionPattern = It.Is<string>(x => x == regularExpressionPattern));

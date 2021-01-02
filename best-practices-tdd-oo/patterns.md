@@ -366,12 +366,13 @@ public abstract class BestRepositoryTests
 }
 ```
 
-![Visual Studio test explorer with nested classes](/images/bestRepository_nestedClasses_nunit.png){: .center-image }
+{: .center-block }
+![Visual Studio test explorer with nested classes](/images/bestRepository_nestedClasses_nunit.png){: .img-responsive .img-rounded }
 
 ## Do Not Mock By Hand
 
 All of these examples have shown hand-coded stubs and mocks in order to provide a higher level of transparency without the cognitive overhead of understanding a mock framework. While it is clearly feasible, in practice it is rarely desirable. Instead, switch to using a framework like FakeItEasy or Mock. For examples, see [Toolkit for .NET Unit Testing](toolkit).
 
-------------------------------
+---
 
 _[Back to the introduction / table of contents](intro)_

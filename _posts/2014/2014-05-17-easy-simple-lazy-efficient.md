@@ -6,7 +6,8 @@ comments: true
 tags: [programming, quality]
 ---
 
-![Two bridges](/images/bridgesEasyComplex.png){: .center-image }
+{: .float-right }
+![Two bridges](/images/bridgesEasyComplex.png){: .img-responsive .img-rounded }
 
 As a "team lead" software engineer, I feel that an important part of my role is to ensure that the code is simple, but not necessarily easy. In fact, when I hear a developer say that "using this approach is easier," I have to fight the urge to lower my tail and growl menacingly.
 
@@ -18,7 +19,8 @@ Simple is the right concept, not easy. [Do the simplest thing that could possibl
 
 In Management 3.0, Jurgen Appelo gives us a great discussion [on the difference between complex and complicated](http://bit.ly/1sF8KHs) (the opposite of simple). He sums it up in the delightful chart below. Mixing messages, one might say that easy all too often leads to simple but chaotic.
 
-![Appelo complexity chart](https://farm6.static.flickr.com/5285/5201865670_273290a256.jpg){: .center-image }
+{: .center-block }
+![Appelo complexity chart](https://farm6.static.flickr.com/5285/5201865670_273290a256.jpg){: .img-responsive .img-rounded }
 
 (By the way, this is an excellent book and I recommend it highly, for anyone who wishes hone their leadership skills, whether in the software field or otherwise).
 
