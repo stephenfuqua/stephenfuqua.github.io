@@ -7,7 +7,19 @@ tags:
 - tech
 - devops
 sharing: true
-excerpt_separator: <!--more-->
+excerpt: '<p>This summer, one of the development teams at the Ed-Fi Alliance has
+been hard at work building Project Buzz: "When school shutdowns went into effect
+across the country as a result of COVID-19, much of the information teachers
+need to support students in the new online-school model had become fragmented
+across multiple surveys and the Student Information System." (<a
+href="https://www.ed-fi.org/blog/2020/07/fix-it-fridays-delivers-project-buzz-a-mobile-app-to-help-teachers-prepare-for-back-to-school/">Fix-It-Fridays
+Delivers Project Buzz, A Mobile App to Help Teachers Prepare for
+Back-to-School</a>.</p>
+<p>As project architect, my role has been one of support for the development team,
+guiding technology toolkit choices and supporting downstream build and
+deployment operations. The team agreed to develop the applications in TypeScript
+on both the front- and back-ends. My next challenge: rapidly create TeamCity
+build configurations for all components using Kotlin code.</p>'
 ---
 
 This summer, one of the development teams at the Ed-Fi Alliance has been hard at
