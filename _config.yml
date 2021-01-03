@@ -1,9 +1,9 @@
-title: Stephen A. Fuqua (safnet)
+title: Stephen A. Fuqua (safnet) - Blog
 author: Stephen A. Fuqua
 email: stephen@safnet.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >
   Stephen A. Fuqua (SAF) is a Bahá'í, software engineer, and
-  nature lover who lives in Austin, Texas, USA.
+  nature lover in Austin, Texas, USA.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.safnet.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stephen_fuqua

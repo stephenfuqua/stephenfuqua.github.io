@@ -3,8 +3,11 @@ layout: page
 title: Template Inheritance with TeamCity Kotlin
 date: 2020-08-08
 comments: true
-tags: [devops]
+tags:
+- tech
+- devops
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
 This summer, one of the development teams at the Ed-Fi Alliance has been hard at
@@ -20,6 +23,8 @@ guiding technology toolkit choices and supporting downstream build and
 deployment operations. The team agreed to develop the applications in TypeScript
 on both the front- and back-ends. My next challenge: rapidly create TeamCity
 build configurations for all components using Kotlin code.
+
+<!-- more -->
 
 ## Components
 
