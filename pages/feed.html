@@ -1,0 +1,11 @@
+---
+layout: plain
+permalink: /feed
+---
+
+{% for post in site.posts limit:4 %}
+<h2 class="mb-2 post"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>
+<p class="mb-2 post-body">
+    {{ post.excerpt }}
+</p>
+{% endfor %}
