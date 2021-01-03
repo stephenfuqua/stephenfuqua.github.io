@@ -212,8 +212,8 @@ In effect, this is turning the `HumanResourcesDbContext` into a set of Repositor
 
 So while the principle is sound and theoretically useful, in practice I've not seen it used often in clean code, highly testable code.
 
-{: .bg-info }
-For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/testinging-with-ef-core/)
+{: .mx-auto .w-75 .p-3 .mb-2 .bg-info .text-white }
+For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/testinging-with-ef-core/){: .text-dark }
 
 ## Dependency Inversion Principle (DIP)
 
