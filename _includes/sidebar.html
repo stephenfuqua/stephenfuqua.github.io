@@ -1,0 +1,39 @@
+<div class="card bg-light border-light mb-3">
+    <div class="card-header">
+        Recent Posts
+    </div>
+    <div class="card-body">
+        {% for post in site.posts limit:10 %}
+        <p class="mb-2"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></p>
+        {% endfor %}
+    </div>
+</div>
+<div class="card bg-light border-light">
+    <div class="card-header">
+        More
+    </div>
+    <div class="card-body">
+        <p>
+            <a href="/archive">All Posts</a> | <a href="/tags">Tags</a>
+        </p>
+        <form method="get" action="http://www.bing.com/search" class="form-inline" id="search-form">
+            <label for="search" class="sr-only">Search</label>
+            <input type="text" name="q" class="form-control form-control-sm w-75 mr-1" id="search" maxlength="255" value=""
+                placeholder="Search"  />
+            <input type="hidden" name="q1" value="site:*.safnet.com" />
+            <button type="submit" class="btn btn-sm btn-primary">
+                <i class="fas fa-search"></i>
+                <span class="sr-only">Go</span>
+            </button>
+        </form>
+        <div class="fa-links">
+            <a href="/feed.xml"><i class="fas fa-rss"><span class="sr-only">RSS</span></i></a>&nbsp;
+            <a href="https://www.github.com/stephenfuqua"><i class="fab fa-github"><span
+                        class="sr-only">GitHub</span></i></a>&nbsp;
+            <a href="https://www.linkedin.com/in/stephenfuqua/"><i class="fab fa-linkedin-in"><span
+                        class="sr-only">LinkedId</span></i></a>&nbsp;
+            <a href="https://www.twitter.com/stephen_fuqua"><i class="fab fa-twitter"><span
+                        class="sr-only">Twitter</span></i></a>
+        </div>
+    </div>
+</div>

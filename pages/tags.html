@@ -1,37 +1,36 @@
 ---
 layout: page
 permalink: /tags
-title: Tags
+title: Browse articles by tag
 ---
 
-Browse articles by tag:
-
-<div id="archives" class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-  {% assign sortedTags = site.tags | sort | order: 'title' %}
-  {% for tag in sortedTags %}
-  <div class="archive-group panel panel-default">
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-
-    <div class="panel-heading" role="tab" id="heading{{ tag_name | slugize }}">
-        <h3 class="panel-title">
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ tag_name | slugize }}" aria-expanded="true" aria-controls="collapse{{ tag_name | slugize }}">
-                {{ tag_name }}
-            </a>
-        </h3>
+<div class="accordion" id="accordion">
+    {% assign sortedTags = site.tags | sort | order: 'title' %}
+    {% for tag in sortedTags %}
+    <div class="card mb-2 border-light">
+        {% capture tag_name %}{{ tag | first }}{% endcapture %}
+        {% capture slug %}{{ tag_name | slugize }}{% endcapture %}
+        <div class="card-header" id="heading{{ slug }}">
+            <h2 class="mb-0">
+                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse"
+                    data-target="#collapse{{ slug }}" aria-expanded="true" aria-controls="collapse{{ slug }}">
+                    {{ tag_name }}
+                </button>
+            </h2>
         </div>
-        <div id="collapse{{ tag_name | slugize }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTech">
-            <div class="panel-body">
-                <table class="table table-striped" style="margin-top: 2rem;">
-                {% for post in site.tags[tag_name] %}
+        <div id="collapse{{ slug }}" class="collapse" aria-labelledby="heading{{ slug }}" data-parent="#accordion">
+            <div class="card-body">
+                <table class="table table-striped mt-3">
+                    {% for post in site.tags[tag_name] %}
                     <tr>
                         <td width="15%">
-                        {{ post.date | date_to_string }}</td>
+                            {{ post.date | date_to_string }}</td>
                         <td><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></td>
                     </tr>
-                {% endfor %}
+                    {% endfor %}
                 </table>
             </div>
         </div>
     </div>
-{% endfor %}
+    {% endfor %}
 </div>
