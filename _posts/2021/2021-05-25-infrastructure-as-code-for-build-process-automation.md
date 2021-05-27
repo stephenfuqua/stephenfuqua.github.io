@@ -147,11 +147,11 @@ Command line examples using [Ed-Fi ODS AdminApp's build.ps1
 script](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-AdminApp/blob/main/build.ps1):
 
 ```powershell
-&gt; ./build.ps1 build -BuildConfiguration release -Version "2.0.0" -BuildCounter 45
-&gt; ./build.ps1 unittest
-&gt; ./build.ps1 integrationtest
-&gt; ./build.ps1 package -Version "2.0.0" -BuildCounter 45
-&gt; ./build.ps1 push -NuGetApiKey $env:nuget_key
+$ ./build.ps1 build -BuildConfiguration release -Version "2.0.0" -BuildCounter 45
+$ ./build.ps1 unittest
+$ ./build.ps1 integrationtest
+$ ./build.ps1 package -Version "2.0.0" -BuildCounter 45
+$ ./build.ps1 push -NuGetApiKey $env:nuget_key
 ```
 
 Any of those commands can easily be run in any build automation tool. What are
@@ -290,10 +290,10 @@ Buzz](https://github.com/Ed-Fi-Exchange-OSS/EdFi-Project-Buzz), you can run
 commands like the following:
 
 ```powershell
-&gt; npm install
-&gt; npm run build
-&gt; npm run test
-&gt; npm run test:ci
+$ npm install
+$ npm run build
+$ npm run test
+$ npm run test:ci
 ```
 
 The `npm run XYZ` commands are invoking scripts defined in the package.json file:
@@ -345,16 +345,16 @@ to install the Octopus command line client (typically a one-time operation), and
 then it creates a new deployment channel:
 
 ```powershell
-&gt; Import-Module octopus-deploy-management.psm1
-&gt; Install-OctopusClient
-&gt; $parms = @{
+$ Import-Module octopus-deploy-management.psm1
+$ Install-OctopusClient
+$ $parms = @{
      ServerBaseUrl="https://..."
      ApiKey="API-............"
      Timeout=601
      Project="Ed-Fi ODS Shared Instance (SQL Server)"
      Channel="testing"
   }
-&gt; Invoke-OctoCreateChannel @parms
+$ Invoke-OctoCreateChannel @parms
 ```
 
 And here's the body of the `Invoke-OctoCreateChannel` function, which is running the .NET SDK command line tool:
