@@ -3,7 +3,10 @@ layout: page
 title: Getting Started with Infrastructure as Code in TeamCity
 date: 2020-03-21
 comments: true
-tags: [devops]
+tags:
+  - devops
+  - tech
+  - sdlc
 sharing: true
 ---
 

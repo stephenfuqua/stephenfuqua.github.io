@@ -4,8 +4,9 @@ title: Template Inheritance with TeamCity Kotlin
 date: 2020-08-08
 comments: true
 tags:
-- tech
-- devops
+  - devops
+  - tech
+  - sdlc
 sharing: true
 excerpt: '<p>This summer, one of the development teams at the Ed-Fi Alliance has
 been hard at work building Project Buzz: "When school shutdowns went into effect

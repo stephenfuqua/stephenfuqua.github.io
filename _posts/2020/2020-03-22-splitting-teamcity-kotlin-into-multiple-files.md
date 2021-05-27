@@ -2,8 +2,11 @@
 layout: page
 title: Splitting TeamCity Kotlin Into Multiple Files
 date: 2020-03-22
-comments: true 
-tags: [devops]
+comments: true
+tags:
+  - devops
+  - tech
+  - sdlc
 sharing: true
 ---
 
@@ -137,7 +140,7 @@ project(_self.HelloWorldProject)
 
 ## Enriching with a VCS Root
 
-To further demonstrate, let's add a new file defining a Git VCS root. 
+To further demonstrate, let's add a new file defining a Git VCS root.
 
 .teamcity directory<br>
 |-- _self<br>
