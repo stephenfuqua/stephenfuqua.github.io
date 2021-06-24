@@ -8,7 +8,23 @@ tags:
   - tech
   - programming
 sharing: true
-excerpt_separator: <!--more-->
+excerpt: '<p>Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
+memorably compares our graphical user interfaces to Disney theme parks: "It
+seems as if a hell of a lot might be being glossed over, as if Disney World
+might be putting one over on us, and possibly getting away with all kinds of
+buried assumptions and muddled thinking. And this is precisely the same as what
+is lost in the transition from the command line interface to the <acronym
+title="Graphical User Interface">GUI</acronym>. (p52)
+</p><p>With new programmers whose experience has been entirely mediated through an
+<acronym title="Integrated Development Environment">IDE</acronym> like Visual
+Studio or Eclipse, I have sometimes wondered if they are understanding the
+"buried assumptions" and suffering from "muddled thinking" due to their lack of
+understanding of the basic command line operations that underlie the automation
+provided in the IDE. I still recall when I realized that I didn't know how to
+build a .NET application without relying on the menu options in Visual Studio,
+and thus didn't know how to automate a build process in Cruise
+Control.</p>
+'
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
@@ -173,12 +189,12 @@ int main() { std::cout <<> "Hello World!\n"; }
    </tr>
    <tr>
     <th>Compile Command</th>
-    <td><em>not applicable</em></td>
-    <td><code>msbuild example.vcxproj</code></td>
+    <td> <em>not applicable</em> </td>
+    <td> <code>msbuild example.vcxproj</code> </td>
    </tr>
    <tr>
      <th>Run Command</th>
-     <td><code>python main.py</code></td>
+     <td> <code>python main.py</code> </td>
     <td> <code>.\debug\example.exe</code> </td>
    </tr>
 </table>
