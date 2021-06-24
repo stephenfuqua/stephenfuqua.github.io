@@ -139,8 +139,8 @@ convenience.
     <th>Source Code</th>
       <td> <pre>print("hello world")</pre> </td>
     <td>
-        <pre>#include <iostream>
-int main() { std::cout <<> "Hello World!\n"; }
+        <pre>#include &lt;iostream&gt;
+int main() { std::cout &lt;&lt; "Hello World!\n"; }
         </pre>
     </td>
   </tr>
@@ -148,28 +148,28 @@ int main() { std::cout <<> "Hello World!\n"; }
     <th>Project File</th>
     <td><em>not applicable</em></td>
     <td>
-        <pre> &lt;Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  &lt;ItemGroup>
-    &lt;ProjectConfiguration Include="Debug|Win32">
-        &lt;Configuration>Debug</Configuration>
-        &lt;Platform>Win32</Platform>
-    &lt;/ProjectConfiguration>
-    &lt;ProjectConfiguration Include="Release|Win32">
-        &lt;Configuration>Release</Configuration>
-        &lt;Platform>Win32</Platform>
-    &lt;/ProjectConfiguration>
-  &lt;/ItemGroup>
-  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" />
-  &lt;PropertyGroup>
-    &lt;ConfigurationType>Application</ConfigurationType>
-    &lt;PlatformToolset>v142</PlatformToolset>
-  &lt;/PropertyGroup>
-  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
-  &lt;ItemGroup>
-    &lt;Compile Include="main.cpp" />
-  &lt;/ItemGroup>
-  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" />
-&lt;/Project>    </pre>
+        <pre> &lt;Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
+  &lt;ItemGroup&gt;
+    &lt;ProjectConfiguration Include="Debug|Win32"&gt;
+        &lt;Configuration&gt;Debug&lt;/Configuration&gt;
+        &lt;Platform&gt;Win32&lt;/Platform&gt;
+    &lt;/ProjectConfiguration&gt;
+    &lt;ProjectConfiguration Include="Release|Win32"&gt;
+        &lt;Configuration&gt;Release&lt;/Configuration&gt;
+        &lt;Platform&gt;Win32&lt;/Platform&gt;
+    &lt;/ProjectConfiguration&gt;
+  &lt;/ItemGroup&gt;
+  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" /&gt;
+  &lt;PropertyGroup&gt;
+    &lt;ConfigurationType&gt;Application&lt;/ConfigurationType&gt;
+    &lt;PlatformToolset&gt;v142&lt;/PlatformToolset&gt;
+  &lt;/PropertyGroup&gt;
+  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" /&gt;
+  &lt;ItemGroup&gt;
+    &lt;Compile Include="main.cpp" /&gt;
+  &lt;/ItemGroup&gt;
+  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" /&gt;
+&lt;/Project&gt;    </pre>
     </td>
    </tr>
    <tr>
