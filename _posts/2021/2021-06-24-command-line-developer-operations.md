@@ -71,12 +71,11 @@ in the IDE?
    the hands on the keyboard and type instead of moving back and forth between
    keyboard and mouse. There are probably studies that prove, and maybe even
    some that disprove, this assertion.
-2. Developing hands-on experience with the command line operations can lead
-   to more control and deeper insights compared to using the IDE or GUI. Imagine
+2. Developing hands-on experience with the command line operations can lead to
+   more control and deeper insights compared to using the IDE or GUI. Imagine
    the difference between learning to drive by hand and learning "to drive" by
-   just telling your car where to go and what to do. For some folks, the
-   automated approach might be just fine. Others want more control and less
-   dependence on the technology.
+   just telling your car where to go and what to do. What if the automation
+   fails and you need to take over?
 3. Speaking of automation: some tools will help you fully automate a process
    just by recording your work as you click around. These might be fine.
    But again, I find that there is more control when you can write out the
@@ -103,16 +102,16 @@ we see the `dotnet` CLI compared to the Visual Studio GUI.
 
 ### Build or Compile
 
-Programming languages can generally be divided by those that are interpreted and
-those that are compiled. Interpreted code, often called scripts, are written in
+Programming languages can be divided into those that are _interpreted_ and those
+that are _compiled_. Interpreted code, often called scripts, are written in
 plain text and executed by an _interpreter_ that translates the text into
 machine instructions on the fly. Compiled code must be translated from plain
-text into machine instructions before it can be executed. This tends to give
-compiled code an advantage in performance, as the machine instructions are more
-easily optimized this way. But this comes at the cost of having to wait for the
-translation process to complete before you can test the code, whereas
-interpreted code can be tested as soon as it has been written, with no
-intermediate step. Another difference is that the compiled code requires
+text into machine instructions by a _compiler_ before it can be executed. This
+tends to give compiled code an advantage in performance, as the machine
+instructions are better optimized. But this comes at the cost of
+having to wait for the compilation process to complete before you can test the
+code, whereas interpreted code can be tested as soon as it has been written,
+with no intermediate step. Another difference is that the compiled code requires
 instructions on how to combine files, usually provided through a special
 configuration file.
 
@@ -133,7 +132,7 @@ convenience.
 
 Here are some sample build commands using various tools for compiled languages:
 
-```bash
+```powershell
 > # Java - simplest example
 > javac myfile.java
 >
@@ -147,12 +146,11 @@ Here are some sample build commands using various tools for compiled languages:
 > make
 ```
 
-{: .alert .alert-primary }
-TIPS: Every shell has a _prompt_ indicating that you can type; `>` is the most
-common of these but sometimes you'll see `$`. Thus when retyping the command,
-you would type "make" instead of typing the literal text "&gt; make". The `#`
-symbol is commonly used to indicate that this is a comment, and the command
-line interpreter will ignore that line.
+{: .alert .alert-primary } TIPS: Every shell has a _prompt_ indicating that it
+is ready for you to type input after the prompt character; `>` and `$` are two
+common prompt characters. Thus when retyping the command, you would type "make" instead of
+typing the literal text "&gt; make". The `#` symbol is commonly used to indicate
+that this is a comment, and the command line interpreter will ignore that line.
 
 ### Package Management
 
@@ -170,23 +168,25 @@ distributed with the source code").
 Sample commands:
 
 ```bash
-> # .NET Framework 2 through 4.8
-> nuget restore
->
-> # DotNet Core and .NET Framework 5+
-> dotnet restore
->
-> # Node.js
-> npm install
->
-> # Python
-> pip install -r requirements.txt
+$ # .NET Framework 2 through 4.8
+$ nuget restore
+$
+$ # DotNet Core and .NET Framework 5+
+$ dotnet restore
+$
+$ # Node.js
+$ npm install
+$
+$ # Python
+$ pip install -r requirements.txt
 ```
 
-The packages themselves are source code, and the "packaging" is usually a
-specialized form of zip file. A little like a compiled program, the package file
-needs to be assembled from constituent parts and bundled into a zip file. This
-process is usually called _packaging_ or _publishing_.
+The package definitions themselves are a sort of source code, and the
+"packaging" is usually a specialized form of zip file. A little like a compiled
+program, the package file needs to be assembled from constituent parts and
+bundled into a zip file. This process is usually called _packaging_. Then the
+package can be shared to a central database so that others can discover it; this
+is called _publishing_ or _pushing_ the package.
 
 The following table lists out some of the common _dependency management_ tools and
 a description of the file containing the dependency list for some of the most
@@ -221,11 +221,27 @@ tests, but there are also automated ways to evaluate coding style and quality.
 These processes are yet more bits of software, and they typically have a CLI.
 They include "linters", "type checkers", and more.
 
-Finally, some programming languages and frameworks have utility CLI programs
-that simplify the process of calling other CLI's. But doesn't that take us back
-to the Disney World analogy? Well, when you get right down to it, all of us who
-are not writing Assembly language code are dealing with some kind of glossy
-abstraction. Using a CLI just gets us closer to the truth.
+Many of these tools are standalone executable CLI's. Here are some example
+commands for various tasks and languages:
+
+```powershell
+> # Run NUnit style automated tests in .NET Framework code
+> nunit3-console.exe someProjectName.dll
+>
+> # In a DotNet Core / .NET Framework 5+ project, can run these with tests
+> dotnet test
+>
+> # Python has a concept called a "virtual environment". If you are
+> # "in the virtual environment" you can run:
+> pytest
+>
+> # Or if you use the Poetry tool, it will prepare the virtual environment
+> # on your behalf. Longer command, but it does simplify things over all.
+> poetry run pytest
+>
+> # And here's a Python lint program that checks the quality of the code:
+> poetry run flake8
+```
 
 ## Project Files
 
@@ -239,7 +255,7 @@ packages. These project files provide information include:
 * Compiler options
 * Configuration for how to bundle the application into a package
 
-Many of these project files allow you to build commands, sometimes
+Many of these project files allow you to build additional commands, sometimes
 very sophisticated ones. A simple example is the set of scripts in a Node.js
 `package.json` file:
 
@@ -273,11 +289,11 @@ or "targets" that can be run from the command line.
 
 ## Command Line Arguments and Options
 
-We've already seen arguments in several examples above.
+We've already seen arguments in several examples above. Here are some more:
 
 | Command | Number of Arguments | Argument list |
 | -- | -- | -- |
-| `yarn start` | 1 | "start" |
+| `tsc index.ts` | 1 | "index.ts" |
 | `npm run start` | 2 | "run", "start" |
 | `dotnet nuget push -k abcd12345` | 4 | "nuget", "push", "-k", "abcd12345" |
 
@@ -306,23 +322,20 @@ cli](https://www.google.com/search?q=mvn+cli)". Or, most tools have help
 available through a `help` command or an option:
 
 ```bash
-> sometool help
-> sometool -h
-> sometool --help
-> sometool /h
+$ sometool help
+$ sometool -h
+$ sometool --help
+$ sometool /h
 ```
 
 Just try those with the tool you are trying to learn about and see what happens.
 
 ## Wrap-Up
 
-Wow, that turned out to be far longer than I initially imagined. That proves the
-point that there is a lot to know about using the command line, and particularly
-about command line operations for programming tasks. Armed with this surface
-level knowledge, a new programmer or IT operations staff person will hopefully
-have enough background information to better understand how to help automate
-software practices, including knowing about questions to ask in taking on a
-DevOps project. For example, in helping to move a team fully embrace
-[infrastructure as
+Armed with this surface level knowledge, a new programmer or IT operations staff
+person will hopefully have enough background information to better understand
+how to help automate software practices, including knowing about questions to
+ask in taking on a DevOps project &mdash; for example, in helping to move a team fully
+embrace [infrastructure as
 code](/archive/2021/05/21/infrastructure-as-code-for-build-process-automation/)
 in their continuous integration and/or continuous deployment environments.
