@@ -339,3 +339,11 @@ ask in taking on a DevOps project &mdash; for example, in helping to move a team
 embrace [infrastructure as
 code](/archive/2021/05/21/infrastructure-as-code-for-build-process-automation/)
 in their continuous integration and/or continuous deployment environments.
+
+## Addendum
+
+The first image in this article is a screengrab from the film _The Matrix_. That
+came out when I was actively working as a Linux system administrator, and I was
+thrilled to recognize that Trinity was actively exploiting a real-world security
+vulnerability that I had, a few months before, fixed by upgrading the operating
+system kernel on several servers.
