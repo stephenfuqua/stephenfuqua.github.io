@@ -29,7 +29,7 @@ build a .NET application without relying on the menu options in Visual Studio,
 and thus didn't know how to automate a build process in [Cruise
 Control](http://cruisecontrol.sourceforge.net/).
 
-{: .pull-right }
+{: .float-right }
 ![Screenshot of CLI-based hacking in The Matrix](/images/matrix-shell.png)
 
 <!-- more -->
@@ -136,53 +136,50 @@ convenience.
   </tr>
   <tr>
     <th>Source Code</th>
-    <td>`print("hello world")`</td>
+      <td> <pre>print("hello world")</pre> </td>
     <td>
-        ```cpp
-        #include <iostream>
-        int main() { std::cout <<> "Hello World!\n"; }
-        ```
+        <pre>#include <iostream>
+int main() { std::cout <<> "Hello World!\n"; }
+        </pre>
     </td>
   </tr>
   <tr>
     <th>Project File</th>
-    <td>_not applicable_ </td>
+    <td><em>not applicable</em></td>
     <td>
-        ```xml
-        <Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-        <ItemGroup>
-            <ProjectConfiguration Include="Debug|Win32">
-            <Configuration>Debug</Configuration>
-            <Platform>Win32</Platform>
-            </ProjectConfiguration>
-            <ProjectConfiguration Include="Release|Win32">
-            <Configuration>Release</Configuration>
-            <Platform>Win32</Platform>
-            </ProjectConfiguration>
-        </ItemGroup>
-        <Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" />
-        <PropertyGroup>
-            <ConfigurationType>Application</ConfigurationType>
-            <PlatformToolset>v142</PlatformToolset>
-        </PropertyGroup>
-        <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
-        <ItemGroup>
-            <Compile Include="main.cpp" />
-        </ItemGroup>
-        <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" />
-        </Project>
-        ```
+        <pre> &lt;Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  &lt;ItemGroup>
+    &lt;ProjectConfiguration Include="Debug|Win32">
+        &lt;Configuration>Debug</Configuration>
+        &lt;Platform>Win32</Platform>
+    &lt;/ProjectConfiguration>
+    &lt;ProjectConfiguration Include="Release|Win32">
+        &lt;Configuration>Release</Configuration>
+        &lt;Platform>Win32</Platform>
+    &lt;/ProjectConfiguration>
+  &lt;/ItemGroup>
+  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" />
+  &lt;PropertyGroup>
+    &lt;ConfigurationType>Application</ConfigurationType>
+    &lt;PlatformToolset>v142</PlatformToolset>
+  &lt;/PropertyGroup>
+  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  &lt;ItemGroup>
+    &lt;Compile Include="main.cpp" />
+  &lt;/ItemGroup>
+  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" />
+&lt;/Project>    </pre>
     </td>
    </tr>
    <tr>
     <th>Compile Command</th>
-    <td>_not applicable_ </td>
-    <td>`msbuild example.vcxproj`</td>
+    <td><em>not applicable</em></td>
+    <td><code>msbuild example.vcxproj</code></td>
    </tr>
    <tr>
      <th>Run Command</th>
-     <td><nobr> `python main.py`</nobr></td>
-     <td> `.\debug\example.exe`</td>
+     <td><code>python main.py</code></td>
+    <td> <code>.\debug\example.exe</code> </td>
    </tr>
 </table>
 
@@ -250,11 +247,11 @@ popular programming languages. Note that some languages / frameworks have multip
 
 | Language or Framework | Management Tool | File |
 | -- | -- | -- |
-| .NET Framework (C#, F#, VB) 1 through 4.8 | NuGet | `packages.config` *|
+| .NET Framework (C#, F#, VB) 1 through 4.8 | NuGet | `packages.config` \* |
 | DotNet Core / .NET Framework 5+ (C#, F#, VB) | NuGet | `*.csproj` |
 | Java, Groovy, Kotlin, Scala | Maven | `pom.xml` |
 | Java, Groovy, Kotlin, Scala | Gradle | `build.gradle`, or `build.gradle.kts` etc. |
-| Python | PIP | `requirements.txt` * |
+| Python | PIP | `requirements.txt` \* |
 | Python | Poetry | `pyproject.toml` |
 | Node.js (JavaScript, TypeScript) | NPM | `package.json` |
 | Node.js (JavaScript, TypeScript) | Yarn | `package.json` |
