@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Command Line Developer Operations
+title: Primer on Command Line Operations for Software Development
 date: 2021-06-24
 comments: true
 tags:
@@ -8,23 +8,7 @@ tags:
   - tech
   - programming
 sharing: true
-excerpt: '<p>Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
-memorably compares our graphical user interfaces to Disney theme parks: "It
-seems as if a hell of a lot might be being glossed over, as if Disney World
-might be putting one over on us, and possibly getting away with all kinds of
-buried assumptions and muddled thinking. And this is precisely the same as what
-is lost in the transition from the command line interface to the <acronym
-title="Graphical User Interface">GUI</acronym>. (p52)
-</p><p>With new programmers whose experience has been entirely mediated through an
-<acronym title="Integrated Development Environment">IDE</acronym> like Visual
-Studio or Eclipse, I have sometimes wondered if they are understanding the
-"buried assumptions" and suffering from "muddled thinking" due to their lack of
-understanding of the basic command line operations that underlie the automation
-provided in the IDE. I still recall when I realized that I didn't know how to
-build a .NET application without relying on the menu options in Visual Studio,
-and thus didn't know how to automate a build process in Cruise
-Control.</p>
-'
+excerpt_separator: <!--more-->
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
@@ -56,6 +40,7 @@ dedicated to those who are trying to understand the basics across a number of
 different languages. It is also dedicated to IT workers who are approaching
 DevOps from the Ops perspective, which is to say with less familiarity with the
 developer's basic toolkit.
+<br>
 
 {: .alert .alert-primary }
 TIP: an IDE is simply a GUI that "integrates" the source code text editor with
