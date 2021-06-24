@@ -186,7 +186,7 @@ int main() { std::cout &lt;&lt; "Hello World!\n"; }
 
 Here are some sample build commands using various tools for compiled languages:
 
-```PowerShell
+```posh
 > # Java - simplest example
 > javac myfile.java
 
@@ -279,7 +279,7 @@ They include "linters", "type checkers", and more.
 Many of these tools are standalone executable CLI's. Here are some example
 commands for various tasks and languages:
 
-```PowerShell
+```posh
 > # Run NUnit style automated tests in .NET Framework code
 > nunit3-console.exe someProjectName.dll
 
