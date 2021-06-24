@@ -31,6 +31,8 @@ Control](http://cruisecontrol.sourceforge.net/).
 {: .pull-right }
 ![Screenshot of CLI-based hacking in The Matrix](/images/matrix-shell.png)
 
+<!-- more -->
+
 Many developers eventually learn the command line options, and the level of
 comfort probably varies greatly depending on the language. This article is
 dedicated to those who are trying to understand the basics across a number of
