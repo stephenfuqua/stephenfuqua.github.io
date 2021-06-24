@@ -190,12 +190,12 @@ int main() { std::cout <<> "Hello World!\n"; }
    <tr>
     <th>Compile Command</th>
     <td> <em>not applicable</em> </td>
-    <td> <code>msbuild example.vcxproj</code> </td>
+    <td> <pre>msbuild example.vcxproj</pre> </td>
    </tr>
    <tr>
      <th>Run Command</th>
-     <td> <code>python main.py</code> </td>
-    <td> <code>.\debug\example.exe</code> </td>
+     <td> <pre>python main.py</pre> </td>
+    <td> <pre>.\debug\example.exe</pre> </td>
    </tr>
 </table>
 
