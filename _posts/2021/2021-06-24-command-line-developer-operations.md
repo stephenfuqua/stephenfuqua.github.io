@@ -8,6 +8,7 @@ tags:
   - tech
   - programming
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
@@ -125,23 +126,24 @@ convenience.
 | | Interpreted Example | Compiled Example |
 | -- | -- | -- |
 | Language | Python | Visual C++ |
-| Source Code | print("hello world") | #include &lt;iostream> <br>int main() { std::cout &lt;&lt; "Hello World!\n"; } |
-| Project File | _not applicable_ | &lt;Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"><br>  &nbsp;&nbsp;&lt;ItemGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ProjectConfiguration Include="Debug\|Win32"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Configuration>Debug&lt;/Configuration><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Platform>Win32&lt;/Platform><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/ProjectConfiguration><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ProjectConfiguration Include="Release\|Win32"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Configuration>Release&lt;/Configuration><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Platform>Win32&lt;/Platform><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/ProjectConfiguration><br>&nbsp;&nbsp;&lt;/ItemGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" /><br>&nbsp;&nbsp;&lt;PropertyGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ConfigurationType>Application&lt;/ConfigurationType><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;PlatformToolset>v142&lt;/PlatformToolset><br>&nbsp;&nbsp;&lt;/PropertyGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" /><br>&nbsp;&nbsp;&lt;ItemGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ClCompile Include="main.cpp" /><br>&nbsp;&nbsp;&lt;/ItemGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" /><br>&lt;/Project> |
+| Source Code | `print("hello world")` | `#include &lt;iostream> <br>int main() { std::cout &lt;&lt; "Hello World!\n"; }` |
+| Project File | _not applicable_ | `&lt;Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"><br>  &nbsp;&nbsp;&lt;ItemGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ProjectConfiguration Include="Debug\|Win32"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Configuration>Debug&lt;/Configuration><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Platform>Win32&lt;/Platform><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/ProjectConfiguration><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ProjectConfiguration Include="Release\|Win32"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Configuration>Release&lt;/Configuration><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Platform>Win32&lt;/Platform><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/ProjectConfiguration><br>&nbsp;&nbsp;&lt;/ItemGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" /><br>&nbsp;&nbsp;&lt;PropertyGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ConfigurationType>Application&lt;/ConfigurationType><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;PlatformToolset>v142&lt;/PlatformToolset><br>&nbsp;&nbsp;&lt;/PropertyGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" /><br>&nbsp;&nbsp;&lt;ItemGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ClCompile Include="main.cpp" /><br>&nbsp;&nbsp;&lt;/ItemGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" /><br>&lt;/Project>` |
 | Compile Command | _not applicable_ | `msbuild example.vcxproj` |
-| Run Command | <nobr>`> python main.py`</nobr> | `> .\debug\example.exe` |
+| Run Command | <nobr> `python main.py`</nobr> | `.\debug\example.exe` |
+{: .table .table-striped .table-bordered}
 
 Here are some sample build commands using various tools for compiled languages:
 
-```powershell
+```PowerShell
 > # Java - simplest example
 > javac myfile.java
->
+
 > # Java and related languages - using Maven
 > mvn compile
->
+
 > # DotNet Core / .NET Framework 5+
 > dotnet build
->
+
 > # C and C++, old school
 > make
 ```
@@ -170,13 +172,13 @@ Sample commands:
 ```bash
 $ # .NET Framework 2 through 4.8
 $ nuget restore
-$
+
 $ # DotNet Core and .NET Framework 5+
 $ dotnet restore
-$
+
 $ # Node.js
 $ npm install
-$
+
 $ # Python
 $ pip install -r requirements.txt
 ```
@@ -203,6 +205,7 @@ popular programming languages. Note that some languages / frameworks have multip
 | Node.js (JavaScript, TypeScript) | NPM | `package.json` |
 | Node.js (JavaScript, TypeScript) | Yarn | `package.json` |
 | Ruby | Gems | `*.gemspec` |
+{: .table .table-striped .table-bordered}
 
 ... and I've left out more for Ruby, PHP, and other languages for brevity.
 
@@ -224,21 +227,21 @@ They include "linters", "type checkers", and more.
 Many of these tools are standalone executable CLI's. Here are some example
 commands for various tasks and languages:
 
-```powershell
+```PowerShell
 > # Run NUnit style automated tests in .NET Framework code
 > nunit3-console.exe someProjectName.dll
->
+
 > # In a DotNet Core / .NET Framework 5+ project, can run these with tests
 > dotnet test
->
+
 > # Python has a concept called a "virtual environment". If you are
 > # "in the virtual environment" you can run:
 > pytest
->
+
 > # Or if you use the Poetry tool, it will prepare the virtual environment
 > # on your behalf. Longer command, but it does simplify things over all.
 > poetry run pytest
->
+
 > # And here's a Python lint program that checks the quality of the code:
 > poetry run flake8
 ```
@@ -261,14 +264,12 @@ very sophisticated ones. A simple example is the set of scripts in a Node.js
 
 ```json
 {
-  ...
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build && copyfiles src/**/*.graphql dist",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "yarn build && nest start",
   }
-  ...
 }
 ```
 
@@ -296,6 +297,7 @@ We've already seen arguments in several examples above. Here are some more:
 | `tsc index.ts` | 1 | "index.ts" |
 | `npm run start` | 2 | "run", "start" |
 | `dotnet nuget push -k abcd12345` | 4 | "nuget", "push", "-k", "abcd12345" |
+{: .table .table-striped}
 
 The last example introduces something new: command line options. An argument
 that begins with `-`, `--`, or sometimes `/` signals that an "optional argument"
