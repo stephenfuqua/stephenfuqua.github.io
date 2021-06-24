@@ -123,14 +123,68 @@ used for interpreted languages. In one sense, the CLI for compiled code
 essentially exists for the purpose of compile the code. Everything else is just
 convenience.
 
-| | Interpreted Example | Compiled Example |
-| -- | -- | -- |
-| Language | Python | Visual C++ |
-| Source Code | `print("hello world")` | `#include &lt;iostream> <br>int main() { std::cout &lt;&lt; "Hello World!\n"; }` |
-| Project File | _not applicable_ | `&lt;Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"><br>  &nbsp;&nbsp;&lt;ItemGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ProjectConfiguration Include="Debug\|Win32"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Configuration>Debug&lt;/Configuration><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Platform>Win32&lt;/Platform><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/ProjectConfiguration><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ProjectConfiguration Include="Release\|Win32"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Configuration>Release&lt;/Configuration><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&lt;Platform>Win32&lt;/Platform><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;/ProjectConfiguration><br>&nbsp;&nbsp;&lt;/ItemGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" /><br>&nbsp;&nbsp;&lt;PropertyGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ConfigurationType>Application&lt;/ConfigurationType><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;PlatformToolset>v142&lt;/PlatformToolset><br>&nbsp;&nbsp;&lt;/PropertyGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" /><br>&nbsp;&nbsp;&lt;ItemGroup><br>&nbsp;&nbsp;&nbsp;&nbsp;&lt;ClCompile Include="main.cpp" /><br>&nbsp;&nbsp;&lt;/ItemGroup><br>&nbsp;&nbsp;&lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" /><br>&lt;/Project>` |
-| Compile Command | _not applicable_ | `msbuild example.vcxproj` |
-| Run Command | <nobr> `python main.py`</nobr> | `.\debug\example.exe` |
-{: .table .table-striped .table-bordered}
+<table class="table table-striped table-bordered">
+  <tr>
+    <th></th>
+    <th>Interpreted Example</th>
+    <th>Compiled Example</th>
+  </tr>
+  <tr>
+    <th>Language</th>
+    <td>Python</td>
+    <td>Visual C++</td>
+  </tr>
+  <tr>
+    <th>Source Code</th>
+    <td>`print("hello world")`</td>
+    <td>
+        ```cpp
+        #include <iostream>
+        int main() { std::cout <<> "Hello World!\n"; }
+        ```
+    </td>
+  </tr>
+  <tr>
+    <th>Project File</th>
+    <td>_not applicable_ </td>
+    <td>
+        ```xml
+        <Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+        <ItemGroup>
+            <ProjectConfiguration Include="Debug|Win32">
+            <Configuration>Debug</Configuration>
+            <Platform>Win32</Platform>
+            </ProjectConfiguration>
+            <ProjectConfiguration Include="Release|Win32">
+            <Configuration>Release</Configuration>
+            <Platform>Win32</Platform>
+            </ProjectConfiguration>
+        </ItemGroup>
+        <Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" />
+        <PropertyGroup>
+            <ConfigurationType>Application</ConfigurationType>
+            <PlatformToolset>v142</PlatformToolset>
+        </PropertyGroup>
+        <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+        <ItemGroup>
+            <Compile Include="main.cpp" />
+        </ItemGroup>
+        <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" />
+        </Project>
+        ```
+    </td>
+   </tr>
+   <tr>
+    <th>Compile Command</th>
+    <td>_not applicable_ </td>
+    <td>`msbuild example.vcxproj`</td>
+   </tr>
+   <tr>
+     <th>Run Command</th>
+     <td><nobr> `python main.py`</nobr></td>
+     <td> `.\debug\example.exe`</td>
+   </tr>
+</table>
 
 Here are some sample build commands using various tools for compiled languages:
 
