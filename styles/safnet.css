@@ -162,3 +162,7 @@ blockquote {
     padding-left: 1rem;
     border-left: 0.2rem solid #ccc;
 }
+
+li {
+    margin-bottom: 1rem;
+}
