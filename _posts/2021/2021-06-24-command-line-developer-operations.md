@@ -8,7 +8,22 @@ tags:
   - tech
   - programming
 sharing: true
-excerpt_separator: <!--more-->
+excerpt: '<p>Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
+memorably compares our graphical user interfaces to Disney theme parks: "It
+seems as if a hell of a lot might be being glossed over, as if Disney World
+might be putting one over on us, and possibly getting away with all kinds of
+buried assumptions and muddled thinking. And this is precisely the same as what
+is lost in the transition from the command line interface to the <acronym
+title="Graphical User Interface">GUI</acronym>. (p52)</p>
+<pWith new programmers whose experience has been entirely mediated through an
+<acronym title="Integrated Development Environment">IDE</acronym> like Visual
+Studio or Eclipse, I have sometimes wondered if they are understanding the
+"buried assumptions" and suffering from "muddled thinking" due to their lack of
+understanding of the basic command line operations that underlie the automation
+provided in the IDE. I still recall when I realized that I didn't know how to
+build a .NET application without relying on the menu options in Visual Studio,
+and thus didn't know how to automate a build process in [Cruise
+Control](http://cruisecontrol.sourceforge.net/).></p>'
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
@@ -148,7 +163,8 @@ int main() { std::cout &lt;&lt; "Hello World!\n"; }
     <th>Project File</th>
     <td><em>not applicable</em></td>
     <td>
-        <pre> &lt;Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
+        <pre> &lt;Project DefaultTargets="Build" ToolsVersion="16.0"
+  xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
   &lt;ItemGroup&gt;
     &lt;ProjectConfiguration Include="Debug|Win32"&gt;
         &lt;Configuration&gt;Debug&lt;/Configuration&gt;
@@ -186,7 +202,7 @@ int main() { std::cout &lt;&lt; "Hello World!\n"; }
 
 Here are some sample build commands using various tools for compiled languages:
 
-```posh
+```shell
 > # Java - simplest example
 > javac myfile.java
 
@@ -200,7 +216,8 @@ Here are some sample build commands using various tools for compiled languages:
 > make
 ```
 
-{: .alert .alert-primary } TIPS: Every shell has a _prompt_ indicating that it
+{: .alert .alert-primary }
+TIPS: Every shell has a _prompt_ indicating that it
 is ready for you to type input after the prompt character; `>` and `$` are two
 common prompt characters. Thus when retyping the command, you would type "make" instead of
 typing the literal text "&gt; make". The `#` symbol is commonly used to indicate
@@ -279,7 +296,7 @@ They include "linters", "type checkers", and more.
 Many of these tools are standalone executable CLI's. Here are some example
 commands for various tasks and languages:
 
-```posh
+```shell
 > # Run NUnit style automated tests in .NET Framework code
 > nunit3-console.exe someProjectName.dll
 
