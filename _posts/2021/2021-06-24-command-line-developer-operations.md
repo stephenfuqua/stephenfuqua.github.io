@@ -8,22 +8,6 @@ tags:
   - tech
   - programming
 sharing: true
-excerpt: '<p>Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
-memorably compares our graphical user interfaces to Disney theme parks: "It
-seems as if a hell of a lot might be being glossed over, as if Disney World
-might be putting one over on us, and possibly getting away with all kinds of
-buried assumptions and muddled thinking. And this is precisely the same as what
-is lost in the transition from the command line interface to the <acronym
-title="Graphical User Interface">GUI</acronym>. (p52)</p>
-<pWith new programmers whose experience has been entirely mediated through an
-<acronym title="Integrated Development Environment">IDE</acronym> like Visual
-Studio or Eclipse, I have sometimes wondered if they are understanding the
-"buried assumptions" and suffering from "muddled thinking" due to their lack of
-understanding of the basic command line operations that underlie the automation
-provided in the IDE. I still recall when I realized that I didn't know how to
-build a .NET application without relying on the menu options in Visual Studio,
-and thus didn't know how to automate a build process in [Cruise
-Control](http://cruisecontrol.sourceforge.net/).></p>'
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
@@ -44,10 +28,10 @@ build a .NET application without relying on the menu options in Visual Studio,
 and thus didn't know how to automate a build process in [Cruise
 Control](http://cruisecontrol.sourceforge.net/).
 
+<!-- more -->
+
 {: .float-right }
 ![Screenshot of CLI-based hacking in The Matrix](/images/matrix-shell.png)
-
-<!-- more -->
 
 Many developers eventually learn the command line options, and the level of
 comfort probably varies greatly depending on the language. This article is
@@ -55,9 +39,10 @@ dedicated to those who are trying to understand the basics across a number of
 different languages. It is also dedicated to IT workers who are approaching
 DevOps from the Ops perspective, which is to say with less familiarity with the
 developer's basic toolkit.
+
 <br>
 
-{: .alert .alert-primary }
+{: .alert .alert-primary .mt-2 }
 TIP: an IDE is simply a GUI that "integrates" the source code text editor with
 menus for various commands and various panels to help you see many different
 types of additional project information all on one screen.
@@ -404,12 +389,12 @@ Just try those with the tool you are trying to learn about and see what happens.
 ## Wrap-Up
 
 Armed with this surface level knowledge, a new programmer or IT operations staff
-person will hopefully have enough background information to better understand
-how to help automate software practices, including knowing about questions to
-ask in taking on a DevOps project &mdash; for example, in helping to move a team fully
-embrace [infrastructure as
-code](/archive/2021/05/21/infrastructure-as-code-for-build-process-automation/)
-in their continuous integration and/or continuous deployment environments.
+person will hopefully have enough background information to understand the basic
+operational practices for developing high quality software. And in understanding
+those basics from the perspective of the command line, the tasks and challenges
+of [continuous integration](/archive/2021/05/21/infrastructure-as-code-for-build-process-automation/)
+will, perhaps, feel a bit less daunting. Or at the least, you'll know a little
+more about what you don't know, which is a good step toward learning.
 
 ## Addendum
 
