@@ -23,10 +23,11 @@ With new programmers whose experience has been entirely mediated through an
 Studio or Eclipse, I have sometimes wondered if they are understanding the
 "buried assumptions" and suffering from "muddled thinking" due to their lack of
 understanding of the basic command line operations that underlie the automation
-provided in the IDE. I still recall when I realized that I didn't know how to
-build a .NET application without relying on the menu options in Visual Studio,
-and thus didn't know how to automate a build process in [Cruise
-Control](http://cruisecontrol.sourceforge.net/).
+provided in the IDE. I still recall when I was that young developer, who had
+started with nothing but the command line, and realized that Visual Studio had
+crippled my ability to know how to build and test .NET Framework solutions 
+(setting up an automated  build process in [Cruise
+Control](http://cruisecontrol.sourceforge.net/) helped cure me of that).
 
 <!-- more -->
 
@@ -49,7 +50,7 @@ types of additional project information all on one screen.
 
 ## The Command Line Interface
 
-To level set, this article is about _typing_ commands rather than clicking
+To be clear, this article is about _typing_ commands rather than clicking
 on them. It is the difference between pulling up a menu in the IDE:
 
 {: .center-block}
@@ -86,8 +87,8 @@ in the IDE?
 4. Occasionally we will find ourselves in a situation where a GUI is
    unavailable. This did not happen very often for people on Windows or MacOSX
    for the past several decades, but the emergence of Docker for development
-   work has really helped bring the non-graphical world back to the fore even
-   for programmers working on Windows.
+   work has really helped bring the non-graphical world back to the foreground
+   even for programmers working on Windows.
 5. Its what the cool kids are doing.
 
 On that last point: honestly, I learned Linux back in the '90's because I
@@ -121,8 +122,9 @@ Both paradigms are good. And both have command line interfaces that control many
 aspects of the programming experience. For the purpose of this article, the
 primary difference between them is the _compile_ or _build_ command that is not
 used for interpreted languages. In one sense, the CLI for compiled code
-essentially exists for the purpose of compile the code. Everything else is just
-convenience.
+essentially exists for the specific purpose of compiling that code so that it 
+becomes executable, whereas CLI's for interpreted code are there for the purpose
+of execution. Everything else they do is just convenience.
 
 <table class="table table-striped table-bordered">
   <tr>
@@ -252,7 +254,7 @@ popular programming languages. Note that some languages / frameworks have multip
 | -- | -- | -- |
 | .NET Framework (C#, F#, VB) 1 through 4.8 | NuGet | `packages.config` \* |
 | DotNet Core / .NET Framework 5+ (C#, F#, VB) | NuGet | `*.csproj` |
-| Java, Groovy, Kotlin, Scala | Maven | `pom.xml` |
+| Java, Go, Groovy, Kotlin, Scala | Maven | `pom.xml` |
 | Java, Groovy, Kotlin, Scala | Gradle | `build.gradle`, or `build.gradle.kts` etc. |
 | Python | PIP | `requirements.txt` \* |
 | Python | Poetry | `pyproject.toml` |
@@ -327,7 +329,7 @@ very sophisticated ones. A simple example is the set of scripts in a Node.js
 }
 ```
 
-For Node.js's, typing either `node run start` or `yarn start` (if you have yarn
+Typing either `node run start` or `yarn start` (if you have yarn
 installed) will cause two commands to run: `yarn build` and `nest start`. The
 first of these refers back to the second script, so `yarn start` is implicitly
 running `nest build && copyfiles src/**/*.graphql dist` before running `nest
@@ -400,6 +402,6 @@ more about what you don't know, which is a good step toward learning.
 
 The first image in this article is a screengrab from the film _The Matrix_. That
 came out when I was actively working as a Linux system administrator, and I was
-thrilled to recognize that Trinity was actively exploiting a real-world security
+thrilled to recognize that Trinity was exploiting a real-world security
 vulnerability that I had, a few months before, fixed by upgrading the operating
-system kernel on several servers.
+system kernel on several servers. 
