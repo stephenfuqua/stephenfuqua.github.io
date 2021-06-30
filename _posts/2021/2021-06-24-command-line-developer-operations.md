@@ -25,7 +25,7 @@ Studio or Eclipse, I have sometimes wondered if they are understanding the
 understanding of the basic command line operations that underlie the automation
 provided in the IDE. I still recall when I was that young developer, who had
 started with nothing but the command line, and realized that Visual Studio had
-crippled my ability to know how to build and test .NET Framework solutions 
+crippled my ability to know how to build and test .NET Framework solutions
 (setting up an automated  build process in [Cruise
 Control](http://cruisecontrol.sourceforge.net/) helped cure me of that).
 
@@ -59,7 +59,7 @@ on them. It is the difference between pulling up a menu in the IDE:
 and knowing how to do this with just the keyboard in your favorite shell:
 
 {: .center-block}
-![](/images/powershell-dotnet-build.png){: .img-responsive .img-rounded}
+![Screenshot of dotnet build](/images/powershell-dotnet-build.png){: .img-responsive .img-rounded}
 
 {: .alert .alert-primary }
 ASIDE: what do I mean by shell? That's just the name of the command line
@@ -122,7 +122,7 @@ Both paradigms are good. And both have command line interfaces that control many
 aspects of the programming experience. For the purpose of this article, the
 primary difference between them is the _compile_ or _build_ command that is not
 used for interpreted languages. In one sense, the CLI for compiled code
-essentially exists for the specific purpose of compiling that code so that it 
+essentially exists for the specific purpose of compiling that code so that it
 becomes executable, whereas CLI's for interpreted code are there for the purpose
 of execution. Everything else they do is just convenience.
 
@@ -404,4 +404,4 @@ The first image in this article is a screengrab from the film _The Matrix_. That
 came out when I was actively working as a Linux system administrator, and I was
 thrilled to recognize that Trinity was exploiting a real-world security
 vulnerability that I had, a few months before, fixed by upgrading the operating
-system kernel on several servers. 
+system kernel on several servers.
