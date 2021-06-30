@@ -66,8 +66,11 @@ longer is it "treating TeamCity like code" -  it _is_ code.
 
 ## Learning Kotlin from TeamCity
 
-The [references](#references) at the bottom of this article can do much to help
-with Kotlin.
+While the [references](#references) at the bottom of this article can do much to
+help with understanding Kotlin, the following tips will help you get started in
+generating Kotlin configuration from _existing_ build configurations &mdash;
+which is a much easier way to get started compared to learning how to write
+TeamCity scripts from scratch.
 
 ### View Snippets in the UI
 
@@ -78,12 +81,25 @@ especially things like build features. The API documentation is of course
 correct, but hard to translate into reality without seeing these working
 examples.
 
+Viewing an individual build configuration:
+
+{: .center-block}
+![screenshot: view build configuration as code](/images/tc-view-build-configuration-as-code.png){: .img-responsive .img-rounded}
+
+Viewing a new build feature as code:
+
+{: .center-block}
+![screenshot: view new build feature as code](/images/tc-view-new-build-feature.png){: .img-responsive .img-rounded}
+
 ### Export an Entire Project
 
 Likewise, you can start your first projects in the UI and learn from them,
 instead of having to figure everything out from scratch. Take a project -
 preferably a relatively simple one without dependencies in other projects - and
 export it to Kotlin. Now you have a detailed example to study.
+
+{: .center-block}
+![screenshot: downloading entire project in kotlin](/images/tc-download-project-settings-in-kotlin.png){: .img-responsive .img-rounded}
 
 ### Internal Setting for Creating Smaller Files
 
@@ -102,7 +118,9 @@ than 20 in TeamCity.
 
 ### In the Text Editor / IDE
 
-I've been doing all of my work in Visual Studio Code using the Kotlin extension.
+I've been doing all of my work in [Visual Studio
+Code](https://code.visualstudio.com/) using the [Kotlin
+extension](https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin).
 This extension gives you real-time analysis of basic syntax and semantics, which
 goes a long way to detecting errors before trying to load your Kotlin scripts
 into the UI. Other IDEs with built-in or extended support for Kotlin include
@@ -119,12 +137,31 @@ For this, the Maven build tool is quite handy. If you're not a Java developer
 you might not be familiar with maven. Thanks to a few random encounters with
 Maven over the years, I recognized the pom.xml file that was included when I
 exported a project. This file is similar to package.json or a csproj file. To
-compile it, install Maven* and then run `mvn compile` in the directory
-containing the pom file. Read the debug output carefully and you'll be on your
-way to fixing up most problems before you ever got to the UI.
+compile it, install Maven* and then run ` mvn teamcity-configs:generate` in the
+directory containing the pom file. Read the debug output carefully and you'll be
+on your way to fixing up most problems before you ever got to the UI.
 
-> Windows user like me? Try installing `maven` [with
-> chocolatey](https://community.chocolatey.org/packages/maven).
+{: .alert .alert-primary .mt-2 }
+Windows users: see the appendix for notes on installing and configuring Maven.
+
+Here's a sample error message, after I deliberately entered a typo in
+the project name for the main `settings.kts` file:
+
+```shell
+> mvn teamcity-configs:generate
+
+... skipping some of the output...
+[ERROR] Error while generating TeamCity configs:
+[ERROR] Compilation error settings.kts[33:15]: Unresolved reference: AdminAppProjecta
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+... skipping remainder of the output...
+```
+
+On the second line, note that it mentions `Unresolved reference:
+AdminAppProjecta`. The correct project name is in fact `AdminAppProject` without
+the "a" at the end.
 
 ### Testing
 
@@ -223,3 +260,46 @@ object FlightNodeApi : GitVcsRoot({
 * [Configuration as Code, Part 5: Using libraries](https://blog.jetbrains.com/teamcity/2019/04/configuration-as-code-part-5-using-dsl-extensions-as-a-library/)
 * [Configuration as Code, Part 6: Testing configuration scripts](https://blog.jetbrains.com/teamcity/2019/05/configuration-as-code-part-6-testing-configuration-scripts/)
 * [Stack Overflow: teamcity+kotlin](https://stackoverflow.com/questions/tagged/kotlin+teamcity)
+
+## Appendix: Installing and Configuring Maven
+
+The simplest way to install Maven is [with
+chocolatey](https://www.chocolatey.org); if you don't already have it,
+then follow that link to install it.
+
+Do you have a Java Development Kit (JDK) installed? You will need one. I
+typically use the package provided by Adopt OpenJDK - but not version 16, as
+[there is a bug](https://youtrack.jetbrains.com/issue/KT-44624) when trying to
+compile Kotlin.
+
+```shell
+> choco install -y adoptopenjdk12
+```
+
+Now you can install Maven:
+
+```shell
+> choco install -y maven
+```
+
+Before running Maven... if you are on a corporate network that has a custom root
+security certificate, then you will need to install that into the Java keystore.
+
+1. Open a *new* PowerShell prompt *AS ADMINISTRATOR*.
+2. Check to see if the `JAVA_HOME` variable is already setup: does it display
+   anything when you type `$env:JAVA_HOME` in PowerShell? If not, then...
+
+   ```shell
+   > $env:JAVA_HOME = "C:\Program Files\AdoptOpenJDK\jdk-12.0.2+10"
+   ```
+
+3. Run Java's `keytool` command with the following command. It will prompt you
+   for a password; the default keystore password is `changeit`. If you don't
+   know what that is, then it probably hasn't been changed from that default
+   value :-D.
+
+   ```shell
+   > keytool -import -trustcacerts -alias root `
+     -file C:\yourfile.cer -keystore $env:JAVA_HOME/lib/security/cacerts `
+     -storepass changeit
+   ```
