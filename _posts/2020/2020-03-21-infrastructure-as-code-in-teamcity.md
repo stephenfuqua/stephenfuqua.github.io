@@ -90,7 +90,7 @@ export it to Kotlin. Now you have a detailed example to study.
 If the project is large, you may want to split it into multiple files. Learning
 how to do this from documentation or blog posts is no easy thing. Thankfully
 [someone asked on
-TeamCity[(https://stackoverflow.com/questions/57763826/how-do-i-split-up-the-settings-kts-file-for-teamcitys-kotlin-configuration)],
+TeamCity](https://stackoverflow.com/questions/57763826/how-do-i-split-up-the-settings-kts-file-for-teamcitys-kotlin-configuration)],
 and someone answered. The answer isn't entirely instructive, hence the
 [section](#splitting-large-projects-into-separate-files) below. In particular,
 to learn how to split up projects, see the answering author's comment about
@@ -119,11 +119,12 @@ For this, the Maven build tool is quite handy. If you're not a Java developer
 you might not be familiar with maven. Thanks to a few random encounters with
 Maven over the years, I recognized the pom.xml file that was included when I
 exported a project. This file is similar to package.json or a csproj file. To
-compile it, install Maven* and then run `mvn compile` in the directory containin
-the pom file. Read the debug output carefully and you'll be on your way to
-fixing up most problems before you ever got to the UI.
+compile it, install Maven* and then run `mvn compile` in the directory
+containing the pom file. Read the debug output carefully and you'll be on your
+way to fixing up most problems before you ever got to the UI.
 
-> Windows user like me? `choco install Maven`.
+> Windows user like me? Try installing `maven` [with
+> chocolatey](https://community.chocolatey.org/packages/maven).
 
 ### Testing
 
