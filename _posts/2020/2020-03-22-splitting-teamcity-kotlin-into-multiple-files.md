@@ -118,6 +118,15 @@ object EchoHelloWorld : BuildType ({
 I could have named this `HelloWorldProject.kt`, but `Project.kt` is short, simple,
 and unambiguous in the root of the `Self` directory.
 
+When bringing the project definition over from the settings file, it needs to be
+converted into a class, so we replace `project { ...}` with a class declaration
+that inherits from the JetBrains `Project` class, as you see in the snippet
+below. We are creating this in the `_self` directory, so we also need to declare
+that our class is in the `_self` package, and we need to import appropriate
+packages from JetBrains. Note that the first import statement came directly
+from the settings file, but the second one was not there. We need to add
+this second import in order for the file to know what the `Project` class is.
+
 ```kotlin
 package _self
 
