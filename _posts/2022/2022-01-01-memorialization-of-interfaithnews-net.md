@@ -70,11 +70,11 @@ At last, in time for 2022, the memorial is complete:
 ---
 
 {: .center-block }
-Original design{: .text-info }
+Original design
 ![Original Design](/images/inn-version1.jpg){: .img-fluid .border .rounded }
 
 {: .center-block }
-Second design{: .text-info }
+Second design
 ![Second Design](/images/inn-version2.jpg){: .img-fluid .border .rounded }
 
 The third design looked much like the current memorial design at the top of the page.
