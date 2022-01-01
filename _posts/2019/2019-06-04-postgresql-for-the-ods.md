@@ -14,4 +14,4 @@ One implication of that change is that educational agencies wishing to use SQL S
 [continue reading on ed-fi.org...](https://www.ed-fi.org/blog/2019/06/postgresql-for-the-ods-bringing-database-flexibility-to-the-ed-fi-platform/)
 
 {: .center-block }
-![A roadrunner](https://www.ed-fi.org/assets/2019/06/Screen-Shot-2019-06-03-at-1.13.36-PM-400x247.png){: .img-responsive .img-rounded }
+![A roadrunner](https://www.ed-fi.org/assets/2019/06/Screen-Shot-2019-06-03-at-1.13.36-PM-400x247.png){: .img-fluid .border .rounded }

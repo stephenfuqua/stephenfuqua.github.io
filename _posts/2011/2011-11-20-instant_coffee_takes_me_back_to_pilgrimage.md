@@ -16,7 +16,7 @@ kept us well-stocked with packages of instant coffee. On mornings where we had
 to get moving before the cafe downstairs opened, that was my wake-up.
 
 {: .center-block }
-![Templar's Boutique Balcony](/images/balconyView.JPG){: .img-responsive .img-rounded }<br>
+![Templar's Boutique Balcony](/images/balconyView.JPG){: .img-fluid .border .rounded }<br>
 <small>View of the cafe from our balcony, November 22, 2010.</small>
 
 <!--more-->
@@ -27,7 +27,7 @@ On many occasions since, I have let that sense be an anchor, bringing calm to my
 mind and helping me withstand tests and challenges.
 
 {: .center-block }
-![Gardens at Bahji](/images/bahjiCactus.JPG){: .img-responsive .img-rounded }<br>
+![Gardens at Bahji](/images/bahjiCactus.JPG){: .img-fluid .border .rounded }<br>
 <small>Cactus and rose in the gardens at Bahji.</small>
 
 The Bah&aacute;'&iacute; Holy Places are of historic significance to the
@@ -69,8 +69,8 @@ over-crowded world, both restore and create anew a sense of place that nourishes
 our body, mind, and soul.
 
 {: .center-block }
-![Terraces on Mt. Carmel](/images/terraceAndHaifa.JPG){: .img-responsive .img-rounded }<br>
-<small>View of the "German colony" and the Port of Haifa, from one of the Terraces 
+![Terraces on Mt. Carmel](/images/terraceAndHaifa.JPG){: .img-fluid .border .rounded }<br>
+<small>View of the "German colony" and the Port of Haifa, from one of the Terraces
 below the Shrine of the B&aacute;b.</small>
 
 I believe that the reverence, awe, serenity, and wonder of Pilgrimage will hold
@@ -78,6 +78,6 @@ throughout my life, and though the motivating spirit be unknown, in the small
 works that one day I will have left behind.
 
 {: .center-block }
-![Cypress in Mazra'ih](/images/mazriehCypress.JPG){: .img-responsive .img-rounded }<br>
-<small>Ancient cypresses in Mazra'ih, enjoyed by Bah&aacute;'u'll&aacute;h in the 1870s, 
+![Cypress in Mazra'ih](/images/mazriehCypress.JPG){: .img-fluid .border .rounded }<br>
+<small>Ancient cypresses in Mazra'ih, enjoyed by Bah&aacute;'u'll&aacute;h in the 1870s,
 delighting many generations since and those to come.</small></small>

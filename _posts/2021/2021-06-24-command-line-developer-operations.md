@@ -54,12 +54,12 @@ To be clear, this article is about _typing_ commands rather than clicking
 on them. It is the difference between pulling up a menu in the IDE:
 
 {: .center-block}
-![Screenshot of Visual Studio showing the build solution command](/images/vs2019-build-solution-menu.png){: .img-responsive .img-rounded}
+![Screenshot of Visual Studio showing the build solution command](/images/vs2019-build-solution-menu.png){: .img-fluid .border .rounded}
 
 and knowing how to do this with just the keyboard in your favorite shell:
 
 {: .center-block}
-![Screenshot of dotnet build](/images/powershell-dotnet-build.png){: .img-responsive .img-rounded}
+![Screenshot of dotnet build](/images/powershell-dotnet-build.png){: .img-fluid .border .rounded}
 
 {: .alert .alert-primary }
 ASIDE: what do I mean by shell? That's just the name of the command line

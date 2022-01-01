@@ -17,7 +17,7 @@ wee hours after Thanksgiving dinner has been packed into the refrigerator.
 Waiting for this year's must-have bargain.
 
 {: .center-block }
-![people gathered](/images/mlkGP2013_0.jpg){: .img-responsive .img-rounded }
+![people gathered](/images/mlkGP2013_0.jpg){: .img-fluid .border .rounded }
 
 <!--more-->
 
@@ -30,7 +30,7 @@ blustery and cool morning, there were still a few hundred people at the
 curbside, smiling and taking pictures.
 
 {: .center-block }
-![marching](/images/mlkGP2013_3.jpg){: .img-responsive .img-rounded }
+![marching](/images/mlkGP2013_3.jpg){: .img-fluid .border .rounded }
 
 Truthfully, it was a small event. This is not a day and age filled with the
 public spirit, when parents from all over town bring their children to walk in
@@ -49,7 +49,7 @@ air like birds and swim the sea like fish, but we have not learned the simple
 art of living together as brothers." [1]
 
 {: .center-block }
-![the float](/images/mlkGP2013_1.jpg){: .img-responsive .img-rounded }
+![the float](/images/mlkGP2013_1.jpg){: .img-fluid .border .rounded }
 
 The Grand Prairie Unity Coalition supports the city's annual parades &mdash;
 MLK, Cinco de Mayo, Juneteenth &mdash; every year. Last year, I merely helped to
@@ -59,7 +59,7 @@ the material, and that we showed in some small way what it means to live
 together as brothers.
 
 {: .center-block }
-![children in the float](/images/mlkGP2013_2.jpg){: .img-responsive .img-rounded }
+![children in the float](/images/mlkGP2013_2.jpg){: .img-fluid .border .rounded }
 
 [1] "Martin Luther King Jr. - Nobel Lecture: The Quest for Peace and Justice".
 Nobelprize.org. 19 Jan 2013 <a

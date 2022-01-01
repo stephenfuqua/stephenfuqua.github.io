@@ -8,7 +8,7 @@ tags:
 - nature
 ---
 
-![photo of the moon over water](/images/MoonOverGulf.JPG){: .float-right .img-rounded }
+![photo of the moon over water](/images/MoonOverGulf.JPG){: .float-right .border .rounded }
 
 Last night we turned off the lights early for <a
 href="http://www.earthhour.org/">Earth Hour</a>, and went outside for a good
@@ -28,7 +28,7 @@ Oddly enough, the highway noise seemed louder at night than daytime, and the
 spell of the evening wore thin when reached the end of the trail: for there we
 were confronted with the incredibly bright lights of a soccer complex several
 miles north. What a waste! Lights several miles away should not be glaring into
-my eyes. What a tragedy. 
+my eyes. What a tragedy.
 
 The next tragedy were the bright, every-direction-but-down, lights on top of a
 bridge over a canal. These same lights are provide a sense of safety along the
@@ -44,4 +44,4 @@ Still, it was a delight to be out on a warm spring evening, enjoying a light
 breeze and the moonlight. Even the tragedy of human folly could not take that
 away. If only I had time to advocate for a <a
 href="http://texasida.org/LocalOrdinances.htm">dark skies program</a> in
-Irving... 
+Irving...

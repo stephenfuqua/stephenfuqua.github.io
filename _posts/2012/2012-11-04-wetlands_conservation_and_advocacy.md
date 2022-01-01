@@ -21,7 +21,7 @@ in addition to</a>, relying on massive levies, seawalls, and the like, we need
 to support public and private endeavors to restore vital natural systems.
 
 {: .center-block }
-![egret](/images/IMG_0075.JPG){: .img-responsive .img-rounded }<br>
+![egret](/images/IMG_0075.JPG){: .img-fluid .border .rounded }<br>
 <small>White-morph Reddish Egret, doing the Reddish Egret dance, in a wetland on Texas's Mustang
 Island</small>
 
@@ -58,7 +58,7 @@ the "Great Trinity Forest", providing for substantial <a href=
 sequestration</a>.
 
 {: .center-block }
-![cormorants flying](/images/IMG_0439.JPG){: .img-responsive .img-rounded}<br>
+![cormorants flying](/images/IMG_0439.JPG){: .img-fluid .border .rounded}<br>
 <small>Double-Crested Cormorants</small>
 
 The City of Dallas is working on a recreation plan that will provide access and
@@ -76,7 +76,7 @@ Dallas, we saw none. But we did see a tremendous flock, estimated at around
 season, feeding in these wetlands and our local lakes.
 
 {: .center-block }
-![downtown Dallas](/images/IMG_0448.JPG){: .img-responsive .img-rounded }<br>
+![downtown Dallas](/images/IMG_0448.JPG){: .img-fluid .border .rounded }<br>
 <small>Downtown Dallas over Wetland Cell F</small>
 
 Historically, our coastal areas and rivers like the Trinity contained
@@ -94,5 +94,5 @@ local neighborhoods, and in encouraging local citizens to responsibly enjoy
 them.
 
 {: .center-block }
-![looking north](/images/IMG_0451.JPG){: .img-responsive .img-rounded }<br>
+![looking north](/images/IMG_0451.JPG){: .img-fluid .border .rounded }<br>
 <small>Looking due north, across an old landfill and into the Great Trinity Forest</small>

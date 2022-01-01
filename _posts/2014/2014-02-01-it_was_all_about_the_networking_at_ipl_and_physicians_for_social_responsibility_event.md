@@ -10,7 +10,7 @@ tags:
 ---
 
 {: .float-right }
-![IPL logo with stethoscope](/images/IPLStethoscope.png){: .img-rounded}
+![IPL logo with stethoscope](/images/IPLStethoscope.png){: .border .rounded}
 
 Climate change and air quality were the unifying concerns at this past week's
 Dallas Interfaith Power &amp; Light (IPL) meeting, held at White Rock United

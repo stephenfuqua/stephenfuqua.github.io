@@ -24,4 +24,4 @@ _Continue reading on [ed-fi.org](https://www.ed-fi.org/blog/2020/02/the-analytic
 
 {: .center-block }
 ![analytics middle tier
-diagram](https://www.ed-fi.org/assets/2020/02/Screen-Shot-2020-02-14-at-9.39.56-AM-768x391.png){: .img-responsive }
+diagram](https://www.ed-fi.org/assets/2020/02/Screen-Shot-2020-02-14-at-9.39.56-AM-768x391.png){: .img-fluid }

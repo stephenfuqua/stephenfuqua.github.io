@@ -24,7 +24,7 @@ first of several blog posts on the subject.
 ## What is urban agriculture?
 
 {: .float-right }
-![gloves turned into planters](/images/rubberGloveGarden.jpg){: .img-rounded }<br>
+![gloves turned into planters](/images/rubberGloveGarden.jpg){: .border .rounded }<br>
 <small><a href="http://www.flickr.com/photos/36101699310@N01/4735756837/in/photolist-8dtZvX-9kJbkf-8e4zw3-kpGX1-dTMouP-bUSSUT-ccf7VN-bUSSHp-buAmhS-8Djyuz-8DnF4L-8DnFuu-4L3QwH-ar5jQe-6eK8FX-8t7mmx-6uVRHD-6v12pj-6v12t5-zw6Jz-5f83eW-8yuUf8-HMSAx-HMMSY-cj7eYm-cj7epw-cj7eFY-cj7ffy-6z87rG-dqn9GT-hLZt8-67tf2F-8dyYWg-85UhqQ-8VGhDH-6ufFkX-6xzFYq-7HCg9o-8peud9-4ZRhq4-7eGLDY-7eCRaK-7eCRj2-6uLybo-arKJ5a-s1Ewp-9WRVFv-9WUMK5-9WUN2d-9WRVtc-dNpkc3">source</a>: Some Rights Reserved,<br>
 by Flickr user <a href="http://www.flickr.com/photos/dgeezer/">Diamond Geezer</a>.<br>
 From somewhere along the<br>

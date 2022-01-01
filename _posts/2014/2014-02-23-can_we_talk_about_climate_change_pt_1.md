@@ -30,7 +30,7 @@ blog posts reflecting on the conversations.
 <!--more-->
 
 {: .float-right }
-![Stephen talking](/images/sf_Presenting_2014_02_16.jpg){: .img-rounded }<br>
+![Stephen talking](/images/sf_Presenting_2014_02_16.jpg){: .border .rounded }<br>
 Photo by <a href="https://www.jaybraden.net/">Jay Braden</a>
 
 _Summary of "Moral Imperatives for Climate Action" presentation:_

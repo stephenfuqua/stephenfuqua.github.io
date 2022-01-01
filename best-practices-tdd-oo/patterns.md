@@ -367,7 +367,7 @@ public abstract class BestRepositoryTests
 ```
 
 {: .center-block }
-![Visual Studio test explorer with nested classes](/images/bestRepository_nestedClasses_nunit.png){: .img-responsive .img-rounded }
+![Visual Studio test explorer with nested classes](/images/bestRepository_nestedClasses_nunit.png){: .img-fluid .border .rounded }
 
 ## Do Not Mock By Hand
 

@@ -11,7 +11,7 @@ tags:
 ---
 
 {: .float-right }
-![Tropical Mockingbird](/images/tropical-mockingbird.png){: .img-rounded }<br>
+![Tropical Mockingbird](/images/tropical-mockingbird.png){: .border .rounded }<br>
 <small>Tropical Mockingbird, Hopkins, Belize.<br>2014, Stephen A. Fuqua.</small>
 
 The general problem, succinctly stated:

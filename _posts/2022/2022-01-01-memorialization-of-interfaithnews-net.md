@@ -11,7 +11,7 @@ sharing: true
 
 
 {: .center-block }
-![Screenshot of today's InterfaithNews.Net](/images/inn-restored.jpg){: .img-responsive .img-rounded }
+![Screenshot of today's InterfaithNews.Net](/images/inn-restored.jpg){: .img-fluid .border .rounded }
 
 > "Reacting to religious fanaticism and the challenges of advancing and
 > sustaining a more equitable civilization, a global interfaith movement has
@@ -70,11 +70,11 @@ At last, in time for 2022, the memorial is complete:
 ---
 
 {: .center-block }
-![Original Design](/images/inn-version1.jpg){: .img-responsive .img-rounded }
-Original design
+Original design{: .text-info }
+![Original Design](/images/inn-version1.jpg){: .img-fluid .border .rounded }
 
 {: .center-block }
-![Second Design](/images/inn-version2.jpg){: .img-responsive .img-rounded }
-Second design
+Second design{: .text-info }
+![Second Design](/images/inn-version2.jpg){: .img-fluid .border .rounded }
 
 The third design looked much like the current memorial design at the top of the page.

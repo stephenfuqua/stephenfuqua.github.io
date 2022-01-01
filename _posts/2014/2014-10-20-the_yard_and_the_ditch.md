@@ -18,7 +18,7 @@ conducive to much play outside. But the best part was behind the fence: The
 Ditch.
 
 {: .center-block}
-![satellite view](/images/theDitch.png){: .img-responsive .img-rounded}
+![satellite view](/images/theDitch.png){: .img-fluid .border .rounded}
 
 <!--more-->
 
@@ -26,13 +26,13 @@ The Ditch might have been a bayou once upon a time, emptying as it does into the
 famed Buffalo Bayou of Houston. Or it may have simply been a canal for the rice
 farms that covered this stretch of former prairie through much of the 20th
 century. A six-year-old does not distinguish these things, or realize that a
-natural channel would have more than weeds about it. 
+natural channel would have more than weeds about it.
 
 Amazingly, my impression of it is just good enough that I was not far off in my
 estimation of its size: Google Earth shows it as approximately 140 feet from
 trail to trail on either side, and about 15 feet deep. No doubt this was
 artificially deepened, widened, and straightened to help move water swiftly away
-from the former rice paddies.  
+from the former rice paddies.
 
 Depauperate though the area was, still there were invertebrates in plenty, as
 well as a few creatures with spines. At that age I had not learned to look up &mdash;
@@ -43,7 +43,7 @@ they didn't really need that standing water. Incidentally, "doodle bug" in this
 case is a Texanism for what others call rolly pollies or pill bugs. The
 early-80's game of Frogger was quite visceral for me: the street out front was
 home to many smushed carcasses. And with the frequent showers, followed by
-sunshine, one had to dodge fried worms while running down the sidewalk. 
+sunshine, one had to dodge fried worms while running down the sidewalk.
 
 The ditch itself always had water, with small fish, snakes, and the occasional
 turtle. There were grasses and flowers, but as you can see there were no trees.

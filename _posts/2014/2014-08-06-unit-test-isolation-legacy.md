@@ -16,7 +16,7 @@ new unit tests for legacy .Net code? Well, that depends... and I have a flow
 chart and brief notes to help you figure it out.
 
 {: .center-block }
-![Test toolkit flow chart](/images/testIsolationLegacyCode.png){: .img-responsive .img-rounded }
+![Test toolkit flow chart](/images/testIsolationLegacyCode.png){: .img-fluid .border .rounded }
 
 ## Stubs, Mocks, Etc.
 

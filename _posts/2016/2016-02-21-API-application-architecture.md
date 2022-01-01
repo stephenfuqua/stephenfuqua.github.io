@@ -18,7 +18,7 @@ graphics toolkit is currently limited, my diagram for FlightNode has boxes
 instead of concentric onion-looking circles...
 
 {: .center-block }
-![onion architecture](/images/flightnode.onion.png){: .img-responsive .img-rounded }
+![onion architecture](/images/flightnode.onion.png){: .img-fluid .border .rounded }
 
 One key takeaway is the direction of dependencies: all of the solid line
 dependencies in this chart move from left to right. The Domain Entities are at

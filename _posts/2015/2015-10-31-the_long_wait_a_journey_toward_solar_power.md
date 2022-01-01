@@ -18,12 +18,12 @@ Well, almost. The panels are on the roof, but now I have 4-6 weeks to wait until
 the electric grid company (Oncor) comes out to inspect.
 
 {: .center-block }
-![solar panel photo 1](/images/solar1.jpg){: .img-responsive .img-rounded}
+![solar panel photo 1](/images/solar1.jpg){: .img-fluid .border .rounded}
 
 <!--more-->
 
 {: .float-right }
-![solar panel photo 2 ](/images/solar2.jpg){: .img-rounded}
+![solar panel photo 2 ](/images/solar2.jpg){: .border .rounded}
 
 Chernobyl was probably the first environmental disaster I knew about as a child,
 and the news coverage brought me a measure of awareness of energy issues. But it
@@ -66,5 +66,5 @@ that switch and power on. My long wait for solar is just about over. Apologies
 for the navel-gazing - but I just had to share my excitement.
 
 {: .center-block }
-![solar panel photo 3](/images/solar3.jpg){: .img-responsive .img-rounded }<br>
+![solar panel photo 3](/images/solar3.jpg){: .img-fluid .border .rounded }<br>
 One of four banks of panels arrayed across the house.

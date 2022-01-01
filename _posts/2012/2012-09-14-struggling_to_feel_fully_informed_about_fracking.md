@@ -9,7 +9,7 @@ tags:
 ---
 
 {: .float-right }
-![two sides of one coin](/images/frackingTwoSides.png){: .img-rounded }
+![two sides of one coin](/images/frackingTwoSides.png){: .border .rounded }
 
 On the one hand, fracking has been responsible for earthquakes and creates toxic
 water that must be locked away interminably. On the other hand, cheap natural

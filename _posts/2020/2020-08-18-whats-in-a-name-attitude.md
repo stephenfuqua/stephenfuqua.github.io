@@ -90,10 +90,10 @@ useless reminder of a cruel past.
 Steps taken to change this blog's source code repository:
 
 1. Create the main branch<br>
-   ![Screenshot showing creation of main branch](/images/main-create-branch.png){: .img-responsive .img-rounded .img-border }
+   ![Screenshot showing creation of main branch](/images/main-create-branch.png){: .img-fluid .border .rounded }
 2. Switch the default from `master` to `main`<br>
-   ![Screenshot showing change of default branch](/images/main-switch-default-branch.png){: .img-responsive .img-rounded .img-border }
+   ![Screenshot showing change of default branch](/images/main-switch-default-branch.png){: .img-fluid .border .rounded }
 3. Change the branch used by GitHub Pages<br>
-   ![Screenshot showing change to the GitHub Pages branch](/images/main-change-gh-pages.png){: .img-responsive .img-rounded .img-border }
+   ![Screenshot showing change to the GitHub Pages branch](/images/main-change-gh-pages.png){: .img-fluid .border .rounded }
 4. Finally, delete the old branch<br>
-   ![Screenshot showing deletion of old branch](/images/main-delete-old.png){: .img-responsive .img-rounded .img-border }
+   ![Screenshot showing deletion of old branch](/images/main-delete-old.png){: .img-fluid .border .rounded }

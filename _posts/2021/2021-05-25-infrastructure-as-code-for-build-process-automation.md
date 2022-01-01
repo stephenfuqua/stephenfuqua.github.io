@@ -100,7 +100,7 @@ How do you avoid vendor lock-in? "Universalize" &mdash; create a process that ca
 transported to any tool with ease. This likely means writing imperative scripts.
 
 {: .center-block}
-![Image of NUnit configuration with caption "how do i run this locally?"](/images/iac-how-do-i-run-this-locally.jpg){: .img-responsive .img-rounded}
+![Image of NUnit configuration with caption "how do i run this locally?"](/images/iac-how-do-i-run-this-locally.jpg){: .img-fluid .border .rounded}
 
 The screenshot above is from TeamCity, showing a build runner step for running
 NUnit on a project. A developer who does not know how to run NUnit at the

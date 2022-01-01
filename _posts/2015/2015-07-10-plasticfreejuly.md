@@ -102,7 +102,7 @@ Scary New Evidence on BPA-Free Plastics&hellip; And the Big Tobacco-style
 campaign to bury it</a>, by Mariah Blake, _Mother Jones_, March/April 2014.
 
 {: .float-right }
-<a href="https://www.flickr.com/photos/29069717@N02/13543488693/in/photolist-mCMVkK-7usXr9-4EjGoh-enYX3N-28jFN6-bpsiMq-bxdkUM-ce4kAy-tYnCPH-ceL4wu-ceL3jE-ceL48S-4s3WXA-ceL3M9-cNYPtq-5seVp-2SSnxo-ai7pAx-ceL4tu-ceL4r1-bXoyY6-5GNkq-bXoz5v-bXozeB-ceL4DG-ceL4jY-bnTfGY-5tiUQ2-ceL3fW-4w36hs-8vgBsP-9veAqQ-ceL4nG-bXoxMH-bXoz26-bXoz8g-7yLTk3-6v3Dwy-aCyE7N-p6456k-4EfrZr-k5f2sa-4cNVuq-bsFKcK-dzVBcB-7hZWNf-75Mwqs-nWAefT-6rjzZ2-7yH71a">![Old ad for bouillon cubes in plastic container](/images/plasticBouillon.jpg){: .img-rounded}<br>
+<a href="https://www.flickr.com/photos/29069717@N02/13543488693/in/photolist-mCMVkK-7usXr9-4EjGoh-enYX3N-28jFN6-bpsiMq-bxdkUM-ce4kAy-tYnCPH-ceL4wu-ceL3jE-ceL48S-4s3WXA-ceL3M9-cNYPtq-5seVp-2SSnxo-ai7pAx-ceL4tu-ceL4r1-bXoyY6-5GNkq-bXoz5v-bXozeB-ceL4DG-ceL4jY-bnTfGY-5tiUQ2-ceL3fW-4w36hs-8vgBsP-9veAqQ-ceL4nG-bXoxMH-bXoz26-bXoz8g-7yLTk3-6v3Dwy-aCyE7N-p6456k-4EfrZr-k5f2sa-4cNVuq-bsFKcK-dzVBcB-7hZWNf-75Mwqs-nWAefT-6rjzZ2-7yH71a">![Old ad for bouillon cubes in plastic container](/images/plasticBouillon.jpg){: .border .rounded}<br>
 By "Classic Film", 2014,<br>Some rights reserved (CC-BY-NC).
 
 ### Risk and Reward

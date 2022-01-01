@@ -31,7 +31,7 @@ I'm waiting for the group photo to show up on the <a
 href="http://www.vfom.org">Volunteers for Outdoor Missouri</a> website.
 
 {: .center-block }
-![Lake Springfield](http://lh6.ggpht.com/_mZAPo8ePwc4/TMD21trfJLI/AAAAAAAAAk4/5o0bMaUlkZ0/s640/381A0026.jpg){: .img-responsive .img-rounded }<br>
+![Lake Springfield](http://lh6.ggpht.com/_mZAPo8ePwc4/TMD21trfJLI/AAAAAAAAAk4/5o0bMaUlkZ0/s640/381A0026.jpg){: .img-fluid .border .rounded }<br>
 <small>Lake Springfield from the Bluff.</small>
 
 Tonight I was to meet with someone who is interested in learning more about the

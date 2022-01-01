@@ -16,4 +16,4 @@ href="https://plus.google.com/photos/110829098089228358837/albums/60641829102370
 Photos</a>. First six in the gallery are from last fall, but the rest are from
 today.
 
-![photo collage from the park](/images/samHoustonTrailParkJuly112015.png){: .img-responsive }
+![photo collage from the park](/images/samHoustonTrailParkJuly112015.png){: .img-fluid }

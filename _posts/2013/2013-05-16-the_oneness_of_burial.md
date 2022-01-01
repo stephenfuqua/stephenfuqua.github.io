@@ -10,7 +10,7 @@ tags:
 ---
 
 {: .float-right }
-![dogwood flowers](/images/dogwoodFlowers.jpg){: .img-rounded }
+![dogwood flowers](/images/dogwoodFlowers.jpg){: .border .rounded }
 
 The closing from one of the many beautiful essays in _Moral Ground: Ethical
 Action for a Planet in Peril_ is  incredibly moving (as is the rest of the
@@ -37,4 +37,4 @@ turning into plants and flowers, developing into trees of the highest paradise,
 becoming perfumed and attaining the beauty of color."
 
 {: .center-block}
-![coreopsis](/images/coreopsisDVSP.jpg){: .img-rounded}
+![coreopsis](/images/coreopsisDVSP.jpg){: .border .rounded}

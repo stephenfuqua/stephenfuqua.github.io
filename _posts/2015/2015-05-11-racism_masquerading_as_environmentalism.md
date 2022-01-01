@@ -10,7 +10,7 @@ tags:
 - inclusion
 ---
 
-![photo from EarthDayTX booth](/images/dallasIPL_EDTX2015.jpg){: .float-right .img-rounded }
+![photo from EarthDayTX booth](/images/dallasIPL_EDTX2015.jpg){: .float-right .border .rounded }
 
 A disturbing thing happened at Earth Day Texas - racists and nativists showed up
 masquerading as environmentalists. A tweet from the Southern Poverty Law Center
@@ -28,7 +28,7 @@ couldn&rsquo;t complain, since clearly we too had an agenda. He agreed that
 anthropogenic climate change is a legitimate global problem. That&rsquo;s a fine
 start. Then he asks: what do you think is the cause? Response: over consumption
 of our resources, particularly in wealthy countries.
- 
+
 No &mdash; it&rsquo;s overpopulation, he says. He proceeds to lay out a brief
 statement, and asks me to acknowledge that overpopulation is the root cause.
 Response: no, I still hold that our human nature toward overconsumption is the
@@ -36,7 +36,7 @@ root cause, not population itself. &ldquo;THAT'S COGNITIVE DISSONANCE&rdquo; he
 all but shouts. &ldquo;&hellip; those people&hellip; in Africa and Haiti&hellip;
 all of your efforts are meaningless until we reduce their fertility
 rates.&rdquo;
- 
+
 Yes, it was all about &ldquo;those people.&rdquo; Classic racist words &mdash;
 and only the first in a string of overtly racist statements. Somewhere in there
 were words about immigrants to the U.S. and their impact both on the
@@ -46,7 +46,7 @@ who had been valiantly trying to steer the conversation in a positive direction
 &mdash; finally asked to end the conversation not long after the assertion that
 &ldquo;blacks and Latinos don&rsquo;t like to use condoms&rdquo; (he
 &ldquo;knows&rdquo; because he has &ldquo;asked them&rdquo;).
- 
+
 The argument that each American consumes far more than any individual in a
 developing nation held no significance for him, because he claimed that taken as
 a whole Africa is (or would be soon) out consuming Europe. The [Global Footprint
@@ -54,7 +54,7 @@ Network&rsquo;s](http://www.footprintnetwork.org/en/index.php/GFN/) findings
 disagree: Africa as a whole consumes 1.0 global hectare per person, compared to
 4.1 in the EU. Despite having 38% of Africa&rsquo;s total population, that works
 out to the EU consuming about 160% more than Africa, overall*.
- 
+
 Let&rsquo;s be fair: the syllogism that more people means more consumption means
 more environmental problem is indisputable when discussing business as usual.
 That is, under our dominant ways of life today, continued population growth must
@@ -64,13 +64,13 @@ their racist views in pseudo/scientific assessments. Most environmentalists are
 sensitive to the problems of eugenics, sterilization, and forced &ldquo;family
 planning&rdquo; without real autonomy and personal choice. So we avoid the
 subject.
- 
+
 My aim is not to vilify, but rather to expose. Long-time environmentalists are
 likely thoroughly familiar with this debate. But younger Gen X&rsquo;ers like
 me, and millennials, may not have run across this issue so much. We need to be
 aware of this history. There are plenty of well-meaning people who can talk
 seriously about over-population. Let us not deny the legitimate discussion.
- 
+
 What I really want to urge is that we turn this conversation around. Rather than
 talk about how &ldquo;those people&rdquo; need to stop having so many children,
 can we talk about the factors such as

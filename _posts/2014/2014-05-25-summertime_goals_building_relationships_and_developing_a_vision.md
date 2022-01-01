@@ -23,6 +23,6 @@ _Continue reading at the <a href="http://www.texasinterfaithcenter.org/blog/summ
 
 {: .center-block }
 ![blurry and crisp
-photos](/images/ovenbirdLearningToFocus.png){: .img-rounded }<br> <small>"Learning to focus"
+photos](/images/ovenbirdLearningToFocus.png){: .border .rounded }<br> <small>"Learning to focus"
 &copy; 2013, S. Fuqua / T. Homayoun. Ovenbird at Paradise Pond in Port Aransas,
 Texas.</small>

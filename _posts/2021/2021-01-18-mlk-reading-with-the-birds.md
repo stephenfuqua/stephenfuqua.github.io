@@ -71,37 +71,37 @@ weeks old but all of these species were observed today. &copy; Tania Homayoun, [
 by-nc-nd](https://www.inaturalist.org/assets/CC-BY-NC-ND_small-787c524b357a0c9dbf58ddcb4a2acb64.png)
 
 {: .center-block}
-![Black-Crested Titmouse](/images/suet-birds/bcti.jpg){: .img-responsive .img-rounded}<br>
+![Black-Crested Titmouse](/images/suet-birds/bcti.jpg){: .img-fluid .border .rounded}<br>
 <small>Black-Crested Titmouse</small>
 
 ---
 
 {: .center-block}
-![Carolina Wren](/images/suet-birds/cawr.jpg){: .img-responsive .img-rounded}<br>
+![Carolina Wren](/images/suet-birds/cawr.jpg){: .img-fluid .border .rounded}<br>
 <small>Carolina Wren</small>
 
 ---
 
 {: .center-block}
-![Hermit Thrush](/images/suet-birds/heth.jpg){: .img-responsive .img-rounded}<br>
+![Hermit Thrush](/images/suet-birds/heth.jpg){: .img-fluid .border .rounded}<br>
 <small>Hermit Thrush</small>
 
 ---
 
 {: .center-block}
-![Orange-crowned Warbler](/images/suet-birds/ocwa.jpg){: .img-responsive .img-rounded}<br>
+![Orange-crowned Warbler](/images/suet-birds/ocwa.jpg){: .img-fluid .border .rounded}<br>
 <small>Orange-crowned Warbler</small>
 
 ---
 
 {: .center-block}
-![Ruby-crowned Kinglet](/images/suet-birds/rcki.jpg){: .img-responsive .img-rounded}<br>
+![Ruby-crowned Kinglet](/images/suet-birds/rcki.jpg){: .img-fluid .border .rounded}<br>
 <small>Ruby-crowned Kinglet</small>
 
 ---
 
 {: .center-block}
-![Yellow-rumped Warbler](/images/suet-birds/yrwa.jpg){: .img-responsive .img-rounded}<br>
+![Yellow-rumped Warbler](/images/suet-birds/yrwa.jpg){: .img-fluid .border .rounded}<br>
 <small>Yellow-rumped Warbler</small>
 
 ---

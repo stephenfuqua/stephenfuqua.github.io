@@ -9,7 +9,7 @@ tags:
 ---
 
 {: .float-right}
-![pushing a bicyclist over a cliff](/images/pushBikeCliff.jpg){: .img-rounded}
+![pushing a bicyclist over a cliff](/images/pushBikeCliff.jpg){: .border .rounded}
 
 At a Bah&aacute;'&iacute; retreat on <a
 href="http://www.cvent.com/events/friends-and-family-session-iii-conversations-on-the-way/event-summary-3fb948043b9244a8bbd0e1844a883dc6.aspx">Conversations

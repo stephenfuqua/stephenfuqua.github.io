@@ -10,7 +10,7 @@ tags:
 ---
 
 {: .center-block}
-![preach-in logo](/images/preachIn.jpg){: .img-responsive .img-rounded }
+![preach-in logo](/images/preachIn.jpg){: .img-fluid .border .rounded }
 
 The <a href="http://www.preachin.org/">National Preach-In on Global Warming</a>
 is coming up - Feb 8 - 10 &mdash; and I am excited to say that the

@@ -24,7 +24,7 @@ still had bits of barb wire encased in their bark. The trees sheltered squirrels
 and chipmunks, birds and bats.
 
 {: .center-block}
-![rock ledge outcrop](/images/springLedgeSpringfieldLarge.png){: .img-responsive .img-rounded }<br>
+![rock ledge outcrop](/images/springLedgeSpringfieldLarge.png){: .img-fluid .border .rounded }<br>
 <small>Small ledge and spring, along a minor brook emptying into Lake
 Springfield, Missouri</small>
 
@@ -54,7 +54,7 @@ was Spring Creek that captured my heart. Soon, however, it was time for college.
 {: .center-block }
 <a
 href="http://www.flickr.com/photos/46183897@N00/5744731155/sizes/l/in/photostream/">
-![flowers](/images/5744731155_a011fe670b_z.jpg){: .img-responsive .img-rounded }
+![flowers](/images/5744731155_a011fe670b_z.jpg){: .img-fluid .border .rounded }
 </a> <small> Gaillardia  flowers at Spring Creek Forest Preserve in Richardson
 and Garland.<br>[Some rights
 reserved](https://creativecommons.org/licenses/by/2.0/) by
@@ -81,7 +81,7 @@ are other common destinations. Plano, too, has grown up over the years: Arbor
 Hills now provides an excellent western counterpart to Bob Woodruff.
 
 {: .center-block }
-![Joe Pool lake](/images/dcacJoePoolLarge.png){: .img-responsive .img-rounded }<br>
+![Joe Pool lake](/images/dcacJoePoolLarge.png){: .img-fluid .border .rounded }<br>
 <small>Joe Pool Overlook, Dogwood Canyon Audubon Center at Cedar Hill</small>
 
 While my personal faith plays an important role in helping keep me from the
@@ -99,7 +99,7 @@ defined&dagger;. Without these spaces, I could not bear to remain in Texas
 &mdash; it would not be the land I love, but just another Sprawl.
 
 {: .center-block }
-![chain of wetlands](/images/wetlands.png){: .img-responsive .img-rounded }<br>
+![chain of wetlands](/images/wetlands.png){: .img-fluid .border .rounded }<br>
 <small>Wetlands southeast of downtown Dallas.</small>
 
 &dagger; The book <a href="http://mitpress.mit.edu/books/urban-place">Urban

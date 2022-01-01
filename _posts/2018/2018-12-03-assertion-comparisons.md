@@ -180,12 +180,12 @@ same tests in each framework and ran them many times. The results below are
 representative of the typical results in repeated executions:
 
 {: .center-block }
-![Overall execution times](/images/execution-times-summary.png){: .img-responsive .img-rounded }
+![Overall execution times](/images/execution-times-summary.png){: .img-fluid .border .rounded }
 
 Yikes! What's going on here? Let's drill into the results a bit...
 
 {: .center-block }
-![Detailed execution times](/images/execution-times-fa-detail.png){: .img-responsive .img-rounded }
+![Detailed execution times](/images/execution-times-fa-detail.png){: .img-fluid .border .rounded }
 
 There is one test that makes up nearly 80% of execution time. And it is a
 trivial test:

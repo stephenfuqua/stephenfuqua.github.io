@@ -9,19 +9,19 @@ tags:
 ---
 
 {: .center-block }
-![photo of caterpillar poop](/images/hornworm1.jpg){: .img-responsive .img-rounded }
+![photo of caterpillar poop](/images/hornworm1.jpg){: .img-fluid .border .rounded }
 
 Who did this? Who would leave such mighty poo below my bell pepper? Our fence is too tight for rabbits...
 
 <!--more-->
 
 {: .center-block}
-![photo of tobacco hornworm](/images/hornworm2.jpg){: .img-responsive .img-rounded }
+![photo of tobacco hornworm](/images/hornworm2.jpg){: .img-fluid .border .rounded }
 
 It is a tobacco hornworm!
 
 {: .center-block}
-![photo of tobacco hornworm, 2](/images/hornworm3.jpg){: .img-responsive .img-rounded }
+![photo of tobacco hornworm, 2](/images/hornworm3.jpg){: .img-fluid .border .rounded }
 
 And another!
 

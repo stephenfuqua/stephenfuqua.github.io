@@ -9,7 +9,7 @@ tags:
 ---
 
 {: .float-right }
-![memorial garden](http://lh6.ggpht.com/_mZAPo8ePwc4/TRLG2C8LpyI/AAAAAAAAArE/No21om-L3Lg/s400/IMG_2422.JPG){: .img-responsive .img-rounded}
+![memorial garden](http://lh6.ggpht.com/_mZAPo8ePwc4/TRLG2C8LpyI/AAAAAAAAArE/No21om-L3Lg/s400/IMG_2422.JPG){: .img-fluid .border .rounded}
 
 Four members of the "Holy Family" are buried in the second major development of
 the Bah&aacute;'&iacute; World Centre (the prior being the mausoleum of the <a
@@ -52,21 +52,21 @@ href="http://www.amazon.com/Leaves-Divine-Trees-Baharieh-Rouhani/dp/0853985332">
 of the Twin Divine Trees</a> in 2011.
 
 {: .center-block }
-![monument](http://lh5.ggpht.com/_mZAPo8ePwc4/TRLGQuTM_-I/AAAAAAAAAq8/vB3zaFvwOEU/s400/IMG_2423.JPG){: .img-responsive .img-rounded }<br>
+![monument](http://lh5.ggpht.com/_mZAPo8ePwc4/TRLGQuTM_-I/AAAAAAAAAq8/vB3zaFvwOEU/s400/IMG_2423.JPG){: .img-fluid .border .rounded }<br>
 Monument of Bah&iacute;yyih Kh&aacute;num
 
 {: .center-block }
-![grave and monument](http://lh3.ggpht.com/_mZAPo8ePwc4/TRLGa6N5FiI/AAAAAAAAArA/m9EQvxMTICQ/s400/IMG_2425.JPG){: .img-responsive .img-rounded }<br>
+![grave and monument](http://lh3.ggpht.com/_mZAPo8ePwc4/TRLGa6N5FiI/AAAAAAAAArA/m9EQvxMTICQ/s400/IMG_2425.JPG){: .img-fluid .border .rounded }<br>
 Grave and monument of Mun&iacute;rih Kh&aacute;num
 
 {: .center-block }
-![graves](http://lh5.ggpht.com/_mZAPo8ePwc4/TRLHA9yr-pI/AAAAAAAAArI/yKPGZr8x9Io/s400/IMG_2428.JPG){: .img-responsive .img-rounded }<br>
+![graves](http://lh5.ggpht.com/_mZAPo8ePwc4/TRLHA9yr-pI/AAAAAAAAArI/yKPGZr8x9Io/s400/IMG_2428.JPG){: .img-fluid .border .rounded }<br>
 Graves of M&iacute;rz&aacute; Mihd&iacute; and Navv&aacute;b with the Center for the Study of the Texts in the background
 
 {: .center-block }
-![trees](http://lh5.ggpht.com/_mZAPo8ePwc4/TRLHPnWgqvI/AAAAAAAAArM/gdWOujluwW4/s400/IMG_2432.JPG){: .img-responsive .img-rounded }<br>
+![trees](http://lh5.ggpht.com/_mZAPo8ePwc4/TRLHPnWgqvI/AAAAAAAAArM/gdWOujluwW4/s400/IMG_2432.JPG){: .img-fluid .border .rounded }<br>
 Palm, olive, cypress, and mystery tree in the upper left corner, from the Monument Gardens
 
 {: .center-block }
-![house of justice](http://lh3.ggpht.com/_mZAPo8ePwc4/TRQQkDLyTlI/AAAAAAAAArk/WA-PyW8_UGE/s400/IMG_2427.JPG){: .img-responsive .img-rounded }<br>
+![house of justice](http://lh3.ggpht.com/_mZAPo8ePwc4/TRQQkDLyTlI/AAAAAAAAArk/WA-PyW8_UGE/s400/IMG_2427.JPG){: .img-fluid .border .rounded }<br>
 The Seat of the Universal House of Justice, from the Monument Gardens

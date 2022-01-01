@@ -14,7 +14,7 @@ don't buy it &mdash; why the research is fundamentally flawed and real software 
 should ignore it.
 
 {: .center-block }
-![We don't need your wheels](/images/lego-refactoring.jpg){: .img-responsive .img-rounded }
+![We don't need your wheels](/images/lego-refactoring.jpg){: .img-fluid .border .rounded }
 
 The study's aim was to evaluate the use of refactoring techniques to improve
 code quality and maintenance. In brief, they conclude that "there is no quality
