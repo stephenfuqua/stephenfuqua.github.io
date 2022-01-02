@@ -11,7 +11,7 @@ sharing: true
 
 
 {: .center-block }
-![Screenshot of today's InterfaithNews.Net](/images/inn-restored.jpg){: .img-fluid .border .rounded }
+![Screenshot of today's InterfaithNews.Net](https://blog.safnet.com/images/inn-restored.jpg){: .img-fluid .border .rounded }
 
 > "Reacting to religious fanaticism and the challenges of advancing and
 > sustaining a more equitable civilization, a global interfaith movement has
@@ -53,16 +53,17 @@ than animosity and division.
 By the summer of 2006 my responsibilities in the local Bah&aacute;&#39;&iacute;
 community had increased and my time for interfaith work consequently diminished.
 Thus the October, 2006 electronic newsletter was the last. There was one more
-article in 2007, and at some point I stopped paying for the hosting service. And
-made a big mistake: I didn't save an archive, or if I did, I lost it during some
-transfer from one hard drive to another.
+article in 2007, and then &helllip; a regrettable mistake: I cancelled the
+Internet hosting and lost my backups. Like so many other web sites over the
+years, it was lost to the world.
 
 Fast forward: some muse breathed into me a desire to look through the site
-again. And so in 2021 I began to recover the site. Not a
-resurrection: no new life breathed into it. Just a memorialization, a
-museum-ification, of what had once been an important part of my avocational
-life. This required significant trawling through the [Wayback Machine](https://web.archive.org/), digging up as much as I could find. And then reformatting, because the HTML was often corrupted, and the captured pages
-were from different eras with different styles.
+again. And I remembered: the [Wayback Machine](https://web.archive.org/), which
+is an attempt to capture the whole of the World Wide Web. Here I could find, in
+imperfect form and detail, old copies of the site. As a digital anthropologist,
+I have cleaned and restored all that I could. No new life has been breathed into
+it; it is merely a memorialization, a museum-ification, of what had once been an
+important part of my avocational life.
 
 At last, in time for 2022, the memorial is complete:
 [https://www.safnet.com/inn](https://www.safnet.com/inn)
