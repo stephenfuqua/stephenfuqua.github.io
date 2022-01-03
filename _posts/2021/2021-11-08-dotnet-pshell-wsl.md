@@ -7,8 +7,8 @@ tags:
   - devops
   - tech
   - programming
-  - linux
-  - windows
+  - Linux
+  - Windows
 sharing: true
 ---
 
