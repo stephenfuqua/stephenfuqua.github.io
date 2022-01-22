@@ -97,8 +97,8 @@ command, run from PowerShell in administrative mode:
 New-NetFirewallRule -DisplayName "WSL" -Direction Inbound  -InterfaceAlias
 "vEthernet (WSL)" -Action Allow
 ```
-
-> \* I have not been in the business of writing firewall rules since the early
+{: .alert .alert-warning }
+\* I have not been in the business of writing firewall rules since the early
 2000's, so while _I think_ this is correct, I might be mistaken. Please think
 through your security posture carefully before following this path.
 
@@ -134,3 +134,34 @@ ttk.Label(frm, text=f"This window is running from {uname().system}").grid(column
 ttk.Button(frm, text="Quit", command=root.destroy).grid(column=0, row=1)
 root.mainloop()
 ```
+
+## Setting Environment Variables on Startup
+
+Two environment variables were created in this process. It would be tedious to come back to 
+this post and recopy them every time a new Ubuntu/Bash shell is opened. Linux has a simple
+way of dealing with this: the `.profile` file contains instructions that run every time
+you open a command prompt. There is also a `.bashrc` file that runs next, whenever you run
+Bash (there are other shells that you could switch to, though Bash is the most popular).
+Edit either one. 
+
+You will need to use a text editor such as 
+[`nano`](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/),
+[`vim`](https://www.computerhope.com/unix/vim.htm), or `code` 
+(if you don't have it, typing `code` will automatically start the install of Visual Studio 
+Code). All are excellent editors. Those who are new to Linux will probably feel more comfortable
+starting up Visual Studio Code. I use it all the time. But I also use the command line frequently
+when I only need to edit one file. Knowing how to use `nano` or `vim` is a wonderful skill
+to develop. Of the two, `nano` is easier to learn, and `vim` is more powerful. Whichever
+editor you choose, open the file like so: `code ~/.profile`. The `~` instructs the operating
+system to look for the file in your home directory.
+
+Once you figure out which editor to use, just add the following two lines at the bottom of 
+the `.profile` file:
+
+```bash
+export LIBGL_ALWAYS_INDIRECT=1
+export DISPLAY=$(awk '/nameserver / {print $2; exit}' /etc/resolv.conf 2>/dev/null):0
+```
+
+Save that. Once saved, you can immediately invoke it, without starting a new window,
+with this command: `source ~/.profile`.
