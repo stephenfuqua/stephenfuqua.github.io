@@ -89,7 +89,7 @@ society and to the social and economic development of the community, raising up
 the voices of women.
 
 {: .center-block }
-![Advertisement from 1929](/images/mmb-bahai.jpg){: .img-fluid .border .rounded }
+![Advertisement from 1929](/images/mmb-bahai-center.jpg){: .img-fluid .border .rounded }
 
 ---
 
@@ -110,8 +110,8 @@ Photo by Addison Scurlock. Courtesy of Smithsonian Institution, National Museum
 of American History, Archives Center. Accessed courtesy of
 [Flickr](https://www.flickr.com/photos/washington_area_spark/8556420979)
 
-Newspaper advertisement: _The Brooklyn Daily Eagle_, Brooklyn, New York. 22 Oct
- 1929. p 33.
+Newspaper advertisement: _The Brooklyn Daily Eagle_, Brooklyn, New York. 
+22 Oct 1929. p 33.
 
 ## Bibliography
 
@@ -126,5 +126,5 @@ Other works consulted:
   https://news.ufl.edu/2022/07/mary-mcleod-bethune/, accessed July 16, 2022.
 * Michals, Debra. "Mary McLeod Bethune",  National Women's History Museum. 2015.
   www.womenshistory.org/education-resources/biographies/mary-mcleod-bethune,
-  accessed July 16, 2022..
+  accessed July 16, 2022.
 
