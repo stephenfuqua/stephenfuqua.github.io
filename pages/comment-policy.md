@@ -4,6 +4,9 @@ permalink: /comment-policy
 title: Comment Policy
 ---
 
+> **Note**
+> Due to privacy concerns with Disqus, I have disabled comments.
+
 I welcome relevant and respectful comments. Off-topic, disrespectful, or abusive
 comments will be removed. Which articles support comments, and for how long,
 will be on a case-by-case basis as I try this out.
@@ -27,6 +30,3 @@ consultation](https://www.bahai.org/beliefs/universal-peace/articles-resources/c
 >
 > ~ Bah&aacute;'u'll&aacute;h, from a Tablet, translated from the Arabic
 
-<i class="fas fa-exclamation-circle"></i> Note: the Disqus platform
-automatically flags very lengthy comments or comments that contain multiple
-links as spam.
