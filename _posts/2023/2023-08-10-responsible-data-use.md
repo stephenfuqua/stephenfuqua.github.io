@@ -92,9 +92,10 @@ based on income, if income and race are highly correlated in a particular area.
 to confirm assumptions. Cross validate results. Use large iterations when
 bootstrapping and repeat to insure stability of results.
 
-**Privacy**: Practice appropriate anonymization and apply "need to know"
-restrictions. Watch out for small sample sizes that can unintentionally reveal
-identity. Use the least personal data available and relevant for the analysis.
+**Privacy**: Practice appropriate anonymization and apply "need to know" (least
+privilege) restrictions. Watch out for small sample sizes that can
+unintentionally reveal identity. Use the least personal data available and
+relevant for the analysis.
 
 Examples: Imagine an analysis that predicts a certain outcome for a target
 demographic, and the dataset only contains a few people from that demographic.
@@ -109,10 +110,29 @@ and communication. Start early to avoid the trap of stubbornly clinging to a
 misdirected idea.
 
 **Destiny**: as a matter of justice, of nobility, and of truthfulness: be on
-guard for prediction becoming destiny.
+guard for predictions becoming destiny.
 
 Example: Whether policing on the street or teachers disciplining students, a
 prediction that one group will have more criminal / behavioral incidents easily
 leads to paying more attention to that group, ignoring other groups, and thus
 detecting (or "inventing") more ill behavior in that group - thus reinforcing
 the original prediction.
+
+----
+
+## Sources of Inspiration
+
+Speaking of giving credit where credit is due, here are some sources that have
+helped shape my thinking on this topic:
+
+* [Coded Bias](https://www.codedbias.com/) (film) and the [Algorithmic Justice
+  League](https://www.ajl.org/)
+* [Race After Technology](https://www.ruhabenjamin.com/race-after-technology)
+  (book), by Ruha Benjamin.
+* [The New Jim Crow](https://newjimcrow.com/) (book), by Michelle Alexander.
+* [97 Things About Ethics Everyone in Data Science Should
+  Know](https://learning.oreilly.com/library/view/97-things-about/9781492072652/q)
+  (book), edited by Bill Franks.
+
+And articles, asides, and conversations that are too numerous to remember or
+cite.
