@@ -30,7 +30,7 @@ etc.
 
 <!--more-->
 
-> **Note** First draft, 2023-08-10
+**☝Note** First draft, 2023-08-10
 
 ## Virtues and Values
 
@@ -41,11 +41,12 @@ on virtues and values, those below can serve as guiding lights for what follows.
 
 > "Truthfulness is the foundation of all human virtues." `Abdu'l-Bahá
 
-| Virtue       | Value Correlate(s)                                 |
-| ------------ | -------------------------------------------------- |
-| truthfulness | transparency, honesty, truth-seeking               |
-| justice      | equity, independence, consensus                    |
+| Virtue       |                                 Value Correlate(s) |
+| :----------- | -------------------------------------------------: |
+| truthfulness |               transparency, honesty, truth-seeking |
+| justice      |                    equity, independence, consensus |
 | nobility     | human dignity, recognition of aspirations, privacy |
+{: .table .table-striped .table-bordered}
 
 ## Guiding Principles
 
