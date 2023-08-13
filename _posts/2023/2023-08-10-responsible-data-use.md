@@ -13,7 +13,7 @@ sharing: true
 excerpt_separator: <!--more-->
 ---
 
-A strange thing my job is that, although we're all about supporting K-12
+A strange thing about my job is that, although we're all about supporting K-12
 education data interoperability, we don't actually work with any K-12 data. We
 build software, and others use it to collect data from disparate data sources
 into a single, unified, and standardized data set. But that does't stop me from
@@ -35,16 +35,16 @@ etc.
 ## Virtues and Values
 
 As a person of faith, I tend to think of virtues before I think of values.
-Virtues are the spiritual foundations, and values are the culturally-relevant
-extensions of those virtues into practices. While there are countless variations
-on virtues and values, those below can serve as guiding lights for what follows.
+Virtues are the spiritual foundations, and values are culturally-relevant
+extensions of those virtues. While there are countless variations on virtues and
+values, those below can serve as guiding lights for the principles that follow.
 
 > "Truthfulness is the foundation of all human virtues." `Abdu'l-Bahá
 
-| Virtue       |                                 Value Correlate(s) |
-| :----------- | -------------------------------------------------: |
-| truthfulness |               transparency, honesty, truth-seeking |
-| justice      |                    equity, independence, consensus |
+| Virtue       | Value Correlate(s)                                 |
+| ------------ | -------------------------------------------------- |
+| truthfulness | transparency, honesty, truth-seeking               |
+| justice      | equity, independence, consensus                    |
 | nobility     | human dignity, recognition of aspirations, privacy |
 {: .table .table-striped .table-bordered}
 
@@ -63,15 +63,14 @@ Example: avoid (shady) data aggregator / brokers.
 **Algorithmic Transparency**: Prefer open algorithms. Look for, or conduct,
 audits to assess accuracy, applicability to the desired use case(s), and
 potential for biases. Look for explainability and ensure there is a reasonable
-human appeals process. Does a _great_ deep learning model with slightly higher
-performance really outweigh having a _good_ and _explainable_ decision tree or a
-regression model?
+human appeals process. Does a _great_ deep learning model really outweigh having
+a _good_ and _explainable_ decision tree or a regression model?
 
 Example: Do AI and cheat detection systems have low false positives? Are there
 clear appeals mechanisms? Have they been cross-validated against different
 subgroups to ensure they do not introduce biases? Can you explain why a person's
-application is rejected or a promotion offered to one and not another when AI is
-involved in the process?
+application is rejected or a promotion has been offered to one and not another
+when AI is involved in the process?
 
 Side note: Does use of generative AI really matter in the given context?
 
@@ -137,3 +136,9 @@ helped shape my thinking on this topic:
 
 And articles, asides, and conversations that are too numerous to remember or
 cite.
+
+Also see references in:
+
+* [Constructing Just Algorithms (Dec. 29, 2020)](/archive/2020/12/29/constructing-just-algorithms/)
+* [In Pursuit of Data and Algorithmic Equity (Dec. 06,
+  2020)](https://blog.safnet.com/archive/2020/12/06/in-pursuit-algorithmic-equity/)
