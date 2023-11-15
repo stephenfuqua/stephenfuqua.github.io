@@ -6,6 +6,7 @@ basename: bahai_pilgrimage_1
 tags:
 - living
 - religion
+- Baha'i
 ---
 
 We returned yesterday from our Bah&aacute;'&iacute; pilgrimage. Pilgrimage to

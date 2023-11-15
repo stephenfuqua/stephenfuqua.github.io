@@ -5,6 +5,7 @@ date: 2004-09-19
 basename: lessons_on_bahai_christian_dialogue
 tags:
 - religion
+- Baha'i
 ---
 
 As an active Bah&aacute;'&iacute; on campus in the mid-to-late 90's, I often
@@ -39,7 +40,7 @@ On revelation:
 > (usually classified under his sunnah). In this way the prophet is the vehicle
 > of the revelation; but his own activity, though distinguished from the actual
 > revelation, is still strongly bound up with the it."
-> 
+>
 > "'revelation' is different for most Christians. 'Revelation' can imply a form
 > of inspiration under Divine guidance limited not just to prophetic figures.
 > Any &mdash; religious or pious &mdash; individual can receive "revelation" in

@@ -8,6 +8,7 @@ tags:
 - religion
 - books
 - inclusion
+- Baha'i
 ---
 
 It was about three years ago, while attending a conference at Green Acre
@@ -17,7 +18,7 @@ Bah&aacute;'u'll&aacute;h. At the time I knew little about him &mdash; that he
 was an early African-American adherent of the Bah&aacute;'&iacute; Faith, a
 fantastic and tireless teacher, well-loved by 'Abdu'l-Bah&aacute;, and thanks to
 the Master&#8217;s encouragement, one-half of perhaps the first black/white
-Bah&aacute;'&iacute; marriage in the U.S. 
+Bah&aacute;'&iacute; marriage in the U.S.
 
 <!--more-->
 

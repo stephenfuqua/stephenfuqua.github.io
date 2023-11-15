@@ -6,6 +6,7 @@ basename: contributing_to_the_discourses_of_society
 tags:
 - discourse
 - religion
+- Baha'i
 ---
 
 The Bah&aacute;'&iacute;s of Irving are trying out a concept: on the last Friday

@@ -6,6 +6,7 @@ basename: its_not_about_me
 tags:
 - discourse
 - inclusion
+- Baha'i
 ---
 
 More than twenty years ago, the National Spiritual Assembly of the

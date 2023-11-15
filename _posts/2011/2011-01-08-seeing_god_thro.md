@@ -7,6 +7,7 @@ tags:
 - discourse
 - religion
 - nature
+- Baha'i
 ---
 
 A friend recently told me about this passage from the collection of
@@ -51,7 +52,7 @@ anthropomorphism:
 > knowledge of Him; every saint hath lost his way in seeking to comprehend His
 > Essence. Sanctified is He above the understanding of the wise; exalted is He
 > above the knowledge of the knowing! The way is barred and to seek it is
-> impiety; His proof is His signs; His being is His evidence. 
+> impiety; His proof is His signs; His being is His evidence.
 >
 > ~ Bah&aacute;'u'll&aacute;h, _The Seven Valleys and the Four Valleys_, <a
 > href="http://reference.bahai.org/en/t/b/SVFV/svfv-4.html">p22-3</a>

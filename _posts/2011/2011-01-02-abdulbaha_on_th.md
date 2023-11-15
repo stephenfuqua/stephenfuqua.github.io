@@ -6,6 +6,7 @@ basename: abdulbaha_on_the_fallibility_human_conception_of_god
 tags:
 - discourse
 - religion
+- Baha'i
 ---
 
 In responding to a friend about the nature of the "god concept" in the

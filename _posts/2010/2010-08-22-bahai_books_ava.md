@@ -6,6 +6,7 @@ basename: bahai_books_available_online
 tags:
 - religion
 - books
+- Baha'i
 ---
 
 Did you know that many Bah&aacute;'&iacute; books are available for free
