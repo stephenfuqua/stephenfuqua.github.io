@@ -7,6 +7,7 @@ tags:
 - discourse
 - religion
 - nature
+- Baha'i
 ---
 
 {: .float-right }

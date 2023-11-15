@@ -3,6 +3,10 @@ layout: page
 title: 'Baha''i Pilgrimage, pt 5: More Birds, Plants, and a Bee'
 date: 2011-01-01
 basename: bahai_pilgrimage_4
+tags:
+- living
+- religion
+- Baha'i
 ---
 
 There is more to show about the holy sites and places visited, but first I want

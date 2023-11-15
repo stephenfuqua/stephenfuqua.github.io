@@ -6,6 +6,7 @@ basename: bahai_pilgrimage_5
 tags:
 - living
 - religion
+- Baha'i
 ---
 
 While it was unfortunate that we were not able to see the Shrine of the

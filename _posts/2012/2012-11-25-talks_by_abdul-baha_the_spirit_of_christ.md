@@ -6,6 +6,7 @@ basename: talks_by_abdul-baha_the_spirit_of_christ
 tags:
 - discourse
 - religion
+- Baha'i
 ---
 
 _Talks by 'Abdu'l-Bah&aacute;: The Spirit of Christ_ is a new arrangement of

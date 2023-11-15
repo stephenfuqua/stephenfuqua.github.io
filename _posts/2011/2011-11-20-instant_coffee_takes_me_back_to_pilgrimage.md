@@ -6,6 +6,7 @@ basename: instant_coffee_takes_me_back_to_pilgrimage
 tags:
 - living
 - religion
+- Baha'i
 ---
 
 We ran out of regular coffee, hence drinking instant this morning (Pampa brand

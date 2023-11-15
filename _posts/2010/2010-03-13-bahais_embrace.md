@@ -7,6 +7,7 @@ tags:
 - discourse
 - climate
 - religion
+- Baha'i
 ---
 
 It's about time. That was my first thought <a href=

@@ -6,6 +6,7 @@ basename: portals_to_freedom_by_howard_colby_ives
 tags:
 - books
 - religion
+- Baha'i
 ---
 
 {: .float-right}

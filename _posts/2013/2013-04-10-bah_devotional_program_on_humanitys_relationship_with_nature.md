@@ -7,6 +7,7 @@ tags:
 - discourse
 - religion
 - nature
+- Baha'i
 ---
 
 In a letter dated 2 March 2013, to the Bah&aacute;'&iacute;s of Iran, the
@@ -19,14 +20,14 @@ Universal House of Justice wrote:
 > condones the pillage of natural resources to satisfy an insatiable thirst for
 > more, suggests how entirely inadequate is the present conception of humanity's
 > relationship with nature&hellip;"
- 
+
 This of course begs the question, what should humanity's relationship with
 nature be? We explored this to some extent in the devotions for the Feast of
 Dominion in February. Now we ask you to continue that exploration here, with the
 Feast of Glory, by considering how the Glory of God is revealed through, and yet
 extends far beyond, Nature, which is also called Creation and Existence, and how
-our relationship to this Creation must be one of humility and moderation. 
- 
+our relationship to this Creation must be one of humility and moderation.
+
 <!--more-->
 
 In light of the House of Justice's statement above, and the passages below, what
@@ -97,7 +98,7 @@ respect for this inter-connection, which is an expression of God's will.
 > through Him Thy most resplendent signs have been uncovered, and **Thy mercy
 > hath encompassed the entire creation**. But for Him, how could the Celestial
 > Dove have uttered its songs or the Heavenly Nightingale, according to the
-> decree of God, have warbled its melody? 
+> decree of God, have warbled its melody?
 >
 > I testify that no sooner had the First Word proceeded, through the potency of
 > Thy will and purpose, out of His mouth, and the First Call gone forth from His
@@ -146,7 +147,7 @@ respect for this inter-connection, which is an expression of God's will.
 > perceive it!"
 >
 > ~Bah&aacute;'u'll&aacute;h, _Gleanings from the Writings of
-> Bah&aacute;'u'll&aacute;h_, p252 
+> Bah&aacute;'u'll&aacute;h_, p252
 
 ## Readings from &lsquo;Abdu&rsquo;l-Bah&aacute;
 

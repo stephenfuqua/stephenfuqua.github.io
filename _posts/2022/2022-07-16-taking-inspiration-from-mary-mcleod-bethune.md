@@ -8,6 +8,7 @@ tags:
 - inclusion
 - justice
 - religion
+- Baha'i
 sharing: true
 ---
 
@@ -110,7 +111,7 @@ Photo by Addison Scurlock. Courtesy of Smithsonian Institution, National Museum
 of American History, Archives Center. Accessed courtesy of
 [Flickr](https://www.flickr.com/photos/washington_area_spark/8556420979)
 
-Newspaper advertisement: _The Brooklyn Daily Eagle_, Brooklyn, New York. 
+Newspaper advertisement: _The Brooklyn Daily Eagle_, Brooklyn, New York.
 22 Oct 1929. p 33.
 
 ## Bibliography

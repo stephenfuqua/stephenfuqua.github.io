@@ -6,6 +6,7 @@ basename: thou_and_thee_in_sacred_literature
 tags:
 - books
 - religion
+- Baha'i
 ---
 
 The words "thou" and "thee" are unfamiliar to most of us, except in the context

@@ -6,6 +6,7 @@ basename: devotional_program_creating_material_balance
 tags:
 - discourse
 - religion
+- Baha'i
 ---
 
 This devotional program was presented at the Bah&aacute;'&iacute; House of
@@ -16,18 +17,18 @@ music were, well, heavenly :-).
 
 <!--more-->
 
-> Lord! Pitiful are we, grant us thy favor; poor, bestow upon us a share from the ocean of Thy wealth; needy, do Thou satisfy us; abased, 
-> give us Thy glory. the fowls of the air and the beasts of the field receive 
-> their meat each day from Thee, and all beings partake of Thy care and 
+> Lord! Pitiful are we, grant us thy favor; poor, bestow upon us a share from the ocean of Thy wealth; needy, do Thou satisfy us; abased,
+> give us Thy glory. the fowls of the air and the beasts of the field receive
+> their meat each day from Thee, and all beings partake of Thy care and
 > loving-kindness.
-> 
-> Deprive not this feeble one of Thy wondrous grace and 
+>
+> Deprive not this feeble one of Thy wondrous grace and
 > vouchsafe by Thy might unto this helpless soul Thy bounty.
-> 
-> Give us our daily 
-> bread, and grant Thin increase in the necessities of life, that we may be 
-> dependent on none other but Thee, may commune wholly with Thee, may walk in Thy 
-> ways and declare Thy mysteries. Thou art the Almighty and the Loving and the 
+>
+> Give us our daily
+> bread, and grant Thin increase in the necessities of life, that we may be
+> dependent on none other but Thee, may commune wholly with Thee, may walk in Thy
+> ways and declare Thy mysteries. Thou art the Almighty and the Loving and the
 > Provider of all mankind.
 >
 > ~ 'Abdu'l-Bah&aacute;, _Bah&aacute;'&iacute; Prayers_, p 22.
@@ -102,11 +103,11 @@ music were, well, heavenly :-).
 
 > All that which ye potentially possess can, however, be manifested only as a
 > result of your own volition.
-> 
+>
 > _Gleanings from the Writings of Bah&aacute;'u'll&aacute;h_, p 149
 
 > O SON OF MAN!
-> 
+>
 > Should prosperity befall thee, rejoice not, and should abasement come upon
 > thee, grieve not, for both shall pass away and be no more.
 >
@@ -138,7 +139,7 @@ music were, well, heavenly :-).
 > O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will
 > cause the affairs of Thy servants to prosper, and Thy cities to flourish.
 > thou, indeed, hast power over all Things!
-> 
+>
 > Bah&aacute;'u'll&aacute;h: _Epistle to the Son of the Wolf_, p 61
 
 > O Lord! Unto Thee I repair for refuge, and toward all Thy signs I set my
