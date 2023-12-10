@@ -65,7 +65,7 @@ instructions, not a full-blown client. If you fork this repository and want to
 create your own package, then you may wish to remove that line from `.gitignore`
 so that you can keep your custom client code in your forked repository.
 
-```powerShell
+```shell
 $url = "https://api.ed-fi.org/v7.1/api/metadata/data/v3/resources/swagger.json"
 $outputDir = "./edfi-client"
 New-Item -Path $outputDir -Type Directory -Force | out-null
@@ -76,7 +76,7 @@ docker run --rm -v "$($outputDir):/local" swaggerapi/swagger-codegen-cli generat
 
 On my machine, this took about a minute to run. Here's what we get as output:
 
-```powerShell
+```shell
 > ls edfi-client
 
     Directory: C:\source\Ed-Fi-API-Client-Python\edfi-client
@@ -133,10 +133,11 @@ instead of Pip, Conda, Tox, etc. Converting the `requirements.txt` file for use
 in Poetry is quite easy with this PowerShell command ([hat
 tip](https://stackoverflow.com/a/73691994/30384)):
 
-```powerShell
-cd edfi-client
+```shell
+Push-Location edfi-client
 poetry init --name edfi-client -l Apache-2.0
 @(cat requirements.txt) | %{&poetry add $_.replace(' ','')}
+Pop-Location
 ```
 
 (The default `requirements.txt` file has some unexpected spaces; the `replace`
@@ -150,7 +151,7 @@ portions of the client library itself. The ODS/API supports the OAuth 2.0 client
 credentials flow, which generates an bearer-style access token. A basic HTTP
 request for authentication looks like this:
 
-```none
+```shell
 POST /v7.1/api/oauth/token HTTP/1.1
 Host: api.ed-fi.org
 Content-Type: application/x-www-form-urlencoded
