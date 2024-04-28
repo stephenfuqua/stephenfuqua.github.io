@@ -30,4 +30,5 @@ bird-related project name in my tenure with the Ed-Fi Alliance
 [Meadowlark](/archive/2022/06/03/exploring-next-generation-meadowlark/)).
 
 {: .center-block }
-![Scarlet Tanager, by Adam Jackson, no rights reserved](https://github.com/Ed-Fi-Alliance-OSS/Project-Tanager/blob/main/images/scarlet-tanager_by_adam-jackson_no-rights-reserved_square-256.png)
+![Scarlet Tanager, by Adam Jackson, no rights
+reserved](/images/scarlet-tanager_by_adam-jackson_no-rights-reserved_square-256.png)
