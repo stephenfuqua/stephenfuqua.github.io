@@ -5,6 +5,7 @@ date: 2024-05-01
 comments: true
 tags:
 - religion
+- nature
 - bahai
 - climate
 sharing: true
@@ -31,12 +32,11 @@ God, who is recognized through all the natural wonders:
 > time I contemplate the mountains, I am led to discover the ensigns of Thy
 > victory and the standards of Thine omnipotence.&rdquo;
 
-{: .text-sm-left } Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_,
-[CLXXVI](www.bahai.org/r/129964059).
+{: .text-sm-right }
+Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_, [CLXXVI](www.bahai.org/r/129964059).
 
-{: .center }
-![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen
-A. Fuqua](/images/Enchanged-Rock-Flowers-2024-03-20.jpg)
+{: .center-block }
+![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen A. Fuqua](/images/Enchanged-Rock-Flowers-2024-03-20.jpg){: .img-fluid }
 
 <!--more-->
 
@@ -86,9 +86,8 @@ importance of "moderation" many times. A favorite and germane example:
 > excess, civilization will prove as prolific a source of evil as it had been of
 > goodness when kept within the restraints of moderation.&rdquo;
 
-{: .text-sm-left }
-Bahá'u'lláh, _Gleanings from the Writings of Bahá'u'lláh_,
-[CLXIV](https://www.bahai.org/r/042388414).
+{: .text-sm-right }
+Bahá'u'lláh, _Gleanings from the Writings of Bahá'u'lláh_, [CLXIV](https://www.bahai.org/r/042388414).
 
 We noted that fundamental concepts of personal spirituality naturally moderate
 our desires for physical gratification and consumption. The book _Reflections on
@@ -102,8 +101,8 @@ holding ourselves accountable for our thoughts and deeds; personal and communal
 Surely these are ameliorating influences to counter "civilization" "carried to
 excess."
 
-{: .center }
-![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/images/hill-country-sunset.jpg)
+{: .center-block }
+![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/images/hill-country-sunset.jpg){: .img-fluid }
 
 Another fundamental concept in the Faith, not listed in the principles above, is
 the idea of
@@ -114,7 +113,7 @@ the idea of
 > all matters, inasmuch as consultation is the lamp of guidance which leadeth
 > the way, and is the bestower of understanding.&rdquo;
 
-{: .text-sm-left }
+{: .text-sm-right }
 Bahá'u'lláh, _Tablets of Bahá'u'lláh_, [Lawḥ-i-Maqṣúd](https://www.bahai.org/r/545364905)
 
 This spiritual consultation is the idea of a group of people engaged in a frank

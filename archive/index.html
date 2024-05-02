@@ -4,12 +4,14 @@ title: Blog Archives
 ---
 
 <div class="article-group">
+  <div class="table-responsive">
     <table class="table table-striped" style="margin-top: 2rem;">
 {% for post in site.posts %}
         <tr>
-            <td width="15%">{{ post.date | date_to_string }}</td>
+            <td>{{ post.date | date_to_string }}</td>
             <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
         </tr>
 {% endfor %}
     </table>
+  </div>
 </div>
