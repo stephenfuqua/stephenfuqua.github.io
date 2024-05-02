@@ -6,7 +6,7 @@ comments: true
 tags:
 - religion
 - nature
-- bahai
+- Bahai
 - climate
 sharing: true
 excerpt_separator: <!--more-->

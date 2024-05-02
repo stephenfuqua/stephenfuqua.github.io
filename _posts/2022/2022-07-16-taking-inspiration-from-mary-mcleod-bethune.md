@@ -10,6 +10,7 @@ tags:
 - religion
 - Bahai
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
 On July 13, a new statue was placed in the U.S. Capitol: [Mary McLeod
