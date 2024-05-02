@@ -7,7 +7,7 @@ basename: robe_of_light_book_review
 tags:
 - books
 - religion
-- Baha'i
+- Bahai
 ---
 
 {: .float-right }

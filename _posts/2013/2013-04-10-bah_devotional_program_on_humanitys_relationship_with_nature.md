@@ -7,7 +7,7 @@ tags:
 - discourse
 - religion
 - nature
-- Baha'i
+- Bahai
 ---
 
 In a letter dated 2 March 2013, to the Bah&aacute;'&iacute;s of Iran, the

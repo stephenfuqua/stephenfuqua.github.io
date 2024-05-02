@@ -5,7 +5,7 @@ date: 2004-09-19
 basename: lessons_on_bahai_christian_dialogue
 tags:
 - religion
-- Baha'i
+- Bahai
 ---
 
 As an active Bah&aacute;'&iacute; on campus in the mid-to-late 90's, I often

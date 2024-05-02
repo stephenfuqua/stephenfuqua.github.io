@@ -9,7 +9,7 @@ tags:
 - discourse
 - books
 - religion
-- Baha'i
+- Bahai
 ---
 
 {: .float-right }

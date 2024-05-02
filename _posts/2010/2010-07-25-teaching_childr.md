@@ -6,7 +6,7 @@ basename: teaching_children_service_truthfulness
 tags:
 - discourse
 - religion
-- Baha'i
+- Bahai
 ---
 
 I've done my alloted time now: taught a <a

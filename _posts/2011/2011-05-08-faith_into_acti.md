@@ -7,7 +7,7 @@ tags:
 - discourse
 - living
 - religion
-- Baha'i
+- Bahai
 ---
 
 When I became a Bah&aacute;'&iacute; in the 90s, perhaps the second deliberate

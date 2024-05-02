@@ -10,17 +10,19 @@ layout: default
 <div id="post-content">
     {% if site.tags[page.tag] %}
 
-    <table class="table table-striped" style="margin-top: 2rem;">
+    <div class="table-responsive">
+      <table class="table table-striped" style="margin-top: 2rem;">
 
         {% for post in site.tags[page.tag] %}
             <tr>
-                <td width="15%">
+                <td>
                 {{ post.date | date_to_string }}</td>
                 <td><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></td>
             </tr>
         {% endfor %}
 
-    </table>
+      </table>
+    </div>
     {% else %}
     <p>There are no posts for this tag.</p>
     {% endif %}

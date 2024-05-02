@@ -6,7 +6,7 @@ basename: bahai_pilgrimage_4
 tags:
 - living
 - religion
-- Baha'i
+- Bahai
 ---
 
 There is more to show about the holy sites and places visited, but first I want
