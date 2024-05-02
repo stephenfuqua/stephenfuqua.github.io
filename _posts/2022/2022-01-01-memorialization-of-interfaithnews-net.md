@@ -7,6 +7,7 @@ tags:
   - religion
   - discourse
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
 

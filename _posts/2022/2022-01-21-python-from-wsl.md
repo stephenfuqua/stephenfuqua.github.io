@@ -9,6 +9,7 @@ tags:
   - Linux
   - Windows
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
 Prompted by a class I'm taking, I decided to try running Python from Windows
@@ -137,17 +138,17 @@ root.mainloop()
 
 ## Setting Environment Variables on Startup
 
-Two environment variables were created in this process. It would be tedious to come back to 
+Two environment variables were created in this process. It would be tedious to come back to
 this post and recopy them every time a new Ubuntu/Bash shell is opened. Linux has a simple
 way of dealing with this: the `.profile` file contains instructions that run every time
 you open a command prompt. There is also a `.bashrc` file that runs next, whenever you run
 Bash (there are other shells that you could switch to, though Bash is the most popular).
-Edit either one. 
+Edit either one.
 
-You will need to use a text editor such as 
+You will need to use a text editor such as
 [`nano`](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/),
-[`vim`](https://www.computerhope.com/unix/vim.htm), or `code` 
-(if you don't have it, typing `code` will automatically start the install of Visual Studio 
+[`vim`](https://www.computerhope.com/unix/vim.htm), or `code`
+(if you don't have it, typing `code` will automatically start the install of Visual Studio
 Code). All are excellent editors. Those who are new to Linux will probably feel more comfortable
 starting up Visual Studio Code. I use it all the time. But I also use the command line frequently
 when I only need to edit one file. Knowing how to use `nano` or `vim` is a wonderful skill
@@ -155,7 +156,7 @@ to develop. Of the two, `nano` is easier to learn, and `vim` is more powerful. W
 editor you choose, open the file like so: `code ~/.profile`. The `~` instructs the operating
 system to look for the file in your home directory.
 
-Once you figure out which editor to use, just add the following two lines at the bottom of 
+Once you figure out which editor to use, just add the following two lines at the bottom of
 the `.profile` file:
 
 ```bash
