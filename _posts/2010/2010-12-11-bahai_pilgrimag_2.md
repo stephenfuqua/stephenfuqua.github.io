@@ -6,7 +6,7 @@ basename: bahai_pilgrimage_2
 tags:
 - living
 - religion
-- Baha'i
+- Bahai
 ---
 
 Perhaps my most powerful emotion in direct reaction to the sites we visited

@@ -6,7 +6,7 @@ basename: bahai_pilgrimage_3
 tags:
 - living
 - religion
-- Baha'i
+- Bahai
 ---
 
 {: .float-right }

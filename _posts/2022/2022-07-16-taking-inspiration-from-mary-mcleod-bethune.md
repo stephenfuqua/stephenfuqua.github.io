@@ -8,7 +8,7 @@ tags:
 - inclusion
 - justice
 - religion
-- Baha'i
+- Bahai
 sharing: true
 ---
 

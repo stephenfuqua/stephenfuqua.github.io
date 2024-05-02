@@ -6,7 +6,7 @@ basename: devotional_program_creating_material_balance
 tags:
 - discourse
 - religion
-- Baha'i
+- Bahai
 ---
 
 This devotional program was presented at the Bah&aacute;'&iacute; House of

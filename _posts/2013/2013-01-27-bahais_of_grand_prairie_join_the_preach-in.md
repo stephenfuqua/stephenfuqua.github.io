@@ -7,7 +7,7 @@ tags:
 - discourse
 - climate
 - religion
-- Baha'i
+- Bahai
 ---
 
 {: .center-block}

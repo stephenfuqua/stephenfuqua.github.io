@@ -6,7 +6,7 @@ basename: the_fear_of_god
 tags:
 - discourse
 - religion
-- Baha'i
+- Bahai
 ---
 
 A friend asked about the need for the concept of "fear of God" in the

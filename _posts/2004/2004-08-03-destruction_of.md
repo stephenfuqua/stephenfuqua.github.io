@@ -5,7 +5,7 @@ date: 2004-08-03
 basename: destruction_of_bahai_holy_sites
 tags:
 - religion
-- Baha'i
+- Bahai
 ---
 
 The persecution of the Bah&aacute;'&iacute;s of Iran continues: recent months
