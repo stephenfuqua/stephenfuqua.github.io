@@ -9,8 +9,11 @@ layout: default
 {% assign content = post.excerpt %}
     <article class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
         {% include article.html %}
+
+        {% if post.content.size > post.excerpt.size %}
+        <p><a href="{{ post.url }}" class="badge badge-primary">Continue reading&hellip; </a></p>
+        {% endif %}
     </article>
-    <a href="{{ url }}" class="badge badge-primary">Continue reading&hellip;</a>
 {% endunless %}
 {% endfor %}
 </div>
