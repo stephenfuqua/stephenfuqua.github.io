@@ -9,6 +9,7 @@ tags:
 - inclusion
 - justice
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
 It looks like a beautiful morning in Austin, Texas, from the comfort of my
@@ -22,7 +23,7 @@ Lanham](https://www.clemson.edu/cafls/faculty_staff/profiles/lanhamj)'s _[The
 Home Place, Memoirs of a Colored Man's Love Affair with
 Nature](https://milkweed.org/book/the-home-place)_.
 
-<!-- more -->
+<!--more-->
 
 Lanham, who also penned the harrowing-yet-humorous [9 Rules for the Black
 Birdwatcher](https://orionmagazine.org/article/9-rules-for-the-black-birdwatcher/),

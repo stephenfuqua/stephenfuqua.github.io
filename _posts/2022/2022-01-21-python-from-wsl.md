@@ -23,7 +23,7 @@ interfaces (GUIs) from WSL. Here are some quick notes from my experience.
 _Screenshot shows that I'm running Windows 10, and shows a small GUI window opened
 from both Powershell and from Bash using the same Python script._
 
-<!-- more -->
+<!--more-->
 
 ## First Things: Installing Python in Ubuntu
 

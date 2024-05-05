@@ -8,10 +8,11 @@ tags:
   - tech
   - sdlc
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
-"Infrastructure as Code", or IaC if you prefer <acronym title="Three Letter
-Acronyms">TLAs</acronym>, is the practice of configuring infrastructure
+"Infrastructure as Code", or IaC if you prefer <abbr title="Three Letter
+Acronyms">TLAs</abbr>, is the practice of configuring infrastructure
 components in text files instead of clicking around in a user interface. Last
 year I wrote a few detailed articles on IaC with TeamCity
 ([1](/archive/2020/03/21/infrastructure-as-code-in-teamcity/),
@@ -22,7 +23,7 @@ respect to continuous integration (CI) and delivery (CD): the process of
 automating software compilation, testing, quality checks, packaging, deployment,
 and more.
 
-<!-- more -->
+<!--more-->
 
 ## Continuous Integration and Delivery Tools
 

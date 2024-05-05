@@ -8,6 +8,7 @@ tags:
   - tech
   - programming
 sharing: true
+excerpt_separator: <!--more-->
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
@@ -15,11 +16,11 @@ memorably compares our graphical user interfaces to Disney theme parks: "It
 seems as if a hell of a lot might be being glossed over, as if Disney World
 might be putting one over on us, and possibly getting away with all kinds of
 buried assumptions and muddled thinking. And this is precisely the same as what
-is lost in the transition from the command line interface to the <acronym
-title="Graphical User Interface">GUI</acronym>. (p52)
+is lost in the transition from the command line interface to the <abbr
+title="Graphical User Interface">GUI</abbr>. (p52)
 
 With new programmers whose experience has been entirely mediated through an
-<acronym title="Integrated Development Environment">IDE</acronym> like Visual
+<abbr title="Integrated Development Environment">IDE</abbr> like Visual
 Studio or Eclipse, I have sometimes wondered if they are understanding the
 "buried assumptions" and suffering from "muddled thinking" due to their lack of
 understanding of the basic command line operations that underlie the automation
@@ -29,7 +30,7 @@ crippled my ability to know how to build and test .NET Framework solutions
 (setting up an automated  build process in [Cruise
 Control](http://cruisecontrol.sourceforge.net/) helped cure me of that).
 
-<!-- more -->
+<!--more-->
 
 {: .float-right }
 ![Screenshot of CLI-based hacking in The Matrix](/images/matrix-shell.png)
@@ -97,7 +98,7 @@ Thankfully I didn't have the same impression of smoking!
 
 So the shell is a command line interface. And when we build specialized programs
 that are run from the shell, we often call them "command line interfaces" (or
-<acronym title="Command Line Interface">CLI</acronym> for short) as
+<abbr title="Command Line Interface">CLI</abbr> for short) as
 distinguished from "graphical user interfaces". In the screenshots above,
 we see the `dotnet` CLI compared to the Visual Studio GUI.
 

@@ -60,16 +60,16 @@ first decades of the twentieth century. Lists of those principles frequently
 reference abolition of prejudice, equality of the sexes, independent
 investigation of the truth, harmony of science and religion, world peace,
 international governance, universal auxiliary language, and compulsory
-education. No forewarnings about health impact of pollution, the future climate
-calamity, or loss of biodiversity.
+education. Ther are no forewarnings about health impact of pollution, the future
+climate calamity, or loss of biodiversity.
 
-One the one hand: these were not the most pressing challenges of the time. And on
-the other: perhaps these very principles, and the institutions inaugurated by
+On the one hand: these were not the most pressing challenges of the time. And on
+the other: these very principles, and the institutions inaugurated by
 Bahá'u'lláh and 'Abdu'l-Bahá, are essential for solving the new questions and
 challenges that have arisen since that time.
 
 Not surprisingly, we quickly identified "harmony of science and religion" as a
-key concept in thinking about climate change and other issues . This principle
+key concept in thinking about climate change and related issues . This principle
 suggests that religion bereft of science &ndash; rationalism, investigation
 &ndash; tends toward superstition and social stagnation. And science and
 technological innovation without spirituality and religion tends toward a
@@ -122,14 +122,14 @@ institutional decision-making in the Bahá'í Faith, and a tool that Bahá'ís o
 gladly to any who wish to make use of it.
 
 As we wound down our conversation, we noted how the knowledge, attribute, and
-actions imparted by all of the books in the sequence of course teach lessons
+actions imparted by all of the books in the sequence of courses teach lessons
 valuable to those who recognize the need for improved environmental stewardship.
 For example, the topic of consultation is treated many times, most especially in
 the tenth book. The second book introduces the idea of "meaningful
 conversations" &ndash; aiding the participant to develop the skill of having
 this very sort of conversation. Likewise each book could be linked in some way.
 
-Finally, we touched briefly on the importance of action: how, in recognizing the
+Finally, we touched briefly on the importance of action: recognizing the
 imperative for the course of humanity to be shifted onto a sustainable path, we
 must each determine how we can contribute to individual action while
 simultaneously supporting collective endeavors.
