@@ -30,7 +30,7 @@ women of color.
 {: .center-block }
 ![Mary Mcleod Bethune](https://blog.safnet.com/images/mary-mcleod-bethune.jpg){: .img-fluid .border .rounded }
 
-<!-- more -->
+<!--more-->
 
 By 1904 she was in southern Florida, where she established a school and a
 hospital. That school eventually developed into today's Bethune-Cookman

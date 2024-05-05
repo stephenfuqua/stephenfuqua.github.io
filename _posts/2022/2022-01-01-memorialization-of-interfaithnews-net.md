@@ -29,7 +29,7 @@ Salt Lake
 City](https://www.deseret.com/2001/6/2/19589287/bishop-striving-to-put-an-end-to-religionism).
 Regardless, our time of collaboration was all too short.
 
-<!-- more -->
+<!--more-->
 
 By winter of 2002, he dropped out of contact; I was only to learn why when I
 heard of his passing in March of 2003: cancer. He left behind a grieving family,
