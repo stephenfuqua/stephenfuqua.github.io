@@ -8,35 +8,23 @@ body {
     background: transparent url(../images/mexicanHat.png) no-repeat;
     margin: 0;
     height: 250px;
-    padding: 0;
     position: relative
 }
 .jumbotron h1 a {
-    text-transform: lowercase;
-    text-shadow: 1px 1px 2px black;
     color: white;
-    position: absolute;
-    top: 1rem;
-    right: 1rem;
-    text-align: right;
     text-decoration: none;
-    font-size: 3rem;
 }
 .jumbotron h1 a:hover {
     background-color: none!important;
 }
-.jumbotron .lead {
-    text-transform: lowercase;
-    text-shadow: 1px 1px 2px black;
+.j-text {
     color: white;
+    text-transform: lowercase;
+    text-shadow: 0.2rem 0.2rem 0.5rem black;
     position: absolute;
-    bottom: 1rem;
-    right: 1rem;
-    text-align: right;
-    width: 45%;
-    font-size: 1.75rem;
+    bottom: 0;
+    left: 1rem;
 }
-
 
 
 
