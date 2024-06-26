@@ -26,20 +26,17 @@ For several months now I've been running bi-weekly retrospectives. Following
 good advice found many places (initially in _Integrating Agile Development in
 the Real World_), the retrospectives focus on:
 
-<ul>
-<li>listing&hellip;
-<ul>
-<li>things that are going well,</li>
-<li>things that are not going well,</li>
-<li>and opportunities for improvement;</li>
-</ul>
-</li>
-<li>having a brief discussion on solutions for the 2nd and 3rd bullets;</li>
-<li>prioritizing the list; and</li>
-<li>assigning takeaways.</li>
-</ul>
+* listing&hellip;
+  * things that are going well,
+  * things that are not going well,
+  * and opportunities for improvement;
+* having a brief discussion on solutions for the 2nd and 3rd bullets;
+* prioritizing the list; and
+* assigning takeaways.
 
-Chapter 19 of _Agile Testing: A Practical Guide for Testers and Agile Team_ refers to the listing practice in more simple terms: start, stop, and continue. And they provide this advice&hellip;
+Chapter 19 of _Agile Testing: A Practical Guide for Testers and Agile Team_
+refers to the listing practice in more simple terms: start, stop, and continue.
+And they provide this advice&hellip;
 
 > All team members write "start," "stop," and "continue" items on sticky notes,
 > and then during the retrospective meeting they put the stickies on the board
@@ -48,20 +45,23 @@ Chapter 19 of _Agile Testing: A Practical Guide for Testers and Agile Team_ refe
 > Research different creative approaches to reflecting on your team's
 > experiences.
 
-How obvious and true! So let's hand out some color coded<sup>&#8824;</sup>, blank, sticky
-notes in advance, just a small stack to everyone on the team (<sup>&#8824;</sup> pink =
-stop, yellow/or other = continue, green = start). Ask them to fill out as things
-occur to them. When it comes time for the retrospective, bring all that still
-seem relevant. Better yet, put them on a piece of paper, slap that paper down on
-the copier/scanner, and create a digital version. We can quickly chop up the
-digital versions, arrange them in any one of various Office/type products, and
-have a nice (and easy) picture instead of boring meeting notes.
+How obvious and true! So let's hand out some color coded‡, blank, sticky notes
+in advance, just a small stack to everyone on the team (‡ pink = stop, yellow/or
+other = continue, green = start). Ask them to fill out as things occur to them.
+When it comes time for the retrospective, bring all that still seem relevant.
+Better yet, put them on a piece of paper, slap that paper down on the
+copier/scanner, and create a digital version. We can quickly chop up the digital
+versions, arrange them in any one of various Office/type products, and have a
+nice (and easy) picture instead of boring meeting notes.
 
 It is my hope that this process will:
 
-<ul>
-<li>make it easier to remember start/stop/continue items in space in between meetings, </li>
-<li>and re-emphasize  the importance of this collective feedback process.</li>
-</ul>
+* make it easier to remember start/stop/continue items in space in between
+  meetings,
+* and re-emphasize  the importance of this collective feedback process.
 
-This is nothing breathtaking or revolutionary on my part. If it works, it just means I needed to relax and rely on technology to help fix a problem &mdash; the simplest technology possible. Sticky notes. If it doesn't work out, hopefully someone will be kind of enough to write that down on a pink note and bring it to a future retrospective.
+This is nothing breathtaking or revolutionary on my part. If it works, it just
+means I needed to relax and rely on technology to help fix a problem &mdash; the
+simplest technology possible. Sticky notes. If it doesn't work out, hopefully
+someone will be kind of enough to write that down on a pink note and bring it to
+a future retrospective.
