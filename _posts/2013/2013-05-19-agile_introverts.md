@@ -13,27 +13,23 @@ excerpt_separator: <!--more-->
 A co-worker overheard the comment that "agile [software development] is not
 always a good fit for introverts," or something along those lines, while
 listening to a webinar on agile testing. On the surface, it is hard to deny that
-claim. Right there in the <a href="http://agilemanifesto.org/">Agile
-Manifesto</a> we have two obvious yellow or even red flags:
+claim. Right there in the [Agile Manifesto](https://agilemanifesto.org/) we have
+two obvious yellow or even red flags:
 
-<ul>
-<li>Individuals and interactions, and</li>
-<li>Customer collaboration</li>
-</ul>
+* Individuals and interactions, and
+* Customer collaboration
 
 Now jumping over to the Principles, we find two more orange flags:
 
-<ul>
-<li>Business people and developers must work together daily throughout the project.</li>
-<li>The most efficient and effective method of conveying information to and within a
-development team is face-to-face conversation.</li>
-</ul>
+* Business people and developers must work together daily throughout the project.
+* The most efficient and effective method of conveying information to and within a
+  development team is face-to-face conversation.
 
 <!--more-->
 
 We find this drive for a close interaction in all of the agile methodologies,
-and that can scare some people. In <a
-href="http://www.extremeprogramming.org/rules.html">XP</a>, we even have pair
+and that can scare some people. In
+[XP](http://www.extremeprogramming.org/rules.html), we even have pair
 programming: sitting not just near, but right alongside, another programmer.
 
 But for the majority of introverts, I suspect that working in an agile

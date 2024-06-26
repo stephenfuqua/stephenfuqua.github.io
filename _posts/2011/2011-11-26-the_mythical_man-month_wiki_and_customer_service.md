@@ -10,11 +10,17 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Part <a
-href="http://www.safnet.com/fcgi-bin/mt/mt-search.cgi?IncludeBlogs=3&tag=Mythical%20Man-Month&limit=20">three
-in a series</a>. Many of the recommendations Dr. Brooks makes in this work can
-seem outdated at first glance; however, it does not take much to bring them into
-today's software development environments. Take the _telephone log_ for example:
+Part three in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
+[1](/archive/2011/11/10/review_and_reflection_on_the_mythical_man-month_by_frederick_p_brooks_jr/),
+[2](/archive/2011/11/20/mythical_man-month_conceptual_integrity/),
+[3](/archive/2011/11/26/the_mythical_man-month_wiki_and_customer_service/),
+[4](/archive/2011/12/11/mythical_man-month_planning_for_change/),
+[5](/archive/2012/01/08/mythical_man-month_code_reuse_and_discoverability/)
+{: .card .bg-light .card-bare }
+
+Many of the recommendations Dr. Brooks makes in this work can seem outdated at
+first glance; however, it does not take much to bring them into today's software
+development environments. Take the _telephone log_ for example:
 
 > "One useful mechanism is a _telephone log_ kept by the architect. In it he
 > records every question and every answer. Each week the logs of the several

@@ -48,7 +48,7 @@ you'll see, the code was quite simple in the end. But, being my first foray into
 JSON and closures, a lot more learning went into this than is readily apparent.
 
 Enough talk. Code. Setup the dependencies and the shell of the web server. <a
-href="http://www.safnet.com/writing/tech/2014/07/nodejs-web-api-and-rabbitmq-part-1.html">Part
+href="/archive/2014/07/29/nodejs_web_api_and_rabbitmq_part_1/">Part
 1</a> describes the expected functionality and the RESTful format. This lets us
 use `http://localhost:10025/Message/helloWorld`.
 

@@ -23,23 +23,20 @@ remembered, it would be simple enough to overlook or accidentally type
 
 <!--more-->
 
-A Windows Server can be configured with <a
-href="http://technet.microsoft.com/en-us/library/cc776292%28v=ws.10%29.aspx">a
-name alias</a> (CNAME) that preserves the naming convention used by
-infrastructure, but helps the development team avoid confusion and accidents.
-Assuming that there is a good separation between servers &mdash; say,
-development, test, and production &mdash; and their purposes &mdash; say, web
-apps, services, reports, and database &mdash; wouldn't it just be easier to
-refer to:
+A Windows Server can be configured with [a name
+alias](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776292(v=ws.10))
+(CNAME) that preserves the naming convention used by infrastructure, but helps
+the development team avoid confusion and accidents. Assuming that there is a
+good separation between servers &mdash; say, development, test, and production
+&mdash; and their purposes &mdash; say, web apps, services, reports, and
+database &mdash; wouldn't it just be easier to refer to:
 
-<ul>
-<li>devweb</li>
-<li>testweb</li>
-<li>prodweb</li>
-<li>devservices</li>
-<li>testsql</li>
-<li>_et cetera_</li>
-</ul>
+* devweb
+* testweb
+* prodweb
+* devservices
+* testsql
+* _et cetera_
 
 Of course, that scheme presumes that there is only one server in each category.
 If there are multiple servers in order to fit different needs, then find a name

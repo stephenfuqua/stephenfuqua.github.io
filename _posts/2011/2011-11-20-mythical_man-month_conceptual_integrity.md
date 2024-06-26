@@ -10,12 +10,18 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
+Part two in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
+[1](/archive/2011/11/10/review_and_reflection_on_the_mythical_man-month_by_frederick_p_brooks_jr/),
+[2](/archive/2011/11/20/mythical_man-month_conceptual_integrity/),
+[3](/archive/2011/11/26/the_mythical_man-month_wiki_and_customer_service/),
+[4](/archive/2011/12/11/mythical_man-month_planning_for_change/),
+[5](/archive/2012/01/08/mythical_man-month_code_reuse_and_discoverability/)
+{: .card .bg-light .card-bare }
+
 Aside from being a fascinating inside-look at some of the challenges faced by
 the mainframe programmers of the sixties, _The Mythical Man-Month_ presents many
-lessons-learned that are no less applicable today. This is the <a
-href="http://www.safnet.com/fcgi-bin/mt/mt-search.cgi?IncludeBlogs=3&tag=Mythical%20Man-Month&limit=20">second
-article in a series</a> exploring some of these lessons, in particular:
-conceptual integrity.
+lessons-learned that are no less applicable today. This is the second article in
+a series exploring some of these lessons, in particular: conceptual integrity.
 
 <!--more-->
 
@@ -36,10 +42,10 @@ opted for the simpler device rather than the gadget with all the bells and
 whistles, simply because we were concerned that the extras would break, or would
 be hard to learn? The same goes with software systems: keep the design simple.
 Only add as much diversity and complexity as are needed to get the job done. I
-suspect that this approach was influential in the formation of <a
-href="http://agilemanifesto.org/principles.html">Agile principle</a> number 10:
-"_Simplicity &mdash; the art of maximizing the amount of work not done &mdash;
-is essential._"
+suspect that this approach was influential in the formation of [Agile
+principle](https://agilemanifesto.org/principles.html) number 10: "_Simplicity
+&mdash; the art of maximizing the amount of work not done &mdash; is
+essential._"
 
 I think the author would agree that this principle is to be applied to the
 system generally, and must be applied very carefully when looking at individual
@@ -56,7 +62,7 @@ less-than-thrilled about our use of Reporting Services for some new reports,
 instead of plain text, and I just installed a new application that does the
 same. We did so in order to have an easier time designing the report, and to
 have better looking output (simpler for the programmers). That's nice, but not
-at all what our users are used to, expected, or wanted. 
+at all what our users are used to, expected, or wanted.
 
 What they want is something that prints the same way as all of the existing
 file-based reports. They want to be able to find the file on the system and

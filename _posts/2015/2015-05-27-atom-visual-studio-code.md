@@ -29,7 +29,7 @@ In Atom, I have <a href="https://atom.io/packages/autocomplete-plus">autocomplet
 
 **Atom**
 
-![codeAtom_2](http://www.safnet.com/writing/tech/images/codeAtom_2.png)
+![codeAtom_2](/images/codeAtom_2.png)
 
 ## File Explorer / Tree View
 
@@ -91,4 +91,4 @@ That said, there is a <a href="https://atom.io/packages/node-debugger">node debu
 
 Atom is much more versatile, but Visual Studio Code is already a strong competitor. And is more stable; I've not yet experienced any bugs or program failures. I began writing this over a week ago, and decided to force myself into daily Code use before publishing. At this point, I miss a few things, but I am starting to get hooked on Code.
 
-For more details on the features in Code, see <a href="http://www.johnpapa.net/visual-studio-code/">John Papa</a>. I purposefully avoid reading this - except the debugging overview - and other posts in order to draw my own conclusions. But this series of posts is too good not to promote.
+For more details on the features in Code, see <a href="https://www.johnpapa.net/visual-studio-code/">John Papa</a>. I purposefully avoided reading this - except the debugging overview - and other posts in order to draw my own conclusions. But this series of posts is too good not to promote.
