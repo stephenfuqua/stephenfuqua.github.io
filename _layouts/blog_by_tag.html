@@ -12,7 +12,13 @@ layout: default
 
     <div class="table-responsive">
       <table class="table table-striped" style="margin-top: 2rem;">
-
+        <thead>
+            <tr>
+                <th style="min-width: 10rem;">Date</th>
+                <th>Article</th>
+            </tr>
+        </thead>
+        <tbody>
         {% for post in site.tags[page.tag] %}
             <tr>
                 <td>
@@ -20,7 +26,7 @@ layout: default
                 <td><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></td>
             </tr>
         {% endfor %}
-
+        </tbody>
       </table>
     </div>
     {% else %}
