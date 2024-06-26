@@ -62,15 +62,15 @@ project {
 
 An approach to splitting this could result in the following structure:
 
-.teamcity directory<br>
-|-- _self<br>
-&nbsp;&nbsp;&nbsp;|-- buildTypes<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- EchoHelloWorld.kt<br>
-&nbsp;&nbsp;&nbsp;|-- Project.kt<br>
-|-- pom.xml<br>
+```none
+.teamcity directory
+|-- _self
+   |-- buildTypes
+      |-- EchoHelloWorld.kt
+   |-- Project.kt
+|-- pom.xmls
 |-- settings.kts
-{: .panel-body }
-{: .panel .panel-default }
+```
 
 Some conventions to note here:
 
@@ -151,17 +151,17 @@ project(_self.HelloWorldProject)
 
 To further demonstrate, let's add a new file defining a Git VCS root.
 
-.teamcity directory<br>
-|-- _self<br>
-&nbsp;&nbsp;&nbsp;|-- buildTypes<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- EchoHelloWorld.kt<br>
-&nbsp;&nbsp;&nbsp;**|-- vcsRoots**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**|-- HelloWorldRepo.kt**<br>
-&nbsp;&nbsp;&nbsp;|-- Project.kt<br>
-|-- pom.xml<br>
+```none
+.teamcity directory
+|-- _self
+   |-- buildTypes
+      |-- EchoHelloWorld.kt
+   |-- vcsRoots
+      |-- HelloWorldRepo.kt
+   |-- Project.kt
+|-- pom.xml
 |-- settings.kts
-{: .panel-body }
-{: .panel .panel-default }
+```
 
 ### HelloWorldRepo.kt
 

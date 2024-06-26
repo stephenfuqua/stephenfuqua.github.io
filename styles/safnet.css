@@ -154,3 +154,8 @@ blockquote {
 li {
     margin-bottom: 1rem;
 }
+
+.card-bare {
+    padding: 0.5em;
+    margin-top: 1em;
+}
