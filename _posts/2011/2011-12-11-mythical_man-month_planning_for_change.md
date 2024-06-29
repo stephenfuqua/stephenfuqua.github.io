@@ -12,10 +12,10 @@ excerpt_separator: <!--more-->
 ---
 
 Part four in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
-[1](/archive/2011/11/10/review_and_reflection_on_the_mythical_man-month_by_frederick_p_brooks_jr/),
-[2](/archive/2011/11/20/mythical_man-month_conceptual_integrity/),
-[3](/archive/2011/11/26/the_mythical_man-month_wiki_and_customer_service/), 4,
-[5](/archive/2012/01/08/mythical_man-month_code_reuse_and_discoverability/)
+[1](/archive/2011/11/10/review_and_reflection_on_the_mythical_man-month_by_frederick_p_brooks_jr/), \
+[2](/archive/2011/11/20/mythical_man-month_conceptual_integrity/), \
+[3](/archive/2011/11/26/the_mythical_man-month_wiki_and_customer_service/), 4, \
+[5](/archive/2012/01/08/mythical_man-month_code_reuse_and_discoverability/) \
 {: .card .bg-light .card-bare }
 
 In the chapter titled "Plan the System for Change," Dr. Brooks
