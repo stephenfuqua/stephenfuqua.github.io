@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grudgingly Accepting AI Coding Assistants
-date: 2024-01-14
+date: 2025-01-14
 excerpt_separator: <!--more-->
 tags:
 - programming
@@ -13,6 +13,9 @@ prohibited my teams from using AI coding assistants due to concerns about
 intellectual property and questions about the risks and real world effectiveness
 of AI coding assistants. It is now time to allow and even encourage AI coding
 assistants, with guardrails.
+
+{: .center-block }
+![Balcones National Wildlife Refuge, by Stephen A. Fuqua](/images/panoramic_balcones_nwr.webp){: .img-fluid }
 
 <!--more-->
 
