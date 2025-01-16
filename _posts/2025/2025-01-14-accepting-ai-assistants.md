@@ -14,8 +14,9 @@ intellectual property and questions about the risks and real world effectiveness
 of AI coding assistants. It is now time to allow and even encourage AI coding
 assistants, with guardrails.
 
-{: .center-block }
+{: .center-block .figure }
 ![Balcones National Wildlife Refuge, by Stephen A. Fuqua](/images/panoramic_balcones_nwr.webp){: .img-fluid }
+Balcones National Wildlife Refuge, December 2024, by Stephen A. Fuqua {: .figure-caption}
 
 <!--more-->
 
