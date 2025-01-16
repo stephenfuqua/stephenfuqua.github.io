@@ -16,6 +16,7 @@ assistants, with guardrails.
 
 {: .center-block }
 ![Balcones National Wildlife Refuge, by Stephen A. Fuqua](/images/panoramic_balcones_nwr.webp){: .img-fluid }
+
 {: .figure .figure-caption}
 Balcones National Wildlife Refuge, December 2024, by Stephen A. Fuqua
 
@@ -117,9 +118,10 @@ experiences.
 {: .alert .alert-danger .mt-2}
 Those who are working with closed source applications will want to read the fine
 print to understand the privacy and security implications of your use of an AI
-coding assistant. For example, [GitHub says]: "GitHub does not use either
-Copilot Business or Enterprise data to train its models.". This seems to imply
-that it _does use_ data from Free and Pro.
+coding assistant. For example, [GitHub
+says](https://github.com/features/copilot): "GitHub does not use either Copilot
+Business or Enterprise data to train its models.". This seems to imply that it
+_does use_ data from Free and Pro.
 
 {: .alert .alert-success .mt-2}
 Also see [GitHub Copilot Security and
