@@ -14,9 +14,10 @@ intellectual property and questions about the risks and real world effectiveness
 of AI coding assistants. It is now time to allow and even encourage AI coding
 assistants, with guardrails.
 
-{: .center-block .figure }
+{: .center-block }
 ![Balcones National Wildlife Refuge, by Stephen A. Fuqua](/images/panoramic_balcones_nwr.webp){: .img-fluid }
-Balcones National Wildlife Refuge, December 2024, by Stephen A. Fuqua {: .figure-caption}
+{: .figure .figure-caption}
+Balcones National Wildlife Refuge, December 2024, by Stephen A. Fuqua
 
 <!--more-->
 
@@ -112,6 +113,19 @@ their own habits as well as their abilities to sniff out and question
 potentially harmful or simply dodgy code. And we should encourage a community of
 practice where developers on different teams freely share about their
 experiences.
+
+{: .alert .alert-danger .mt-2}
+Those who are working with closed source applications will want to read the fine
+print to understand the privacy and security implications of your use of an AI
+coding assistant. For example, [GitHub says]: "GitHub does not use either
+Copilot Business or Enterprise data to train its models.". This seems to imply
+that it _does use_ data from Free and Pro.
+
+{: .alert .alert-success .mt-2}
+Also see [GitHub Copilot Security and
+Privacy Concerns: Understanding the Risks and Best
+Practices](https://blog.gitguardian.com/github-copilot-security-and-privacy/)
+for more detailed security tips.
 
 ## Personal Plans
 
