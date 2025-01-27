@@ -36,7 +36,7 @@ realization of the Ed-Fi Data Standard. Thus, a CSV file containing the a
 listing of all of the properties for each path _is_ a listing of the elements of
 the _effective_ Ed-Fi Data Standard.
 
-{: .alert .alert-tip .mt-2}
+{: .alert .alert-info .mt-2}
 There are small divergences between the Data Standard and this API
 Specification, such as how school years are represented. However, since actual
 exchange of data occurs through the API, then the API specification is the
@@ -114,6 +114,7 @@ responses and `POST` and `PUT` requests (again, truncated for brevity):
 
 Putting this information together, the desired output would be:
 
+{: .table .table-striped .table-bordered .table-condensed .font-small }
 | Path                                   | Property Name | Property Type | Description                    |
 | -------------------------------------- | ------------- | ------------- | ------------------------------ |
 | /ed-fi/absenceEventCategoryDescriptors | id            | string        |                                |
@@ -145,6 +146,7 @@ exit and a shiny new CSV file in my directory.
 
 But is it right?
 
+{: .table .table-striped .table-bordered .table-condensed .font-small }
 | schema_name                          | property_name | property_type | description        | path                                   |
 | ------------------------------------ | ------------- | ------------- | ------------------ | -------------------------------------- |
 | edFi_absenceEventCategoryDescriptor  | id            | string        |                    | /ed-fi/absenceEventCategoryDescriptors |

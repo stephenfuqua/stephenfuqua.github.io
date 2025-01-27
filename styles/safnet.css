@@ -160,3 +160,7 @@ li {
     margin-top: 1em;
     display: block;
 }
+
+.font-small {
+    font-size: 75%;
+}
