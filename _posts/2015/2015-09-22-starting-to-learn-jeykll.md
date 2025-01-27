@@ -15,7 +15,8 @@ There is a lot of work to do in terms of getting content up and getting it forma
 
 * [Jekyll: Transform your plain text into static websites and bogs](http://jekyllrb.com/)
 * [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/#configuring-jekyll)
-* [Run Jekyll on Windows](http://jekyll-windows.juthilo.com/)
-  Doesn't actually work for me, I get a gcc build error. Will probably
-  switch to starting up a Vagrant box with Ubuntu.
 * [Troubleshooting GitHub Pages build failures](https://help.github.com/articles/troubleshooting-github-pages-build-failures/)
+
+## Addendum January 2025
+
+GitHub now has better instructions [for testing locally](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
