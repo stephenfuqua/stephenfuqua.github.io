@@ -30,7 +30,7 @@ Perhaps 20 years from now we'll look back and wonder
 what the fuss what all about, just as I wonder what the backstory was on this
 balloon-based scarecrow protecting raspberries in my backyard circa 2006.
 
-<!-- more -->
+<!--more-->
 
 Or at least _some_ of them are. Some in the audience already see themselves as
 the ones leading the AI wave in their companies, and others feel more confident
