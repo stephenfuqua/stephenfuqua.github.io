@@ -36,7 +36,10 @@ God, who is recognized through all the natural wonders:
 Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_, [CLXXVI](www.bahai.org/r/129964059).
 
 {: .center-block }
-![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen A. Fuqua](/images/Enchanged-Rock-Flowers-2024-03-20.jpg){: .img-fluid }
+![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen A. Fuqua](/images/Enchanged-Rock-Flowers-2024-03-20.jpg){: .img-fluid  .border .rounded }
+
+{: .figure .figure-caption}
+Wildflowers on Naw Ruz at Enchanted Rock State Natural Area, by Stephen A. Fuqua (2024).
 
 <!--more-->
 
@@ -102,7 +105,10 @@ Surely these are ameliorating influences to counter "civilization" "carried to
 excess."
 
 {: .center-block }
-![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/images/hill-country-sunset.jpg){: .img-fluid }
+![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/images/hill-country-sunset.jpg){: .img-fluid .border .rounded }
+
+{: .figure .figure-caption}
+Central Texas Hill Country sunset, by Stephen A. Fuqua (2024).
 
 Another fundamental concept in the Faith, not listed in the principles above, is
 the idea of

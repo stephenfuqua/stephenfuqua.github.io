@@ -18,7 +18,10 @@ resources that I have found useful in my journey so far, giving me new ideas to
 play with and questions to aid my reflection.
 
 {: .center-block }
-![Sharp-shinned Hawk, by Stephen A. Fuqua](/images/sharp-shinned-hawk.webp){: .img-fluid }
+![Sharp-shinned Hawk, by Stephen A. Fuqua](/images/sharp-shinned-hawk.webp){: .img-fluid .border .rounded }
+
+{: .figure .figure-caption}
+Sharp-shinned Hawk at Resaca de la Palma State Park, by Stephen A. Fuqua (2024).
 
 <!--more-->
 

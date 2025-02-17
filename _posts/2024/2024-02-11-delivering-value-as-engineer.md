@@ -51,6 +51,7 @@ at empowering than (hands-on) solving.
 {: .center-block }
 ![Alexander the Great, cutting the Gordian Knot](https://blog.safnet.com/images/gordian-knot.png){: .img-fluid .border .rounded }
 
+{: .figure .figure-caption}
 Maturino da Firenze. [Alexander Cutting the Gordian
 Knot](https://www.artic.edu/artworks/7441/alexander-cutting-the-gordian-knot),
 1510-1527. The Art Institute of Chicago.
