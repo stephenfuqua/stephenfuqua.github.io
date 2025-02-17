@@ -23,12 +23,13 @@ AI tooling. But that’s how disruptive the technologies may be: even the data
 experts are uncertain and afraid.
 
 {: .center-block }
-![Balloon scarecrow](/images/balloon_scarecrow.jpg){: .img-fluid }
+![Balloon scarecrow](/images/balloon_scarecrow.jpg){: .img-fluid .border .rounded }
 
 {: .figure .figure-caption}
 Perhaps 20 years from now we'll look back and wonder
 what the fuss what all about, just as I wonder what the backstory was on this
-balloon-based scarecrow protecting raspberries in my backyard circa 2006.
+balloon-based scarecrow protecting raspberries in my backyard circa 2006. By
+Stephen A. Fuqua.
 
 <!--more-->
 
