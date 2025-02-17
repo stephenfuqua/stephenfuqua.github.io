@@ -29,3 +29,16 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+# # # run jekyll on a linux docker image
+# # docker run --rm -v=%cd%:/srv/jekyll -p 4000:4000 -it jekyll/jekyll /bin/bash
+
+# # # create a new jekyll site in the current directory even if directory is not empty
+# # jekyll new . --force
+
+# # # will now be able to see your site on localhost:4000 (notice no livereload)
+# # jekyll serve
+
+# # # keep all gems up to date - most importantly github-pages which will pull all dependencies locally so same as live
+# # bundle update
+
+# # bundle exec jekyll serve
