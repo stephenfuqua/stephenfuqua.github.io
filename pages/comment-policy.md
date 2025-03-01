@@ -4,8 +4,8 @@ permalink: /comment-policy
 title: Comment Policy
 ---
 
-> **Note**
-> Due to privacy concerns with Disqus, I have disabled comments.
+{: .alert .alert-warning .mt-2}
+Due to privacy concerns with Disqus, I have disabled comments.
 
 I welcome relevant and respectful comments. Off-topic, disrespectful, or abusive
 comments will be removed. Which articles support comments, and for how long,
@@ -30,3 +30,15 @@ consultation](https://www.bahai.org/beliefs/universal-peace/articles-resources/c
 >
 > ~ Bah&aacute;'u'll&aacute;h, from a Tablet, translated from the Arabic
 
+-----
+
+Temp experiment:
+
+```mermaid
+classDiagram
+    class BankAccount
+    BankAccount : +String owner
+    BankAccount : +Bigdecimal balance
+    BankAccount : +deposit(amount)
+    BankAccount : +withdrawal(amount)
+```
