@@ -31,15 +31,11 @@ consultation](https://www.bahai.org/beliefs/universal-peace/articles-resources/c
 >
 > ~ Bah&aacute;'u'll&aacute;h, from a Tablet, translated from the Arabic
 
------
-
-Temp experiment:
-
-<div class="mermaid">
+<!-- <div class="mermaid">
 classDiagram
     class BankAccount
     BankAccount : +String owner
     BankAccount : +Bigdecimal balance
     BankAccount : +deposit(amount)
     BankAccount : +withdrawal(amount)
-</div>
+</div> -->
