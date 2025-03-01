@@ -2,6 +2,7 @@
 layout: page
 permalink: /comment-policy
 title: Comment Policy
+mermaid: true
 ---
 
 {: .alert .alert-warning .mt-2}
@@ -34,11 +35,11 @@ consultation](https://www.bahai.org/beliefs/universal-peace/articles-resources/c
 
 Temp experiment:
 
-```mermaid
+<div class="mermaid">
 classDiagram
     class BankAccount
     BankAccount : +String owner
     BankAccount : +Bigdecimal balance
     BankAccount : +deposit(amount)
     BankAccount : +withdrawal(amount)
-```
+</div>
