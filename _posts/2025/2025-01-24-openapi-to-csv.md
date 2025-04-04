@@ -17,9 +17,13 @@ small win; countless programmers have doubtlessly done much more. But a
 reluctant engineer has to start somewhere.
 
 {: .center-block }
-![Screenshot of prompt entry and Copilot response](/images/openapi-to-csv-copilot.png){: .img-fluid .border .rounded}
+![Screenshot of prompt entry and Copilot response](/images/openapi-to-csv-copilot.png){: .img-fluid}
 
 <!--more-->
+
+{: .alert .alert-tip .mt-2 :}
+Postscript 3/22/2025: Now available in an expanded form, supporting both Open API version 2 (Swagger)
+and version 3, at [openapi-to-csv](https://github.com/Ed-Fi-Exchange-OSS/openapi-to-csv)
 
 ## Context
 
