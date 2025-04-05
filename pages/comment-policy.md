@@ -30,12 +30,3 @@ consultation](https://www.bahai.org/beliefs/universal-peace/articles-resources/c
 > except through consultation.
 >
 > ~ Bah&aacute;'u'll&aacute;h, from a Tablet, translated from the Arabic
-
-<!-- <div class="mermaid">
-classDiagram
-    class BankAccount
-    BankAccount : +String owner
-    BankAccount : +Bigdecimal balance
-    BankAccount : +deposit(amount)
-    BankAccount : +withdrawal(amount)
-</div> -->

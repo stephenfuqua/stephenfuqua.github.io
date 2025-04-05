@@ -9,6 +9,7 @@ tags:
 - dotnet
 sharing: true
 excerpt_separator: <!--more-->
+mermaid: true
 ---
 
 Containerization of an application benefits operations of the application by
@@ -105,7 +106,7 @@ application source files are mapped using read-write mode (`:rw`)
  so that the `bin` and
 `obj` directories that will be written by the build process.
 
-{: .alert .alert-tip .mt-2 }
+{: .alert .alert-warning .mt-2 }
 When using this statement in PowerShell scripts, replace `$pwd` with `$PSScriptRoot`.
 
 ## Build and Unit Test
@@ -143,7 +144,6 @@ docker run --rm `
 
 {: .alert .alert-success .mt-2 }
 Future consideration:
-
 1. The reader may want to explore using a [`dotnet test`
    logger](https://github.com/microsoft/vstest/blob/main/docs/report.md#available-test-loggers)
    for alternative output types.
