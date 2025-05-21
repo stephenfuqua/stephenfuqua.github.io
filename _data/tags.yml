@@ -2,7 +2,7 @@
   name: Meta
 
 - slug: dotnet
-  name: Microsoft .NET Framework
+  name: Microsoft .NET
 
 - slug: devops
   name: DevOps Tools and Practices
