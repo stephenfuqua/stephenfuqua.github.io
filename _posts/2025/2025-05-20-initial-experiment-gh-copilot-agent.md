@@ -45,9 +45,9 @@ re-ran the command, and it worked.
 
 New file size: something like 3.1 MB. Nice.
 
-Verdict: it found a simple set of commands to run in PowerShell. I gave no
-instructions on how to solve this. Pretty cool that it picked PowerShell on its
-own.
+Assessment: Small goof at first, but easily resolved. It found a simple set of
+commands to run in PowerShell. I gave no instructions on how to solve this.
+Pretty cool that it picked PowerShell on its own.
 
 ## Replace log4net with Serilog
 
@@ -92,7 +92,7 @@ Done. It helpfully asks me if it should update any call sites.
 Done. After this, I entered additional prompts to help convert
 the log4net format to a serilog template and to finally remove log4net.
 
-Verdict: small bites helped. But I might have just tried the original request
+Assessment: Small bites helped. But I might have just tried the original request
 with slightly more useful instructions, and it may have gotten there on its own.
 Maybe I should have described what the problem was and asked CoPilot to write a
 better prompt for me 😁.
@@ -103,13 +103,13 @@ While testing the log response, I noticed a Warning that occurs on startup. Hey 
 
 > My application logs the following warning at runtime. Can you help me solve it?
 >
-> \```
+> \`\`\`
 > WARNING Microsoft.EntityFrameworkCore.Query [(null)] - Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))
-> \```
+> \`\`\`
 
 A short time later, the problem was fixed. The chat told me about how it setup
-"query splitting" behavior in Entity Framework. I wondered to myself, "why isn;t
-this the default? Is it safe?" So I asked GitHub CoPilot:
+"query splitting" behavior in Entity Framework. I wondered to myself, "why isn't
+this the default? Is it safe?" Switching to "ask" mode instead of "agent":
 
 > are there any downsides to switching to this query splitting behavior?
 
@@ -117,4 +117,4 @@ The answer provided me with pros and cons, and a summary of why it feels that
 this is safe "for most cases." This application does not have heavy load and I
 agree that this looks safe, so I kept the changes.
 
-Verdict: Thanks, CoPilot! Another bit of tech debt quickly solved.
+Assessment: Thanks, CoPilot! Another bit of tech debt quickly solved.
