@@ -6,6 +6,8 @@ instead. Develop a plan for how to make this change. Save the plan to a file cal
 migration-plan.md.
 -->
 
+Create a `git commit` after every step below.
+
 ## 1. Set up a new Docusaurus project
 - Initialize a new Docusaurus site in a separate directory.
 - Choose the classic template for a blog/documentation site.
@@ -18,9 +20,10 @@ migration-plan.md.
 - Rename files to the Docusaurus format: `YYYY-MM-DD-title.md`.
 - Update front matter: Docusaurus uses YAML front matter, but you may need to adjust fields (e.g., `layout`, `tags`, `categories`).
 
-## 4. Migrate pages
-- Move standalone pages (e.g., `about.md`, custom pages in `pages/`) to the `/src/pages` directory in Docusaurus.
-- Adjust front matter and internal links as needed.
+## 4. Migrate BDD
+- Add a new `plugin-content-docs` plugin to `docusaurus.config.js` with id `bdd` and path `best-practices-tdd-oo`.
+- Remove `best-practices-tdd-oo/index.html` and rename `intro.md` to `readme.md`.
+- Adjust front matter and internal links as needed in the `best-practices-tdd-oo` directory.
 
 ## 5. Migrate static assets
 - Copy images and other static files from `images/`, `archive/`, etc., to the `/static` directory in Docusaurus.
@@ -36,11 +39,12 @@ migration-plan.md.
 ## 8. Configure navigation and sidebar
 - Update `sidebars.js` and navigation in `docusaurus.config.js` to reflect your site structure.
 
-## 9. Set up redirects
-- If you have old URLs (e.g., from Jekyll permalinks), use the Docusaurus plugin for client-side redirects.
+<!-- ## 9. Set up redirects
+- If you have old URLs (e.g., from Jekyll permalinks), use the Docusaurus plugin for client-side redirects. -->
 
 ## 10. Test locally
 - Run the Docusaurus dev server and verify that all content, links, and assets work as expected.
 
 ## 11. Deploy
-- Update deployment scripts or GitHub Pages settings to deploy the new Docusaurus site.
+- Create a GitHub Actions workflow to run on pull request, testing the build process.
+- Create a GitHUb Actions workflow to run on merge to `main`, building and deploying the site.
