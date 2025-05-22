@@ -2,7 +2,6 @@
 title: "Why Create a Platform for Avian Conservation Monitoring?"
 date: 2015-09-24
 slug: why_create_platform_for_avian_conservation_monitoring
-comments: true
 tags:
 - tech
 - programming

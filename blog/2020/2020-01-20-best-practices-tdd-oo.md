@@ -1,7 +1,6 @@
 ---
 title: Best Practices in TDD and OOD
 date: 2020-01-20
-comments: true
 tags: [testing, dotnet, programming]
 sharing: true
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Opening Up: What's Been Happening Since Ed-Fi Went Open Source"
 date: 2021-05-08
-comments: true
 tags:
 - ed-fi
 - programming

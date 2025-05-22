@@ -1,7 +1,6 @@
 ---
 title: Constructing Just Algorithms
 date: 2020-12-29
-comments: true
 tags:
 - tech
 - discourse

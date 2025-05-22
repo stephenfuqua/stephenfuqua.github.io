@@ -1,13 +1,10 @@
 ---
 title: "Docker Containers in the SDLC: .NET Core SDK"
 date: 2025-04-03
-comments: true
 tags:
 - programming
 - architecture
 - dotnet
-sharing: true
-
 mermaid: true
 ---
 

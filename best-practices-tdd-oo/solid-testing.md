@@ -2,7 +2,6 @@
 title: "SOLID and Unit Testing"
 permalink: /best-practices-tdd-oo/solid-testing
 date: 2020-01-12
-comments: true
 tags: [testing, programming, oo]
 ---
 

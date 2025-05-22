@@ -1,7 +1,6 @@
 ---
 title: "From Diagrams and Definitions: Solving the Analytics Reporting Gap"
 date: 2018-08-07
-comments: true
 tags:
 - tech
 - data-and-analytics

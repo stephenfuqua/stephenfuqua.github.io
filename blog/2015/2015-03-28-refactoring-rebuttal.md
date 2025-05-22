@@ -2,7 +2,6 @@
 title: Refactoring Rebuttal
 date: '2015-05-27'
 slug: refactoring_rebuttal
-comments: true
 tags:
 - programming
 ---

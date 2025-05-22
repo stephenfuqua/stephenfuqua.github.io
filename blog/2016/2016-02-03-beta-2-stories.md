@@ -2,7 +2,6 @@
 title: FlightNode Beta 2 User Stories
 date: 2016-02-03
 slug: flightnode_beta_2_user_stories
-comments: true
 tags:
 - tech
 - programming

@@ -1,7 +1,6 @@
 ---
 title: 'Moles: No Longer Fit for Unit Tests'
 date: 2012-04-19
-comments: true
 tags:
 - tech
 - programming

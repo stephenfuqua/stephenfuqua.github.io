@@ -2,7 +2,6 @@
 layout: page
 title: 'Breaking My Moles Habit, With MoQ'
 date: 2012-04-16
-comments: true
 tags: [dotnet, testing]
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Comparing Assertion Libraries for .NET Framework
 date: 2018-12-03
-comments: true
 tags: [testing, dotnet, programming]
 sharing: true
 ---

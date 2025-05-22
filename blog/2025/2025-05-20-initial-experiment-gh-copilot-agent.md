@@ -1,7 +1,6 @@
 ---
 title: Initial Experiments with GitHub Copilot in Agent Mode
 date: 2025-05-20
-comments: true
 tags:
 - programming
 - architecture

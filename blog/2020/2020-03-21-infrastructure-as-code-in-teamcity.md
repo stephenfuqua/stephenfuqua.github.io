@@ -1,7 +1,6 @@
 ---
 title: Getting Started with Infrastructure as Code in TeamCity
 date: 2020-03-21
-comments: true
 tags:
   - devops
   - tech
