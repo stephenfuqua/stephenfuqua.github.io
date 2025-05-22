@@ -1,19 +1,154 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+meta:
+  label: meta
+  permalink: /meta
+  description: Meta
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+dotnet:
+  label: dotnet
+  permalink: /dotnet
+  description: Microsoft .NET
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+devops:
+  label: devops
+  permalink: /devops
+  description: DevOps Tools and Practices
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+database:
+  label: database
+  permalink: /database
+  description: Microsoft SQL Server and other databases
+
+architecture:
+  label: architecture
+  permalink: /architecture
+  description: Application Architecture and Design
+
+books:
+  label: books
+  permalink: /books
+  description: Book reviews and commentaries
+
+sdlc:
+  label: sdlc
+  permalink: /sdlc
+  description: Software Development Life Cycle
+
+testing:
+  label: testing
+  permalink: /testing
+  description: Software Testing
+
+Linux:
+  label: Linux
+  permalink: /Linux
+  description: Linux
+
+Windows:
+  label: Windows
+  permalink: /Windows
+  description: Windows
+
+tech:
+  label: tech
+  permalink: /tech
+  description: Tech
+
+programming:
+  label: programming
+  permalink: /programming
+  description: General Programming
+
+ed-fi:
+  label: ed-fi
+  permalink: /ed-fi
+  description: Ed-Fi Alliance
+
+data-and-analytics:
+  label: data-and-analytics
+  permalink: /data-and-analytics
+  description: Data Analytics and Visualization
+
+FlightNode:
+  label: FlightNode
+  permalink: /FlightNode
+  description: "FlightNode: Citizen Science Bird-Monitoring"
+
+inclusion:
+  label: inclusion
+  permalink: /inclusion
+  description: Inclusion and Anti-Racism
+
+sql-server:
+  label: sql-server
+  permalink: /sql-server
+  description: SQL Server
+
+ssis:
+  label: ssis
+  permalink: /ssis
+  description: SQL Server Integration Service
+
+performance:
+  label: performance
+  permalink: /performance
+  description: Performance Tuning
+
+security:
+  label: security
+  permalink: /security
+  description: Security
+
+agile:
+  label: agile
+  permalink: /agile
+  description: Agile / Scrum
+
+javascript:
+  label: javascript
+  permalink: /javascript
+  description: JavaScript
+
+living:
+  label: living
+  permalink: /living
+  description: Life Lived Living
+
+music:
+  label: music
+  permalink: /music
+  description: Music
+
+religion:
+  label: religion
+  permalink: /religion
+  description: On the Subject of Religion
+
+discourse:
+  label: discourse
+  permalink: /discourse
+  description: Social Discourse
+
+justice:
+  label: justice
+  permalink: /justice
+  description: Justice
+
+nature:
+  label: nature
+  permalink: /nature
+  description: Nature, Sustainability, Environment, Wildlife
+
+birds:
+  label: birds
+  permalink: /birds
+  description: Birds
+
+climate:
+  label: climate
+  permalink: /climate
+  description: Climate Change
+
+Bahai:
+  label: Bahai
+  permalink: /Bahai
+  description: "Bahá'í Faith"
