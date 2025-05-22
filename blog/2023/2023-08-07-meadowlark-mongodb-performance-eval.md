@@ -5,7 +5,6 @@ tags:
 - ed-fi
 - programming
 - architecture
-sharing: true
 ---
 
 Full write-up of experiments in MongoDB connection string tuning with Ed-Fi

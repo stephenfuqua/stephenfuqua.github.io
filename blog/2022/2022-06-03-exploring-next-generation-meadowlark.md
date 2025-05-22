@@ -4,7 +4,6 @@ date: 2022-06-03
 tags:
 - ed-fi
 - programming
-sharing: true
 ---
 
 As education agencies increasingly look for cost-savings and scalability

@@ -2,7 +2,6 @@
 title: "(Re)New on the Ed-Fi Exchange: Analytics Starter Kits"
 date: 2019-01-16
 tags: [data-and-analytics, ed-fi]
-sharing: true
 ---
 
 If data lands in the ODS and no one uses it, does it empower educators?

@@ -6,7 +6,6 @@ tags:
 - tech
 - programming
 - FlightNode
-sharing: true
 ---
 
 The .NET projects for FlightNode were created in several different Git repositories, thus giving us several small, well-contained, and re-usable projects. These small projects would be installed into the *Service* project as NuGet packages, which also makes for a faster compile in each discrete solution:

@@ -7,7 +7,6 @@ tags:
 - inclusion
 - tech
 - data-and-analytics
-sharing: true
 
 ---
 

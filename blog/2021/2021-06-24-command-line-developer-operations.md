@@ -5,7 +5,6 @@ tags:
   - devops
   - tech
   - programming
-sharing: true
 
 ---
 

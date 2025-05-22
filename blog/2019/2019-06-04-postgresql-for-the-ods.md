@@ -2,7 +2,6 @@
 title: "PostgreSQL for the ODS: Bringing Database Flexibility to the Ed-Fi Platform"
 date: 2019-06-04
 tags: [data-and-analytics, ed-fi]
-sharing: true
 ---
 
 The most popular request at the 2018 Ed-Fi Summit’s tech town hall was for an option to run the Ed-Fi ODS / API on an open source database solution. Historically, the Operational Data Store (ODS) database has been developed on Microsoft SQL Server, matching the preference of educational agencies that rely on heavily discounted licensing terms for on-premises operation of SQL Server. The advent of cloud-based hosting has changed that dynamic, especially since Microsoft ended the "bring your own license" (BYOL) practice.

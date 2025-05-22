@@ -5,7 +5,6 @@ tags:
 - tech
 - data-and-analytics
 - ed-fi
-sharing: true
 ---
 
 Have you ever tried to write a query using the Ed-Fi ODS for reporting or

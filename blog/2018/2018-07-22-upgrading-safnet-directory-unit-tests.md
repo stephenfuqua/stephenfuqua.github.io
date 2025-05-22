@@ -2,7 +2,6 @@
 title: "Upgrading safnet-directory, Part 2: Unit Tests"
 date: 2018-07-21
 tags: [dotnet, architecture, testing]
-sharing: true
 ---
 
 Continuing from [Upgrading safnet-directory, part 1](/archive/2018/07/15/upgrading-safnet-directory/), it is time to improve the solution's unit testing. At the outset, the controllers cannot be unit tested effectively due to their direct dependence on Entity Framework and ASP.NET Identity Framework classes. With application of an in-memory database, they could be _integration tested_, but not _unit tested_ as I understand and apply the term.

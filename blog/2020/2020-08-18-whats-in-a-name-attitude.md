@@ -6,7 +6,6 @@ tags:
 - justice
 - inclusion
 - tech
-sharing: true
 
 ---
 

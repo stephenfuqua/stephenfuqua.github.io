@@ -5,7 +5,6 @@ tags:
 - tech
 - programming
 - FlightNode
-sharing: true
 ---
 
 In order to run FlightNode locally:

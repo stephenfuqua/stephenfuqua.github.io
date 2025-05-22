@@ -7,7 +7,6 @@ tags:
   - programming
   - Linux
   - Windows
-sharing: true
 
 ---
 

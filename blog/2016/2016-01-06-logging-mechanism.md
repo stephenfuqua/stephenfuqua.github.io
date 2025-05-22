@@ -6,7 +6,6 @@ tags:
 - tech
 - programming
 - FlightNode
-sharing: true
 ---
 
 Wow, you'd think nothing had been happening for the past two months. But that's

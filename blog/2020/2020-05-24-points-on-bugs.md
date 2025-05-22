@@ -4,7 +4,6 @@ date: 2020-05-24
 tags:
 - tech
 - sdlc
-sharing: true
 ---
 
 Should bugs and spikes receive story points to aid in sprint capacity planning?

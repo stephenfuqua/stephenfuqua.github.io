@@ -2,7 +2,6 @@
 title: Unit Testing with Entity Framework Core and Async
 date: 2019-12-27
 tags: [testing, dotnet, programming]
-sharing: true
 ---
 
 Entity Framework Core has a few changes that impact unit testing, particularly with respect to `EntityEntry.State` management. My previous unit testing techniques also did not take into account the use of `async` methods. In this article I'll present a few techniques used in the context of a POC exploration of IdentityServer4. Although .NET Core 3 is now fully available, these examples are based on .NET Core 2.2.

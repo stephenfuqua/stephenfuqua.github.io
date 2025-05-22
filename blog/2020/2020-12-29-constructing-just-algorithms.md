@@ -7,7 +7,6 @@ tags:
 - justice
 - inclusion
 - data-and-analytics
-sharing: true
 excerpt: '<p>
 Are algorithms doomed to be racist and harmful, or is there a legitimate
 role for them in a just and equitable society?

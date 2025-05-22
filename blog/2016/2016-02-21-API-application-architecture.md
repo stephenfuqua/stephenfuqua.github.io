@@ -6,7 +6,6 @@ tags:
 - programming
 - architecture
 - FlightNode
-sharing: true
 ---
 
 The API for FlightNode is essentially structured along the lines of the [onion

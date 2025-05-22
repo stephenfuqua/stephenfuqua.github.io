@@ -6,7 +6,6 @@ tags:
 - tech
 - sdlc
 - FlightNode
-sharing: true
 ---
 
 ## Tutorials

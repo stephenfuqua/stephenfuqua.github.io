@@ -6,7 +6,6 @@ tags:
 - tech
 - programming
 - FlightNode
-sharing: true
 ---
 
 This release candidate nearly wraps up the user management and volunteer work
