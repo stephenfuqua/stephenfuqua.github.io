@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'C#: The Dangers of Foreach'
 date: '2008-07-08 18:55:11 -0500'
-basename: c_the_dangers_o
+slug: c_the_dangers_o
 tags:
 - tech
 - dotnet

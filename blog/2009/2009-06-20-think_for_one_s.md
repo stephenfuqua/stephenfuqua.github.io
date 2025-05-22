@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Think For One ... Second
 date: '2009-06-20 07:58:06 -0500'
-basename: think_for_one_s
+slug: think_for_one_s
 tags:
 - tech
 - dotnet

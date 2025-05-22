@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Intel + Apple = Microsoft Killer?
 date: '2005-06-10 12:36:05 -0500'
-basename: intel_apple_mic
+slug: intel_apple_mic
 tags: [tech]
 ---
 

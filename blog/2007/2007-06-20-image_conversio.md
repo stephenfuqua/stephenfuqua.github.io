@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Image Conversion Made Easy in .Net
 date: '2007-06-20 21:29:16 -0500'
-basename: image_conversio
+slug: image_conversio
 tags: [tech, dotnet]
 excerpt_separator: <!-- truncate -->
 ---

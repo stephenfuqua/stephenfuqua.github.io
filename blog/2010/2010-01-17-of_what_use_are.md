@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Of what use are stories?
 date: 2010-01-17
-basename: of_what_use_are
+slug: of_what_use_are
 tags:
 - books
 ---

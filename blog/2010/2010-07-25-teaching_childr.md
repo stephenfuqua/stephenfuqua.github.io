@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Teaching Children, and Myself, About Service and Truthfulness
 date: 2010-07-25
-basename: teaching_children_service_truthfulness
+slug: teaching_children_service_truthfulness
 tags:
 - discourse
 - religion

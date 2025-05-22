@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Jared Diamond on Environmental Collapse
 date: 2004-12-29
-basename: jared_diamon_on_environmental_collapse
+slug: jared_diamon_on_environmental_collapse
 tags:
 - discourse
 - nature

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Unity - The Mortar of World Peace
 date: 2004-09-08
-basename: unity_the_mortar_of_world_peace
+slug: unity_the_mortar_of_world_peace
 tags:
 - discourse
 - justice

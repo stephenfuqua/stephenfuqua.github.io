@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'First Speakers: Restoring the Ojibwe Language'
 date: 2012-08-05
-basename: restoring_ojibwe_language
+slug: restoring_ojibwe_language
 tags:
 - discourse
 - living

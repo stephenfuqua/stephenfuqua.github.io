@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "Just starting to learn Jeykll"
 date: 2015-09-22
-basename: learning_jeykll
+slug: learning_jeykll
 comments: true
 tags: [meta, FlightNode]
 ---

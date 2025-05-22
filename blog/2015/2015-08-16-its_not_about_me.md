@@ -1,8 +1,7 @@
 ---
-layout: page
 title: It's Not About Me
 date: 2015-08-16
-basename: its_not_about_me
+slug: its_not_about_me
 tags:
 - discourse
 - inclusion

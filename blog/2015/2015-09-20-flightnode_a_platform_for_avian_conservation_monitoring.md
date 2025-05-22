@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'FlightNode: A Platform for Avian Conservation Monitoring'
 date: '2015-09-20'
-basename: flightnode_a_platform_for_avian_conservation_monitoring
+slug: flightnode_a_platform_for_avian_conservation_monitoring
 tags:
 - tech
 - programming

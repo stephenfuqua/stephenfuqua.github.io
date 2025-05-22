@@ -1,8 +1,7 @@
 ---
-layout: page
 title: It Can Happen To You
 date: 2004-10-17
-basename: it_can_happen_to_you
+slug: it_can_happen_to_you
 tags:
 - living
 ---

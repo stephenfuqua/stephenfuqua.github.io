@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Will the Earth be Unfit for Human Habitation?
 date: 2010-10-28
-basename: will_the_earth_be_unfit_for_human_habitation
+slug: will_the_earth_be_unfit_for_human_habitation
 tags:
 - discourse
 - nature

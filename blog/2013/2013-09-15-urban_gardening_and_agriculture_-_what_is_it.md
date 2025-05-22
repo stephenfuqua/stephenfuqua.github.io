@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Urban Gardening and Agriculture  - What Is It?
 date: 2013-09-15
-basename: urban_gardening_and_agriculture_-_what_is_it
+slug: urban_gardening_and_agriculture_-_what_is_it
 tags:
 - discourse
 - nature

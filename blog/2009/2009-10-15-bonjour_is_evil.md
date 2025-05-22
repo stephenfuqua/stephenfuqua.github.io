@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Bonjour is Evil
 date: '2009-10-15 20:43:29 -0500'
-basename: bonjour_is_evil
+slug: bonjour_is_evil
 tags:
 - tech
 - Windows

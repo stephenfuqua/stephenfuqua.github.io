@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Project T: Getting Started With Continuous Delivery, part 1'
 date: '2015-02-17 23:00:11 -0600'
-basename: project_t_getting_started_with_continuous_delivery_part_1
+slug: project_t_getting_started_with_continuous_delivery_part_1
 tags:
 - tech
 - programming

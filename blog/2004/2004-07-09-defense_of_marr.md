@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Defense of Marriage Act Debate Began Today
 date: 2004-07-09
-basename: defense_of_marriage_act_debate_began_today
+slug: defense_of_marriage_act_debate_began_today
 tags:
 - discourse
 - justice

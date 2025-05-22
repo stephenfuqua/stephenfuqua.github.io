@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Faith Into Action - Respect and Appreciation for Parents
 date: 2011-05-08
-basename: faith_into_action_parents
+slug: faith_into_action_parents
 tags:
 - discourse
 - living

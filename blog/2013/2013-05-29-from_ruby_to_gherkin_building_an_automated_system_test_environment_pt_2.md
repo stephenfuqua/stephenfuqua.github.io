@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'From Ruby to Gherkin: Building Automated System Tests, pt 2'
 date: '2013-05-29 11:55:29 -0500'
-basename: from_ruby_to_gherkin_building_an_automated_system_test_environment_pt_2
+slug: from_ruby_to_gherkin_building_an_automated_system_test_environment_pt_2
 tags:
 - tech
 - programming

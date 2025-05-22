@@ -1,8 +1,7 @@
 ---
-layout: page
 title: NUnit Ignores App.Config
 date: '2007-12-31 12:00:41 -0600'
-basename: nunit_ignores_a
+slug: nunit_ignores_a
 tags: [tech, dotnet, testing]
 excerpt_separator: <!-- truncate -->
 ---

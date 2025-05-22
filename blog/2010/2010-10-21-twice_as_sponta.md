@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Twice as Spontaneous: Trail-Building and Texas Music'
 date: 2010-10-21
-basename: twice_as_spontaneous
+slug: twice_as_spontaneous
 tags:
 - music
 - nature

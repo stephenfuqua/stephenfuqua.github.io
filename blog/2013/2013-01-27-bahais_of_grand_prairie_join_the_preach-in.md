@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Baha'is of Grand Prairie Join the Preach-In
 date: 2013-01-27
-basename: bahais_of_grand_prairie_join_the_preach-in
+slug: bahais_of_grand_prairie_join_the_preach-in
 tags:
 - discourse
 - climate

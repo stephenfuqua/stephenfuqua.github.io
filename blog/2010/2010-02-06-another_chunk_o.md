@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Another Chunk of the Star Wars Facade Crumbles
 date: 2010-02-06
-basename: another_chunk_of_star_wars_facade_crumbles
+slug: another_chunk_of_star_wars_facade_crumbles
 tags:
 - books
 ---

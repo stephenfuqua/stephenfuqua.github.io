@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Splitting TeamCity Kotlin Into Multiple Files
 date: 2020-03-22
 comments: true

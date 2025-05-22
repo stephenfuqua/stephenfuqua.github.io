@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Test Driven Development"
 permalink: /best-practices-tdd-oo/test-driven-development
 date: 2020-01-17

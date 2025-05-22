@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Wetlands Conservation and Advocacy
 date: 2012-11-04
-basename: wetlands_conservation_and_advocacy
+slug: wetlands_conservation_and_advocacy
 tags:
 - discourse
 - nature
@@ -13,12 +12,11 @@ of our ecological infrastructure; in particular, wetlands. The lessons that we
 did not heed from Hurricane Katrina will perhaps take hold with Hurricane Sandy
 impacting the nation's commercial heart: in addition to supporting relief
 efforts now, it is important for us to consider long-term mitigation against the
-impact of future large storms, which are likely to be more <a href=
-"http://thinkprogress.org/climate/2012/10/31/1117091/how-does-climate-change-make-hurricanes-like-sandy-more-destructive/?mobile=nc">
-powerful and more frequent</a> than in centuries past. Instead of, <a href=
-"http://www.nytimes.com/2012/11/04/nyregion/protecting-new-york-city-before-next-time.html?pagewanted=3&_r=0&hp">or
-in addition to</a>, relying on massive levies, seawalls, and the like, we need
-to support public and private endeavors to restore vital natural systems.
+impact of future large storms, which are likely to be more powerful and more
+frequent (dead link remove) than in centuries past. Instead of, [or in addition
+to](https://www.nytimes.com/2012/11/04/nyregion/protecting-new-york-city-before-next-time.html),
+relying on massive levies, seawalls, and the like, we need to support public and
+private endeavors to restore vital natural systems.
 
 {: .center-block }
 ![egret](/images/IMG_0075.JPG){: .img-fluid .border .rounded }<br>
@@ -27,34 +25,32 @@ Island</small>
 
 <!-- truncate -->
 
-Wetlands are <a href="http://water.epa.gov/type/wetlands/index.cfm">nature's
-defence</a> against storm surges, and they are her filters for clean water. They
+Wetlands are nature's
+defence (wetlands) (dead link removed) against storm surges, and they are her filters for clean water. They
 provide crucial habitat for life from across the "kingdoms" &mdash; distinct
 varieties of plants, funguses, invertebrates, mollusks, birds, mammals, and so
 on. And this diversity is beautiful, from a purely aesthetic standpoint. Trails,
 boardwalks, and observation decks can easily provide human access to appreciate
-and meditate on the beauty of life, helping reverse the trend of <a href=
-"http://www.education.com/topic/nature-deficit-disorder/">nature deficit
-disorder</a>.
+and meditate on the beauty of life, helping reverse the trend of nature deficit
+disorder (dead link removed).
 
 These natural systems are not just for the coasts; they are also vital to the
-interior. Yesterday morning, participating in the [Trinity Bird Count](http://www.trinitybirdcount.com/), I toured the <a
-href=
-"http://www.trinityrivercorridor.com/flood-control/chain-wet-lands.html">lower
-chain of wetlands</a> that was constructed along the Trinity River in the past
-10 years, just southeast of downtown. Staff from the Army Corps of Engineers
-explained to us how these wetlands, located near Interstate 45 and Loop 12,
-would provide additional nitrogen/phosphorus filtration for effluent from a
-water treatment plant (mitigating our impact on downstream residents). They will
-help protect the nearby, historically minority, Joppa neighborhood from
-flooding. Where these wetlands replace or prevent buildup of man-made
-structures, or improve the ability for the surrounding land to sustain plant
-life, they absorb carbon dioxide from the atmosphere, and thus provide a means
-for reducing the city's contribution toward global climate change. In this
-particular case, these 123 acres of wetlands are joined by over 1,000 acres of
-the "Great Trinity Forest", providing for substantial <a href=
-"http://www.nrs.fs.fed.us/niacs/carbon/forests/carbon_sequestration/">carbon
-sequestration</a>.
+interior. Yesterday morning, participating in the Trinity Bird Count (dead link
+removed), I toured the [lower chain of
+wetlands](https://trinityrivercorridor.com/floodcontrols/Pages/Chain-of-Wetlands.aspx)
+that was constructed along the Trinity River in the past 10 years, just
+southeast of downtown. Staff from the Army Corps of Engineers explained to us
+how these wetlands, located near Interstate 45 and Loop 12, would provide
+additional nitrogen/phosphorus filtration for effluent from a water treatment
+plant (mitigating our impact on downstream residents). They will help protect
+the nearby, historically minority, Joppa neighborhood from flooding. Where these
+wetlands replace or prevent buildup of man-made structures, or improve the
+ability for the surrounding land to sustain plant life, they absorb carbon
+dioxide from the atmosphere, and thus provide a means for reducing the city's
+contribution toward global climate change. In this particular case, these 123
+acres of wetlands are joined by over 1,000 acres of the "Great Trinity Forest",
+providing for substantial carbon
+sequestration.
 
 {: .center-block }
 ![cormorants flying](/images/IMG_0439.JPG){: .img-fluid .border .rounded}<br>
@@ -83,8 +79,7 @@ naturally-formed wetlands. These have been drained for agricultural, commercial,
 and sometimes health, reasons. But the unintended consequences come back to
 haunt us with increased flooding, loss of biodiversity, and further artificial
 separation of "man" from nature. Local organizations dedicated to sustainable
-living and stewardship, such as the new <a href=
-"http://www.dallasinterfaith.org">Dallas Interfaith Power &amp; Light</a>, can
+living and stewardship, such as the new Dallas Interfaith Power &amp; Light (dead link removed), can
 play a supportive role in mitigating against the unintended consequences of past
 policies and economic activity. Reaching out beyond our narrow self interests,
 we can express the group's mission of "love, justice, and care for creation" by

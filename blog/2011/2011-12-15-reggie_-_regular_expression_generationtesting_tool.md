@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Reggie - Regular Expression Generation/Testing Tool
 date: '2011-12-15 16:27:40 -0600'
-basename: reggie_-_regular_expression_generationtesting_tool
+slug: reggie_-_regular_expression_generationtesting_tool
 tags:
 - tech
 - dotnet

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Sub classing for automated testing
 date: '2009-04-19 15:55:26 -0500'
-basename: sub_classing_fo
+slug: sub_classing_fo
 tags:
 - tech
 - dotnet

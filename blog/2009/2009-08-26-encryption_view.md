@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Encryption, Views, and Stand-Alone Stored Procedures in the Entity Framework
 date: '2009-08-26 11:12:48 -0500'
-basename: encryption_view
+slug: encryption_view
 tags:
 - tech
 - database

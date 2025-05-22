@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "NuGet Packaging, Part Two: Dependency Publishing"
 date: 2015-09-04
-basename: nugety_chocolatey_tips_part_2
+slug: nugety_chocolatey_tips_part_2
 comments: true
 tags: [sdlc]
 ---

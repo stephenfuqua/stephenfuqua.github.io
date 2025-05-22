@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Waiting for the Return: Option 4'
 date: 2010-07-04
-basename: waiting_for_the_return
+slug: waiting_for_the_return
 tags:
 - discourse
 - religion

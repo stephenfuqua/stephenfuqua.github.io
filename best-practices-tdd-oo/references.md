@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "References on Test-Driven and Object Oriented Development"
 permalink: /best-practices-tdd-oo/references
 date: 2020-01-12

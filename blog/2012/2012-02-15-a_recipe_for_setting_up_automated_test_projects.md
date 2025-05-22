@@ -1,8 +1,7 @@
 ---
-layout: page
 title: A Recipe for Setting Up Automated Test Projects
 date: '2012-02-15 21:04:28 -0600'
-basename: a_recipe_for_setting_up_automated_test_projects
+slug: a_recipe_for_setting_up_automated_test_projects
 tags:
 - tech
 - dotnet

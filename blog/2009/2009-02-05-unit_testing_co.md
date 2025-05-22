@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Unit Testing - Code Coverage and Separation of Layers
 date: '2009-02-05 12:13:48 -0600'
-basename: unit_testing_co
+slug: unit_testing_co
 tags:
 - tech
 - dotnet

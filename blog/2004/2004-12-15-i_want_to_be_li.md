@@ -1,8 +1,7 @@
 ---
-layout: page
 title: I Want to Be Like Bill; Religious Anti-Environmentalism
 date: 2004-12-15
-basename: i_want_to_be_like_bill
+slug: i_want_to_be_like_bill
 tags:
 - discourse
 - nature

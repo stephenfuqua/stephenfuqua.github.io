@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Elections, Fundamentalism, and the Interfaith Movement
 date: 2004-11-11
-basename: elections_fundamentalism_and_interfaith_movement
+slug: elections_fundamentalism_and_interfaith_movement
 tags:
 - discourse
 - religion

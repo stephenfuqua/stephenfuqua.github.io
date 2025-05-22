@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Diagnosing Production Problems: First Law'
 date: '2010-06-11 15:32:11 -0500'
-basename: diagnosing_prod
+slug: diagnosing_prod
 tags:
 - tech
 - sdlc

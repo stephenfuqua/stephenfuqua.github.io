@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Living with Agile
 date: '2024-06-24'
 tags:

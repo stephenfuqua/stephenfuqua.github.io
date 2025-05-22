@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Seeing God Through Nature; Pantheism and Panentheism
 date: 2011-01-08
-basename: seeing_god_through_nature
+slug: seeing_god_through_nature
 tags:
 - discourse
 - religion

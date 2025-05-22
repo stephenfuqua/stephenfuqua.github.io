@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Security Council Resolution on Darfur; More Global Conflict
 date: 2004-09-20
-basename: security_council_resolution_on_darfur
+slug: security_council_resolution_on_darfur
 tags:
 - discourse
 - justice

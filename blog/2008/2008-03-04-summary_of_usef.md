@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Summary of Useful Features in SQL Server 2008
 date: '2008-03-04 10:29:28 -0600'
-basename: summary_of_usef
+slug: summary_of_usef
 tags:
 - tech
 - database

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Announcing 'Conscientia'
 date: 2004-09-27
-basename: announcing_conscientia
+slug: announcing_conscientia
 tags:
 - meta
 - living

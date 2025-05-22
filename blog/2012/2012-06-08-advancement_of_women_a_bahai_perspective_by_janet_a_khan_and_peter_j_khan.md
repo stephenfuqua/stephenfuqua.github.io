@@ -1,9 +1,8 @@
 ---
-layout: page
 title: 'Advancement of Women: a Baha''i Perspective by Janet A. Khan and Peter J.
   Khan'
 date: 2012-06-08
-basename: advancement_of_women_a_bahai_perspective_by_janet_a_khan_and_peter_j_khan
+slug: advancement_of_women_a_bahai_perspective_by_janet_a_khan_and_peter_j_khan
 tags:
 - inclusion
 - discourse

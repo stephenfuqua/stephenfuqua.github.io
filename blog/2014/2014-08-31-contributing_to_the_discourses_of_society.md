@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Contributing to the Discourses of Society
 date: 2014-08-31
-basename: contributing_to_the_discourses_of_society
+slug: contributing_to_the_discourses_of_society
 tags:
 - discourse
 - religion

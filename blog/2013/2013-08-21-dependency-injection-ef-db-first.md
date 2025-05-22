@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Dependency Injection with DB-first Entity Framework
 date: 2013-08-21
 comments: true

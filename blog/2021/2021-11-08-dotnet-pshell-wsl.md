@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Preparing for PowerShell Core and .NET Development on Ubuntu on Windows
 date: 2021-11-08
 comments: true

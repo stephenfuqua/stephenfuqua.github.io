@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Non-Discrimination in the Campus Club
 date: 2012-03-24
-basename: non-discrimination_in_the_campus_club
+slug: non-discrimination_in_the_campus_club
 tags:
 - discourse
 - inclusion

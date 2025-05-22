@@ -1,5 +1,4 @@
 ---
-layout: page
 title: A Conversation on Bahá'í Principles for Climate Action
 date: 2024-05-01
 comments: true

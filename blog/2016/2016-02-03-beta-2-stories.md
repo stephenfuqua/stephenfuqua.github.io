@@ -1,8 +1,7 @@
 ---
-layout: page
 title: FlightNode Beta 2 User Stories
 date: 2016-02-03
-basename: flightnode_beta_2_user_stories
+slug: flightnode_beta_2_user_stories
 comments: true
 tags:
 - tech

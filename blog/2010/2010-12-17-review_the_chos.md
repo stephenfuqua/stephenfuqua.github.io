@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Review: The Chosen Highway, by Lady Blomfield'
 date: 2010-12-17
-basename: review_the_chosen_highway
+slug: review_the_chosen_highway
 tags:
 - books
 - religion

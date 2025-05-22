@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Legacy Refactoring Isolation Patterns"
 permalink: /best-practices-tdd-oo/legacy-refactoring
 date: 2020-01-13

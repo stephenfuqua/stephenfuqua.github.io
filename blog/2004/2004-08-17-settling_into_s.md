@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Settling into St. Paul
 date: 2004-08-17
-basename: settling_into_st_paul
+slug: settling_into_st_paul
 tags:
 - living
 ---

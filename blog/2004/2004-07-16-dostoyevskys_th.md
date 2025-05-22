@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Dostoyevsky's "The Idiot"
 date: 2004-07-16
-basename: dostoyevskys_the_idiot
+slug: dostoyevskys_the_idiot
 tags:
 - books
 ---

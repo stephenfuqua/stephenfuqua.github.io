@@ -1,8 +1,7 @@
 ---
-layout: page
 title: What does it mean to be a member of a Baha'i community?
 date: 2010-08-08
-basename: what_does_it_me
+slug: what_does_it_me
 tags:
 - discourse
 - religion

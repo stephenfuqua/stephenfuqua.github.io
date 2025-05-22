@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Warning About User Defined Functions in SQL Queries
 date: '2008-02-06 10:57:09 -0600'
-basename: warning_about_u
+slug: warning_about_u
 tags:
 - tech
 - database

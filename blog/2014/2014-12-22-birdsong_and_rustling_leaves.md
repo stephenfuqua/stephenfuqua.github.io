@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Birdsong and Rustling Leaves
 date: 2014-12-22
-basename: birdsong_and_rustling_leaves
+slug: birdsong_and_rustling_leaves
 tags:
 - living
 - birds

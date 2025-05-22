@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'The Mythical Man-Month: Conceptual Integrity'
 date: '2011-11-20 10:30:21 -0600'
-basename: mythical_man-month_conceptual_integrity
+slug: mythical_man-month_conceptual_integrity
 tags:
 - tech
 - programming

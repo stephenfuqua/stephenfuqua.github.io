@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Points on Bugs and Spikes"
 date: 2020-05-24
 comments: true

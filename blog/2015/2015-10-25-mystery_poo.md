@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Mystery Poo
 date: 2015-10-25
-basename: mystery_poo
+slug: mystery_poo
 tags:
 - living
 - nature

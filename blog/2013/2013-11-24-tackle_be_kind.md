@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Be Kind'
 date: '2013-11-24 22:25:20 -0600'
-basename: tackle_be_kind
+slug: tackle_be_kind
 tags:
 - tech
 - meta

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: A Prayer for the Friends in Iran
 date: 2010-05-22
-basename: a_prayer_for_the_friends_in_iran
+slug: a_prayer_for_the_friends_in_iran
 tags:
 - religion
 ---

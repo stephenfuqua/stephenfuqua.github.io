@@ -1,8 +1,7 @@
 ---
-layout: page
 title: An Interfaith Seder
 date: 2011-04-09
-basename: an_interfaith_seder
+slug: an_interfaith_seder
 tags:
 - discourse
 - religion

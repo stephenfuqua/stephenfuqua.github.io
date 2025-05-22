@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Night Walking for Earth Hour 2015
 date: 2015-03-29
-basename: night_walking_for_earth_hour_2015
+slug: night_walking_for_earth_hour_2015
 tags:
 - living
 - nature

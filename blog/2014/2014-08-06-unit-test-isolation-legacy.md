@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Unit Test Isolation for Legacy .Net Code
 date: 2014-08-06
 comments: true

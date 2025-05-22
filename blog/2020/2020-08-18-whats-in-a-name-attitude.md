@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "What's in a Name? Attitude."
 date: 2020-08-18
 comments: true

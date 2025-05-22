@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Lessons from Louis Gregory: Detachment and Responsibility'
 date: 2011-03-27
-basename: lessons_from_louis_gregory
+slug: lessons_from_louis_gregory
 tags:
 - discourse
 - religion

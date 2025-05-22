@@ -1,8 +1,7 @@
 ---
-layout: page
 title: InterfaithNews.Net July Update
 date: 2004-07-06
-basename: interfaithnews_net_july_update
+slug: interfaithnews_net_july_update
 tags:
 - religion
 ---

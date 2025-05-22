@@ -1,8 +1,7 @@
 ---
-layout: page
 title: The Yard and the Ditch
 date: 2014-10-20
-basename: the_yard_and_the_ditch
+slug: the_yard_and_the_ditch
 tags:
 - living
 - nature

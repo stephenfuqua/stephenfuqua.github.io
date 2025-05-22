@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Of Loss and Hope
 date: 2004-06-21
-basename: of_loss_and_hope
+slug: of_loss_and_hope
 tags:
 - living
 ---

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Configuring Apache (Wamp) With Additional Ports
 date: '2008-08-22 20:18:36 -0500'
-basename: configuring_apa
+slug: configuring_apa
 tags:
 - tech
 - devops

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Responding to the Genocide in Darfur
 date: 2004-09-15
-basename: responding_to_the_genocide_in_darfur
+slug: responding_to_the_genocide_in_darfur
 tags:
 - discourse
 - justice

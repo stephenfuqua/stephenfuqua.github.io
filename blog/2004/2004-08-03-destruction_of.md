@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Destruction of Baha'i Holy Sites
 date: 2004-08-03
-basename: destruction_of_bahai_holy_sites
+slug: destruction_of_bahai_holy_sites
 tags:
 - religion
 - Bahai

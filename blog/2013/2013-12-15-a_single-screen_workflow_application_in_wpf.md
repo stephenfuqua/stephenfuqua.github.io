@@ -1,8 +1,7 @@
 ---
-layout: page
 title: A Single-Screen Workflow Application in WPF
 date: 2013-12-15
-basename: a_single-screen_workflow_application_in_wpf
+slug: a_single-screen_workflow_application_in_wpf
 tags:
 - tech
 - programming

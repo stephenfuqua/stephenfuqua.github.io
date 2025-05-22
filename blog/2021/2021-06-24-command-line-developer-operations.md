@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Primer on Command Line Operations for Software Development
 date: 2021-06-24
 comments: true

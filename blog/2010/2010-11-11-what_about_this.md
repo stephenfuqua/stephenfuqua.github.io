@@ -1,8 +1,7 @@
 ---
-layout: page
 title: What about this "agile" thing?
 date: '2010-11-11 21:37:09 -0600'
-basename: what_about_this
+slug: what_about_this
 tags:
 - tech
 - sdlc

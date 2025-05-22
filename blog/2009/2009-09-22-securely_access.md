@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Securely Accessing Network Resources in an ASP.Net Web Service
 date: '2009-09-22 21:12:50 -0500'
-basename: securely_access
+slug: securely_access
 tags:
 - tech
 - dotnet

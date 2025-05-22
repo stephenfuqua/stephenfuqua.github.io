@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Using Windows CNAMEs to Reduce Server Confusion
 date: '2012-04-03 19:20:19 -0500'
-basename: using_windows_cnames_to_reduce_server_confusion
+slug: using_windows_cnames_to_reduce_server_confusion
 tags:
 - tech
 - Windows

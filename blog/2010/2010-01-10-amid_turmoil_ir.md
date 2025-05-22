@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Amid turmoil, Iran set to try 7 Baha'i leaders - CNN.com
 date: 2010-01-10
-basename: amid_turmoil_iran_trial
+slug: amid_turmoil_iran_trial
 tags:
 - Bahai
 ---

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Baha'i Books Available Online
 date: 2010-08-22
-basename: bahai_books_available_online
+slug: bahai_books_available_online
 tags:
 - religion
 - books

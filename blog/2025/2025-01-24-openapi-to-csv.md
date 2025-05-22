@@ -1,5 +1,4 @@
 ---
-layout: page
 title: OpenAPI to CSV with Help from GitHub Copilot
 date: 2025-01-24
 excerpt_separator: <!-- truncate -->

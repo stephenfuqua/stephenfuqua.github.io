@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Letter to City Council
 date: 2020-06-13
-basename: letter_to_city_council
+slug: letter_to_city_council
 tags:
 - discourse
 - justice
@@ -18,12 +17,12 @@ police, and the heavy-handed tactics employed against peaceful protestors.
 > 13 June 2020
 >
 > Dear City Council Members,
-> 
+>
 > Thank you for passage this week of measures to limit police use of force and
 > begin re-prioritizing the city budget. I strongly support these actions as
 > meaningful steps toward a future where the intrinsic oneness of humanity is
 > fully reflected in our words, our ordinances, and all of our actions.
-> 
+>
 > Systemic inequities require systemic, systematic, and continuous attention
 > through careful study of patterns, consultation on remedies, thoughtful
 > action, and humble evaluation. Without doubt, these steps move us forward on a
@@ -33,6 +32,6 @@ police, and the heavy-handed tactics employed against peaceful protestors.
 > encounters and escalation should be in the conversation. And, lest one crisis
 > drive us to forget another, continued review of police handling of domestic
 > abuse and rape cases must remain a priority.
-> 
+>
 > Sincerely,
 > Stephen A. Fuqua

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Russia Supports Kyoto - Maybe
 date: 2004-09-30
-basename: russia_supports_kyoto_protocol
+slug: russia_supports_kyoto_protocol
 tags:
 - discourse
 - climate

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Principles and Patterns of Test Driven Development
 date: 2014-05-29
 comments: true

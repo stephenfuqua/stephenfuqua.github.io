@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'The Long Wait: A Journey Toward Solar Power'
 date: 2015-10-31
-basename: the_long_wait_a_journey_toward_solar_power
+slug: the_long_wait_a_journey_toward_solar_power
 tags:
 - living
 - nature

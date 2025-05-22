@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Exploring .Net Code with Pex
 date: '2010-02-09 21:36:24 -0600'
-basename: exploring_net_c
+slug: exploring_net_c
 tags:
 - tech
 - dotnet

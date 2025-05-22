@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Love God Heal Earth, by Rev Canon Sally G. Bingham, et al.
 date: 2012-07-01
-basename: love_god_heal_earth_by_rev_canon_sally_g_bingham_et_al
+slug: love_god_heal_earth_by_rev_canon_sally_g_bingham_et_al
 tags:
 - books
 - religion

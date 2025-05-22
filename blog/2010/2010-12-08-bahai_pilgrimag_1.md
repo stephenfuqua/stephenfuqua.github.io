@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Baha''i Pilgrimage, pt 2: Sacred Space (revised)'
 date: 2010-12-08
-basename: bahai_pilgrimage_1
+slug: bahai_pilgrimage_1
 tags:
 - living
 - religion

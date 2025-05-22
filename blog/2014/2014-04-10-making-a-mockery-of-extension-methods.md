@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Making a Mockery of Extension Methods
 date: 2014-04-10
 comments: true

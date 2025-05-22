@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Another Adapter Example"
 permalink: /best-practices-tdd-oo/additional-adapter-example
 date: 2020-01-16

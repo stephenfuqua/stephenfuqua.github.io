@@ -1,8 +1,7 @@
 ---
-layout: page
 title: First Post from the New Job
 date: 2004-10-05
-basename: first_post_from_new_job
+slug: first_post_from_new_job
 tags:
 - living
 ---

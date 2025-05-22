@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Meat and Antibiotics
 date: 2010-03-07
-basename: meat_and_antibiotics
+slug: meat_and_antibiotics
 tags:
 - discourse
 - nature
