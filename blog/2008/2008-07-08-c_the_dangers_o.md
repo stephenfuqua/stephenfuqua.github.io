@@ -23,14 +23,8 @@ Practices: Improving .Net Application Performance](http://msdn.microsoft.com/en-
 personal experience. How much slower? Well, I suppose that depends on your
 particular circumstances. Here are a few interesting references:
 
-<ul>
-	<li><a href="http://www.codeproject.com/KB/cs/foreach.aspx">FOREACH Vs. FOR
-	(C#)</a>: shows the extra IL code created for a `foreach` loop</li>
-	<li>
-	<a href="http://blogs.msdn.com/kevin_ransom/archive/2004/04/19/116072.aspx">
-	To foreach or not to foreach that is the question</a>: claims it isn't so clear-cut,
-	at least for regular arrays. Not absolutely conclusive.</li>
-</ul>
+* <a href="http://www.codeproject.com/KB/cs/foreach.aspx">FOREACH Vs. FOR (C#)</a>: shows the extra IL code created for a `foreach` loop
+* <a href="http://blogs.msdn.com/kevin_ransom/archive/2004/04/19/116072.aspx"> To foreach or not to foreach that is the question</a>: claims it isn't so clear-cut, at least for regular arrays. Not absolutely conclusive.
 
 ## Predictability
 

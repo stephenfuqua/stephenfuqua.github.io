@@ -94,38 +94,22 @@ Pakistan, Philippines, Romania, and Spain)</li>
 
 #### Secular Organizations Working in Darfur
 
-<ul>
-<li><a href="http://www.amnestyusa.org/countries/sudan/index.do">Amnesty International
-  USA</a></li>
-<li><a href="http://www.unhcr.ch/cgi-bin/texis/vtx/goto?page=donorButton">U.N.
-  High Commission for Refugees</a> (who have received only $1.1 million for Darfur
-  relief; website will direct to proper donating agency depending on your nationality)</li>
-<li>[UNICEF](http://www.unicefusa.org/site/pp.asp?c=duLRI8O0H&b=50755) (separate
-from UNHCR, again directs to proper agency for your nationality) </li>
-<li><a href="http://www.cartercenter.org/activities/showdoc.asp?submenu=activities&countryID=69">The
-  Carter Center</a> </li>
-<li><a href="http://www.msf.org/countries/page.cfm?articleid=C48C9839-7943-4137-817BFB4ADD8A1525">Doctors
-  Without Borders</a> </li>
-</ul>
+* <a href="http://www.amnestyusa.org/countries/sudan/index.do">Amnesty International USA</a>
+* <a href="http://www.unhcr.ch/cgi-bin/texis/vtx/goto?page=donorButton">U.N. High Commission for Refugees</a> (who have received only $1.1 million for Darfur relief; website will direct to proper donating agency depending on your nationality)
+* [UNICEF](http://www.unicefusa.org/site/pp.asp?c=duLRI8O0H&b=50755) (separate from UNHCR, again directs to proper agency for your nationality)
+* <a href="http://www.cartercenter.org/activities/showdoc.asp?submenu=activities&countryID=69">The Carter Center</a>
+* <a href="http://www.msf.org/countries/page.cfm?articleid=C48C9839-7943-4137-817BFB4ADD8A1525">Doctors Without Borders</a>
 
 #### Religious/Spiritual Organizations
 
-<ul>
-<li><a href="http://donate.wvus.org/OA_HTML/xxwvibeCCtpItmDspRte.jsp?lid=sudan_don&item=1064062&lpos=sub5_text&section=10025&daniel_prod_ses=ZGE09A20993A287D1892F720E2F508A9F04B314D01C32C82688A776FEB6A0862E2D4F1CEBF9509DED53B36BFE5EA262B45C9B8462190C021A628419008030EB0816251A2A8F252D9C03BE8F0D401AD92EB5014626D4487AC8884C890BF69F89D2367B18F5283BC461E826BA9114F302D76D3938B51AFCABE64381A4BCE1AB9C805817A51DB6A786B7E06B2F09E5ECD095C2794A962C87FC7D959DB29094C9C336D4A77C93E225C3F7716E22D6A92150C444344214E97AD52BCE79C0D63ECA5FB37748DCA27DDBD032DA5322F70A5ACF379824B3A11159E9BA266ADAAFAE18E6CA45ED213FA9668F01DC7A2455B5A80E95833169B63D4A92172FC915C3D8296C4CF0E48B409D5F4C3F3513AA67AD9CEE4CAA51153635AA8BFD196352DE0CED8806F7EC75EC636E63F22FCA47163895E9560CD91BD49C10DC1421CD5A1193B7E94A5D394F70DFED7E434">World
-  Vision</a></li>
-<li>[MercyCorps](http://www.mercycorps.org/splash/)</li>
-<li><a href="http://www.ifrc.org/where/country/cn6.asp?countryid=161">International
-  Federation of Red Cross and Red Crescent Societies</a></li>
-<li>[Islamic Relief](http://www.islamic-relief.com/submenu/Appeal/sudan.htm)</li>
-<li><a href="http://www.ajws.org/index.cfm?section_id=8">American Jewish World
-  Service</a> </li>
-<li><a href="http://gbgm-umc.org/umcor/emergency/sudan.stm">United Methodist Committee
-  on Relief</a> </li>
-<li><a href="http://www.lwr.org/emergencies/04/Sudan/index.asp">Lutheran World
-  Relief</a> </li>
-<li><a href="http://www.caritas.org/jumpNews.asp?idLang=ENG&idChannel=3&idUser=0&idNews=2169">Caritas
-  Internationalis</a> </li>
-</ul>
+* <a href="http://donate.wvus.org/OA_HTML/xxwvibeCCtpItmDspRte.jsp?lid=sudan_don&item=1064062&lpos=sub5_text&section=10025&daniel_prod_ses=ZGE09A20993A287D1892F720E2F508A9F04B314D01C32C82688A776FEB6A0862E2D4F1CEBF9509DED53B36BFE5EA262B45C9B8462190C021A628419008030EB0816251A2A8F252D9C03BE8F0D401AD92EB5014626D4487AC8884C890BF69F89D2367B18F5283BC461E826BA9114F302D76D3938B51AFCABE64381A4BCE1AB9C805817A51DB6A786B7E06B2F09E5ECD095C2794A962C87FC7D959DB29094C9C336D4A77C93E225C3F7716E22D6A92150C444344214E97AD52BCE79C0D63ECA5FB37748DCA27DDBD032DA5322F70A5ACF379824B3A11159E9BA266ADAAFAE18E6CA45ED213FA9668F01DC7A2455B5A80E95833169B63D4A92172FC915C3D8296C4CF0E48B409D5F4C3F3513AA67AD9CEE4CAA51153635AA8BFD196352DE0CED8806F7EC75EC636E63F22FCA47163895E9560CD91BD49C10DC1421CD5A1193B7E94A5D394F70DFED7E434">World Vision</a>
+* [MercyCorps](http://www.mercycorps.org/splash/)
+* <a href="http://www.ifrc.org/where/country/cn6.asp?countryid=161">International Federation of Red Cross and Red Crescent Societies</a>
+* [Islamic Relief](http://www.islamic-relief.com/submenu/Appeal/sudan.htm)
+* <a href="http://www.ajws.org/index.cfm?section_id=8">American Jewish World Service</a>
+* <a href="http://gbgm-umc.org/umcor/emergency/sudan.stm">United Methodist Committee on Relief</a>
+* <a href="http://www.lwr.org/emergencies/04/Sudan/index.asp">Lutheran World Relief</a>
+* <a href="http://www.caritas.org/jumpNews.asp?idLang=ENG&idChannel=3&idUser=0&idNews=2169">Caritas Internationalis</a>
 
 ### The [Save Darfur](http://www.savedarfur.org) Coalition
 

@@ -25,10 +25,8 @@ HSM), rather than encrypting by each column. No code changes are required, hence
 this feature is called Transparent Data Encryption. It gives true encryption of
 data at rest, included backup files.
 
-<ul>
-<li>Blog: [SQL Server 2008 Transparent Data Encryption](http://edge.technet.com/Media/580/)</li>
-<li>Books Online: [Understanding Transparent Data Encryption (TDE)](http://msdn2.microsoft.com/en-us/library/bb934049(SQL.100).aspx)</li>
-</ul>
+* Blog: [SQL Server 2008 Transparent Data Encryption](http://edge.technet.com/Media/580/)
+* Books Online: [Understanding Transparent Data Encryption (TDE)](http://msdn2.microsoft.com/en-us/library/bb934049(SQL.100).aspx)
 
 ## Filtered indexes
 
@@ -36,10 +34,8 @@ An index can be created with a filter (i.e. index all rows where MyDateField is
 not null), thus making much more meaningful indexes &rarrow; improved
 performance.
 
-<ul>
-<li>Blog: [SQL Server 2008 filtered indexes in 5 minutes](http://www.statisticsio.com/Home/tabid/36/articleType/ArticleView/articleId/68/SQL-Server-2008-filtered-indexes-in-5-minutes.aspx)</li>
-<li>Books Online: [Filtered Index Design Guidelines](http://msdn2.microsoft.com/en-us/library/cc280372(SQL.100).aspx)</li>
-</ul>
+* Blog: [SQL Server 2008 filtered indexes in 5 minutes](http://www.statisticsio.com/Home/tabid/36/articleType/ArticleView/articleId/68/SQL-Server-2008-filtered-indexes-in-5-minutes.aspx)
+* Books Online: [Filtered Index Design Guidelines](http://msdn2.microsoft.com/en-us/library/cc280372(SQL.100).aspx)
 
 ## Sparse columns support
 
@@ -50,10 +46,8 @@ columns, your table becomes a little unwieldy in many ways. You can use an XML
 column to store just the subset required, or in 2008 you can use the new sparse
 columns feature. This will improve indexing and manageability.
 
-<ul>
-<li>Blog: [SQL Server 2008 Sparse Columns](http://blogs.technet.com/andrew/archive/2008/02/28/sql-server-2008-sparse-columns.aspx)</li>
-<li>Books Online: [SQL Server 2008 Sparse Columns](SQL Server 2008 Sparse Columns)</li>
-</ul>
+* Blog: [SQL Server 2008 Sparse Columns](http://blogs.technet.com/andrew/archive/2008/02/28/sql-server-2008-sparse-columns.aspx)
+* Books Online: [SQL Server 2008 Sparse Columns](SQL Server 2008 Sparse Columns)
 
 ## Performance Data Collector
 
@@ -61,10 +55,8 @@ The new Performance Data Collector stores query information in a data warehouse,
 making it easy to answer questions like "whose query was hogging the resources
 this morning, causing my job to get a timeout?"
 
-<ul>
-<li>Blog: [Creating a custom data collection in SQL Server 2008](http://www.statisticsio.com/Home/tabid/36/articleType/ArticleView/articleId/57/Default.aspx)</li>
-<li>Books Online: [Introducing the Data Collector](http://msdn2.microsoft.com/en-us/library/bb677248(SQL.100).aspx)</li>
-</ul>
+* Blog: [Creating a custom data collection in SQL Server 2008](http://www.statisticsio.com/Home/tabid/36/articleType/ArticleView/articleId/57/Default.aspx)
+* Books Online: [Introducing the Data Collector](http://msdn2.microsoft.com/en-us/library/bb677248(SQL.100).aspx)
 
 ## Resource Governor
 
@@ -74,10 +66,8 @@ user would always get (if needed) a minimum of 40% of the CPU & RAM, and you
 could specify that the marketing users (once they have beefy report models to
 work with) never get more than 10% of the resources. For example.
 
-<ul>
-<li>Blog: [SQL 2008 Resource Governor](http://portal.sqltrainer.com/2007/12/sql-2008-resource-governor.html)</li>
-<li>Books Online: [Resource Governor Monitoring](http://msdn2.microsoft.com/en-us/library/bb933941(SQL.100).aspx)</li>
-</ul>
+* Blog: [SQL 2008 Resource Governor](http://portal.sqltrainer.com/2007/12/sql-2008-resource-governor.html)
+* Books Online: [Resource Governor Monitoring](http://msdn2.microsoft.com/en-us/library/bb933941(SQL.100).aspx)
 
 ## Report Builder
 
@@ -99,12 +89,10 @@ particularly with regard to the Lookup data flow task. Other improvements / new
 functionality: ADO.Net as default data source (rather than OLEDB); data
 profiling task; C# as new / default language for scripting tasks.
 
-<ul>
-<li>Blog: [SSIS: Big improvements to Lookup in SQL Server 2008](http://blogs.conchango.com/jamiethomson/archive/2007/08/21/SSIS_3A00_-Big-improvements-to-Lookup-in-SQL-Server-2008.aspx)</li>
-<li>Blog: [C# comes to the script task/component](http://blogs.conchango.com/jamiethomson/archive/2007/06/09/Katmai_5C00_SSIS_3A00_-C_2300_-comes-to-the-script-task_2F00_component.aspx)</li>
-<li>Blog: [What's new in SQL Server 2008 for SSIS - Part one](http://blogs.msdn.com/mattm/archive/2008/01/10/what-s-new-in-sql-server-2008-for-ssis-part-one.aspx)</li>
-<li>Blog: [What's new in SQL Server 2008 for SSIS - Part two](http://blogs.msdn.com/mattm/archive/2008/01/22/what-s-new-in-sql-server-2008-for-ssis-part-two.aspx)</li>
-</ul>
+* Blog: [SSIS: Big improvements to Lookup in SQL Server 2008](http://blogs.conchango.com/jamiethomson/archive/2007/08/21/SSIS_3A00_-Big-improvements-to-Lookup-in-SQL-Server-2008.aspx)
+* Blog: [C# comes to the script task/component](http://blogs.conchango.com/jamiethomson/archive/2007/06/09/Katmai_5C00_SSIS_3A00_-C_2300_-comes-to-the-script-task_2F00_component.aspx)
+* Blog: [What's new in SQL Server 2008 for SSIS - Part one](http://blogs.msdn.com/mattm/archive/2008/01/10/what-s-new-in-sql-server-2008-for-ssis-part-one.aspx)
+* Blog: [What's new in SQL Server 2008 for SSIS - Part two](http://blogs.msdn.com/mattm/archive/2008/01/22/what-s-new-in-sql-server-2008-for-ssis-part-two.aspx)
 
 ## Transact SQL / Database Engine
 
@@ -115,13 +103,11 @@ updates, and deletes in one statement; the`+=` operator, and more. There's also
 the new Change Data Capture for enhanced auditability and better incremental
 bulk loads.
 
-<ul>
-<li>Blog: [GROUPING SETS in SQL Server 2008](http://blogs.msdn.com/craigfr/archive/2007/10/11/grouping-sets-in-sql-server-2008.aspx)</li>
-<li>Blog: [SQL Server 2008 'Katmai' Change Data Capture (CDC) in SSIS](http://weblogs.sqlteam.com/derekc/archive/2008/01/28/60469.aspx)</li>
-<li>Books Online: [How Change Data Capture Works](http://msdn2.microsoft.com/en-us/library/bb522657(SQL.100).aspx)</li>
-<li>Books Online: [Using GROUP BY with ROLLUP, CUBE, and GROUPING SETS](http://msdn2.microsoft.com/en-us/library/bb522495(SQL.100).aspx)</li>
-<li>Books Online: [MERGE](http://msdn2.microsoft.com/en-us/library/bb510625(SQL.100).aspx)</li>
-</ul>
+* Blog: [GROUPING SETS in SQL Server 2008](http://blogs.msdn.com/craigfr/archive/2007/10/11/grouping-sets-in-sql-server-2008.aspx)
+* Blog: [SQL Server 2008 'Katmai' Change Data Capture (CDC) in SSIS](http://weblogs.sqlteam.com/derekc/archive/2008/01/28/60469.aspx)
+* Books Online: [How Change Data Capture Works](http://msdn2.microsoft.com/en-us/library/bb522657(SQL.100).aspx)
+* Books Online: [Using GROUP BY with ROLLUP, CUBE, and GROUPING SETS](http://msdn2.microsoft.com/en-us/library/bb522495(SQL.100).aspx)
+* Books Online: [MERGE](http://msdn2.microsoft.com/en-us/library/bb510625(SQL.100).aspx)
 
 ## Comments
 

@@ -37,9 +37,7 @@ layman's reading of the Gospels, I picked up on several points:
 <li>He promises to return (John 14:16-18, Mark 13)</li>
 <li>He certainly warned his followers not to be deceived by false prophets (Mark 13:21-23)</li>
 <li>He would come in the clouds "with great power and glory" (Mark 13:26),
-	<ul>
-		<li>But what is "power and glory"? Did not the Jews also expect the Messiah in "power and glory"? (Daniel 7:13-14)</li>
-	</ul>
+	* But what is "power and glory"? Did not the Jews also expect the Messiah in "power and glory"? (Daniel 7:13-14)
 </li>
 <li>His coming would be at an unexpected hour (Luke 12:39-40)</li>
 <li>That we could distinguish false from true prophets by "their fruit" (Matthew 7:20)</li>

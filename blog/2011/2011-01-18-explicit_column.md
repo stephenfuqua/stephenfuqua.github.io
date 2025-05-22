@@ -28,10 +28,8 @@ error. This time, data for one field is being inserted into another field. All
 along I suspected that the explicit ColumnMappings were needed. Now with a
 second data point, I went to look at the schema.
 
-<ul>
-<li>On the dev server, the first table had the calculated column as the last field, but on mine the last two fields were flipped.</li>
-<li>An older version of the second table's create script did not have an identity field. It exists in production, but if the corrected script were not loaded on the developer's unit testing database, then the field would be missing. It is the first field in the table.</li>
-</ul>
+* On the dev server, the first table had the calculated column as the last field, but on mine the last two fields were flipped.
+* An older version of the second table's create script did not have an identity field. It exists in production, but if the corrected script were not loaded on the developer's unit testing database, then the field would be missing. It is the first field in the table.
 
 So, although I see nothing  stating this in the [documentation](http://msdn.microsoft.com/en-us/library/434atets.aspx),
 it appears that the order of the columns in the destination table matters. In

@@ -80,20 +80,15 @@ facilitates full integration of the system test framework as well).
 
 ### Books
 
-<ul>
-<li>[Growing Object Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) ([my review](/archive/2012/05/review-growing-object-oriented-software-guided-by-tests.html))</li>
-<li>[XUnit Test Patterns](http://xunitpatterns.com/)</li>
-<li>[Agile Testing: A Practical Guide for Testers and Agile Teams](http://www.agiletester.ca/)</li>
-<li>* Cohn's diagram is in [Succeeding with Agile Software Development Using Scrum](http://www.succeedingwithagile.com/)</li>
-<li>[Continuous Integration in .Net](http://www.manning.com/kawalerowicz/)</li>
-</ul>
+* [Growing Object Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) ([my review](/archive/2012/05/review-growing-object-oriented-software-guided-by-tests.html))
+* [XUnit Test Patterns](http://xunitpatterns.com/)
+* [Agile Testing: A Practical Guide for Testers and Agile Teams](http://www.agiletester.ca/)
+* * Cohn's diagram is in [Succeeding with Agile Software Development Using Scrum](http://www.succeedingwithagile.com/)
+* [Continuous Integration in .Net](http://www.manning.com/kawalerowicz/)
 
 ### Articles
 
-<ul>
-<li>[Writing Features - Gherkin Language](http://docs.behat.org/guides/1.gherkin.html), a worthy companion to the official documentation in the link above</li>
-<li>[Red, Green, Refactor](http://www.jamesshore.com/Blog/Red-Green-Refactor.html), the critical attitude required for TDD</a>
-</ul>
+* [Writing Features - Gherkin Language](http://docs.behat.org/guides/1.gherkin.html), a worthy companion to the official documentation in the link above
 
 ### Related posts from this blog
 

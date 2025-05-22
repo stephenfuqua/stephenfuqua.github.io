@@ -54,12 +54,10 @@ game or a chat room in the latter case. Interesting, but not what I wanted to
 know. Therefore I'll stick with the server side. Here are some useful
 references:
 
-<ul>
-<li>[ASP.NET SignalR Hubs API Guide - Server (C#)](http://www.asp.net/signalr/overview/signalr-20/hubs-api/hubs-api-guide-server)</li>
-<li>[Tutorial: Server Broadcast with SignalR 2](http://www.asp.net/signalr/overview/signalr-20/getting-started-with-signalr-20/tutorial-server-broadcast-with-signalr-20) (Stock Ticker)</li>
-<li>[Mapping SignalR Users to Connections](http://www.asp.net/signalr/overview/signalr-20/hubs-api/mapping-users-to-connections). In other words, this gives you the critical knowledge for  sending a message to the right person, not just everyone.</li>
-<li>These guides come from [Learn About ASP.Net SignalR](http://www.asp.net/signalr/overview/signalr-20), which has quite a bit of other important documentation around security, troubleshooting, scalability, and client-side scripting.</li>
-</ul>
+* [ASP.NET SignalR Hubs API Guide - Server (C#)](http://www.asp.net/signalr/overview/signalr-20/hubs-api/hubs-api-guide-server)
+* [Tutorial: Server Broadcast with SignalR 2](http://www.asp.net/signalr/overview/signalr-20/getting-started-with-signalr-20/tutorial-server-broadcast-with-signalr-20) (Stock Ticker)
+* [Mapping SignalR Users to Connections](http://www.asp.net/signalr/overview/signalr-20/hubs-api/mapping-users-to-connections). In other words, this gives you the critical knowledge for sending a message to the right person, not just everyone.
+* These guides come from [Learn About ASP.Net SignalR](http://www.asp.net/signalr/overview/signalr-20), which has quite a bit of other important documentation around security, troubleshooting, scalability, and client-side scripting.
 
 ## Dependency Injection
 

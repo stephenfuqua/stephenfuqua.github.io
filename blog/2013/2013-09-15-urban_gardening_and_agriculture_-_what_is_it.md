@@ -48,13 +48,11 @@ such gardens.
 Some of the many inspiring examples of urban agriculture elsewhere in North
 America include:
 
-<ul>
-<li>[Beacon Food Forest](http://beaconfoodforest.weebly.com/), currently under development in Seattle. "A Food Forest is a gardening technique or land management system that mimics a woodland ecosystem but substitutes in edible trees, shrubs, perennials and annuals."</li>
-<li>[Lufa Farms](http://lufa.com/en/corporate.html), the rooftop greenhouse in Montreal.  [Read about David Suzuki's tour](http://www.cbc.ca/natureofthings/music/suzuki-diaries-future-city-lufa-farms.html).</li>
-<li>[Growing Home](http://growinghomeinc.org/), a network of farms in the city of Chicago. "Growing Home changes lives and communities with organic agriculture - through job training, social enterprise, and community development."</li>
-<li>[For backyard-farmer companies, business is bountiful](http://articles.latimes.com/2010/may/02/business/la-fi-farmers-for-hire-20100502). Interested in fresh food from your backyard, but don't have the time or skill to work the land yourself? Innovative companies are popping up that will send their farmers to manage the land for you.</li>
-<li>[Promoting Urban Agriculture in Mexico City - Sembradores Urbanos](http://www.cityfarmer.info/2008/08/05/promoting-urban-agriculture-in-mexico-city-sembradores-urbanos/) is another example of concrete gardening.</li>
-</ul>
+* [Beacon Food Forest](http://beaconfoodforest.weebly.com/), currently under development in Seattle. "A Food Forest is a gardening technique or land management system that mimics a woodland ecosystem but substitutes in edible trees, shrubs, perennials and annuals."
+* [Lufa Farms](http://lufa.com/en/corporate.html), the rooftop greenhouse in Montreal. [Read about David Suzuki's tour](http://www.cbc.ca/natureofthings/music/suzuki-diaries-future-city-lufa-farms.html).
+* [Growing Home](http://growinghomeinc.org/), a network of farms in the city of Chicago. "Growing Home changes lives and communities with organic agriculture - through job training, social enterprise, and community development."
+* [For backyard-farmer companies, business is bountiful](http://articles.latimes.com/2010/may/02/business/la-fi-farmers-for-hire-20100502). Interested in fresh food from your backyard, but don't have the time or skill to work the land yourself? Innovative companies are popping up that will send their farmers to manage the land for you.
+* [Promoting Urban Agriculture in Mexico City - Sembradores Urbanos](http://www.cityfarmer.info/2008/08/05/promoting-urban-agriculture-in-mexico-city-sembradores-urbanos/) is another example of concrete gardening.
 
 ## Follow-up
 

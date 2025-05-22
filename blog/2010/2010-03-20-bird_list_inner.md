@@ -11,23 +11,21 @@ Had an exciting morning in Texas: fifteen new-to-me bird species seen this
 morning on the lagoon/intracoastal waterway side of Padre Island across the
 bridge from Corpus Christi:
 
-<ul>
-<li>Long-billed Curlew</li>
-<li>Marbled Godwit</li>
-<li>Vermilion Flycatcher</li>
-<li>Brown Pelican</li>
-<li>Willet</li>
-<li>Tern (Royal or Caspian, unsure)</lI>
-<li>Laughing Gull</li>
-<li>Reddish Egret, white-morph</li>
-<li>White Ibis</li>
-<li>Snowy Egret</li>
-<li>Osprey</li>
-<li>American White Pelican</li>
-<li>Little Blue Heron</li>
-<li>Roseate Spoonbill</li>
-<li>American Oystercatcher</li>
-</ul>
+* Long-billed Curlew
+* Marbled Godwit
+* Vermilion Flycatcher
+* Brown Pelican
+* Willet
+* Tern (Royal or Caspian, unsure)
+* Laughing Gull
+* Reddish Egret, white-morph
+* White Ibis
+* Snowy Egret
+* Osprey
+* American White Pelican
+* Little Blue Heron
+* Roseate Spoonbill
+* American Oystercatcher
 
 Also seen: Great blue heron, great egret, ring-billed gull, double-crested
 cormorant, northern mockingbird, great-tailed grackle, song sparrow.

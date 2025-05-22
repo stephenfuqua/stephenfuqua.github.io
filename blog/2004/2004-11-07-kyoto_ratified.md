@@ -67,28 +67,12 @@ provides the following examples of <a href=
 "http://www.dti.gov.uk/ccpo/opportunities.htm">climate change projects</a>
 expected to occur in Britain:
 
-<ul>
-  <li>Use of renewable energy rather than fossil fuels for electricity
-  generation (e.g. a wind farm)</li>
-
-  <li>Use of a lower carbon intensive form of fossil fuel energy (e.g.
-  installation of a combined cycle gas power station where coal-fired power
-  stations are usual)</li>
-
-  <li>More efficient use of energy (e.g. the use of more energy efficient
-  lamps)</li>
-
-  <li>Management of biodegradable waste (e.g. the capture and use of landfill
-  gas to generate electricity, rather than allowing it to vent to the
-  atmosphere and needing to use fossil fuels to generate electricity)</li>
-
-  <li>A change to an industrial process to reduce the release of greenhouse
-  gases (e.g. a change in the way cement is manufactured)</li>
-
-  <li>Long term storage of carbon (e.g. by sequestering it in trees, or
-  storing it underground, for example in cavities left after oil
-  extraction)</li>
-</ul>
+* Use of renewable energy rather than fossil fuels for electricity generation (e.g. a wind farm)
+* Use of a lower carbon intensive form of fossil fuel energy (e.g. installation of a combined cycle gas power station where coal-fired power stations are usual)
+* More efficient use of energy (e.g. the use of more energy efficient lamps)
+* Management of biodegradable waste (e.g. the capture and use of landfill gas to generate electricity, rather than allowing it to vent to the atmosphere and needing to use fossil fuels to generate electricity)
+* A change to an industrial process to reduce the release of greenhouse gases (e.g. a change in the way cement is manufactured)
+* Long term storage of carbon (e.g. by sequestering it in trees, or storing it underground, for example in cavities left after oil extraction)
 
 ## Effects on the United States
 

@@ -92,13 +92,10 @@ EXEC sp_executesql @v_strSql;
 
 In summary, four changes were applied, as suggested by Microsoft:
 
-<ul>
-<li>Validated input data where I could (the field listing)</li>
-<li>"Quoted" fields with `QUOTENAME` (can be done for
-fields in INSERT, SELECT, ORDER BY, etc.)</li>
-<li>Doubled-up on the apostrophes</li>
-<li>Tried to protect against buffer overflow</li>
-</ul>
+* Validated input data where I could (the field listing)
+* "Quoted" fields with `QUOTENAME` (can be done for fields in INSERT, SELECT, ORDER BY, etc.)
+* Doubled-up on the apostrophes
+* Tried to protect against buffer overflow
 
 Before making these changes, I made sure that I had automated unit tests that
 were passing with the old version. After updates, and a few bug fixes, the unit
