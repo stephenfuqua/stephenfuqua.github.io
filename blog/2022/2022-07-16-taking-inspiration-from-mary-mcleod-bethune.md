@@ -7,7 +7,6 @@ tags:
 - justice
 - religion
 - Bahai
-sharing: true
 
 ---
 

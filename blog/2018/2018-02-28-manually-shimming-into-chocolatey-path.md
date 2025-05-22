@@ -2,7 +2,6 @@
 title: Manually Shimming An Application Into the Chocolatey Path
 date: 2018-02-28
 tags: [devops, windows]
-sharing: true
 ---
 
 Recently I installed MongoDb using Chocolatey, and was surprised to notice that the executables weren't placed into the Chocolately path. Chocolatey uses a shimming process to [automatically add executes to PATH](https://chocolatey.org/docs/features-shim). This is really quite nice.

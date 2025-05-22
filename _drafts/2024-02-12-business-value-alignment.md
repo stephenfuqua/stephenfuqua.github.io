@@ -5,7 +5,6 @@ tags:
 - programming
 - data-and-analytics
 - agile
-sharing: true
 
 ---
 

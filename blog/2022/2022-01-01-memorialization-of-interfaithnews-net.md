@@ -4,7 +4,6 @@ date: 2022-01-01
 tags:
   - religion
   - discourse
-sharing: true
 
 ---
 

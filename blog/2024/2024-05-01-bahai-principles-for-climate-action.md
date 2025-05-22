@@ -6,7 +6,6 @@ tags:
 - nature
 - Bahai
 - climate
-sharing: true
 
 ---
 

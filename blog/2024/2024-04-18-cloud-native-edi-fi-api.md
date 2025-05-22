@@ -5,7 +5,6 @@ tags:
 - programming
 - ed-fi
 - architecture
-sharing: true
 
 ---
 

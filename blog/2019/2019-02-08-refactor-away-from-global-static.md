@@ -2,7 +2,6 @@
 title: Refactor Away from Global Static
 date: 2019-02-08
 tags: [testing, dotnet, programming]
-sharing: true
 ---
 
 In [Making a Mockery of Extension Methods](http://tech.safnet.com/archive/2014/04/10/making-a-mockery-of-extension-methods/) - way back in 2014 - I wrote about a technique for a code workaround that would facilitate replacing extension methods (global static methods) with mock objects for unit testing. Over the years I've used this technique a few times and found two major problems:

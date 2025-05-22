@@ -2,7 +2,6 @@
 title: Necessity of Independent Quality Assurance and Usability Testing
 date: 2018-5-06
 tags: [sdlc]
-sharing: true
 ---
 
 There is a positive a trend of developers doing more of their own testing, going beyond unit testing. However, if independent testers are cut out of the loop, then surely many applications will suffer. Case in point: a user unexpectedly entering a decimal temperatures and military time in a citizen science data collection application.

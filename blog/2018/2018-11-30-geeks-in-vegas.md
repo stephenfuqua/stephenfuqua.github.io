@@ -6,7 +6,6 @@ tags:
 - architecture
 - ed-fi
 - data-and-analytics
-sharing: true
 ---
 
 According to Amazon Web Services (AWS) CEO Andy Jassy, at his keynote Wednesday morning, I am one of around 53,000 people from all over the world who have come out to the annual AWS re:Invent conference in Las Vegas. We come together from myriad industries and with interests that span the full range from product development to operations to account management. My personal learning objectives for the week are to deepen my understanding, and think about implications for the [Ed-Fi tech stack](https://techdocs.ed-fi.org/#space-menu-link-content), of four concepts:

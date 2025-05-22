@@ -5,7 +5,6 @@ tags:
 - tech
 - data-and-analytics
 - ed-fi
-sharing: true
 ---
 
 Soon the Ed-Fi Alliance will release version 2.0 of our Analytics Middle Tier,

@@ -2,7 +2,6 @@
 title: .NET Unit Test Tooling in 2018
 date: 2018-07-04
 tags: [testing, dotnet]
-sharing: true
 ---
 
 It is 2018, and I have only just learned about the fantastic [FluentAssertions](https://fluentassertions.com/) framework. Seems like a nice time for a quick review of unit testing tools for .NET. Personal preferences: NUnit, FluentAssertions, Moq.

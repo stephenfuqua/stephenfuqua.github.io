@@ -5,7 +5,6 @@ tags:
 - tech
 - devops
 - ed-fi
-sharing: true
 ---
 
 While the Ed-Fi Alliance has made investments to improve the installation

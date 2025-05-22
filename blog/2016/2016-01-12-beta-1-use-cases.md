@@ -6,7 +6,6 @@ tags:
 - tech
 - programming
 - FlightNode
-sharing: true
 ---
 
 The first beta release of FlightNode is now alive and in the hands of testers.

@@ -5,7 +5,6 @@ tags:
 - ed-fi
 - programming
 - architecture
-sharing: true
 ---
 
 Design document describing an event-driven approach for offline cascading

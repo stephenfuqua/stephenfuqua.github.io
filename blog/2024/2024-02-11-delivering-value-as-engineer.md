@@ -3,7 +3,6 @@ title: Delivering Value as a Software Engineering Manager
 date: 2024-02-11
 tags:
 - programming
-sharing: true
 
 ---
 

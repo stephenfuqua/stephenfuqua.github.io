@@ -6,7 +6,6 @@ tags:
 - birds
 - inclusion
 - justice
-sharing: true
 
 ---
 

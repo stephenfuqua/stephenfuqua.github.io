@@ -4,7 +4,6 @@ date: 2021-05-08
 tags:
 - ed-fi
 - programming
-sharing: true
 ---
 
 &lsquo;Ed-Fi is open&rsquo;: thus the Ed-Fi Alliance announced its transition from a

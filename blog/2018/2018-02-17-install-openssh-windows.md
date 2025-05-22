@@ -2,7 +2,6 @@
 title: Installing OpenSSH in Windows
 date: 2018-02-17
 tags: [devops, Windows]
-sharing: true
 ---
 
 One of my very first technical blog posts was about running OpenSSH on Windows

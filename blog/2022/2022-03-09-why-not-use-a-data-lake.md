@@ -4,7 +4,6 @@ date: 2022-03-09
 tags:
 - ed-fi
 - programming
-sharing: true
 ---
 
 The Ed-Fi Tech Congress in Phoenix, of April 2018, was a sink or swim moment for

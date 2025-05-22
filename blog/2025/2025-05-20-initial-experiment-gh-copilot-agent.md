@@ -5,7 +5,6 @@ tags:
 - programming
 - architecture
 - dotnet
-sharing: true
 
 ---
 

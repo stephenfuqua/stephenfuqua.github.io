@@ -5,7 +5,6 @@ tags:
   - devops
   - tech
   - sdlc
-sharing: true
 
 ---
 

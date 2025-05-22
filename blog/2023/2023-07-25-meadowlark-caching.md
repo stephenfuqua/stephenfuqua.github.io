@@ -5,7 +5,6 @@ tags:
 - ed-fi
 - programming
 - architecture
-sharing: true
 ---
 
 Design document describing approaches and appropriateness of in-memory and
