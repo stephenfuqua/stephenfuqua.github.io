@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Recommendations: "Blinded By Science", "The Optimism of Uncertainty'
 date: 2004-11-16
-basename: recommendations_blinded_optimism
+slug: recommendations_blinded_optimism
 tags:
 - discourse
 ---

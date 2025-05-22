@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Favorite Passages from On The Origin of Species
 date: 2010-08-14
-basename: favorite_passage_from_darwin
+slug: favorite_passage_from_darwin
 tags:
 - discourse
 - nature

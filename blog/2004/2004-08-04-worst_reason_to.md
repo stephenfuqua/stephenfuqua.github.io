@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Worst Reason to Ban Gay Marriages
 date: 2004-08-04
-basename: worst_reason_to_ban_gay_marriages
+slug: worst_reason_to_ban_gay_marriages
 tags:
 - discourse
 - justice

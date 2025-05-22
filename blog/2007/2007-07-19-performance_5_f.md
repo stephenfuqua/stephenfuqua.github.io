@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Performance #5: File Buffering'
 date: '2007-07-19 18:54:22 -0500'
-basename: performance_5_f
+slug: performance_5_f
 tags:
 - tech
 - dotnet

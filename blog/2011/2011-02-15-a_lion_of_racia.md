@@ -1,8 +1,7 @@
 ---
-layout: page
 title: A Lion of Racial Reconciliation... Louis G. Gregory
 date: 2011-02-15
-basename: a_lion_of_racial_reconciliation
+slug: a_lion_of_racial_reconciliation
 tags:
 - discourse
 - religion

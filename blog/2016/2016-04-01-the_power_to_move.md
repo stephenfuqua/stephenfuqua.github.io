@@ -1,8 +1,7 @@
 ---
-layout: page
 title: The Power to Move
 date: 2016-04-01
-basename: the_power_to_move
+slug: the_power_to_move
 tags:
 - discourse
 - inclusion
@@ -33,7 +32,7 @@ then&hellip;
 Shots ring out. Our hero races to the scene, to find an acquaintance from the
 neighborhood splayed upon the ground. White police officers took him down
 because he was carrying a crow bar while trying to break into a car. A crow bar.
-And then they mercilessly beat the writer-Captain. 
+And then they mercilessly beat the writer-Captain.
 
 When the episode first aired in 1998, I expect that I saw it as an accurate
 portrayal of our recent past. Eighteen years later, I was shaken by the terrible

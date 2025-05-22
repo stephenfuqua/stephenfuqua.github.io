@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Sanitize Your Database Inputs!
 date: '2007-10-10 20:33:37 -0500'
-basename: sanitize_your_d
+slug: sanitize_your_d
 tags: [tech, database]
 excerpt_separator: <!-- truncate -->
 ---

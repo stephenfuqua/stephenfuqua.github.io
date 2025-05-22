@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Design Updates and Fresh Content
 date: '2011-10-12 22:00:39 -0500'
-basename: design_updates_and_fresh_content
+slug: design_updates_and_fresh_content
 tags:
 - tech
 - meta

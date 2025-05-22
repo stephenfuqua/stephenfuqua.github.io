@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Sam Houston Trail Park, After the Flood
 date: 2015-07-11
-basename: sam_houston_trail_park_after_the_flood
+slug: sam_houston_trail_park_after_the_flood
 tags:
 - living
 - nature

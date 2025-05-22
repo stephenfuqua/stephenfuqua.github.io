@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Request for Cosponsorship of H. Res 134 / S. Res 80 on the Baha'is of Iran
 date: 2011-06-25
-basename: request_for_cosponsorship
+slug: request_for_cosponsorship
 tags:
 - discourse
 - religion

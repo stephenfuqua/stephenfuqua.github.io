@@ -1,8 +1,7 @@
 ---
-layout: page
 title: The Cure Update
 date: 2004-07-20
-basename: the_cure_update
+slug: the_cure_update
 tags:
 - music
 ---

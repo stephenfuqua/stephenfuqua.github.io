@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Down With Comment Spam
 date: '2007-11-29 22:35:30 -0600'
-basename: down_with_comme
+slug: down_with_comme
 categories:
 - tech
 - meta

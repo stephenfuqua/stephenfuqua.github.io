@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Baha'is Embrace Sustainability in Face of Climate Change
 date: 2010-03-13
-basename: bahais_embrace_sustainability
+slug: bahais_embrace_sustainability
 tags:
 - discourse
 - climate

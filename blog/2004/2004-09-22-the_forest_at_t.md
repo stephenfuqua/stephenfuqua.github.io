@@ -1,8 +1,7 @@
 ---
-layout: page
 title: The Forest at the Intersection of Ecology and Economics
 date: 2004-09-22
-basename: the_forest_at_the_intersection_of_ecology_and_economics
+slug: the_forest_at_the_intersection_of_ecology_and_economics
 tags:
 - discourse
 - nature

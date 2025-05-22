@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Thoughts on Responsible Data Use"
 date: 2023-08-10
 comments: true

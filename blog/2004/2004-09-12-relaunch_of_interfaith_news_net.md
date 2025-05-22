@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Relaunch of InterfaithNews.Net
 date: 2004-09-12
-basename: relaunch_of_interfaith_news_net
+slug: relaunch_of_interfaith_news_net
 tags:
 - religion
 ---

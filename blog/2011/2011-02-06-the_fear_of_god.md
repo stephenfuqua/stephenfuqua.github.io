@@ -1,8 +1,7 @@
 ---
-layout: page
 title: The Fear of God
 date: 2011-02-06
-basename: the_fear_of_god
+slug: the_fear_of_god
 tags:
 - discourse
 - religion

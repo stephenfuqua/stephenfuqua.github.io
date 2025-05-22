@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Desperately Seeking Action on DFW Smog
 date: 2016-01-25
-basename: desperately_seeking_action_on_dfw_smog
+slug: desperately_seeking_action_on_dfw_smog
 tags:
 - discourse
 - nature

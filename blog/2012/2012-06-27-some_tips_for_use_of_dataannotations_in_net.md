@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Some Tips for Use of DataAnnotations in .Net
 date: '2012-06-27 20:14:22 -0500'
-basename: some_tips_for_use_of_dataannotations_in_net
+slug: some_tips_for_use_of_dataannotations_in_net
 tags:
 - tech
 - programming

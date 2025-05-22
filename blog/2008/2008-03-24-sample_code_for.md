@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Sample Code for Using the XML Datatype in SQL Server 2005
 date: '2008-03-24 16:27:48 -0500'
-basename: sample_code_for
+slug: sample_code_for
 tags:
 - tech
 - database

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Entity Framework Connection Strings
 date: '2012-03-11 11:47:47 -0500'
-basename: entity_framework_connection_strings
+slug: entity_framework_connection_strings
 tags:
 - tech
 - programming

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Fracking: a Great Distraction from Renewables and Conservation'
 date: 2012-11-11
-basename: fracking_a_great_distraction_from_renewables_and_conservation
+slug: fracking_a_great_distraction_from_renewables_and_conservation
 tags:
 - discourse
 - climate

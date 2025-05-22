@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Thou and Thee in Sacred Literature
 date: 2010-12-26
-basename: thou_and_thee_in_sacred_literature
+slug: thou_and_thee_in_sacred_literature
 tags:
 - books
 - religion

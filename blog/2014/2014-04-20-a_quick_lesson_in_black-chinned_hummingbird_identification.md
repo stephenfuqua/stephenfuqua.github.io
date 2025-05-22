@@ -1,8 +1,7 @@
 ---
-layout: page
 title: A Quick Lesson in Black-Chinned Hummingbird Identification
 date: 2014-04-20
-basename: a_quick_lesson_in_black-chinned_hummingbird_identification
+slug: a_quick_lesson_in_black-chinned_hummingbird_identification
 tags:
 - birds
 - nature

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Hastening the Collapse
 date: 2013-08-12
-basename: hastening_the_collapse
+slug: hastening_the_collapse
 tags:
 - discourse
 - religion

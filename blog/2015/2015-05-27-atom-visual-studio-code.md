@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Atom and Visual Studio Code, JavaScript Perspective
 date: 2015-05-27
-basename: atom_and_visual_studio_code
+slug: atom_and_visual_studio_code
 comments: true
 tags: [tools]
 ---

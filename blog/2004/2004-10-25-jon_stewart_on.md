@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Jon Stewart on Crossfire
 date: 2004-10-25
-basename: jon_stewart_on_crossfire
+slug: jon_stewart_on_crossfire
 tags:
 - discourse
 ---

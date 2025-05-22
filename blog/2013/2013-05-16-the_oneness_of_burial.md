@@ -1,8 +1,7 @@
 ---
-layout: page
 title: The Oneness of Burial
 date: 2013-05-16
-basename: the_oneness_of_burial
+slug: the_oneness_of_burial
 tags:
 - discourse
 - religion

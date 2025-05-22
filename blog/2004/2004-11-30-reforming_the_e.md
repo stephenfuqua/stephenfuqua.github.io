@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Reforming the Environmental Movement
 date: 2004-11-30
-basename: reforming_the_environmental_movement
+slug: reforming_the_environmental_movement
 tags:
 - discourse
 - nature

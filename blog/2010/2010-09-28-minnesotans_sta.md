@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Minnesotans Standing Together - prayer service
 date: 2010-09-28
-basename: minnesotans_standing_together
+slug: minnesotans_standing_together
 ---
 
 "O people! Consort with the followers of all religions in a spirit of

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Diagnosing an Obnoxious Reporting Timeout Problem
 date: '2008-12-24 22:10:58 -0600'
-basename: diagnosing_an_o
+slug: diagnosing_an_o
 tags:
 - tech
 - dotnet

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Baha''i Pilgrimage, pt 4: The Monument Gardens'
 date: 2010-12-23
-basename: bahai_pilgrimage_3
+slug: bahai_pilgrimage_3
 tags:
 - living
 - religion

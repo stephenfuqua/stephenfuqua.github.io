@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Never Say Goodbye... Without Recycling
 date: 2010-07-02
-basename: never_say_goodbye_without_recycling
+slug: never_say_goodbye_without_recycling
 ---
 
 I've been a recycling fool since I was in elementary school, when my best friend

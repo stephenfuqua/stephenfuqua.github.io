@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Moving to GitHub Pages
 date: 2018-02-03
 comments: true

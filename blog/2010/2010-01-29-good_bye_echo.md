@@ -1,11 +1,10 @@
 ---
-layout: page
 title: Good bye, Echo
 date: 2010-01-29
-basename: good_bye_echo
+slug: good_bye_echo
 ---
 
-No television show in recent memory has been so thought-provoking and forward-looking, 
+No television show in recent memory has been so thought-provoking and forward-looking,
 in a real-Earth-future sense, as The Dollhouse. At times it waxed smarmy &mdash;
 but the point was more than just titillation, it was classic sci-fi exploration
 of what might happen when technological innovation and amorality come face to

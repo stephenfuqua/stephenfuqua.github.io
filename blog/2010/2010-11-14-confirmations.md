@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Confirmations
 date: 2010-11-14
-basename: confirmations
+slug: confirmations
 tags:
 - discourse
 - religion

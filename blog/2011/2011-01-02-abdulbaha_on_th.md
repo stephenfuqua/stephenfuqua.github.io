@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "'Abdu'l-Baha on the Fallibility of Human Conceptions of God"
 date: 2011-01-02
-basename: abdulbaha_on_the_fallibility_human_conception_of_god
+slug: abdulbaha_on_the_fallibility_human_conception_of_god
 tags:
 - discourse
 - religion

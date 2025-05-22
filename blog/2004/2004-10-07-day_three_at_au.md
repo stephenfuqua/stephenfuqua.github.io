@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Day Three at Augeo Affinity Marketing
 date: 2004-10-07
-basename: day_three_at_augeo_affinity_marketing
+slug: day_three_at_augeo_affinity_marketing
 tags:
 - living
 ---

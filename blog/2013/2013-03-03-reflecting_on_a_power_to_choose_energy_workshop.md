@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Reflecting on a "Power to Choose" Energy Workshop
 date: 2013-03-03
-basename: reflecting_on_a_power_to_choose_energy_workshop
+slug: reflecting_on_a_power_to_choose_energy_workshop
 tags:
 - discourse
 - climate

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: MLK Day Reading and Window Bird Watching
 date: 2021-01-18
 comments: true

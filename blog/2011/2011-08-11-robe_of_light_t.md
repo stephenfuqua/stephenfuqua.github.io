@@ -1,9 +1,8 @@
 ---
-layout: page
 title: 'Robe of Light: The Persian Years of Supreme Prophet, Baha''u''lllah, by David
   Ruhe'
 date: 2011-08-11
-basename: robe_of_light_book_review
+slug: robe_of_light_book_review
 tags:
 - books
 - religion

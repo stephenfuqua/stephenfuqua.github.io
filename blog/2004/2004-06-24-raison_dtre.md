@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Raison D'etre
 date: 2004-06-24
-basename: raison_detre
+slug: raison_detre
 tags:
 - meta
 ---

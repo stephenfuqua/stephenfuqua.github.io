@@ -1,15 +1,14 @@
 ---
-layout: page
 title: 'Op-Ed: Preserve Local Parks Grants'
 date: 2013-03-17
-basename: op-ed_preserve_local_parks_grants
+slug: op-ed_preserve_local_parks_grants
 tags:
 - discourse
 - nature
 ---
 
 _Submitted to the Dallas Morning News today...._
-  
+
 Funding for Local Parks Grants needs to join the State Parks program in
 receiving strong support in this year's budget. While the State Parks have
 received a positive boost through a recommendation of additional funding to

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Memorialization of InterfaithNews.Net
 date: 2022-01-01
 comments: true

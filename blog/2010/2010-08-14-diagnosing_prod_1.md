@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Diagnosing Production Problems: Zeroth Law'
 date: '2010-08-14 10:26:07 -0500'
-basename: diagnosing_prod_1
+slug: diagnosing_prod_1
 tags:
 - tech
 - sdlc

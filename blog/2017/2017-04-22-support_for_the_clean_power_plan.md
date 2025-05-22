@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Support for the Clean Power Plan
 date: 2017-04-22
-basename: support_for_the_clean_power_plan
+slug: support_for_the_clean_power_plan
 tags:
 - discourse
 - climate

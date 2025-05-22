@@ -1,8 +1,7 @@
 ---
-layout: page
 title: A Green Future for Valley Ranch?
 date: 2014-02-08
-basename: a_green_future_for_valley_ranch
+slug: a_green_future_for_valley_ranch
 tags:
 - living
 - nature

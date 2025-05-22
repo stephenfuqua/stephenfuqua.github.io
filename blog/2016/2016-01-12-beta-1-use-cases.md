@@ -1,9 +1,8 @@
 ---
-layout: page
 title: FlightNode Beta 1 Uses Cases
 date: 2016-01-12
 comments: true
-basename: flightnode_beta_1_uses_cases
+slug: flightnode_beta_1_uses_cases
 tags:
 - tech
 - programming

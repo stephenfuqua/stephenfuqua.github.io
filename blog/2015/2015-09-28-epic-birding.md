@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "An Epic Morning of Birding"
 date: 2015-09-28
-basename: epic_morning_of_birding
+slug: epic_morning_of_birding
 comments: true
 tags: [FlightNode]
 ---

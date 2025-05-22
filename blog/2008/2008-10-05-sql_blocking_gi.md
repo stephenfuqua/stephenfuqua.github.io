@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "(SQL) Blocking Giving You the Blues?"
 date: '2008-10-05 22:02:03 -0500'
-basename: sql_blocking_gi
+slug: sql_blocking_gi
 tags:
 - tech
 - database

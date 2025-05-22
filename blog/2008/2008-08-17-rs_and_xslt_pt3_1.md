@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'RS and XSLT, pt3.2: Using XSLT for Custom Reporting Services Output'
 date: '2008-08-17 21:40:36 -0500'
-basename: rs_and_xslt_pt3_1
+slug: rs_and_xslt_pt3_1
 tags:
 - tech
 - database

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Call for Greater Oversight of Governmental Science Policy
 date: 2004-12-08
-basename: call_for_greater_oversight_governmental_science_policy
+slug: call_for_greater_oversight_governmental_science_policy
 tags:
 - discourse
 - nature

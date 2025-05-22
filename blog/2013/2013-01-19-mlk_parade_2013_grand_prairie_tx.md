@@ -1,8 +1,7 @@
 ---
-layout: page
 title: MLK Parade 2013, Grand Prairie, TX
 date: 2013-01-19
-basename: mlk_parade_2013_grand_prairie_tx
+slug: mlk_parade_2013_grand_prairie_tx
 tags:
 - discourse
 - religion

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Automatic Properties in C# 3.0
 date: '2009-04-02 22:39:43 -0500'
-basename: automatic_prope
+slug: automatic_prope
 tags:
 - tech
 - dotnet

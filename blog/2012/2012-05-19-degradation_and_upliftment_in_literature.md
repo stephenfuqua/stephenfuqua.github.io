@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Degradation and Upliftment in Literature
 date: 2012-05-19
-basename: degradation_and_upliftment_in_literature
+slug: degradation_and_upliftment_in_literature
 tags:
 - discourse
 - books

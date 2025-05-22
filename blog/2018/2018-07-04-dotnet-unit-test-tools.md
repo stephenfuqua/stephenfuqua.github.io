@@ -1,5 +1,4 @@
 ---
-layout: page
 title: .NET Unit Test Tooling in 2018
 date: 2018-07-04
 comments: true

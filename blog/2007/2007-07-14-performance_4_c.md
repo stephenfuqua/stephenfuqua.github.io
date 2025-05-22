@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Performance #4: Consolidate Object Creation from Database'
 date: '2007-07-14 15:01:21 -0500'
-basename: performance_4_c
+slug: performance_4_c
 tags: [tech, dotnet, performance]
 excerpt_separator: <!-- truncate -->
 ---

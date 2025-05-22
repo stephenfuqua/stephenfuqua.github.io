@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Template Inheritance with TeamCity Kotlin
 date: 2020-08-08
 comments: true

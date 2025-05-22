@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Who Deserves Human Rights?
 date: 2004-12-21
-basename: who_deserves_human_rights
+slug: who_deserves_human_rights
 tags:
 - discourse
 - justice

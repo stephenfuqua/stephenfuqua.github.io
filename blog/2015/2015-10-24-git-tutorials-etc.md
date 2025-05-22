@@ -1,9 +1,8 @@
 ---
-layout: page
 title: Git Tutorials, Workflow, and GUI
 date: 2015-10-24
 comments: true
-basename: git_tutorials_workflow_gui
+slug: git_tutorials_workflow_gui
 tags:
 - tech
 - sdlc

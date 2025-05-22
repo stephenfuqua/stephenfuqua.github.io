@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Mississippi River Bird Monitoring - Statistics Now Posted!
 date: 2010-06-09
-basename: mississippi_river_bird_monitoring
+slug: mississippi_river_bird_monitoring
 ---
 
 I've just uploaded some statistics for the [Mississippi River Twin

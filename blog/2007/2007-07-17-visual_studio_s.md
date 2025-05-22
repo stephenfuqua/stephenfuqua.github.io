@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Visual Studio Says: "Failed to create component"'
 date: '2007-07-17 20:27:07 -0500'
-basename: visual_studio_s
+slug: visual_studio_s
 tags: [tech, dotnet]
 excerpt_separator: <!-- truncate -->
 ---

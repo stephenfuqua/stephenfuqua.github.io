@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Reflecting on the Life of the Spirit in Spanish
 date: 2010-02-21
-basename: reflecting_on_the_life_of_the_spirit_spanish
+slug: reflecting_on_the_life_of_the_spirit_spanish
 ---
 
 A while back I received an e-mail: a Spanish-speaker in my area had called

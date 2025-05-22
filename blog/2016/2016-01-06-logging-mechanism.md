@@ -1,9 +1,8 @@
 ---
-layout: page
 title: FlightNode Logging Mechanism
 date: 2016-01-06
 comments: true
-basename: flightnode_logging_mechanism
+slug: flightnode_logging_mechanism
 tags:
 - tech
 - programming

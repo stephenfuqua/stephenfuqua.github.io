@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Project Meadowlark: Connection String Tuning with MongoDB"
 date: 2023-08-07
 comments: true

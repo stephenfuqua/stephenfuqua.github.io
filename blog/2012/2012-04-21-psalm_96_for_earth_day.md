@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Psalm 96 for Earth Day
 date: 2012-04-21
-basename: psalm_96_for_earth_day
+slug: psalm_96_for_earth_day
 tags:
 - discourse
 - nature

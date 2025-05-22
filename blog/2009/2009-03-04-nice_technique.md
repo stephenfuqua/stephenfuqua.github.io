@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Nice technique for modifying a subset of a List<T>
 date: '2009-03-04 16:27:00 -0600'
-basename: nice_technique
+slug: nice_technique
 tags:
 - tech
 - programming

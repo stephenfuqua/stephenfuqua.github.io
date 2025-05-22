@@ -1,8 +1,7 @@
 ---
-layout: page
 title: What about uint?
 date: '2010-08-18 20:38:01 -0500'
-basename: what_about_uint
+slug: what_about_uint
 tags:
 - tech
 - dotnet

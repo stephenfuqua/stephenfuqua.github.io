@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Darfur Is Calling, Who's Answering? And Don't Forget Pakistan.
 date: 2010-08-05
-basename: darfur_is_calling
+slug: darfur_is_calling
 tags:
 - discourse
 - justice

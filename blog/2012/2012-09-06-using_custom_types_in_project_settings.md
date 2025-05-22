@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Using Custom Types in Project Settings
 date: '2012-09-06 20:57:04 -0500'
-basename: using_custom_types_in_project_settings
+slug: using_custom_types_in_project_settings
 tags:
 - tech
 - programming

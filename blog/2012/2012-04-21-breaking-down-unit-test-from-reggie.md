@@ -1,5 +1,4 @@
 ---
-layout: page
 title: 'Breaking Down a Unit Test from "Reggie" That Uses MoQ'
 date: 2012-04-21
 comments: true

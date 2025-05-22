@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Conservation of Water in Islam
 date: 2004-11-01
-basename: conservation_of_water_in_islam
+slug: conservation_of_water_in_islam
 tags:
 - discourse
 - religion

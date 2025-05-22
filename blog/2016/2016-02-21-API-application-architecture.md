@@ -1,5 +1,4 @@
 ---
-layout: page
 title: FlightNode API Application Architecture
 date: 2016-02-21
 comments: true

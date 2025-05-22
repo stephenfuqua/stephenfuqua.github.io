@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Bird List - Inner Shore of Padre Island
 date: 2010-03-20
-basename: bird_list_inner_shore_Padre_island
+slug: bird_list_inner_shore_Padre_island
 tags:
 - birds
 ---

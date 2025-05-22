@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Worst Defeat Ever
 date: 2004-11-22
-basename: worst_defeat_ever
+slug: worst_defeat_ever
 tags:
 - living
 ---

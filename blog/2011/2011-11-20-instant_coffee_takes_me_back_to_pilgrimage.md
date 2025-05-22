@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Instant Coffee Takes Me Back to Pilgrimage
 date: 2011-11-20
-basename: instant_coffee_takes_me_back_to_pilgrimage
+slug: instant_coffee_takes_me_back_to_pilgrimage
 tags:
 - living
 - religion

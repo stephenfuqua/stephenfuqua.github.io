@@ -1,9 +1,8 @@
 ---
-layout: page
 title: It Was All About the Networking at IPL and Physicians for Social Responsibility
   Event
 date: 2014-02-01
-basename: it_was_all_about_the_networking_at_ipl_and_physicians_for_social_responsibility_event
+slug: it_was_all_about_the_networking_at_ipl_and_physicians_for_social_responsibility_event
 tags:
 - discourse
 - climate

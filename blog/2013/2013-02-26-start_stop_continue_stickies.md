@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Start Stop Continue Stickies
 date: '2013-02-26 20:42:23 -0600'
-basename: start_stop_continue_stickies
+slug: start_stop_continue_stickies
 tags:
 - tech
 - sdlc

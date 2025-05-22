@@ -1,8 +1,7 @@
 ---
-layout: page
 title: In Celebration of Laudato Si
 date: 2015-06-21
-basename: celebration_laudato_si
+slug: celebration_laudato_si
 tags:
 - discourse
 - climate

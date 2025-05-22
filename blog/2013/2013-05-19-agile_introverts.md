@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Agile Introverts
 date: '2013-05-19 21:48:15 -0500'
-basename: agile_introverts
+slug: agile_introverts
 tags:
 - tech
 - sdlc

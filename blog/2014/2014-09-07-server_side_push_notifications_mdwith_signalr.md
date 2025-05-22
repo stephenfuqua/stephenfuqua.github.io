@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Server Side Push Notifications With SignalR
 date: '2014-09-07'
-basename: server_side_push_notifications_with_signalr
+slug: server_side_push_notifications_with_signalr
 tags:
 - tech
 - programming

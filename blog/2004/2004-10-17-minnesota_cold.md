@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Minnesota Cold
 date: 2004-10-17
-basename: minnesota_cold
+slug: minnesota_cold
 tags:
 - general
 ---

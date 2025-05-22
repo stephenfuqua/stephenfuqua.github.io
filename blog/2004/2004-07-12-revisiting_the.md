@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Revisiting the Defense of Marriage
 date: 2004-07-12
-basename: revisiting_the_defense_of_marriage
+slug: revisiting_the_defense_of_marriage
 tags:
 - discourse
 - justice

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Summertime Goals: Building Relationships and Developing a Vision'
 date: 2014-05-25
-basename: summertime_goals_building_relationships_and_developing_a_vision
+slug: summertime_goals_building_relationships_and_developing_a_vision
 tags:
 - religion
 - discourse

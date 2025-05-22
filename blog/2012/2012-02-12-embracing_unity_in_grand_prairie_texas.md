@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Embracing Unity, in Grand Prairie, Texas
 date: 2012-02-12
-basename: embracing_unity_in_grand_prairie_texas
+slug: embracing_unity_in_grand_prairie_texas
 tags:
 - discourse
 - inclusion

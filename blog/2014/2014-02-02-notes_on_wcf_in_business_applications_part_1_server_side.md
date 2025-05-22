@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Notes on WCF in Business Applications, Part 1: Server Side'
 date: '2014-02-02'
-basename: notes_on_wcf_in_business_applications_part_1_server_side
+slug: notes_on_wcf_in_business_applications_part_1_server_side
 tags:
 - tech
 - programming

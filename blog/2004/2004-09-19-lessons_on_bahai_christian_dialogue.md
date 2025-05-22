@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Lessons on Baha'i-Christian Dialogue from a Muslim
 date: 2004-09-19
-basename: lessons_on_bahai_christian_dialogue
+slug: lessons_on_bahai_christian_dialogue
 tags:
 - religion
 - Bahai

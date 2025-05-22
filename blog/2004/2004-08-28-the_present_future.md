@@ -1,8 +1,7 @@
 ---
-layout: page
 title: The Present Future
 date: 2004-08-28
-basename: the_present_future
+slug: the_present_future
 tags:
 - discourse
 - tech

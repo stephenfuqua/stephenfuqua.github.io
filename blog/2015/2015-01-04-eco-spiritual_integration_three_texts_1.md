@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Eco-spiritual Integration: Three Texts'
 date: 2015-01-04
-basename: eco-spiritual_integration_three_texts_1
+slug: eco-spiritual_integration_three_texts_1
 tags:
 - religion
 - discourse

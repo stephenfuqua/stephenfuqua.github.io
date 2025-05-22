@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Readings in Evolution and Religious History
 date: 2010-01-15
-basename: readings_in_evolution_and_religious_history
+slug: readings_in_evolution_and_religious_history
 tags:
 - books
 - religion

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Bah&aacute;'&iacute;­ Devotional Program on Humanity's Relationship with Nature
 date: 2013-04-10
-basename: bah_devotional_program_on_humanitys_relationship_with_nature
+slug: bah_devotional_program_on_humanitys_relationship_with_nature
 tags:
 - discourse
 - religion

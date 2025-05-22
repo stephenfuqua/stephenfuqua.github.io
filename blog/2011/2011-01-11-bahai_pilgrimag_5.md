@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Baha''i Pilgrimage, pt 6: Ridvan Garden'
 date: 2011-01-11
-basename: bahai_pilgrimage_5
+slug: bahai_pilgrimage_5
 tags:
 - living
 - religion

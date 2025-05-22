@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Exploring Next Generation Technologies with Project Meadowlark"
 date: 2022-06-03
 comments: true

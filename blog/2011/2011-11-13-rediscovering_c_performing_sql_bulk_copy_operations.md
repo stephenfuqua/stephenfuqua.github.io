@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Rediscovering C++  / Performing SQL Bulk Copy Operations
 date: '2011-11-13 13:53:58 -0600'
-basename: rediscovering_c_performing_sql_bulk_copy_operations
+slug: rediscovering_c_performing_sql_bulk_copy_operations
 tags:
 - tech
 - programming

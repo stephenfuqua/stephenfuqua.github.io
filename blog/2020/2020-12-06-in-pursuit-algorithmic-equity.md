@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "In Pursuit of Data and Algorithmic Equity"
 date: 2020-12-06
 comments: true

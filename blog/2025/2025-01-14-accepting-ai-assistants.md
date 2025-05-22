@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Grudgingly Accepting AI Coding Assistants
 date: 2025-01-14
 excerpt_separator: <!-- truncate -->

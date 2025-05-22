@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Studying Source Code
 date: '2015-01-29'
-basename: studying_source_code
+slug: studying_source_code
 tags:
 - tech
 - programming

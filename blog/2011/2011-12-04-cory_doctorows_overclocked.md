@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Cory Doctorow's Overclocked
 date: 2011-12-04
-basename: cory_doctorows_overclocked
+slug: cory_doctorows_overclocked
 tags:
 - books
 ---

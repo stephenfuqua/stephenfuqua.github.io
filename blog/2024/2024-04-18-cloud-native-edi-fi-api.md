@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Project Tanager, the next generation of Ed-Fi API software
 date: 2024-04-18
 comments: true

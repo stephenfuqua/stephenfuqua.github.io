@@ -1,8 +1,7 @@
 ---
-layout: page
 title: SSIS Crashes When Editing OLE DB Source
 date: '2009-09-23 09:49:26 -0500'
-basename: ssis_crashes_wh
+slug: ssis_crashes_wh
 tags:
 - tech
 - database

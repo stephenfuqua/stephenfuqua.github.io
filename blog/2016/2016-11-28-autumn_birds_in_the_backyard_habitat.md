@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Autumn Birds in the Backyard Habitat
 date: 2016-11-28
-basename: autumn_birds_in_the_backyard_habitat
+slug: autumn_birds_in_the_backyard_habitat
 tags:
 - nature
 - living
@@ -27,7 +26,7 @@ water, food, shelter. While native plants provide the most diverse and
 beneficial habitats, some non-natives can also play a meaningful role in our
 backyard habitats. For a few years I dismissed the non-native crapemyrtle as
 showy but useless. That is, until I saw Gold Finches eating their seeds in the
-front yard last year. 
+front yard last year.
 
 In this photo, notice that clump of leaves next to the bird. You can kind of
 tell that there are webs there. Many people would find the web unsightly. But to

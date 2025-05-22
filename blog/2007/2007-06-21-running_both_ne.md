@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Running Both .Net 1.1 and 2.0 in Windows 2003 Server 64 Bit Edition
 date: '2007-06-21 19:59:42 -0500'
-basename: running_both_ne
+slug: running_both_ne
 tags: [tech, dotnet]
 excerpt_separator: <!-- truncate -->
 ---

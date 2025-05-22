@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Evaluating SOA for Enterprise Architecture
 date: '2008-09-10 19:40:02 -0500'
-basename: evaluating_soa
+slug: evaluating_soa
 tags:
 - tech
 - architecture

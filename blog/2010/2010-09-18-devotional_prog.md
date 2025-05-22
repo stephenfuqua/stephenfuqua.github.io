@@ -1,8 +1,7 @@
 ---
-layout: page
 title: 'Devotional Program: Creating Material Balance'
 date: 2010-09-18
-basename: devotional_program_creating_material_balance
+slug: devotional_program_creating_material_balance
 tags:
 - discourse
 - religion

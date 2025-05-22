@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Protecting Against SQL Injection in Dynamic SQL Statements
 date: '2011-02-26 11:42:16 -0600'
-basename: protecting_agai
+slug: protecting_agai
 tags:
 - tech
 - database
@@ -10,9 +9,8 @@ tags:
 excerpt_separator: <!-- truncate -->
 ---
 
-Microsoft's Books Online article on <a href=
-"http://msdn.microsoft.com/en-us/library/ms161953%28v=SQL.90%29.aspx"> SQL
-Injection</a> does a great job of reviewing the possible attacks against dynamic
+Microsoft's Books Online article on [SQL
+Injection](http://msdn.microsoft.com/en-us/library/ms161953%28v=SQL.90%29.aspx) does a great job of reviewing the possible attacks against dynamic
 SQL statements (using `EXEC` or `sp_executesql`). I won't re-hash their discussion
 and suggestions. What I offer below is a sample remediation effort for this set
 of statements (the `@Fields` and `@Values` variables are actually stored procedure

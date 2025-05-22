@@ -1,5 +1,4 @@
 ---
-layout: page
 title: The Analytics Middle Tier Grows Up
 date: 2020-02-14
 comments: true

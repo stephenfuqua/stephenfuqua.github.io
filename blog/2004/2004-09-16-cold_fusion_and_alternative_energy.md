@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Cold Fusion and Alternative Energy
 date: 2004-09-16
-basename: cold_fusion_and_alternative_energy
+slug: cold_fusion_and_alternative_energy
 tags:
 - tech
 ---

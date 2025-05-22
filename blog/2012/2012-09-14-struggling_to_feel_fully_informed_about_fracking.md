@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Struggling to feel fully informed about fracking
 date: 2012-09-14
-basename: struggling_to_feel_fully_informed_about_fracking
+slug: struggling_to_feel_fully_informed_about_fracking
 tags:
 - discourse
 - climate

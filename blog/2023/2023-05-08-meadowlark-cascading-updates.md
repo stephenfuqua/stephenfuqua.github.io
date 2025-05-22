@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Project Meadowlark: Design for Offline Cascading Updates"
 date: 2023-08-07
 comments: true

@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Notes on Configuring CruiseControl.Net
 date: '2011-12-17 22:50:23 -0600'
-basename: notes_on_configuring_cruisecontrolnet
+slug: notes_on_configuring_cruisecontrolnet
 tags:
 - tech
 - dotnet
