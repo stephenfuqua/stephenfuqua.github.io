@@ -17,15 +17,11 @@ the following topics from an multi-faith perspective:
 
 ![screen grab of presentation cover slide](/images/faithfulCallToAct.png){: .float-right}
 
-<ul>
-<li>Highlight key themes in religious responses to climate change:
-<ul>
-<li>Love of Creation</li>
-<li>Urgency</li>
-<li>Love and Compassion</li>
-<li>Justice</li>
-<li>Oneness and Interdependence</li>
-</ul>
+* Highlight key themes in religious responses to climate change: <ul> <li>Love of Creation
+* Urgency
+* Love and Compassion
+* Justice
+* Oneness and Interdependence
 </li>
 <li>Call to Action &mdash; statements and declarations</li>
 <li>Prevention</li>

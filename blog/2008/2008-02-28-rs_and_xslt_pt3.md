@@ -24,11 +24,9 @@ can use CSV export, but:
 
 <!-- truncate -->
 
-<ul>
-<li>that restricts the user to commas rather than pipes (or other characters),</li>
-<li>column headers are always included in the output</li>
-<li>any text in a textbox above (i.e. header text) or below (i.e. trailer text) a main table will be added at the beginning and ending of each detail record.</li>
-</ul>
+* that restricts the user to commas rather than pipes (or other characters),
+* column headers are always included in the output
+* any text in a textbox above (i.e. header text) or below (i.e. trailer text) a main table will be added at the beginning and ending of each detail record.
 
 **Solution:** Use XML export coupled with XML stylesheet transformations to
 develop a custom export provider.

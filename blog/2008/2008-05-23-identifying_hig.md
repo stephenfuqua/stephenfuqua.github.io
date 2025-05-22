@@ -30,15 +30,8 @@ slowing things down. Is there a way to pre-emptively find and fix these?
 **Solution:** SQL Server MVP Lara Rubbelke has addressed procedures for
 scheduling index de-fragmentation in a few places:
 
-<ul>
-  <li><a href=
-  "http://sqlblog.com/blogs/lara_rubbelke/archive/2007/07/30/smart-index-defragmentation-for-an-online-world.aspx">
-  Smart Index Defragmentation for an ONLINE World</a></li>
-  <li><a href=
-  "http://blogs.digineer.com/blogs/larar/archive/2006/08/16/smart-index-defrag-reindex-for-a-consolidated-sql-server-2005-environment.aspx">
-  Smart Index Defrag/Reindex for a Consolidated SQL Server 2005
-  Environment</a></li>
-</ul>
+* <a href= "http://sqlblog.com/blogs/lara_rubbelke/archive/2007/07/30/smart-index-defragmentation-for-an-online-world.aspx"> Smart Index Defragmentation for an ONLINE World</a>
+* <a href= "http://blogs.digineer.com/blogs/larar/archive/2006/08/16/smart-index-defrag-reindex-for-a-consolidated-sql-server-2005-environment.aspx"> Smart Index Defrag/Reindex for a Consolidated SQL Server 2005 Environment</a>
 
 These solutions are great for automation. But when you're crunched for time,
 implementing and testing automatic solutions might be too much to handle. It

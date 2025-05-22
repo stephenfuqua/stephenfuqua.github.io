@@ -17,18 +17,14 @@ it was dropping every few seconds. Here's how I fixed it.
 
 ## Relevant System Parameters
 
-<ul>
-<li>Red Hat Linux 9</li>
-<li>tulip and rt1839 chips in two network cards (for masquerading, of course)</li>
-<li>SBC Yahoo! DSL</li>
-</ul>
+* Red Hat Linux 9
+* tulip and rt1839 chips in two network cards (for masquerading, of course)
+* SBC Yahoo! DSL
 
 ## Symptoms
 
-<ul>
-<li>dropping carrier every few seconds</li>
-<li>can't see the internal network (ping can't find the computer), even with all ip filtering turned off</li>
-</ul>
+* dropping carrier every few seconds
+* can't see the internal network (ping can't find the computer), even with all ip filtering turned off
 
 ## Hardware
 

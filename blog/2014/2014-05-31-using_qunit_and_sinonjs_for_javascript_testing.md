@@ -168,7 +168,5 @@ QUnit and Require.js to build modular unit tests](http://www.nathandavison.com/a
 and SinonJS documentation linked above, I want to give a shout-out to these
 articles:
 
-<ul>
-    <li>[Unit Test Like a Secret Agent with Sinon JS](http://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/)</li>
-    <li>[Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step](http://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx)</li>
-</ul>
+* [Unit Test Like a Secret Agent with Sinon JS](http://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/)
+* [Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step](http://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx)

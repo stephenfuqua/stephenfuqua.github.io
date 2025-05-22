@@ -24,12 +24,8 @@ First, to maximize the benefit of unit testing, let's make a clear (and
 industry standard) delineation between _unit_ and _integration_
 testing:
 
-<ul>
-	<li>**Unit test** are in isolation from external resources,
-	e.g. files, databases, web services; in SQL, it might be isolation from
-	foreign keys.</li>
-	<li>**Integration tests** utilize these resources.</li>
-</ul>
+* **Unit test** are in isolation from external resources, e.g. files, databases, web services; in SQL, it might be isolation from foreign keys.
+* **Integration tests** utilize these resources.
 
 One benefit of this distinction is that external resources may cause errors that
 have nothing to do with your code, which therefore would be false alarms.

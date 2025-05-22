@@ -36,13 +36,11 @@ Respecting proprietary business matters, let&rsquo;s say&hellip;
 Automation can help with all of these factors, and more. Having come to that
 conclusion, what are the goals for this project?
 
-<ul>
-<li>Time is still hard-to-come by, so as with any agile project, build only what is needed right now and then start using it. This argues against a fancy UI for now, and in favor of simple test scripts.</li>
-<li>Build components for auto-loading configuration and business data, as needed, into the database. These components should themselves be well-tested, and do not need to be created in the language used for the test scripts.</li>
-<li>Provide a simple and familiar mechanism for saving that configuration data, e.g. csv via Excel.</li>
-<li>These are "business-facing" tests, and they should be readable, with minimal training, by business users and non-programming testers. This argues for creation of a [domain-specific language](http://en.wikipedia.org/wiki/Domain-specific_language), use of a scripting language that that does not stand on ceremony, and possibly introduction of [Behavior Driven Development](http://behaviour-driven.org/) (BDD) tools.</li>
-<li>Maintain all scripts in source control.</li>
-</ul>
+* Time is still hard-to-come by, so as with any agile project, build only what is needed right now and then start using it. This argues against a fancy UI for now, and in favor of simple test scripts.
+* Build components for auto-loading configuration and business data, as needed, into the database. These components should themselves be well-tested, and do not need to be created in the language used for the test scripts.
+* Provide a simple and familiar mechanism for saving that configuration data, e.g. csv via Excel.
+* These are "business-facing" tests, and they should be readable, with minimal training, by business users and non-programming testers. This argues for creation of a [domain-specific language](http://en.wikipedia.org/wiki/Domain-specific_language), use of a scripting language that that does not stand on ceremony, and possibly introduction of [Behavior Driven Development](http://behaviour-driven.org/) (BDD) tools.
+* Maintain all scripts in source control.
 
 These goals rule out the normal .Net languages. A dynamic scripting language is
 more appropriate. From the many out there, Ruby seems to be the most obvious

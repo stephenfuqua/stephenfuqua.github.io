@@ -56,19 +56,14 @@ of this great republic toward the full realization of its glorious destiny"
 ***
 
 <a name="1">*</a> Resources dealing with climate and pollution impacts on health and justice:
-<ul>
-<li>[Here's how environmental justice advocates improved Obama's Clean Power Plan](http://grist.org/climate-energy/heres-how-environmental-justice-advocates-improved-obamas-clean-power-plan/), by Jalonne L. White-Newsome in Grist (Aug 2015).</li>
-<li>[Program for Environmental and Regional Equity](http://dornsife.usc.edu/pere/publications/) at the University of Southern California.</li>
-<li>[Human Health](nca2014.globalchange.gov/report/sectors/human-health), chapter from the National Climate Assessment (2014)</li>
-<li>[The Impact of Climate Change on Minorities and Indigenous Peoples](http://www.ohchr.org/Documents/Issues/ClimateChange/Submissions/Minority_Rights_Group_International.pdf), research from the Minority Rights Group Internatioanl (2008).</li>
-<li>
-[Asthma and African Americans](http://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=15), data collated by the Office of Minority Health. Cites tobacco specifically, but not pollution, as a driver of asthma.</li>
-<li>[Children's Environmental Health Disparities: Black and African American Children and Asthma](http://www.epa.gov/epahome/sciencenb/asthma/HD_AA_Asthma.pdf), fact sheet from the Environmental Protection Agency, directly connecting ozone and other pollutants to asthma. These pollutants are corollary byproducts of the fossil fuel burning that is a significant driver of climate change.</li>
-</ul>
+* [Here's how environmental justice advocates improved Obama's Clean Power Plan](http://grist.org/climate-energy/heres-how-environmental-justice-advocates-improved-obamas-clean-power-plan/), by Jalonne L. White-Newsome in Grist (Aug 2015).
+* [Program for Environmental and Regional Equity](http://dornsife.usc.edu/pere/publications/) at the University of Southern California.
+* [Human Health](nca2014.globalchange.gov/report/sectors/human-health), chapter from the National Climate Assessment (2014)
+* [The Impact of Climate Change on Minorities and Indigenous Peoples](http://www.ohchr.org/Documents/Issues/ClimateChange/Submissions/Minority_Rights_Group_International.pdf), research from the Minority Rights Group Internatioanl (2008).
+* [Asthma and African Americans](http://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&lvlid=15), data collated by the Office of Minority Health. Cites tobacco specifically, but not pollution, as a driver of asthma.
+* [Children's Environmental Health Disparities: Black and African American Children and Asthma](http://www.epa.gov/epahome/sciencenb/asthma/HD_AA_Asthma.pdf), fact sheet from the Environmental Protection Agency, directly connecting ozone and other pollutants to asthma. These pollutants are corollary byproducts of the fossil fuel burning that is a significant driver of climate change.
 
 <a name="2">**</a> A few examples:
-<ul>
-<li>[Black Lives Matter has showed us: the oppression of black people is borderless](http://www.theguardian.com/commentisfree/2015/aug/09/black-lives-matter-movement-taught-black-oppression-borderless-michael-brown), by Steven W. Thrasher (Aug 2015).</li>
-<li>[#BlackLivesMatter: the birth of a new civil rights movement](http://www.theguardian.com/world/2015/jul/19/blacklivesmatter-birth-civil-rights-movement), by Elizabeth Day (July 2015).</li>
-<li>[The Counted](http://www.theguardian.com/us-news/series/counted-us-police-killings), a series addressing "people killed by police in the US".</li>
-</ul>
+* [Black Lives Matter has showed us: the oppression of black people is borderless](http://www.theguardian.com/commentisfree/2015/aug/09/black-lives-matter-movement-taught-black-oppression-borderless-michael-brown), by Steven W. Thrasher (Aug 2015).
+* [#BlackLivesMatter: the birth of a new civil rights movement](http://www.theguardian.com/world/2015/jul/19/blacklivesmatter-birth-civil-rights-movement), by Elizabeth Day (July 2015).
+* [The Counted](http://www.theguardian.com/us-news/series/counted-us-police-killings), a series addressing "people killed by police in the US".
