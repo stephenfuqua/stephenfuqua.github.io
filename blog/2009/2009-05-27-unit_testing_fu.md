@@ -26,24 +26,12 @@ problem for me? Indeed, they have already created a `MockTraceListener` class.
 
 ## Setting up your test
 
-<ol>
-  <li>Build the test NUnit testing project. </li>
-  <li>In your project, add a reference to the newly-compiled
-  Microsoft.Practices.EnterpriseLibrary.Logging.Tests.dll, and add a proper using statement in
-  your test class.
-  </li>
-  <li>In the TestFixtureSetup and TestFixtureTearDown, call
-  `MockTraceListener.Reset()` to clear the log.
-  </li>
-  <li>Exercise your system under test
-  </li>
-  <li>Check to make sure there is an entry in the MockTraceListener:
-  `Assert.IsNotNull(MockTraceListener.LastEntry, "No log entry has been created");`
-  </li>
-  <li>Check the contents of the `MockTraceListener.LastEntry.Message` to see if the
-  specified message has actually been logged
-  </li>
-</ol>
+1. Build the test NUnit testing project.
+1. In your project, add a reference to the newly-compiled Microsoft.Practices.EnterpriseLibrary.Logging.Tests.dll, and add a proper using statement in your test class.
+1. In the TestFixtureSetup and TestFixtureTearDown, call `MockTraceListener.Reset()` to clear the log.
+1. Exercise your system under test
+1. Check to make sure there is an entry in the MockTraceListener: `Assert.IsNotNull(MockTraceListener.LastEntry, "No log entry has been created");`
+1. Check the contents of the `MockTraceListener.LastEntry.Message` to see if the specified message has actually been logged
 
 ## Setting up the config file
 

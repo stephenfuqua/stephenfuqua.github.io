@@ -73,17 +73,10 @@ elements.
 
 Taking this line-by-line:
 
-<ol>
-    <li value="5">Sets this template applicable to the <span class="command">
-    Report</span> element in our source XML. </li>
-    <li>Places static header into the output.</li>
-    <li>Selects the timestamp value from the input and places it into the
-    output.</li>
-    <li>Line break and carriage return (or is that carriage return and line
-    break?)</li>
-    <li>Start a loop on all <span class="command">Detail </span>elements in
-    <span class="command">Detail_Collection</span>.</li>
-</ol>
+1. Places static header into the output.
+1. Selects the timestamp value from the input and places it into the output.
+1. Line break and carriage return (or is that carriage return and line break?)
+1. Start a loop on all <span class="command">Detail </span>elements in <span class="command">Detail_Collection</span>.
 
 ## Format the Detail Lines
 
@@ -96,14 +89,11 @@ Taking this line-by-line:
       <xsl:text>&#xD;&#xA;</xsl:text>
 ```
 
-<ol>
-    <li value="10">Insert the value from the column named <span style="command">col1</span></li>
-    <li>Insert the pipe character</li>
-    <li>Value from column named <span style="command">col2</span></li>
-    <li>Pipe character</li>
-    <li>Value from column named <span style="command">col3</span></li>
-    <li>Carriage return and line break</li>
-</ol>
+1. Insert the pipe character
+1. Value from column named <span style="command">col2</span>
+1. Pipe character
+1. Value from column named <span style="command">col3</span>
+1. Carriage return and line break
 
 ## Finish Off the Template
 
@@ -115,13 +105,11 @@ Taking this line-by-line:
 </xsl:stylesheet>
 ```
 
-<ol>
-    <li>Close out the loop</li>
-    <li>Add the static trailer text</li>
-    <li>Insert the row count from the input</li>
-    <li>Close out the template</li>
-    <li>Close out the stylesheet</li>
-</ol>
+1. Close out the loop
+1. Add the static trailer text
+1. Insert the row count from the input
+1. Close out the template
+1. Close out the stylesheet
 
 ## Applying the Template on Output of XML
 

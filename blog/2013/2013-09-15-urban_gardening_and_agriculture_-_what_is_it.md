@@ -58,8 +58,6 @@ America include:
 
 I plan to follow-up this short article with additional posts addressing these questions:
 
-<ol>
-<li>What does it have to do with climate change?</li>
-<li>Why mix gardening/agriculture and religion?</li>
-<li>What resources are available to help individuals and groups get started?</li>
-</ol>
+1. What does it have to do with climate change?
+1. Why mix gardening/agriculture and religion?
+1. What resources are available to help individuals and groups get started?

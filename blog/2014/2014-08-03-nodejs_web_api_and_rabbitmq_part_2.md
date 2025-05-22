@@ -100,12 +100,10 @@ the Message.
 
 Thus, in the code below, we must
 
-<ol>
-<li>Open a connection to the bus; </li>
-<li>Create or connect to an exchange;</li>
-<li>Subscribe to a queue;</li>
-<li>Handle messages received through that queue.</li>
-</ol>
+1. Open a connection to the bus;
+1. Create or connect to an exchange;
+1. Subscribe to a queue;
+1. Handle messages received through that queue.
 
 Note that the nested functions are closures / callbacks - when one action
 completes, it calls the next action. This is part of the asynchronous nature of

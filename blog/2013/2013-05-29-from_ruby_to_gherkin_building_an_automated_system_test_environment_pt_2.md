@@ -49,11 +49,9 @@ mentality suggests modifying the system testing approach.
 
 <div class="float-right shadow p-3 rounded bg-dark text-light">
 <p><b>Inspect and adapt:</b></p>
-<ol>
-<li>Tests are still too hard to read, and</li>
-<li>The learning curve was too high,</li>
-<li>Therefore find a simpler product.</li>
-</ol>
+1. Tests are still too hard to read, and
+1. The learning curve was too high,
+1. Therefore find a simpler product.
 </div>
 
 [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) to the

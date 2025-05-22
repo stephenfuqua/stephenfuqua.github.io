@@ -30,17 +30,10 @@ explore a Faith that may become a new home for her family. It was a pleasure to
 just sit and listen to the discussion and the exploration of quotations such
 as...
 
-<ol>
-<li>"Truthfulness is the foundation of all human virtues."</li>
-<li>"Say: O brethren! Let deeds, not words, be your adorning."</li>
-<li>"They who dwell within the tabernacle of God, and are
-established upon the seats of everlasting glory, will refuse,
-though they be dying of hunger, to stretch their hands and seize
-unlawfully the property of their neighbor, however vile and
-worthless he may be."</li>
-<li>"O Son of Being! Bring thyself to account each day ere thou art
-summoned to a reckoning..."</li>
-</ol>
+1. "Truthfulness is the foundation of all human virtues."
+1. "Say: O brethren! Let deeds, not words, be your adorning."
+1. "They who dwell within the tabernacle of God, and are established upon the seats of everlasting glory, will refuse, though they be dying of hunger, to stretch their hands and seize unlawfully the property of their neighbor, however vile and worthless he may be."
+1. "O Son of Being! Bring thyself to account each day ere thou art summoned to a reckoning..."
 
 As we prepared to leave for the day, she asked when we would be back. We settled
 on a schedule to continue the study, and she indicated that she would slowly

@@ -85,12 +85,10 @@ UI screens. Between these two sit the system under test. For a proper unit test,
 the system must be isolated before it is called. Finally, you must validate the
 output.
 
-<ol>
-	<li>Prepare input</li>
-	<li>Isolate the system under test</li>
-	<li>Call the system</li>
-	<li>Evaluate output</li>
-</ol>
+1. Prepare input
+1. Isolate the system under test
+1. Call the system
+1. Evaluate output
 
 Just as with regular code, test code should be well structured. As
 non-production code, it might be more forgivable to take a few shortcuts; still,

@@ -78,19 +78,10 @@ on Darfur will hurt similar efforts in the newly peaceful southern regions. The 
 imperative</a> to assist those is need is clear and present in all major religions,
 so I will not belabor that point. As individuals and organizations,** here
 are a few concrete ways that you can help:**
-<ol>
-<li>Raise your voice, electronically that is, by sharing this urgent message with
-your religious brethren and administrative or clerical officials or by joining
-the Save Darfur Coalition's <a href="http://www.savedarfur.org/go.php?q=greenRibbonCampaign.html">Green
-Ribbon Campaign</a></li>
-<li>Those of you who live in nations represented on the U.N. Security Council:
-please urge your governments to support military force and/or the threat of economic
-sanctions in Sudan (Permanent/veto members: China, France, Great Britain, Russia,
-United States; At-large members: Algeria, Angola, Benin, Brazil, Chile, Germany,
-Pakistan, Philippines, Romania, and Spain)</li>
-<li>Contribute directly to humanitarian relief through the groups below.</li>
-<li>Leave other suggestions as comments at the end of this article.</li>
-</ol>
+1. Raise your voice, electronically that is, by sharing this urgent message with your religious brethren and administrative or clerical officials or by joining the Save Darfur Coalition's <a href="http://www.savedarfur.org/go.php?q=greenRibbonCampaign.html">Green Ribbon Campaign</a>
+1. Those of you who live in nations represented on the U.N. Security Council: please urge your governments to support military force and/or the threat of economic sanctions in Sudan (Permanent/veto members: China, France, Great Britain, Russia, United States; At-large members: Algeria, Angola, Benin, Brazil, Chile, Germany, Pakistan, Philippines, Romania, and Spain)
+1. Contribute directly to humanitarian relief through the groups below.
+1. Leave other suggestions as comments at the end of this article.
 
 #### Secular Organizations Working in Darfur
 
