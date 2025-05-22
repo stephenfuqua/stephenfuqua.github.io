@@ -8,17 +8,22 @@ migration-plan.md.
 
 Create a `git commit` after every step below.
 
-## 1. Set up a new Docusaurus project
+## 1. Set up a new Docusaurus project - DONE
 - Initialize a new Docusaurus site in a separate directory.
 - Choose the classic template for a blog/documentation site.
 
-## 2. Configure site metadata
+## 2. Configure site metadata - DONE
 - Update `docusaurus.config.js` with your site title, URL, favicon, and other metadata from `_config.yml`.
 
 ## 3. Migrate blog posts
-- Convert all Markdown files from `_posts/` (and possibly `_drafts/`) to the Docusaurus `/blog` directory.
-- Rename files to the Docusaurus format: `YYYY-MM-DD-title.md`.
-- Update front matter: Docusaurus uses YAML front matter, but you may need to adjust fields (e.g., `layout`, `tags`, `categories`).
+- Move all files and directories in `_posts` to `blog` DONE
+- In all `*.md` files, convert HTML unordered lists to markdown bulleted lists.
+- Adjust the front matter following these instructions:
+  - Remove `layout`
+  - Change `basename` to `slug`
+  - Remove `date`
+  - Remove `excerpt_separator`
+- Inside `blog/**/*.md`, replace `<!-- more -->` with `<!-- truncate -->` DONE
 
 ## 4. Migrate BDD
 - Add a new `plugin-content-docs` plugin to `docusaurus.config.js` with id `bdd` and path `best-practices-tdd-oo`.

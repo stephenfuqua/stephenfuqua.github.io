@@ -131,6 +131,6 @@ Progress over perfection: show something, anything, to demonstrate progress.
 Preservation over pride: play the long game.
 Collaboration over control: be a willing partner
 
-Reminds me of the Agile Manifesto
+Reminds me of the Agile Manifesto.
 
 Have some empathy for executives: back-to-back meetings all day long. Constantly multi-tasking / code-switching. No time for details - so don't bring them the details (personal note: be ready to discuss when asked)
