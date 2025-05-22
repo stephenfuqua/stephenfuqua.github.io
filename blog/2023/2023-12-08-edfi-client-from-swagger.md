@@ -1,7 +1,6 @@
 ---
 title: "Ed-Fi Client Generation in Python with Swagger CLI"
 date: 2023-12-08
-comments: true
 tags:
 - ed-fi
 - programming

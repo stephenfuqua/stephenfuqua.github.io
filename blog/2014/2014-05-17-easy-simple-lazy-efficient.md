@@ -1,7 +1,6 @@
 ---
 title: "easy : simple :: lazy : efficient"
 date: 2014-05-17
-comments: true
 tags: [programming]
 ---
 

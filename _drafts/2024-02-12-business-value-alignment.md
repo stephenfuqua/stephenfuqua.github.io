@@ -1,7 +1,6 @@
 ---
 title: Aligning Product with Business Value
 date: 2024-02-11
-comments: true
 tags:
 - programming
 - data-and-analytics

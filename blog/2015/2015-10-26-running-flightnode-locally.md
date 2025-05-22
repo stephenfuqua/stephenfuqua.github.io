@@ -1,7 +1,6 @@
 ---
 title: Running FlightNode Locally
 date: 2015-10-26
-comments: true
 tags:
 - tech
 - programming

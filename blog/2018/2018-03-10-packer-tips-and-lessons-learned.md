@@ -1,7 +1,6 @@
 ---
 title: Packer Tips and Lessons Learned
 date: 2018-03-10
-comments: true
 tags: [tech, devops, Windows]
 sharing: true
 ---

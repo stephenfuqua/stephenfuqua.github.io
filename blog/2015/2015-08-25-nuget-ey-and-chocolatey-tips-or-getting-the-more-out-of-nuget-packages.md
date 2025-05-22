@@ -2,7 +2,6 @@
 title: NuGet-ey and Chocolatey Tips, or, Getting More out of NuGet Packages
 date: 2015-08-25
 slug: nugety_chocolatey_tips
-comments: true
 tags: [sdlc]
 ---
 

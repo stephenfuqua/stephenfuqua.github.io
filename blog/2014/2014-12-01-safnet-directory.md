@@ -1,7 +1,6 @@
 ---
 title: "safnet Directory: A Partnership Between Angular.Js and ASP.Net MVC"
 date: 2014-12-01
-comments: true
 tags: [dotnet, javascript]
 ---
 

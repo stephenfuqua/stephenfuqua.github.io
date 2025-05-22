@@ -1,7 +1,6 @@
 ---
 title: Infrastructure as Code for Continuous Integration
 date: 2021-05-21
-comments: true
 tags:
   - devops
   - tech

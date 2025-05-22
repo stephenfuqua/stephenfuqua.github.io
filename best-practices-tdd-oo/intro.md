@@ -2,7 +2,6 @@
 title: "Best Practices in Test-Driven, Object Oriented, Green- and Brownfield Development"
 permalink: /best-practices-tdd-oo/intro
 date: 2020-01-12
-comments: true
 tags: [testing, programming, oo]
 ---
 

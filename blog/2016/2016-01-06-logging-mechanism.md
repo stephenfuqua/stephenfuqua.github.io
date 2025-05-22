@@ -1,7 +1,6 @@
 ---
 title: FlightNode Logging Mechanism
 date: 2016-01-06
-comments: true
 slug: flightnode_logging_mechanism
 tags:
 - tech

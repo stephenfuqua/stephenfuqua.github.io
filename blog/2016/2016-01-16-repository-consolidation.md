@@ -2,7 +2,6 @@
 title: FlightNode Git Repository Consolidation
 date: 2016-01-16
 slug: flightnode_git_repository_consolidation
-comments: true
 tags:
 - tech
 - programming

@@ -1,7 +1,6 @@
 ---
 title: "Why Not Just Use a Data Lake? Considerations for Educational Data in the Ed-Fi Ecosystem"
 date: 2022-03-09
-comments: true
 tags:
 - ed-fi
 - programming

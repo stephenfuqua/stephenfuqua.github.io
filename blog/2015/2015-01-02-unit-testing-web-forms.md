@@ -2,7 +2,6 @@
 title: Refactoring Legacy Web Forms for Test Automation
 date: 2015-01-02
 slug: refactoring_legacy_web_forms_for_test_automation
-comments: true
 tags: [testing, dotnet]
 ---
 

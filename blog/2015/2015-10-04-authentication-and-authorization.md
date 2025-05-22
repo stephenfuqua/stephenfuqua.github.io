@@ -2,7 +2,6 @@
 title: FlightNode Authentication and Authorization
 slug: flightnode_authentication_and_authorization
 date: 2015-10-04
-comments: true
 tags:
 - tech
 - architecture

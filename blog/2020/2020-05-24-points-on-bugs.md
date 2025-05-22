@@ -1,7 +1,6 @@
 ---
 title: "Points on Bugs and Spikes"
 date: 2020-05-24
-comments: true
 tags:
 - tech
 - sdlc

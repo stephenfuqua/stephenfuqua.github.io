@@ -2,7 +2,6 @@
 title: "An Epic Morning of Birding"
 date: 2015-09-28
 slug: epic_morning_of_birding
-comments: true
 tags: [FlightNode]
 ---
 

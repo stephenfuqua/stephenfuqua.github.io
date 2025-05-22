@@ -1,7 +1,6 @@
 ---
 title: Geeks in Vegas – Learning About Amazon Web Services
 date: 2018-11-30
-comments: true
 tags:
 - tech
 - architecture

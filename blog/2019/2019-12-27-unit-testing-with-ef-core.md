@@ -1,7 +1,6 @@
 ---
 title: Unit Testing with Entity Framework Core and Async
 date: 2019-12-27
-comments: true
 tags: [testing, dotnet, programming]
 sharing: true
 ---

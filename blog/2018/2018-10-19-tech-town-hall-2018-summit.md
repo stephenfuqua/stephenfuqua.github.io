@@ -1,7 +1,6 @@
 ---
 title: Tech Town Hall and the 2018 Bootcamp
 date: 2018-10-19
-comments: true
 tags: [ed-fi]
 sharing: true
 ---

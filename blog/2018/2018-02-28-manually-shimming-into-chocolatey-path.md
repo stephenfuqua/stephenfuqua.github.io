@@ -1,7 +1,6 @@
 ---
 title: Manually Shimming An Application Into the Chocolatey Path
 date: 2018-02-28
-comments: true
 tags: [devops, windows]
 sharing: true
 ---

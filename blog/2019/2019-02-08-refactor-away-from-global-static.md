@@ -1,7 +1,6 @@
 ---
 title: Refactor Away from Global Static
 date: 2019-02-08
-comments: true
 tags: [testing, dotnet, programming]
 sharing: true
 ---

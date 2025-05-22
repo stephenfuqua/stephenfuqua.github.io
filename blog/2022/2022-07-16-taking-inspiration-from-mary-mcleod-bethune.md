@@ -1,7 +1,6 @@
 ---
 title: Taking Inspiration from Mary McLeod Bethune
 date: 2022-07-16
-comments: true
 tags:
 - discourse
 - inclusion
