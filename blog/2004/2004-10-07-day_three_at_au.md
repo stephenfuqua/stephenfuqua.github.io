@@ -22,8 +22,7 @@ data. Both would pay well. In the end, the decision was a confluence of two
 factors: environment, and, to a lesser extent, geography. Truth be told
 environment probably would have sealed the deal without geography.
 Environmentally, the rejected company is a large subsidiary of a Fortune 100
-company, whereas <a href="http://www.augeomarketing.com" target="_new"
-title="This external link will open in a new window">Augeo</a> is a small,
+company, whereas Augeo (dead link removed) is a small,
 private company with a family-like atmosphere rooted in the restaurant industry.
 Geographically, Augeo is less than four miles from my home and requires no
 highway travel (useful in winter), and the Fortune 100 would have required 15
@@ -41,22 +40,18 @@ The history of the company is a bit complex and will bore most folks. The short,
 short version: Ember's Restaurants were founded in the '50's in the Twin Cities;
 in the late 90's, they were spun out as individual franchises to facilitate
 growth; the owners realized that they had a great franchise support model that
-they could apply beyond <a href="http://www.embersamerica.com" target="_new"
-title="This external link will open in a new window"> Ember's America</a>, and
-thus created the <a href="http://www.foodserviceadvantageclub.com" target="_new"
-title="This external link will open in a new window">Foodservice Advantage
-Club</a>. This service has now been further refined into a <a
-href="http://www.businessadvantageclub.com/" target="_new" title="This external
-link will open in a new window">whole package</a> of business savings (through
-external service providers) and management tools that can be offered to small
-businesses through various large organizations &mdash; thus serving as a
-marketing and loyalty-building device for those large companies. The data we get
-back from the individual members allows us to make better sales pitches to both
-the large and small business participants, as well as refine our products and
-negotiate with the different service providers. Oh, and along with Ember's
-America, the company manages the U.S. franchise operations of the up-and-coming
-<a href="http://www.joeysonlyusa.com/" target="_new" title="This external link
-will open in a new window">Joey's Only</a> seafood restaurants.
+they could apply beyond Ember's America (dead link removed), and
+thus created the Foodservice Advantage
+Club (dead link removed). This service has now been further refined into a whole package (dead
+link removed) of business savings (through external service providers) and
+management tools that can be offered to small businesses through various large
+organizations &mdash; thus serving as a marketing and loyalty-building device
+for those large companies. The data we get back from the individual members
+allows us to make better sales pitches to both the large and small business
+participants, as well as refine our products and negotiate with the different
+service providers. Oh, and along with Ember's America, the company manages the
+U.S. franchise operations of the up-and-coming Joey's Only (dead link removed)
+seafood restaurants.
 
 The time off since moving here has been great; I haven't had that much time away
 from work or school in 11 years. Then again, I was doing quite a bit of work,

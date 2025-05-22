@@ -45,14 +45,11 @@ delighted. Y yo tambien.
 ### References
 
 1. &lsquo;Abdu'l-Bah&aacute;, quoted in Shoghi Effendi's _Advent of Divine
-   Justice_, <a href= "http://reference.bahai.org/en/t/se/ADJ/adj-2.html">p.
-   26</a>. Another version appears in a list of "<a href=
-   "http://reference.bahai.org/en/t/c/BWF/bwf-90.html">seven qualifications</a>"
-   for the enlightened soul written by &lsquo;Abdu'l-Bah&aacute;
-1. Bah&aacute;&rsquo;u&rsquo;ll&aacute;h, _The Hidden Words_, <a
-   href="http://reference.bahai.org/en/t/b/HW/hw-78.html">Persian #5</a>
-1. Bah&aacute;&rsquo;u&rsquo;ll&aacute;h, _Gleanings from the Writings of
-   Bah&aacute;&rsquo;u&rsquo;ll&aacute;h_, <a href=
-   "http://reference.bahai.org/en/t/b/GWB/gwb-137.html">p. 298</a>
-1. Bah&aacute;&rsquo;u&rsquo;ll&aacute;h, _The Hidden Words_, <a
-   href="http://reference.bahai.org/en/t/b/HW/hw-32.html">Arabic #31</a>
+   Justice_, [p. 26](http://reference.bahai.org/en/t/se/ADJ/adj-2.html). Another
+   version appears in a list of "seven qualifications"
+   ([source](http://reference.bahai.org/en/t/c/BWF/bwf-90.html)) for the
+   enlightened soul written by &lsquo;Abdu'l-Bah&aacute;
+2. Bah&aacute;&rsquo;u&rsquo;ll&aacute;h, _The Hidden Words_, [Persian #5](http://reference.bahai.org/en/t/b/HW/hw-78.html)
+3. Bah&aacute;&rsquo;u&rsquo;ll&aacute;h, _Gleanings from the Writings of
+   Bah&aacute;&rsquo;u&rsquo;ll&aacute;h_, [p. 298](http://reference.bahai.org/en/t/b/GWB/gwb-137.html)
+4. Bah&aacute;&rsquo;u&rsquo;ll&aacute;h, _The Hidden Words_, [Arabic #31](http://reference.bahai.org/en/t/b/HW/hw-32.html)

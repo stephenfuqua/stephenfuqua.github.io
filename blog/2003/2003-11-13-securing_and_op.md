@@ -50,8 +50,9 @@ you have a notebook computer. You won't need NFS unless you are serving NFS
 partitions. Everything that you don't need is taking up a little bit of memory
 and/or processor and, if it turns out to have a security flaw of any kind, may
 be opening you up to a lot of problems. So figure out what each one does (using
-the `man`; command and possibly the <a href="http://www.tldp.org">Linux
-Documentation Project</a> if need be), and delete those which you don't need.
+the `man`; command and possibly the [Linux Documentation
+Project](http://www.tldp.org) if need be), and delete those which you don't
+need.
 
 In particular keep a look out for unnecessary network protocols, such as NFS,
 portmap, and xinetd. Obviously these do have their uses, but if you don't know
@@ -62,8 +63,8 @@ with a graphical login prompt, then you'll need to clean up `/etc/rc.d/rc5.d`.
 Probably best to clean up both.
 
 You probably won't ever need runlevel 2, but to be safe you should remove
-unnecessary links there as well. I do not recommend messing with levels 0, 1, or
-6. These will have everything necessary by default.
+unnecessary links there as well. I do not recommend messing with levels 0, 1,
+or 2. These will have everything necessary by default.
 
 _By the way, I'm sure there's an automated graphical utility for editing these
 configurations, but why bother?_

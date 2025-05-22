@@ -19,19 +19,17 @@ do it justice in the context of sacred literature.
 
 <!-- truncate -->
 
-<a href="http://etymonline.com/columns/do-be-thee.htm">Etymology
-Online</a> has a nice little article about the downfall of "thou"
-and "thee." In a nutshell, "ye" and "you" are the pluralization of
-"thou" and "thee", and people started using them for singular as a
-sign of respect (in other words, "y'all" would historically have
-been redudant since "you" was already encompassing of "all"). That
-respect was eventually brought to everyone, even inferiors, and the
-singular versions were lost. For some reason the subject version
-"ye" was merged into the object version "you" so that we do not say
-"ye are boring me" but rather "you are boring me." So it seems like
-the use of "thou" and "thee" in the Bah&aacute;'&iacute; writings
-might give the connotation of some familiarity and personal
-relationship with God.
+[Etymology Online](https://www.etymonline.com/columns/post/do-be-thee.htm) has a
+nice little article about the downfall of "thou" and "thee." In a nutshell, "ye"
+and "you" are the pluralization of "thou" and "thee", and people started using
+them for singular as a sign of respect (in other words, "y'all" would
+historically have been redudant since "you" was already encompassing of "all").
+That respect was eventually brought to everyone, even inferiors, and the
+singular versions were lost. For some reason the subject version "ye" was merged
+into the object version "you" so that we do not say "ye are boring me" but
+rather "you are boring me." So it seems like the use of "thou" and "thee" in the
+Bah&aacute;'&iacute; writings might give the connotation of some familiarity and
+personal relationship with God.
 
 It can be difficult to work through these words, so why use
 them? Today I stumbled across a few Biblical articles that made me
