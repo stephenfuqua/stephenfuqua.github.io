@@ -13,8 +13,7 @@ excerpt_separator: <!--more-->
 I've been misunderstanding .NET's List<T> for years.
 
 Two incidents this week have driven home the value of being able to study the
-source code of frameworks I code with. One the one hand, I was using <a
-href="https://github.com/NServiceKit/NServiceKit.OrmLite">NServiceKit.OrmLite</a>
+source code of frameworks I code with. One the one hand, I was using [NServiceKit.OrmLite](https://github.com/NServiceKit/NServiceKit.OrmLite)
 for database access, and needed to understand how it constructs its SQL. Through
 study of the code, I was able to find and remediate a limitation in the wildcard
 handling*.
@@ -30,9 +29,8 @@ query results when the query itself is ordered).
 
 What drove me to that incorrect conclusion? Some years ago, I saw mysterious
 behavior on data stored in a `List`. The data did not come out in the order I
-expected, causing a visible bug. Reading in the <a
-href="https://msdn.microsoft.com/en-us/library/6sh2ey19%28v=vs.110%29.aspx">MSDN
-documentation</a>, I found that:
+expected, causing a visible bug. Reading in the [MSDN
+documentation](https://msdn.microsoft.com/en-us/library/6sh2ey19%28v=vs.110%29.aspx), I found that:
 
 > The List<T> is not guaranteed to be sorted. You must sort the List<T> before
 > performing operations (such as BinarySearch) that require the List<T> to be
@@ -42,14 +40,12 @@ With the evidence in front of my eyes, I understood this to mean that the input
 order was not guaranteed to stay that way. How could this be? I assumed there
 was something about the way that `List` storage is expanded, which could
 re-arrange the pointers arbitrarily &mdash; contributing to the high performance
-of this data type. 
+of this data type.
 
 Suddenly recalling that Microsoft has opened up parts of the .Net code as
 "reference material", and feeling discomfited by this long-held assertion, I
-sought out answers today. And what did I find? That the `<a
-href="http://referencesource.microsoft.com/#mscorlib/system/collections/generic/list.cs">List</a>`
-and the `<a
-href="http://referencesource.microsoft.com/#mscorlib/system/collections/queue.cs">Queue</a>`
+sought out answers today. And what did I find? That the `[List](http://referencesource.microsoft.com/#mscorlib/system/collections/generic/list.cs)`
+and the `[Queue](http://referencesource.microsoft.com/#mscorlib/system/collections/queue.cs)`
 are both backed by arrays. And arrays do not spontaneously re-arrange
 themselves.
 

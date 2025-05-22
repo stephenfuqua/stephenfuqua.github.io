@@ -15,13 +15,7 @@ HTML page.
 
 **Solution:** careful use of jQuery. There are probably many different solutions
 already out there, but I wanted to learn how to write one for myself. Key
-functions: <a href="http://api.jquery.com/closest/">closest</a>, <a
-href="http://api.jquery.com/detach/">detach</a>, <a
-href="http://api.jquery.com/append/">append</a>, <a
-href="http://api.jquery.com/prev/">prev</a>, <a
-href="http://api.jquery.com/next/">next</a>, <a
-href="http://api.jquery.com/before/">before</a>, and <a
-href="http://api.jquery.com/after/">after</a>.
+functions: [closest](http://api.jquery.com/closest/), [detach](http://api.jquery.com/detach/), [append](http://api.jquery.com/append/), [prev](http://api.jquery.com/prev/), [next](http://api.jquery.com/next/), [before](http://api.jquery.com/before/), and [after](http://api.jquery.com/after/).
 
 <!--more-->
 

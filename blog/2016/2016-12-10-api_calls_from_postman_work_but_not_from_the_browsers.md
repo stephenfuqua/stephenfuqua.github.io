@@ -43,7 +43,6 @@ sure enough, in the Application log I find a pair of error messages:
 My hunch was right: something wrong with the compression. Why did this suddenly
 occur? I have no idea. I hadn't deleted files out of Temp recently. My NuGet
 package upgrades  were for ancillary libraries, but not for ASP.NET itself. But
-the solution was trivial: as suggested by <a
-href="https://technet.microsoft.com/en-us/library/cc735199(v=ws.10).aspx">Event
-ID 2264 -- IIS W3SVC Configuration</a>, I just had to create the directory
+the solution was trivial: as suggested by [Event
+ID 2264 -- IIS W3SVC Configuration](https://technet.microsoft.com/en-us/library/cc735199(v=ws.10).aspx), I just had to create the directory
 manually, and then everything was working again.

@@ -10,12 +10,10 @@ tags:
 
 More to the point, who is human, and what is normal? And, can a computer have
 "human" rights? These are deep philosophical questions with real-world (or
-potential real-world) application, as shown in <a
-href="http://www.nytimes.com/2004/12/20/health/20autism.html?ex=1261198800&amp;en=95ad1f4a0fa92945&amp;ei=5090&amp;partner=rssuserland">
-How About Not 'Curing' Us, Some Autistics Are Pleading</a> (_NY Times_) and in
-<a
-href="http://www.legalaffairs.org/issues/January-February-2005/feature_sokis_janfeb05.html">
-Man and the Machines</a> (_Legal Affairs_). And what about animals that possess
+potential real-world) application, as shown in [
+How About Not 'Curing' Us, Some Autistics Are Pleading](http://www.nytimes.com/2004/12/20/health/20autism.html?ex=1261198800&amp;en=95ad1f4a0fa92945&amp;ei=5090&amp;partner=rssuserland) (_NY Times_) and in
+[
+Man and the Machines](http://www.legalaffairs.org/issues/January-February-2005/feature_sokis_janfeb05.html) (_Legal Affairs_). And what about animals that possess
 "theory of mind?"
 
 <!--more-->
@@ -26,7 +24,7 @@ Man and the Machines</a> (_Legal Affairs_). And what about animals that possess
 > of the other 15 boys at the experimental Aspie school here in the
 > Catskills. "So we can't be 'cured.' This is just the way
 > we are."
-  
+
 It is a fascinating issue, one that medical ethicists should be carefully
 evaluating. On a personal level, I have often questioned some of the "benefits"
 of modern medicine. While I enjoy good health, partly thanks to the health care
@@ -41,9 +39,8 @@ went off the meds. There are just too many antibiotics roaming around.
 
 Another place where I've wondered about overmedication is in the realm of mental
 health. Anti-depressants seem to make a tremendous difference for millions of
-people, and I do not question their use in anyone I have known. (FYI: <a
-href="http://www.psych.org/pnews/98-05-01/adhd.html">research in Journal of the
-American Medical Association</a> makes the strong case that ADHD is indeed _not
+people, and I do not question their use in anyone I have known. (FYI: [research in Journal of the
+American Medical Association](http://www.psych.org/pnews/98-05-01/adhd.html) makes the strong case that ADHD is indeed _not
 overdiagnosed_). Point is, I want you to have some idea of where I'm coming from
 while reading this autism article. I feel sympathy, if not a little empathy, for
 some of these autistic kids.
@@ -62,22 +59,18 @@ lack of diversity. Lack of diversity sooner or later means stagnation in
 innovation and makes the species susceptible to rapid decline (for instance,
 look at the cheetah population, which only eats one food: thompson's gazelle).
 
-Reminds me of the mutant issue as explored in <a
-href="http://www.imdb.com/title/tt0120903/plotsummary">X-Men</a>, or eugenics as
-seen in the <a
-href="http://www.memory-alpha.org/en/index.php/Eugenics_Wars">Star Trek</a>
+Reminds me of the mutant issue as explored in [X-Men](http://www.imdb.com/title/tt0120903/plotsummary), or eugenics as
+seen in the [Star Trek](http://www.memory-alpha.org/en/index.php/Eugenics_Wars)
 series. Very similar issues.
 
 ## Computer Rights
 
-Again, sci-fi has been a leader in this question (<a
-href="http://cgi.sparknotes.com/hlite.mpl?words=space,2001&amp;pd=0&amp;page=themes.html&amp;guide=/lit/2001">
-2001</a>): will we eventually be forced to recognize fundamental rights for
+Again, sci-fi has been a leader in this question ([
+2001](http://cgi.sparknotes.com/hlite.mpl?words=space,2001&amp;pd=0&amp;page=themes.html&amp;guide=/lit/2001)): will we eventually be forced to recognize fundamental rights for
 sentient computers? This presupposes the issue of computers becoming sentient in
 the first place. No one knows if this could happen; scientifically seems
-outrageous, but there is still a <a
-href="http://en.wikipedia.org/wiki/Artificial_intelligence">great deal of
-debate</a> in the AI community.
+outrageous, but there is still a [great deal of
+debate](http://en.wikipedia.org/wiki/Artificial_intelligence) in the AI community.
 
 _Man and the Machines_ describes a mock trial held for a computer's complaint
 against its owners:
@@ -100,8 +93,7 @@ matter. Good call.
 
 ## Theory of Mind
 
-The short description of <a
-href="http://en.wikipedia.org/wiki/Theory_of_mind">theory of mind</a> is
+The short description of [theory of mind](http://en.wikipedia.org/wiki/Theory_of_mind) is
 something like this: some highly social animals have evolved the ability to be
 both self-aware and aware of the thoughts and intentions of another. This is so
 crude an explanation that biologists and psychologists would probably shudder,
@@ -120,12 +112,9 @@ Getting back to the subject at hand, the questions above should surely be
 extended to dolphins, apes, and anything else that possesses theory of mind. If
 we can "prove" that this is so, then should we afford special rights to them
 above and beyond those of other animals? Again, not a new topic if one has any
-experience in the sci-fi world (cf <a
-href="http://www.amazon.com/exec/obidos/tg/detail/-/0345368959/qid=1103608869/sr=8-2/ref=sr_8_xs_ap_i2_xgl14/002-5699269-9682460?v=glance&amp;s=books&amp;n=507846">
-Dolphins of Pern</a> , <a
-href="http://www.movieprop.com/tvandmovie/PlanetoftheApes/planetoftheapes.htm">
-Planet of the Apes</a>, <a
-href="http://www.davidbrin.com/upliftbooks.html">Uplift Saga</a>). On the one
+experience in the sci-fi world (cf [
+Dolphins of Pern](http://www.amazon.com/exec/obidos/tg/detail/-/0345368959/qid=1103608869/sr=8-2/ref=sr_8_xs_ap_i2_xgl14/002-5699269-9682460?v=glance&amp;s=books&amp;n=507846) , [
+Planet of the Apes](http://www.movieprop.com/tvandmovie/PlanetoftheApes/planetoftheapes.htm), [Uplift Saga](http://www.davidbrin.com/upliftbooks.html)). On the one
 hand I think we should be treating all animals in a more _humane_ fashion;
 nevertheless, I would put these fellows in a category above and beyond the rest
 of our animal brethren. And if computers ever became sentient, I would have to

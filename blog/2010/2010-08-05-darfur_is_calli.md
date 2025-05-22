@@ -13,9 +13,8 @@ the phone. How sad. Its not like it was a cold call &mdash; I've supported them
 in the past and thus have a reasonable expectation that they'll try to contact
 me in the future. Why are they calling? Because apparently the conditions in
 Darfur are deteriorating. Do I believe the woman on the phone? Well, the Times
-reports that <a
-href="http://www.nytimes.com/2010/08/05/world/africa/05sudan.html">Violence Said
-to Be Rising in Sudan&#8217;s Darfur Region</a> (yesterday). At this point Sudan
+reports that [Violence Said
+to Be Rising in Sudan&#8217;s Darfur Region](http://www.nytimes.com/2010/08/05/world/africa/05sudan.html) (yesterday). At this point Sudan
 is as much a powder-keg as ever, with secession of the south likely next year,
 renewed civil war equally likely. The <a href="http://www.savedarfur.org">Save
 Darfur Coalition</a> is helping spread awareness of, and global pressure on, the
@@ -26,8 +25,7 @@ that pressure steady.
 
 Meanwhile, Pakistan is also calling, though not literally. The flooding has been
 absolutely terrible, and relief agencies expect that hunger and isolation will
-be extreme in the coming months. Time to step up and <a
-href="http://www.safnet.com/writing/archives/000108.html">show the love
-again</a> for Pakistan. Unicef, World Food Programm, International Committee of
+be extreme in the coming months. Time to step up and [show the love
+again](http://www.safnet.com/writing/archives/000108.html) for Pakistan. Unicef, World Food Programm, International Committee of
 the Red Cross, Oxfam, etc. &mdash; let's all give one of them a cold call, only
 to give rather than receive.

@@ -12,7 +12,7 @@ tags:
 While it was unfortunate that we were not able to see the Shrine of the
 B&aacute;b in all its golden-domed grandeur (covered over during on-going
 rehab), we had the bounty of being only the third pilgrim group to visit the
-restored <a href="http://www.bahaullah.org/ridvan/">Ridv&aacute;n Garden</a>
+restored [Ridv&aacute;n Garden](http://www.bahaullah.org/ridvan/)
 outside of 'Akk&aacute;. The Bah&aacute;'&iacute; World News Service has an
 excellent article, from October 2010, on the restoration work and the history of
 the garden: <a href="http://news.bahai.org/story/797">Holy place restoration
@@ -28,8 +28,7 @@ and tranquility in this site, which is only a few hundred yards from apartment
 buildings, could easily send one into a rapturous state.
 
 Entrance to the Garden of Ridv&aacute;n, which is outside Akka and very near
-"Napeoleon's Hill" (under which lies the ancient city of 'Akk&aacute;. <a
-href="http://www.biblewalks.com/Sites/TellAkko.html">This website</a> has an
+"Napeoleon's Hill" (under which lies the ancient city of 'Akk&aacute;. [This website](http://www.biblewalks.com/Sites/TellAkko.html) has an
 satellite image showing "Tell Akko" (Napoleon Hill / old city), and just below
 it, past the apartments, you can see the trees of the Ridv&aacute;n Garden site.
 

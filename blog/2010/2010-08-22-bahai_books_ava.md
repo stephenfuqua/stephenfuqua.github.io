@@ -12,7 +12,7 @@ tags:
 Did you know that many Bah&aacute;'&iacute; books are available for free
 download onto your computer, smartphone, or e-reader?
 
-* At <a href="http://reference.bahai.org">http://reference.bahai.org</a> you can
+* At [http://reference.bahai.org](http://reference.bahai.org) you can
   click on an author's name to see a list of books, including all published
   translations from the Central Figures, the writings of Shoghi Effendi, and a
   few other works. To the right of the book title are two small icons that you

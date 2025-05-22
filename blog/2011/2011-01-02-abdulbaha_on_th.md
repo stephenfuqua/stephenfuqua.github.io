@@ -49,9 +49,8 @@ believe in."
 > href="http://reference.bahai.org/en/t/ab/SAB/sab-25.html">number 24</a>
 
 The futility of trying to understand God &mdash; leaving one "despairing, ...
-hopes in ruin" &mdash; reminds me of the Buddha's <a
-href="http://wastelandbuddhism.wordpress.com/2010/03/24/the-parable-of-the-arrow-of-time/">parable
-of the poisoned arrow</a>, which I first encountered in Huston Smith's _World
+hopes in ruin" &mdash; reminds me of the Buddha's [parable
+of the poisoned arrow](http://wastelandbuddhism.wordpress.com/2010/03/24/the-parable-of-the-arrow-of-time/), which I first encountered in Huston Smith's _World
 Religions_. In it He describes a man who dies of an arrow wound because he is
 insistent on learning everything about the arrow and the person who shot it.
 Rather, he should focus on his actions and suffering in the here and now, not on

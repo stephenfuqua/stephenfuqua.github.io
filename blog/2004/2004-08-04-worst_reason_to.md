@@ -9,9 +9,8 @@ tags:
 ---
 
 "When you look at marriage, it's between a man and a woman," Ms. Goldford said.
-"Biblically, homosexuality isn't in the plan." (today's <a
-href="http://www.nytimes.com/2004/08/04/national/04gays.html?hp">New York
-Times</a>). I'm sorry Ms. Goldford, but we do not live in a theocracy. Please
+"Biblically, homosexuality isn't in the plan." (today's [New York
+Times](http://www.nytimes.com/2004/08/04/national/04gays.html?hp)). I'm sorry Ms. Goldford, but we do not live in a theocracy. Please
 base your vote on secular arguments. Unfortunately I'm too late for my
 elementary-years-state-of-residence: Missouri voters have approved a
 constitutional amendment defining marriage as being between a man and a woman.

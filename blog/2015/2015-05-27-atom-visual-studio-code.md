@@ -7,7 +7,7 @@ comments: true
 tags: [tools]
 ---
 
-Does <a href="https://code.visualstudio.com/">Visual Studio Code</a> measure up to its close kin, <a href="https://atom.io/">Atom</a>?
+Does [Visual Studio Code](https://code.visualstudio.com/) measure up to its close kin, [Atom](https://atom.io/)?
 
 A friend asked me what I thought of Code. When I installed it a few weeks ago, my first reaction was: this is nice, if you're not used to Atom already. Never satisfied with a simple gut reaction, I thought for a moment, and realized that I had not looked closely at Microsoft's additions – particularly, debugging.
 
@@ -21,7 +21,7 @@ Code changes the keybindings, but I can't let that dissuade me. Code does not ha
 
 ## IntelliSense and Error Detection
 
-In Atom, I have <a href="https://atom.io/packages/autocomplete-plus">autocomplete-plus</a> and it does a reasonable job of helping me finish my thoughts. But it is not a substitute for powerful IntelliSense. While there are language-specific autocomplete packages for many dialects, oddly enough I cannot find anything for JavaScript. Code, on the other hand, has some impressive auto completion, which applies equally for built-in JavaScript functionality and command-completion for local variables.
+In Atom, I have [autocomplete-plus](https://atom.io/packages/autocomplete-plus) and it does a reasonable job of helping me finish my thoughts. But it is not a substitute for powerful IntelliSense. While there are language-specific autocomplete packages for many dialects, oddly enough I cannot find anything for JavaScript. Code, on the other hand, has some impressive auto completion, which applies equally for built-in JavaScript functionality and command-completion for local variables.
 
 **Code**
 
@@ -39,7 +39,7 @@ The list of files is perfectly useful. Code does not have the Git-status color c
 
 Here's an interesting feature: right-click on a file, choose Select for Compare, then right-click another file and choose Compare. You get a reasonable diff comparison. Nice, but not very functional in this setting. More important elsewhere.
 
-Of course, Atom also has packages such <a href="https://atom.io/packages/atom-cli-diff">atom-cli-diff</a> (Git-like) and <a href="https://atom.io/packages/compare-files">compare-files</a> (GitHub-like). My first impression is that the Code diff is better, but that might be based on what I'm used to already.
+Of course, Atom also has packages such [atom-cli-diff](https://atom.io/packages/atom-cli-diff) (Git-like) and [compare-files](https://atom.io/packages/compare-files) (GitHub-like). My first impression is that the Code diff is better, but that might be based on what I'm used to already.
 
 Overall, I find the two different but equally useful.
 
@@ -83,7 +83,7 @@ Overall, the Code interface to Git is better, except for one flaw (for now): Com
 
 There are some quirks, but this is promising. As you can see in this screenshot, variables aren't displaying for me, so I don't know what values I'm dealing with. No doubt that will improve with time. But at least it is possible to walk through the stack trace and try to understand what's going on. This is going to be powerful and is reason enough to keep this Visual Studio Code around.
 
-That said, there is a <a href="https://atom.io/packages/node-debugger">node debugger</a> project for Atom. The pictures look promising, but even the maintainer admits it is buggy. I cannot get it to work at all - opening the debugger palette, you are presented with an opportunity to fill in a few paths. But the fields, at least in my install, are not enabled.
+That said, there is a [node debugger](https://atom.io/packages/node-debugger) project for Atom. The pictures look promising, but even the maintainer admits it is buggy. I cannot get it to work at all - opening the debugger palette, you are presented with an opportunity to fill in a few paths. But the fields, at least in my install, are not enabled.
 
 ![codeAtom_9](/images/codeAtom_9.png)
 
@@ -91,4 +91,4 @@ That said, there is a <a href="https://atom.io/packages/node-debugger">node debu
 
 Atom is much more versatile, but Visual Studio Code is already a strong competitor. And is more stable; I've not yet experienced any bugs or program failures. I began writing this over a week ago, and decided to force myself into daily Code use before publishing. At this point, I miss a few things, but I am starting to get hooked on Code.
 
-For more details on the features in Code, see <a href="https://www.johnpapa.net/visual-studio-code/">John Papa</a>. I purposefully avoided reading this - except the debugging overview - and other posts in order to draw my own conclusions. But this series of posts is too good not to promote.
+For more details on the features in Code, see [John Papa](https://www.johnpapa.net/visual-studio-code/). I purposefully avoided reading this - except the debugging overview - and other posts in order to draw my own conclusions. But this series of posts is too good not to promote.

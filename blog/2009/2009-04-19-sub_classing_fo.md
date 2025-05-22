@@ -10,13 +10,11 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-A few months after I first purchased it, I am still reading <a
-href="http://xunitpatterns.com/">xUnit Test Patterns</a>. Been reading a few
+A few months after I first purchased it, I am still reading [xUnit Test Patterns](http://xunitpatterns.com/). Been reading a few
 pages every day - now on page 590 with a few hundred to go!
 
-I have finally arrived at the point where the author describes the pattern <a
-href="http://xunitpatterns.com/Test-Specific%2520Subclass.html">Test Specific
-Subclass</a> (TSS). This is a pattern we have used extensively in our testing at
+I have finally arrived at the point where the author describes the pattern [Test Specific
+Subclass](http://xunitpatterns.com/Test-Specific%2520Subclass.html) (TSS). This is a pattern we have used extensively in our testing at
 the office, so that we can access protected methods in our classes. However, we
 stumbled upon it on our own, well before reading anyone else's suggestions on
 how to apply it. That's the nature of _patterns_ for you.

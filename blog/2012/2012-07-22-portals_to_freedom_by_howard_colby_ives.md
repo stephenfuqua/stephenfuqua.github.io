@@ -88,10 +88,8 @@ then put into action the meaning of the stories he relates.
 {: .center-block }
 \***
 
-Review of <a
-href="http://www.bahaibookstore.com/productdetails.cfm?sku=PTFT">Portals to
-Freedom</a>, by Howard Colby Ives. Published in 2012 by <a
-href="http://www.bahaibookstore.com/">Bah&aacute;&rsquo;&iacute; Publishing</a>,
+Review of [Portals to
+Freedom](http://www.bahaibookstore.com/productdetails.cfm?sku=PTFT), by Howard Colby Ives. Published in 2012 by [Bah&aacute;&rsquo;&iacute; Publishing](http://www.bahaibookstore.com/),
 415 Linden Ave, Wilmette, IL 60091.
 
 _Disclosure of Material Connection: I received this book free from the

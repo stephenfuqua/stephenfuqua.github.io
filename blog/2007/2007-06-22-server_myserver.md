@@ -21,8 +21,7 @@ Server 'myserver' is not configured for RPC.
 
 **Solution:** Problem is most likely that RPC is not configured for your linked
 server. That is not a default option, after all. You can see what settings are
-configured with `exec <a
-href="http://msdn2.microsoft.com/en-us/library/ms189804.aspx">sp_helpserver</a>`,
+configured with `exec [sp_helpserver](http://msdn2.microsoft.com/en-us/library/ms189804.aspx)`,
 run on the client server (not the linked server).
 
 If 'rpc,rpc out' is not in your results, then the the linked server isn't

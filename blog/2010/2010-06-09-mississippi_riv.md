@@ -5,9 +5,8 @@ date: 2010-06-09
 basename: mississippi_river_bird_monitoring
 ---
 
-I've just uploaded some statistics for the <a
-href="http://www.ibamonitoring.org/results/Default.aspx">Mississippi River Twin
-Cities Landbird Monitoring Project</a>. Go into an individual species and you
+I've just uploaded some statistics for the [Mississippi River Twin
+Cities Landbird Monitoring Project](http://www.ibamonitoring.org/results/Default.aspx). Go into an individual species and you
 can see a color-coded table of results, histogram showing species presence over
 time, and a Google maps display with the count of birds at each exact point
 count location within the various sites monitored. Interestingly, Gold Finchs

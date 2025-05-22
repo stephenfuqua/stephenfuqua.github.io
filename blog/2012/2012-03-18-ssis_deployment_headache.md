@@ -26,14 +26,12 @@ _variable expressions_.
 <!--more-->
 
 The SSIS Junkie blog has a great series of posts about SSIS standards and
-building templates, including <a
-href="http://consultingblogs.emc.com/jamiethomson/archive/2007/03/11/SSIS_3A00_-Package-Template.aspx">SSIS:
-Package Template</a>. I used this as a model for building my SSIS templates.
+building templates, including [SSIS:
+Package Template](http://consultingblogs.emc.com/jamiethomson/archive/2007/03/11/SSIS_3A00_-Package-Template.aspx). I used this as a model for building my SSIS templates.
 While the advice is sound, and makes development of new packages very easy, I
 believe that part of that advice is causing the problems. You see, many
-different file paths are _<a
-href="http://consultingblogs.emc.com/jamiethomson/archive/2006/10/05/SSIS-Nugget_3A00_-Dynamically-set-a-logfile-name.aspx">set
-with expressions</a>_. In particular, the checkpoint file and log file paths are
+different file paths are _[set
+with expressions](http://consultingblogs.emc.com/jamiethomson/archive/2006/10/05/SSIS-Nugget_3A00_-Dynamically-set-a-logfile-name.aspx)_. In particular, the checkpoint file and log file paths are
 set with expressions that build the path from a config file variable. What seems
 to happen is that SSIS attempts to access the path with the settings in the
 package &mdash; before reading the config file. Thus if the path does not exist

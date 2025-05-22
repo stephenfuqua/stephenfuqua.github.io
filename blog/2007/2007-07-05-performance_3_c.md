@@ -22,7 +22,7 @@ Use CLR Profiler</a>.
 
 _Note: the above article was written for the .Net 1.1 version of the CLR Profiler.
 It does not provide a link to the .Net 2.0 version, so that must be
-<a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=A362781C-3870-43BE-8926-862B40AA0CD0&amp;displaylang=en">downloaded separately</a>. A few labels have changed between the versions._
+[downloaded separately](http://www.microsoft.com/downloads/details.aspx?FamilyId=A362781C-3870-43BE-8926-862B40AA0CD0&amp;displaylang=en). A few labels have changed between the versions._
 
 I ran the application via the Profiler and began inspecting its results. The first
 thing I looked at was the Allocation Graph, which shows memory allocations by function,
@@ -55,7 +55,7 @@ And then drilling down once more into `processSingleLine`:
 border="1" alt="CLR 3" />
 -->
 
-Much to my surprise,  <a href="http://msdn2.microsoft.com/en-us/library/sbbt4032(VS.80).aspx">Enum</a>::ToString
+Much to my surprise,  [Enum](http://msdn2.microsoft.com/en-us/library/sbbt4032(VS.80).aspx)::ToString
 is the most intensive operation in `processSingleLine`. Now,
 it is true that it is called dozens of times, and the 36.19% shown here is cumulative
 for all the calls, so I wondered if (a) Enums are inefficient or (b) it was just
@@ -102,7 +102,6 @@ public class aDetailsFields
 
 When I re-ran my timing test under all other equal conditions, I found an **11%
 improvement** in performance. Conclusion: Enums are great in many ways, but
-because of conversion (<a
-href="http://msdn2.microsoft.com/en-us/library/25z57t8s(vs.80).aspx">boxing/unboxing</a>)
+because of conversion ([boxing/unboxing](http://msdn2.microsoft.com/en-us/library/25z57t8s(vs.80).aspx))
 issues, constant strings or integers are probably better in programs where
 performance is critical.

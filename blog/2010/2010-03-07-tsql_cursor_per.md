@@ -13,9 +13,8 @@ excerpt_separator: <!--more-->
 One should work hard to avoid Cursors in T-SQL &mdash; for instance, by using
 recursive common table expressions &ndsh; but when you need to call a separate
 stored procedure in a loop, you're stuck with them. I recently came across an
-excellent guide to the subject, <a
-href="http://www.sql-server-performance.com/tips/cursors_p1.aspx">Performance
-Tuning SQL Server Cursors</a>, which includes the following enlightening piece
+excellent guide to the subject, [Performance
+Tuning SQL Server Cursors](http://www.sql-server-performance.com/tips/cursors_p1.aspx), which includes the following enlightening piece
 of advice:
 
 <!--more-->

@@ -8,8 +8,7 @@ tags:
 ---
 
 I had read about it, I had heard about it, and tonight I finally watched it: Jon
-Stewart on CNN's _Crossfire_ (Courtesy of <a
-href="http://www.ifilm.com/ifilmdetail/2652831">ifilm.com</a>). I'm sure its
+Stewart on CNN's _Crossfire_ (Courtesy of [ifilm.com](http://www.ifilm.com/ifilmdetail/2652831)). I'm sure its
 been all over the blogosphere and I'm probably the last blogger in the world to
 notice it, but that's okay. I'm sure opinions range, but I probably rank in the
 majority of bloggers in saying "right on, Jon."
@@ -35,9 +34,8 @@ appreciated and respected Stewart's criticisms.
 
 Tucker Carlson scored some valid points back at Stewart &mdash; that is, if you
 are scoring from the Crossfire / Hardball / O'Reilly Factor camps. I've read the
-criticism elsewhere too (<a
-href="http://www.nytimes.com/2004/10/24/weekinreview/24cave.html">excellent
-article in the Times</a>). I don't know if he's still a comedian in the
+criticism elsewhere too ([excellent
+article in the Times](http://www.nytimes.com/2004/10/24/weekinreview/24cave.html)). I don't know if he's still a comedian in the
 traditional sense. And I don't know that it matters. Perhaps he is the new court
 jester... playing nice to the politicians when he has too, but then poking
 holes in the system's stupidities when he has the opportunity. And what's so

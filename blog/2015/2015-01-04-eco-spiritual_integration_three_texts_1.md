@@ -12,7 +12,7 @@ tags:
 {: .float-right }
 ![photo of a stream](/images/ridvanWater.png){: .border .rounded}<br>
 Stream at the restored<br>
-<a href="http://www.bahaullah.org/ridvan/">Ridv&aacute;n Garden</a><br>
+[Ridv&aacute;n Garden](http://www.bahaullah.org/ridvan/)<br>
 near Acre, Israel
 
 "Fragmentation" often describes our personal lives. Through accident or design,

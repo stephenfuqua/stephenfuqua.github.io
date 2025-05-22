@@ -7,7 +7,7 @@ tags:
 - discourse
 - justice
 ---
-    
+
 Thank God that the U.N. Security Council has chosen to act on the Darfur
 crisis. The internal conflict has been resolved &mdash; with Algeria,
 China, Pakistan, and Russia abstaining &mdash; and specific sanctions,
@@ -124,9 +124,9 @@ figure should be significantly higher in the next report.
   Refugee Survey 2004</a>
 </li>
 <li>
-  <a href="http://www.amnestyusa.org/">Amnesty International USA</a>
+  [Amnesty International USA](http://www.amnestyusa.org/)
 </li>
 <li>
-  <a href="http://www.allafrica.com">allAfrica.com</a>
+  [allAfrica.com](http://www.allafrica.com)
 </li>
 </ol>

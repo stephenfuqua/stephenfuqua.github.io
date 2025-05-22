@@ -25,6 +25,5 @@ probably similar errors for OLE DB destinations).
 > If it is not same for any or both of these DLLs, then replace the ones in
 > `PrivateAssemblies` with the ones from `ole db`.
 
-Hat tip: <a
-href="http://munishbansal.wordpress.com/2009/05/28/calculation-tab-not-working---sql-server-2005-analysis-services/">Calculation
-tab not working &mdash; SQL Server 2005 Analysis Services</a>
+Hat tip: [Calculation
+tab not working &mdash; SQL Server 2005 Analysis Services](http://munishbansal.wordpress.com/2009/05/28/calculation-tab-not-working---sql-server-2005-analysis-services/)

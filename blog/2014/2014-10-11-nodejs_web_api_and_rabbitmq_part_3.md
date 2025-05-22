@@ -15,16 +15,15 @@ _Desiring to learn about both Node.js (particularly as an API server) and
 ASP.Net Web API, I decided to throw one more technology in the mix and see which
 one is faster at relaying messages to a service bus, namely, RabbitMQ._
 
-* <a href="/archive/2014/07/29/nodejs_web_api_and_rabbitmq_part_1/">Part 1: Test Runner</a>
-* <a href="/archive/2014/08/03/nodejs_web_api_and_rabbitmq_part_2/">Part 2: Initial Node.js Code</a>
+* [Part 1: Test Runner](/archive/2014/07/29/nodejs_web_api_and_rabbitmq_part_1/)
+* [Part 2: Initial Node.js Code](/archive/2014/08/03/nodejs_web_api_and_rabbitmq_part_2/)
 * Part 3: Web API Code<
 * Part 4: Enhanced Node.js code
 
 And now, I finally get back to blogging about the ASP.Net Web API code that I
 wrote for this head-to-head comparison of REST service and message bus
-integration. The <a href="http://www.asp.net/web-api">official tutorials</a>
-were my guide for Web API, and as with the test runner in part 1, I used <a
-href="http://masstransit-project.com/">MassTransit</a> as a convenient library
+integration. The [official tutorials](http://www.asp.net/web-api)
+were my guide for Web API, and as with the test runner in part 1, I used [MassTransit](http://masstransit-project.com/) as a convenient library
 for publishing from .Net code to RabbitMQ. Owin was my solution for self-hosting
 the web application.
 

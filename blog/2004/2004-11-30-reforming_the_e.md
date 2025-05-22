@@ -8,7 +8,7 @@ tags:
 - nature
 ---
 
-At <a href="http://www.worlchanging.com">WorldChanging</a>, Alex Steffen offers
+At [WorldChanging](http://www.worlchanging.com), Alex Steffen offers
 up excellent suggestions on reforming the environmental movement in his article
 <a href="http://www.worldchanging.com/archives/001654.html">Reframing the
 Planet</a>, asking, "Environmentalism has been getting sand kicked in its face

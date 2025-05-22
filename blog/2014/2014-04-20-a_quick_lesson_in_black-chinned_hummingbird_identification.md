@@ -8,15 +8,12 @@ tags:
 - nature
 ---
 
-In the east, you have the <a
-href="http://birds.audubon.org/birds/ruby-throated-hummingbird">Ruby-Throated
-Hummingbird</a>. In the west, there's the <a
-href="http://birds.audubon.org/birds/black-chinned-hummingbird">Black-Chinned
-Hummingbird</a>. As with many other east/west divisions in both the animal and
+In the east, you have the [Ruby-Throated
+Hummingbird](http://birds.audubon.org/birds/ruby-throated-hummingbird). In the west, there's the [Black-Chinned
+Hummingbird](http://birds.audubon.org/birds/black-chinned-hummingbird). As with many other east/west divisions in both the animal and
 plant kingdoms, the two hummers sometimes overlap right here in Dallas county
-&mdash; for example, you can find both of them at <a
-href="http://dogwoodcanyon.audubon.org/">Dogwood Canyon Audubon Center at Cedar
-Hill</a>. Living in northwestern Dallas County, we did not know which to expect
+&mdash; for example, you can find both of them at [Dogwood Canyon Audubon Center at Cedar
+Hill](http://dogwoodcanyon.audubon.org/). Living in northwestern Dallas County, we did not know which to expect
 when we set out our feeder a few weeks ago. Thus far, it is has been entirely
 Black-Chinned.
 

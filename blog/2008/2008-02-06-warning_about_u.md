@@ -40,9 +40,8 @@ performance went down substantially. In fact, my query went from requiring 9
 seconds to execute up to 27 seconds!
 
 Turns out that there is a lot of overhead in using a function. I decided to see
-if Itzik Ben-Gan has anything to say about this in his book Inside <a
-href="http://www.sql.co.il/books/insidetsql2005/">Microsoft SQL Server 2005:
-T-SQL Programming</a>. He does: "There are many benefits to using UDFs in terms
+if Itzik Ben-Gan has anything to say about this in his book Inside [Microsoft SQL Server 2005:
+T-SQL Programming](http://www.sql.co.il/books/insidetsql2005/). He does: "There are many benefits to using UDFs in terms
 of code simplicity and maintenance; though in terms of performance, typically
 you'll be better off if you manage to express your calculations as inline
 expressions in the query and avoid using UDFs."

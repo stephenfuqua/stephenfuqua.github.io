@@ -106,7 +106,7 @@ describe, in plain English, the purpose of the test. To be a real stickler about
 traceability, the method-level comments might mention a user story to which the
 test applies.
 
-Example from my <a href="http://reggie.codeplex.com">Reggie</a> project (more about Moles in a
+Example from my [Reggie](http://reggie.codeplex.com) project (more about Moles in a
 separate article):
 
 ```csharp

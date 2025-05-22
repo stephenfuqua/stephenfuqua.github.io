@@ -13,8 +13,7 @@ excerpt_separator: <!--more-->
 Recently, I received a code delivery that worked on our development server but
 failed in unit tests on my box. The culprit was a method that transformed a
 `List<T>` into a `DataTable` and used that `DataTable` to load data into
-SQL Server using <a
-href="http://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy.aspx">SqlBulkCopy</a>.
+SQL Server using [SqlBulkCopy](http://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy.aspx).
 Lesson: apply column mappings.
 
 <!--more-->
@@ -34,11 +33,9 @@ second data point, I went to look at the schema.
 <li>An older version of the second table's create script did not have an identity field. It exists in production, but if the corrected script were not loaded on the developer's unit testing database, then the field would be missing. It is the first field in the table.</li>
 </ul>
 
-So, although I see nothing  stating this in the <a
-href="http://msdn.microsoft.com/en-us/library/434atets.aspx">documentation</a>,
+So, although I see nothing  stating this in the [documentation](http://msdn.microsoft.com/en-us/library/434atets.aspx),
 it appears that the order of the columns in the destination table matters. In
-fact, without explicitly mapping columns using the <a
-href="http://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy.columnmappings.aspx">ColumnMappings</a>
+fact, without explicitly mapping columns using the [ColumnMappings](http://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy.columnmappings.aspx)
 property, the source and destination are matched by index, rather than column
 name. Thus if `Table1` is defined as `(Field1 varchar(10), Field2 varchar(10))`
 and it is loaded using `Object2 { string Field2; string Field1 }`, then the

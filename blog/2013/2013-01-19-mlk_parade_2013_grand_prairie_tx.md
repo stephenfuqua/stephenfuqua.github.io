@@ -62,6 +62,5 @@ together as brothers.
 ![children in the float](/images/mlkGP2013_2.jpg){: .img-fluid .border .rounded }
 
 [1] "Martin Luther King Jr. - Nobel Lecture: The Quest for Peace and Justice".
-Nobelprize.org. 19 Jan 2013 <a
-href="http://www.nobelprize.org/nobel_prizes/peace/laureates/1964/king-lecture.html">http://www.nobelprize.org/nobel_prizes/peace/laureates/1964/king-lecture.html</a>
+Nobelprize.org. 19 Jan 2013 [http://www.nobelprize.org/nobel_prizes/peace/laureates/1964/king-lecture.html](http://www.nobelprize.org/nobel_prizes/peace/laureates/1964/king-lecture.html)
 

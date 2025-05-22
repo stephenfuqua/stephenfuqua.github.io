@@ -25,15 +25,13 @@ In Texas, deregulation means that we have energy generators, transmitters, and
 dozens of providers that sit in between those two and the consumer. There can be
 significant differences in cost, customer service, and mixtures of power sources
 between hundreds of different plans. As a way of helping move people away from
-the companies with the worst power sources (e.g. coal), <a
-href="http://www.dallasinterfaith.org">Dallas Interfaith Power &amp; Light</a>
+the companies with the worst power sources (e.g. coal), [Dallas Interfaith Power &amp; Light](http://www.dallasinterfaith.org)
 (D-IPL) agreed to partner with the Sierra Club on a workshop about choosing a
 power provider. Truthfully, the <a href="http://texas.sierraclub.org/">Lone Star
 Sierra Club</a> did all of the work and D-IPL made a limited (due to our newness
 and availability) effort to get the word out.
 
-Meeting at the Dallas Central Library, we looked at <a
-href="http://www.powertochoose.org/">http://www.powertochoose.org/</a>,
+Meeting at the Dallas Central Library, we looked at [http://www.powertochoose.org/](http://www.powertochoose.org/),
 exploring the tools it provides for learning about power providers. The
 intention was to reach out to people who are more likely to be concerned about
 cost than about "green energy" - but, the two actually go hand-in-hand (it is

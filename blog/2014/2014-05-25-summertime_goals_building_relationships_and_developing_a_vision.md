@@ -19,7 +19,7 @@ climate change, the value of our park systems, the science of climate change,
 and more. Perhaps 100-150 people have attended, although our actual signed-in
 attendance count is 84 across all events.
 
-_Continue reading at the <a href="http://www.texasinterfaithcenter.org/blog/summertime-goals-building-relationships-and-developing-vision">Texas Interfaith Center for Public Policy</a>_.
+_Continue reading at the [Texas Interfaith Center for Public Policy](http://www.texasinterfaithcenter.org/blog/summertime-goals-building-relationships-and-developing-vision)_.
 
 {: .center-block }
 ![blurry and crisp

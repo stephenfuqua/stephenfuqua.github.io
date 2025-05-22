@@ -25,7 +25,7 @@ few comments</a> about this issue. They're instructive, but didn't solve my
 problem. I granted my proxy account full access to MsDtsServer, but still I get
 the denial.
 
-A <a href="http://blogs.digineer.com/blogs/jasons/">smart guy</a> once pointed
+A [smart guy](http://blogs.digineer.com/blogs/jasons/) once pointed
 out that the `dtexec` command line program shows more information about errors
 than the agent does, so in the Agent properties &rarr; my job &rarr; edit &rarr;
 Command Line tab, I copied the command line options. Then I opened up a command

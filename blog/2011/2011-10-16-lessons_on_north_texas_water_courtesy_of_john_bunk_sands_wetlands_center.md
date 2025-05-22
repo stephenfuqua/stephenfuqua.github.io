@@ -8,9 +8,8 @@ tags:
 - nature
 ---
 
-This <a
-href="http://www.google.com/search?q=texas+drought&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a">year's
-drought</a> has brought the stark reality of water availability front-and-center
+This [year's
+drought](http://www.google.com/search?q=texas+drought&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a) has brought the stark reality of water availability front-and-center
 in Texas. The state has faced droughts before &mdash; but by all accounts, this
 is one of the most severe, and the population continues to expand rapidly. Water
 is not entirely taken for granted in this state, especially in central and west
@@ -23,7 +22,7 @@ Wetlands Center</a>.
 
 <!--more-->
 
-<a href="http://www.alexsteffen.com/">Alex Steffen</a>, introducing the water
+[Alex Steffen](http://www.alexsteffen.com/), introducing the water
 segment of _World Changing, A User's Guide to the 21<sup>st</sup> Century_,
 describes our attitudes well when he writes that "&hellip; the need to measure
 and plan and remain constantly aware of our water use is real. Although we know
@@ -45,8 +44,7 @@ where one can learn about water-loving plants up close, watch for any of
 hundreds of species of birds, perhaps run into a river otter (or nutria), and
 one day, hopefully, American alligators.
 
-I had the pleasure of tagging along with the <a
-href="http://txmn.org/indiantrail/about/">Indian Trails Master Naturalist</a>
+I had the pleasure of tagging along with the [Indian Trails Master Naturalist](http://txmn.org/indiantrail/about/)
 group today, as the Center Director John DeFillipo gave a talk about the
 Wetlands Project. I already do what I can to conserve water, but it is out of an
 arms-length sense of civic duty more than a deep understanding of how North
@@ -93,6 +91,5 @@ the will to do so.
 {: .center-block }
 \***
 
-I've just confirmed &mdash; my local water comes from <a
-href="http://www.trinityra.org/default.asp?contentID=113">Joe Pool Lake</a>.
+I've just confirmed &mdash; my local water comes from [Joe Pool Lake](http://www.trinityra.org/default.asp?contentID=113).
 

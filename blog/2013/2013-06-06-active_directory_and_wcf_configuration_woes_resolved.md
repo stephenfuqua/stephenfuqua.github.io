@@ -61,9 +61,9 @@ to put the pieces together. Alone, none of them simply stated the required
 practice.
 
 <ul>
-<li><a href="http://msdn.microsoft.com/en-us/library/ff647503.aspx">Chapter 5: Authentication, Authorization, and Identities in WCF</a></li>
-<li><a href="http://technet.microsoft.com/en-us/library/cc780469(v=WS.10).aspx">What Is Kerberos Authentication?</a></li>
-<li><a href="http://msdn.microsoft.com/en-us/library/vstudio/bb463274(v=vs.100).aspx">Debugging Windows Authentication Errors</a></li>
+<li>[Chapter 5: Authentication, Authorization, and Identities in WCF](http://msdn.microsoft.com/en-us/library/ff647503.aspx)</li>
+<li>[What Is Kerberos Authentication?](http://technet.microsoft.com/en-us/library/cc780469(v=WS.10).aspx)</li>
+<li>[Debugging Windows Authentication Errors](http://msdn.microsoft.com/en-us/library/vstudio/bb463274(v=vs.100).aspx)</li>
 </ul>
 
 Between these  resources, I came to realize that:
@@ -74,7 +74,7 @@ Between these  resources, I came to realize that:
 	<li>Service1 (the client) was trying to find Service2 as identified by UPN asdf123@domain1, but in reality it was registered under asdf@domain2. That is, the wrong Kerberos token was being issued while searching for Service2.</li>
 	</ol>
 
-The solution? Simply specify the UPN identity in the config file (if using the auto-generated client proxy) or in code, using the <a href="http://technet.microsoft.com/en-us/library/cc783351%28v=ws.10%29.aspx">fully qualified domain name</a> (FQDN):
+The solution? Simply specify the UPN identity in the config file (if using the auto-generated client proxy) or in code, using the [fully qualified domain name](http://technet.microsoft.com/en-us/library/cc783351%28v=ws.10%29.aspx) (FQDN):
 
 ```xml
 <client>

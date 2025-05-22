@@ -61,10 +61,8 @@ of the role of women in society.
 {: .text-center }
 \***
 
-Review of <a
-href="http://www.bahaibookstore.com/productdetails.cfm?PC=7347">Advancement of
-Women: A Bah&aacute;'&iacute; Perspective</a>, by Janet A. Khan and Peter J.
-Khan. Published in 2003 by <a
-href="http://www.bahaibookstore.com/">Bah&aacute;'&iacute; Publishing</a>, 415
+Review of [Advancement of
+Women: A Bah&aacute;'&iacute; Perspective](http://www.bahaibookstore.com/productdetails.cfm?PC=7347), by Janet A. Khan and Peter J.
+Khan. Published in 2003 by [Bah&aacute;'&iacute; Publishing](http://www.bahaibookstore.com/), 415
 Linden Ave, Wilmette, IL 60091. No goods or services were received in return for
 this review.

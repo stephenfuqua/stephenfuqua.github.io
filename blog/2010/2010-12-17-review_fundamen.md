@@ -14,13 +14,11 @@ excerpt_separator: <!--more-->
 href="http://www.goodreads.com/book/show/4000313-fundamental-modeling-concepts"
 style="float: left; padding-right: 20px"><img alt="Fundamental Modeling
 Concepts: Effective Communication of IT Systems" border="0"
-src="http://photo.goodreads.com/books/1266448029m/4000313.jpg" /></a><a
-href="http://www.goodreads.com/book/show/4000313-fundamental-modeling-concepts">Fundamental
-Modeling Concepts: Effective Communication of IT Systems</a> by <a
-href="http://www.goodreads.com/author/show/1705367.Andreas_Knopfel">Andreas
-Knopfel</a><br/>
+src="http://photo.goodreads.com/books/1266448029m/4000313.jpg" /></a>[Fundamental
+Modeling Concepts: Effective Communication of IT Systems](http://www.goodreads.com/book/show/4000313-fundamental-modeling-concepts) by [Andreas
+Knopfel](http://www.goodreads.com/author/show/1705367.Andreas_Knopfel)<br/>
 
-My rating: <a href="http://www.goodreads.com/review/show/125379173">3 of 5 stars</a>
+My rating: [3 of 5 stars](http://www.goodreads.com/review/show/125379173)
 
 I have mixed feelings about this book. I've spent several years working
 diligently on my flow-charting capabilities, using what scan resources I could

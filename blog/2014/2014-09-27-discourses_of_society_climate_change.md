@@ -17,9 +17,8 @@ in Israel. November 2010.</small>
 
 A small group gathered at the Bah&aacute;'&iacute;­ Center of Irving last night
 in our second meeting on the _discourses of society_, reflecting on climate
-change. The <a
-href="http://www.safnet.com/archives/2014/08/contributing-to-the-discourses-of-society.html">first
-meeting</a> in the series was too much of a slide-based lecture, so for this
+change. The [first
+meeting](http://www.safnet.com/archives/2014/08/contributing-to-the-discourses-of-society.html) in the series was too much of a slide-based lecture, so for this
 second one we chose two videos and facilitated an open discussion. The
 conversation was robust, heartfelt, and meaningful &mdash; yet in reflection, it
 raises some key questions about how to have a productive, spiritually-oriented
@@ -42,7 +41,7 @@ stirred up conversation. A few of the points I took note of:
 <li>What incentives are used by governments to encourage proper sorting of garbage, recyclables, and even compost?</li>
 </ul>
 </li>
-<li>The educational system must teach kids about environmental concerns. This led us into a struggle to precisely remember <a href="http://reference.bahai.org/en/t/b/GWB/gwb-122.html">this quote</a>:
+<li>The educational system must teach kids about environmental concerns. This led us into a struggle to precisely remember [this quote](http://reference.bahai.org/en/t/b/GWB/gwb-122.html):
 <blockquote>
 "Regard man as a mine rich in gems of inestimable value. Education can, alone, cause it to reveal its treasures, and enable mankind to benefit therefrom."
 </blockquote>
@@ -63,14 +62,12 @@ action-oriented analysis? Another point of reflection: while several points were
 raised that touch on Bah&aacute;'&iacute;­ beliefs, the meeting should have been
 framed with a brief introduction that included the passages from the Universal
 House of Justice, which were cited in that first presentation, as well as at
-least one passage from Bah&aacute;'u'll&aacute;h, <a
-href="http://reference.bahai.org/en/t/b/GWB/gwb-106.html">such as</a>
+least one passage from Bah&aacute;'u'll&aacute;h, [such as](http://reference.bahai.org/en/t/b/GWB/gwb-106.html)
 
 > "Be anxiously concerned with the needs of the age ye live in, and center your
 > deliberations on its exigencies and requirements."
 
-Before closing, we watched the remarkable <a
-href="http://youtu.be/DJuRjy9k7GA">video presentation</a> of Kathy
+Before closing, we watched the remarkable [video presentation](http://youtu.be/DJuRjy9k7GA) of Kathy
 Jetnil-Kijiner's poem promising her baby that she and her fellow Marshall
 Islanders would not become climate refugees. It is perhaps the most evocative
 and stirring call to action that I have encountered. Following this, some of the

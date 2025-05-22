@@ -7,13 +7,12 @@ tags:
 - living
 ---
 
-Perhaps tomorrow or another day soon I shall extol with <a
-href="http://www.juliandibbell.com/texts/feed_blogger.html">melodrama</a> on the
-virtues of blogging and my sudden embrace (see <a
-href="http://www.kottke.org/about/index.html">#7</a>) of the medium. But not
-this day. This day I shall speak of loss and of hope.
+Perhaps tomorrow or another day soon I shall extol with
+[melodrama](http://www.juliandibbell.com/texts/feed_blogger.html) on the virtues
+of blogging and my sudden embrace of the medium. But not this day. This day I
+shall speak of loss and of hope.
 
-I am by nature a <a href="http://en.wikipedia.org/wiki/Stoic">Stoic</a>. Thus it
+I am by nature a [Stoic](http://en.wikipedia.org/wiki/Stoic). Thus it
 is not often that I shed a few tears twice in 24 hours.
 
 ## 1
@@ -26,13 +25,13 @@ woman she could be &mdash; a friend to all, dispensing wisdom, advice, life
 skills, perhaps a few too many stories...
 
 She was a Southerner through and through, growing up in East Texas. Her father
-as a county judge helped build one of the first schools in Texas <a
-href="http://www.rosenwaldschools.com/">for African American children</a>. She
-had more than the usual number of black friends and acquaintances, yet never
-batted her eye at the fact that she used to employ a black housekeeper whom she
-refused to invite to her son's wedding. We never could break her from the habit
-of calling African Americans "nigras," which in her mind was quite a different
-word from that one of which you are now thinking.
+as a county judge helped build one of the first schools in Texas [for African
+American children](https://www.rosenwaldschools.com). She had more than the
+usual number of black friends and acquaintances, yet never batted her eye at the
+fact that she used to employ a black housekeeper whom she refused to invite to
+her son's wedding. We never could break her from the habit of calling African
+Americans "nigras," which in her mind was quite a different word from that one
+of which you are now thinking.
 
 She was the first of her family to receive a college degree. She worked as a
 teacher, a social worker, a chemist (during The War). She was very talented, and
@@ -53,10 +52,8 @@ father's day, Granddaddy &mdash; Grandma's here to see you.
 
 ## 2
 
-This morning <a
-href="http://www.cnn.com/2004/TECH/space/06/21/suborbital.test/index.html">history</a>
-was made as <a
-href="http://www.scaled.com/projects/tierone/index.htm">SpaceShipOne</a> left
+This morning [history](http://www.cnn.com/2004/TECH/space/06/21/suborbital.test/index.html)
+was made as [SpaceShipOne](http://www.scaled.com/projects/tierone/index.htm) left
 the atmosphere, floating 400 ft. beyond the internationally-recognized boundary
 of space. It was a triumphant moment that, as I watched the White Knight soar
 into the troposphere, brought a few tears of joy and amazement to momentarily

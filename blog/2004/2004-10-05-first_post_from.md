@@ -7,6 +7,5 @@ tags:
 - living
 ---
 
-Brief post... first one from the job I started today at <a
-href="http://www.augeomarketing.com">Augeo Affinity Marketing</a>. Title: Data
+Brief post... first one from the job I started today at [Augeo Affinity Marketing](http://www.augeomarketing.com). Title: Data
 Analyst/Programmer. More details later.

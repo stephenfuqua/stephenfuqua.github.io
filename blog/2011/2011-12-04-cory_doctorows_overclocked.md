@@ -9,8 +9,7 @@ tags:
 
 _Overclocked, Stories of the Future Present_, is worth buying. But you don't
 have to, thanks to the fact that Doctorow made it available under a Creative
-Commons license, and you can <a
-href="http://craphound.com/overclocked/download/">download it for free</a>.
+Commons license, and you can [download it for free](http://craphound.com/overclocked/download/).
 These are incredible short stories, standing up with the best of Bradbury and
 Gaiman (my favorite short story authors). _When Sysadmins Ruled the Earth_ was
 gut-wrenching, at least for this former sysadmin. _I, Row Boat_ manages to

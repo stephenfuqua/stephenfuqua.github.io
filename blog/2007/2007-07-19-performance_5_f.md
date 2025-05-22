@@ -10,9 +10,8 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-_This article is part of the series <a
-href="/archive/2007/06/25/an_exercise_in/">An Exercise in Performance Tuning
-in C#.Net</a>_.
+_This article is part of the series [An Exercise in Performance Tuning
+in C#.Net](/archive/2007/06/25/an_exercise_in/)_.
 
 It's time to stop ignoring the 800 pound gorilla in the room: `System.String`.
 Scrolling all the way over in the Allocation Graph, it is clear that strings

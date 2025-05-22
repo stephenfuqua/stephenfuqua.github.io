@@ -11,7 +11,7 @@ _Down and Out in the Magic Kingdom_ by Cory Doctorow is what happens when a
 classic geek extrapolates the cyberpunk future of a reputation-based economy
 combined with the extrusion of an open source ethos into the management of
 everyday affairs, tosses in immortality and lean project management, and sets it
-all in the context of the semi-religious experience of Disney World. 
+all in the context of the semi-religious experience of Disney World.
 
 <!--more-->
 
@@ -49,6 +49,5 @@ to realize the failings of the society he has embraced.
 The book is only 208 pages, so give it a shot. See the present and the future in
 a different light. Consider the implications of technology for humanity while
 having a heck of a ride. Stands shoulder-to-shoulder with the best Sci Fi
-around. Buy it, check it out at a library, or <a
-href="http://craphound.com/down/download.php">download _Down and Out in the
-Magic Kingdom_ for free</a>.
+around. Buy it, check it out at a library, or [download _Down and Out in the
+Magic Kingdom_ for free](http://craphound.com/down/download.php).

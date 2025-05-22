@@ -9,9 +9,8 @@ tags:
 ---
 
 I've been reading a great deal about ecology and conservation biology lately,
-and thus found the article <a
-href="http://windsofchange.net/archives/005533.php">Ecolonomics: Valuing
-Forests</a> quite timely. Of course it is an intriguing article whether or not
+and thus found the article [Ecolonomics: Valuing
+Forests](http://windsofchange.net/archives/005533.php) quite timely. Of course it is an intriguing article whether or not
 one has been reading up on the subject, and I recommend it even more to those
 who _haven't_ been doing so.
 
@@ -26,9 +25,8 @@ forest system (for example) in order to properly weigh its economic benefits in
 comparison with alternate uses for its resources? More specifically, the article
 presumes that we are already putting a value to the forest's products (primarily
 wood) and goes on to look at the services provided by that forest, with several
-lucid examples. The whole is inspired by the book <a
-href="http://earth-policy.org/Books/Eco/index.htm">Eco-Economy: Building an
-Economy for the Earth</a>.
+lucid examples. The whole is inspired by the book [Eco-Economy: Building an
+Economy for the Earth](http://earth-policy.org/Books/Eco/index.htm).
 
 The article closes on a strong point of considering the free market system
 (after all, this about modern neoliberal economics). My version of this point:

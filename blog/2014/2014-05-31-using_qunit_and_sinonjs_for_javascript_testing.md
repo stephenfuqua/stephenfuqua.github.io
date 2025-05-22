@@ -32,11 +32,11 @@ accept that in JavaScript?
 
 Thankfully plenty of others agree and some smart developers have provided the
 necessary tools. Somewhat arbitrarily, I've decided to focus my efforts on
-learning to test with <a href="http://qunitjs.com/">QUnit</a> as my test runner
-and <a href="http://sinonjs.org/">SinonJS</a> as a mocking framework. Although I
-like <a href="http://www.jqueryui.com">jQuery UI</a> well enough, I generally
-like the widgets in <a href="http://www.telerik.com/kendo-ui">Kendo UI</a>
-better (<a href="http://jqueryuivskendoui.com/">comparison</a>). So, with those
+learning to test with [QUnit](http://qunitjs.com/) as my test runner
+and [SinonJS](http://sinonjs.org/) as a mocking framework. Although I
+like [jQuery UI](http://www.jqueryui.com) well enough, I generally
+like the widgets in [Kendo UI](http://www.telerik.com/kendo-ui)
+better ([comparison](http://jqueryuivskendoui.com/)). So, with those
 tools chosen, let's demonstrate a simple unit test on a function that opens a
 dialog box using <a href="http://demos.telerik.com/kendo-ui/window/index">Kendo
 Window</a>.
@@ -87,7 +87,7 @@ we'll create a test fixture ("module" in QUnit terms) and a few global
 variables. This article will only demonstrate one test, and thus the fixture is
 not strictly necessary. But let's use it just for completeness.
 
-Although I'm normally a fan of mocks over other types of fake objects, I found 
+Although I'm normally a fan of mocks over other types of fake objects, I found
 that creating mocks on Kendo objects is just not worth it &mdash; they require
 far too much effort to setup method chaining and the .data() command. Spies, on
 the other hand, allow us to simply ask if particular methods were actually
@@ -163,13 +163,12 @@ Was it worth it? Maybe not in this specific example, but at work I had a more
 complex situation, combining a couple of different Kendo widgets. **And the test
 actually exposed a bug. Win.** It took embarrassingly long to come up with this
 simple test, due to my long detour through trying to use SinonJS mocks. I think
-I'll stay aware from them. As a next step, I might try out the suggestions in <a
-href="http://www.nathandavison.com/article/17/using-qunit-and-requirejs-to-build-modular-unit-tests">Using
-QUnit and Require.js to build modular unit tests</a>. In addition to the QUnit
+I'll stay aware from them. As a next step, I might try out the suggestions in [Using
+QUnit and Require.js to build modular unit tests](http://www.nathandavison.com/article/17/using-qunit-and-requirejs-to-build-modular-unit-tests). In addition to the QUnit
 and SinonJS documentation linked above, I want to give a shout-out to these
 articles:
 
 <ul>
-    <li><a href="http://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/">Unit Test Like a Secret Agent with Sinon JS</a></li>
-    <li><a href="http://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx">Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step</a></li>
+    <li>[Unit Test Like a Secret Agent with Sinon JS](http://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/)</li>
+    <li>[Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step](http://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx)</li>
 </ul>

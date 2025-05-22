@@ -11,9 +11,8 @@ tags:
 As an active Bah&aacute;'&iacute; on campus in the mid-to-late 90's, I often
 found myself engaged in intriguing but sometimes pointless discussions with
 various Christians. The Bah&aacute;'&iacute; Faith, progressing from an Islamic
-milieu, shares a good deal of religious worldview with that faith. Thus in <a
-href=" http://underprogress.blogs.com/weblog/2004/08/a_small_note_on.html">"A
-note on Muslim-Christian dialogue"</a> one could almost directly substitute the
+milieu, shares a good deal of religious worldview with that faith. Thus in ["A
+note on Muslim-Christian dialogue"]( http://underprogress.blogs.com/weblog/2004/08/a_small_note_on.html) one could almost directly substitute the
 Bah&aacute;'&iacute; Faith for Islam.
 
 <!--more-->

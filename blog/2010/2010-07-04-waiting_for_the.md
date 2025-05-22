@@ -8,9 +8,8 @@ tags:
 - religion
 ---
 
-A <a
-href="http://pewforum.org/Politics-and-Elections/Many-Americans-Uneasy-with-Mix-of-Religion-and-Politics.aspx">Pew
-Forum poll</a> a few years ago included the following analysis: "Finally, while
+A [Pew
+Forum poll](http://pewforum.org/Politics-and-Elections/Many-Americans-Uneasy-with-Mix-of-Religion-and-Politics.aspx) a few years ago included the following analysis: "Finally, while
 an overwhelming percentage of Christians (79%) say they believe in the second
 coming of Jesus Christ, far fewer see Christ's return as imminent. Overall just
 20% of all Christians expect Christ to return to earth in their lifetime; even
@@ -19,7 +18,7 @@ Christ to return to earth in their lifetime."
 
 <!--more-->
 
-I imagine the poll's questions gave three options, something like: Do you believe that Christ will return to Earth... 
+I imagine the poll's questions gave three options, something like: Do you believe that Christ will return to Earth...
 
 <ol>
 <li>Within your lifetime?</li>
@@ -39,7 +38,7 @@ layman's reading of the Gospels, I picked up on several points:
 <li>He certainly warned his followers not to be deceived by false prophets (Mark 13:21-23)</li>
 <li>He would come in the clouds "with great power and glory" (Mark 13:26),
 	<ul>
-		<li>But what is "power and glory"? Did not the Jews also expect the Messiah in "power and glory"? (Daniel 7:13-14)</li>		
+		<li>But what is "power and glory"? Did not the Jews also expect the Messiah in "power and glory"? (Daniel 7:13-14)</li>
 	</ul>
 </li>
 <li>His coming would be at an unexpected hour (Luke 12:39-40)</li>

@@ -9,8 +9,7 @@ tags:
 ---
 
 We got up this morning with merely grudging acceptance of the breakfast we
-planned on attending &mdash; an introduction to the <a
-href="http://www.valleyranch.org">Valley Ranch</a> home owners association and
+planned on attending &mdash; an introduction to the [Valley Ranch](http://www.valleyranch.org) home owners association and
 committees, for new home owners. We left the meeting feeling excited and
 optimistic. We already knew that it was a good, "master planned," neighborhood.
 Now we feel more confident that it has a bright future as well, one that

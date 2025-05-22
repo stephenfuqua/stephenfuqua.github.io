@@ -7,8 +7,7 @@ tags: [tech, Linux]
 excerpt_separator: <!--more-->
 ---
 
-I find that Red Hat Linux (<a
-href="http://www.redhat.com/solutions/migration/rhl/">now defunct</a>) is fairly
+I find that Red Hat Linux ([now defunct](http://www.redhat.com/solutions/migration/rhl/)) is fairly
 secure by default, but could use a bit of tweaking. This is the first of a
 series of notes on optimizing and improving security in Linux. Some items may be
 specific to Red Hat, but most of these notes will be applicable to all systems.

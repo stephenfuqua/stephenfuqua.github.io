@@ -39,14 +39,10 @@ help technical support troubleshoot issues as they arise.
 ## Code
 
 Write code that is logical, consistent, and well ordered. In other words,
-utilize basic design principles and patterns - <a
-href="https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29">high
-cohesion</a>, <a
-href="https://en.wikipedia.org/wiki/Coupling_%28computer_science%29">low
-coupling</a>, short methods (max 100 lines?), readable / <a
-href="https://stackoverflow.com/questions/209015/what-is-self-documenting-code-and-can-it-replace-well-documented-code">self-documenting
-names</a>, etc . Avoid <a
-href="https://en.wikipedia.org/wiki/Spaghetti_code">spaghetti code</a>; even
+utilize basic design principles and patterns - [high
+cohesion](https://en.wikipedia.org/wiki/Cohesion_%28computer_science%29), [low
+coupling](https://en.wikipedia.org/wiki/Coupling_%28computer_science%29), short methods (max 100 lines?), readable / [self-documenting
+names](https://stackoverflow.com/questions/209015/what-is-self-documenting-code-and-can-it-replace-well-documented-code), etc . Avoid [spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code); even
 languages with full support for methods and classes can suffer when those
 methods are large, poorly described, and stitched together in a haphazard
 fashion. Why? Because these all make it easier for the next person &mdash; even
@@ -57,12 +53,10 @@ avoid bugs during initial development.
 
 Although on the surface these two forms of communication &mdash; "plain English"
 (Spanish, Tagalog, etc) and code &mdash; seem very different, this _coherence_
-principle shows us strong parallels between them. <a
-href="http://wiki.c2.com/?DontRepeatYourself">Do not repeat yourself</a>, in
+principle shows us strong parallels between them. [Do not repeat yourself](http://wiki.c2.com/?DontRepeatYourself), in
 its essence, applies equally in regular written (less so spoken) communication
-as in code. <a
-href="https://blog.codinghorror.com/curlys-law-do-one-thing/">Curly's
-Law: Do One Thing</a> is helpful in code, and helpful in writing. After all, you
+as in code. [Curly's
+Law: Do One Thing](https://blog.codinghorror.com/curlys-law-do-one-thing/) is helpful in code, and helpful in writing. After all, you
 don't want a paragraph, or its verbal equivalent, covering multiple subjects at
 once. That's just a variation on cohesion; well expressed thoughts should be
 logically grouped together, with clear transitions from one subject to another.
@@ -74,19 +68,19 @@ Again, that is true of both code and verbal/written language. And so on it goes.
 
 <ul>
 <li>
-<a href="https://en.wikipedia.org/wiki/The_Mythical_Man-Month">The Mythical Man-Month</a>, particularly chapter 7, _Why  Did the Tower of Babel Fail?_
+[The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), particularly chapter 7, _Why  Did the Tower of Babel Fail?_
 <blockquote>
 Where did they lack? In two respects &mdash; communication, and its consequent, organization. They were unable to talk with each other; hence they could not coordinate. When coordination failed, work ground to a halt. Reading between the lines we gather that lack of communication led to disputes, bad feelings, and group jealousies. Shortly the clans began to move apart, preferring isolation to wrangling.
 </blockquote>
 </li>
-<li><a href="https://books.google.com/books/about/Clean_Code.html?id=_i6bDeoCQzsC">Clean Code: A Handbook of Agile Software Craftsmanship</a> </li>
-<li><a href="https://books.google.com/books?id=3JfE7TGUwvgC&dq=Code+Complete">Code Complete</a>, part VII in general, section 33.5 in particular.</li>
+<li>[Clean Code: A Handbook of Agile Software Craftsmanship](https://books.google.com/books/about/Clean_Code.html?id=_i6bDeoCQzsC) </li>
+<li>[Code Complete](https://books.google.com/books?id=3JfE7TGUwvgC&dq=Code+Complete), part VII in general, section 33.5 in particular.</li>
 </ul>
 ### Articles
 <ul>
-<li><a href="https://www.joelonsoftware.com/articles/CollegeAdvice.html">Advice for Computer Science College Students</a> (Joel on Software). Item 1: "Learn how to write before graduating. "</li>
-<li><a href="https://blog.codinghorror.com/how-to-write-without-writing/">How to Write Without Writing</a></li>
-<li><a href="https://www.javacodegeeks.com/2011/10/on-importance-of-communication-in.html">On the importance of communication in the workplace</a></li>
+<li>[Advice for Computer Science College Students](https://www.joelonsoftware.com/articles/CollegeAdvice.html) (Joel on Software). Item 1: "Learn how to write before graduating. "</li>
+<li>[How to Write Without Writing](https://blog.codinghorror.com/how-to-write-without-writing/)</li>
+<li>[On the importance of communication in the workplace](https://www.javacodegeeks.com/2011/10/on-importance-of-communication-in.html)</li>
 </ul>
 
 ### Related posts from this blog

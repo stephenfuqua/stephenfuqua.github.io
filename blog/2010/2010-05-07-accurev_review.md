@@ -9,7 +9,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-I've been using <a href="http://www.accurev.com">AccuRev</a>, including
+I've been using [AccuRev](http://www.accurev.com), including
 AccuBridge integration in Visual Studio, for close on two years now. And I like
 it. I don't know anything about the licensing fees, but for the enterprise that
 is interested in spending some money, it is certainly a good option. So, for
@@ -42,8 +42,7 @@ stumble across this site, here are a few points to consider:
 
 <ol>
 <li>
-It seems natural to setup <a
-href="http://www.accurev.com/whitepaper/stream_based_architecture.htm">streams</a>
+It seems natural to setup [streams](http://www.accurev.com/whitepaper/stream_based_architecture.htm)
 that follow a typical development lifecycle, i.e. a Development stream linked to
 a QA stream, perhaps to an Acceptance stream and then to Production. This way
 you can always get a snapshot of the code as it exists in your different

@@ -18,9 +18,8 @@ fact, I may swear off its use entirely. Why? Two reasons: (1) performance, and
 ## Performance
 
 Iterating through a collection using `foreach` is slower than with `for`. I
-can't remember where I first learned that, perhaps in <a
-href="http://msdn.microsoft.com/en-us/library/ms998547.aspx">Patterns &amp;
-Practices: Improving .Net Application Performance</a>. Maybe it was from
+can't remember where I first learned that, perhaps in [Patterns &amp;
+Practices: Improving .Net Application Performance](http://msdn.microsoft.com/en-us/library/ms998547.aspx). Maybe it was from
 personal experience. How much slower? Well, I suppose that depends on your
 particular circumstances. Here are a few interesting references:
 
@@ -35,8 +34,7 @@ particular circumstances. Here are a few interesting references:
 
 ## Predictability
 
-I was looking at the C# Reference entry for <a
-href="http://msdn.microsoft.com/en-us/library/ttw7t8t6(VS.80).aspx">foreach</a>
+I was looking at the C# Reference entry for [foreach](http://msdn.microsoft.com/en-us/library/ttw7t8t6(VS.80).aspx)
 today and noticed this for the first time (italics added by me):
 
 > The **foreach** statement is used to iterate through the collection to get the
@@ -49,9 +47,8 @@ What's that all about? Let's take this as an example:
 foreach(MyClass myObj in List<MyClass>)
 ```
 
-Looking deeper into the <a
-href="http://msdn.microsoft.com/en-us/library/ms228593(VS.80).aspx">C# Language
-Specification</a>... the iteration variable is supposed to be read-only, though
+Looking deeper into the [C# Language
+Specification](http://msdn.microsoft.com/en-us/library/ms228593(VS.80).aspx)... the iteration variable is supposed to be read-only, though
 apparently that doesn't stop you from updating a property of an object. Thus for
 instance it would be illegal to assign a new value to `myObj`, but not to assign
 a new value to `myObj.MyProperty`.

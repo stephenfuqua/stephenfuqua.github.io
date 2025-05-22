@@ -8,9 +8,8 @@ tags:
 - nature
 ---
 
-The Times has a special feature about <a
-href="http://documents.nytimes.com/charles-darwin-on-the-origin-of-species?ref=science#annotation/a0">On
-the Origin of Species</a>, including annotations from various Scientists
+The Times has a special feature about [On
+the Origin of Species](http://documents.nytimes.com/charles-darwin-on-the-origin-of-species?ref=science#annotation/a0), including annotations from various Scientists
 commenting on favorite passages. The first annotation is by the famous
 primatologist Frans de Waal, who comments one of the passages that struck my
 interest when I read the book earlier this year:

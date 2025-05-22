@@ -21,8 +21,7 @@ practical examples.
 <!--more-->
 
 Fast forward: working on an application at home, and started the data layer. I
-was reminded that I am annoyed the fact that <a
-href="http://msdn.microsoft.com/en-us/library/system.data.idatareader.aspx">IDataReader</a>
+was reminded that I am annoyed the fact that [IDataReader](http://msdn.microsoft.com/en-us/library/system.data.idatareader.aspx)
 does not have a `GetString(colName: string)` method (or other data types).
 Instead, you must use `reader.GetString(reader.GetOrdinal(colName))`. And you
 must watch out for null values. Suddenly struck me that this would be a good

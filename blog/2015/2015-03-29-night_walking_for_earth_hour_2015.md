@@ -10,8 +10,7 @@ tags:
 
 ![photo of the moon over water](/images/MoonOverGulf.JPG){: .float-right .border .rounded }
 
-Last night we turned off the lights early for <a
-href="http://www.earthhour.org/">Earth Hour</a>, and went outside for a good
+Last night we turned off the lights early for [Earth Hour](http://www.earthhour.org/), and went outside for a good
 long walk through the neighborhood and on the nearby CampiÃ³n Trail.
 
 The photo at right is nearly three years old, and represents one of the last
@@ -42,6 +41,5 @@ Elm Fork of the Trinity River.
 
 Still, it was a delight to be out on a warm spring evening, enjoying a light
 breeze and the moonlight. Even the tragedy of human folly could not take that
-away. If only I had time to advocate for a <a
-href="http://texasida.org/LocalOrdinances.htm">dark skies program</a> in
+away. If only I had time to advocate for a [dark skies program](http://texasida.org/LocalOrdinances.htm) in
 Irving...

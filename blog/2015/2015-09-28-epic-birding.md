@@ -26,7 +26,7 @@ Concerned about the quality of the water, and needing an outlet to lower
 the river's <a href="http://www.trinityrivercorridor.com/resources/history-dallas-floodway-extension.html">flood
 levels near downtown</a>,
 someone decided to do something. The City took over the courses, much to the
-unfortunate <a href="http://www.golfclubatlas.com/forum/index.php?topic=7170.0">owner's chagrin</a>,
+unfortunate [owner's chagrin](http://www.golfclubatlas.com/forum/index.php?topic=7170.0),
 and partnered with experts to remake the land. Where fairways once stood, now
 wetland ponds flow, further cleaning the already-treated waters. The greens
 were pulled up and natives plants installed, leading to a beautiful
@@ -35,9 +35,9 @@ renaissance of prairie grasses, wildflowers, and their marshy kin too.
 <p>
 And the animals, driven out by human development, returned to the land.
 Especially the birds. And people returned as well, to fish and hike - and
-to count the birds. <a href="http://ebird.org/ebird/hotspot/L1161887">158 different species</a>
+to count the birds. [158 different species](http://ebird.org/ebird/hotspot/L1161887)
 were seen in four years of observations, tallied by
-<a href="http://tx.audubon.org/trinity-bird-count-0">diligent volunteers</a>.
+[diligent volunteers](http://tx.audubon.org/trinity-bird-count-0).
 </p>
 <p>
 But how many volunteers, and how many hours have they put into monitoring
