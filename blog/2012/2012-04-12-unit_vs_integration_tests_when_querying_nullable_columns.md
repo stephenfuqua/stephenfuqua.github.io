@@ -7,7 +7,7 @@ tags:
 - programming
 - dotnet
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Here&rsquo;s an interesting scenario: I have a Linq-to-Entities query that is

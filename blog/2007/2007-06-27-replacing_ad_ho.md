@@ -3,7 +3,7 @@ title: Replacing Ad Hoc Query Text When Fields Change
 date: '2007-06-27 17:10:47 -0500'
 slug: replacing_ad_ho
 tags: [tech, database, sql-server]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Situation:** We have a stored procedure running a query whose `WHERE` clause is

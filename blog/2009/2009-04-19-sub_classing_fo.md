@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 A few months after I first purchased it, I am still reading [xUnit Test Patterns](http://xunitpatterns.com/). Been reading a few

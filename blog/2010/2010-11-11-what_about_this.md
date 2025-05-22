@@ -6,7 +6,7 @@ tags:
 - tech
 - sdlc
 - agile
-excerpt_separator: <!-- truncate -->
+
 ---
 
 A friend just wrote to me, asking about agile. He's been seeing software job

@@ -5,7 +5,7 @@ slug: traceability
 tags:
 - tech
 - sdlc
-excerpt_separator: <!-- truncate -->
+
 ---
 
 _Postscript November 2020: from the days in which I was not allowed to practice

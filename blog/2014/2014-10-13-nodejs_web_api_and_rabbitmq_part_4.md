@@ -7,7 +7,7 @@ tags:
 - programming
 - javascript
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 ![a passing test](/images/nodeToRabbitGreen.png){: .float-right }

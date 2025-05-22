@@ -3,7 +3,7 @@ title: AJAX RESPONSE Parsing Exception
 date: '2007-08-08 15:27:13 -0500'
 slug: ajax_response_p
 tags: [tech, dotnet]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** In newly AJAX-enabled .Net 2.0 page, buttons that redirect user to

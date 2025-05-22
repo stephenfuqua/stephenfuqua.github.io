@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** using [Application

@@ -7,7 +7,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** SSIS 2005 (actually, Microsoft SQL Server Business Intelligence

@@ -3,7 +3,7 @@ title: Atom and Visual Studio Code, JavaScript Perspective
 date: 2015-05-27
 slug: atom_and_visual_studio_code
 comments: true
-tags: [tools]
+tags: [programming, tech]
 ---
 
 Does [Visual Studio Code](https://code.visualstudio.com/) measure up to its close kin, [Atom](https://atom.io/)?

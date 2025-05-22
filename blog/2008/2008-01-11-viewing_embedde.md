@@ -5,7 +5,7 @@ slug: viewing_embedde
 tags:
 - tech
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem**: you have image data from an HTML e-mail, but don't know what to do

@@ -3,7 +3,7 @@ title: Threading Links
 date: '2007-07-18 14:08:30 -0500'
 slug: threading_links
 tags: [tech, dotnet]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I don't often have cause to use threading. In fact, I've found that it sometimes

@@ -3,7 +3,7 @@ title: WindowsXP Service Pack 2 Warning
 date: '2004-08-05 10:47:51 -0500'
 slug: windowsxp_servi
 tags: [tech, Windows]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 In the next day or two Microsoft will come out with its long-heralded, major

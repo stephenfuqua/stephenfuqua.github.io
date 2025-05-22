@@ -7,7 +7,7 @@ tags:
 - architecture
 - dotnet
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 GitHub CoPilot recently promoted [Agent mode as a full

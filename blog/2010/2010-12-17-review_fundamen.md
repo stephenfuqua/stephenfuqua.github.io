@@ -6,7 +6,7 @@ tags:
 - tech
 - architecture
 - books
-excerpt_separator: <!-- truncate -->
+
 ---
 
 <a

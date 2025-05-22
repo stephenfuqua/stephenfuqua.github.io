@@ -5,7 +5,7 @@ slug: using_windows_cnames_to_reduce_server_confusion
 tags:
 - tech
 - Windows
-excerpt_separator: <!-- truncate -->
+
 ---
 
 A common challenge for development teams is remembering the names for all of the

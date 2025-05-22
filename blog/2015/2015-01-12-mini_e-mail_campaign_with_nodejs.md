@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - javascript
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Over the weekend I had what at first appeared to be a small challenge: send out

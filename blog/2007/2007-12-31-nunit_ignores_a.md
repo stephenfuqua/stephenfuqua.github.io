@@ -3,7 +3,7 @@ title: NUnit Ignores App.Config
 date: '2007-12-31 12:00:41 -0600'
 slug: nunit_ignores_a
 tags: [tech, dotnet, testing]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** You want to run NUnit tests in a class library (dll). These test

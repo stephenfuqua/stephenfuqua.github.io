@@ -3,7 +3,7 @@ title: An Exercise in Performance Tuning in C#.Net
 date: '2007-06-25 19:59:27 -0500'
 slug: an_exercise_in
 tags: [tech, dotnet]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** Your application is slow. Horribly slow. And that just isn't

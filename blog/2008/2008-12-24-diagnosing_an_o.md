@@ -7,7 +7,7 @@ tags:
 - dotnet
 - sql-server
 - performance
-excerpt_separator: <!-- truncate -->
+
 ---
 
 We had a horribly pernicious timeout problem recently. It was occurring in a
@@ -46,7 +46,7 @@ timed out again.
 
 I suddenly remembered that the difficult query is in reporting services, rather
 than in the application. So why was the application throwing a timeout message
-anyway? The problem lay with Reporting Services, due to [ dynamic
+anyway? The problem lay with Reporting Services, due to [dynamic
 compilation](http://msdn.microsoft.com/en-us/library/ms366723.aspx). I'll let Microsoft describe dynamic compilation of ASP.Net
 websites (and web services), which includes Reporting Services:
 

@@ -3,7 +3,7 @@ title: Ignoring SSIS Data Conversion Failures
 date: '2007-08-17 20:39:51 -0500'
 slug: ignoring_ssis_d
 tags: [tech, database, sql-server, ssis]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** In SQL Server Integration Services (SSIS), you're trying to import

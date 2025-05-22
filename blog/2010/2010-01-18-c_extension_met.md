@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 My team often starts Tuesday morning status meetings with a round of

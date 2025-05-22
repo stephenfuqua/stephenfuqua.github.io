@@ -6,7 +6,7 @@ tags:
 - tech
 - sdlc
 - agile
-excerpt_separator: <!-- truncate -->
+
 ---
 
 A co-worker overheard the comment that "agile [software development] is not

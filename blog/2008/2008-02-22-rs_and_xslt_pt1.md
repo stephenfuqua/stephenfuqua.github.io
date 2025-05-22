@@ -6,7 +6,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!-- truncate -->
+
 ---
 
 It was driving me nuts &mdash; my transforms just wouldn't apply. I tried

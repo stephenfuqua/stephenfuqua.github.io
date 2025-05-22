@@ -6,7 +6,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** You have a long-running query in SQL Server that is causing failures

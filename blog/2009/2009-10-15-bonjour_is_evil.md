@@ -5,7 +5,7 @@ slug: bonjour_is_evil
 tags:
 - tech
 - Windows
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I'm a FireFox user, so it was only a slight inconvenience: for months Internet

@@ -1,7 +1,7 @@
 ---
 title: Tools for Engineering New Managers
 date: 2024-12-31
-excerpt_separator: <!-- truncate -->
+
 tags:
 - books
 - meta

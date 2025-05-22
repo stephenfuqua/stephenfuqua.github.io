@@ -3,7 +3,7 @@ title: Passing Objects Does Not Require 'ref'
 date: '2007-10-02 16:05:21 -0500'
 slug: passing_objects
 tags: [tech, dotnet]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I'm willing to admit that I made a mistake, and I share this now for your

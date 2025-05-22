@@ -3,7 +3,7 @@ title: Minnesota Cold
 date: 2004-10-17
 slug: minnesota_cold
 tags:
-- general
+- living
 ---
 
 Its 39&deg; F outside on October 17, 2004 in Saint Paul, Minnesota. One

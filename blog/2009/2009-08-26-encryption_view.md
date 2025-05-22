@@ -7,7 +7,7 @@ tags:
 - database
 - sql-server
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** You have an table with encrypted columns. In the ADO.Net Entity

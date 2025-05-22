@@ -6,7 +6,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!-- truncate -->
+
 ---
 
 "global temporary tables are visible to all sessions," says the [MSDN

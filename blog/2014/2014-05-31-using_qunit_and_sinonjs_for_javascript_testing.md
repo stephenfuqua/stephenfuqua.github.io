@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - javascript
-excerpt_separator: <!-- truncate -->
+
 ---
 
 ![QUnit + SinonJS logos](/images/qunitPlusSinonJs.png){: .float-right}

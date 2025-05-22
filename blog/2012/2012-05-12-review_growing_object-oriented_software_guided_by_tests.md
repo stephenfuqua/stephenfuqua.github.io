@@ -8,7 +8,7 @@ tags:
 - testing
 - books
 - agile
-excerpt_separator: <!-- truncate -->
+
 ---
 
 [_Growing Object-Oriented Software, Guided by Tests_](http://www.growing-object-oriented-software.com/)

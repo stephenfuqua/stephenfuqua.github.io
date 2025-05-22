@@ -7,7 +7,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** periodically, one of my SSIS packages was throwing an error saying

@@ -6,7 +6,7 @@ tags:
 - tech
 - sdlc
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Stephen's first law of diagnosing problems in production should have been: make

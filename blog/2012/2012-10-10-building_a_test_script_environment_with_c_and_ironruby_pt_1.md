@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 We build a lot of console applications, and Windows services, that process

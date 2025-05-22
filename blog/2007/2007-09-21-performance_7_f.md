@@ -3,7 +3,7 @@ title: 'Performance #7: An (unsafe) Dead End'
 date: '2007-09-21 09:25:17 -0500'
 slug: performance_7_f
 tags: [tech, dotnet, performance]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 _This article is part of the series [An Exercise in Performance Tuning in

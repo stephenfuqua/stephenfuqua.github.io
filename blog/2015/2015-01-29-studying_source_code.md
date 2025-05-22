@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I've been misunderstanding .NET's List<T> for years.

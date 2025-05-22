@@ -5,7 +5,7 @@ comments: true
 tags:
 - programming
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 In [Unpopular Opinion: It’s harder than ever to be a good software

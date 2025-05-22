@@ -7,7 +7,7 @@ tags:
 - programming
 - javascript
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Many social websites, and web-based applications, have a notification process

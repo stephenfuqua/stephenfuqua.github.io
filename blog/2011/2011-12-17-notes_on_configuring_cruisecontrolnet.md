@@ -7,7 +7,7 @@ tags:
 - dotnet
 - programming
 - devops
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Recently I began carving out some time for using CruiseControl.Net in earnest.

@@ -7,7 +7,7 @@ tags:
   - tech
   - programming
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"

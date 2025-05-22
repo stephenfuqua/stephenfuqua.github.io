@@ -7,7 +7,7 @@ tags:
 - programming
 - dotnet
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Historically I've advocated naming test methods after the method under test, in

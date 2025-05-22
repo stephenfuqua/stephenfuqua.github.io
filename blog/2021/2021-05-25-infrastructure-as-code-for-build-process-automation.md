@@ -7,7 +7,7 @@ tags:
   - tech
   - sdlc
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 "Infrastructure as Code", or IaC if you prefer <abbr title="Three Letter

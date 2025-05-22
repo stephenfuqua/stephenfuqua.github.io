@@ -2,7 +2,7 @@
 title: .NET Unit Test Tooling in 2018
 date: 2018-07-04
 comments: true
-tags: [testing, toolkit]
+tags: [testing, dotnet]
 sharing: true
 ---
 

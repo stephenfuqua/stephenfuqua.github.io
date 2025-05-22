@@ -9,7 +9,7 @@ tags:
 - tech
 - data-and-analytics
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Advances in the availability and breadth of data over the past few decades have

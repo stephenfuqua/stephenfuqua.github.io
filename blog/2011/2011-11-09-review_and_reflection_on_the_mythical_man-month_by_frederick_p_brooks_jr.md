@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - books
-excerpt_separator: <!-- truncate -->
+
 ---
 
 

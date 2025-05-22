@@ -3,7 +3,7 @@ title: Dependency Injection with DB-first Entity Framework
 date: 2013-08-21
 comments: true
 tags: [dotnet, testing]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem**: how do you use Entity Framework, in database-first mode, when following the dependency injection development patterns?
