@@ -23,8 +23,7 @@ should be enshrined in our Constitution.
 <!--more-->
 
 The above is the custom text that I inserted into a form letter to Senators
-Hutchison and Cornyn a few minutes ago, through the National <a
-href="http://www.now.org">Organization of Women</a> (NOW). Debate was moved up
+Hutchison and Cornyn a few minutes ago, through the National [Organization of Women](http://www.now.org) (NOW). Debate was moved up
 to begin today (assuredly a politically motivated move in this election season).
 I do not quarrel with those who propose this amendment, I do not feel there is
 anything partisan in this message. Rather I am letting my representatives know
@@ -43,12 +42,12 @@ Here is the complete text of the letter I sent through NOW:
 > of that document. Equal treatment, as guaranteed by the Fourteenth Amendment
 > of the Constitution must be sacrosanct: Individuals must be assured the same
 > rights and responsibilities, regardless of their sexual orientation.
-> 
+>
 > I understand that this is, for many, a large and complex issue that deserves
 > real thought and consideration. I welcome the debate in the Senate, and  trust
 > that this august body will realize that  a "marriage amendment" is not in
 > keeping with the spirit and text of the Constitution of the United States--the
-> most powerful secular document ever conceived.  
+> most powerful secular document ever conceived.
 >
 > I acknowledge that there are instances where the federal government must act
 > to protect the public safety and in doing so, moral questions do at times come

@@ -38,8 +38,7 @@ and meditate on the beauty of life, helping reverse the trend of <a href=
 disorder</a>.
 
 These natural systems are not just for the coasts; they are also vital to the
-interior. Yesterday morning, participating in the <a
-href="http://www.trinitybirdcount.com/">Trinity Bird Count</a>, I toured the <a
+interior. Yesterday morning, participating in the [Trinity Bird Count](http://www.trinitybirdcount.com/), I toured the <a
 href=
 "http://www.trinityrivercorridor.com/flood-control/chain-wet-lands.html">lower
 chain of wetlands</a> that was constructed along the Trinity River in the past

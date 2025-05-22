@@ -37,11 +37,11 @@ self-deprecating jokes, he emphasized three principles needed to "embrace
 unity":
 
 <ol>
-	<li>Be open to new people and ideas, _and actively seek them out_. 
+	<li>Be open to new people and ideas, _and actively seek them out_.
 	To "embrace" requires getting out of your comfort zone.</li>
-	<li>Think of others. Imagine their challenges and rewards. Escape from 
+	<li>Think of others. Imagine their challenges and rewards. Escape from
 	egocentrism.</li>
-	<li>Appreciate diversity, but look for commonalities and use them in working 
+	<li>Appreciate diversity, but look for commonalities and use them in working
 	together.</li>
 </ol>
 
@@ -81,6 +81,5 @@ American/Alaskan/Hawaiian Native. Fully 39.1% of residents speak a non-English
 language at home, though only 20% are immigrants. Education is below the
 state-wide average, but median household income is slightly higher than average
 and the percentage below the poverty level lower than the state as a whole. (All
-statistics courtesy of the <a
-href="http://quickfacts.census.gov/qfd/states/48/4830464.html">US Census
-Bureau</a>).
+statistics courtesy of the [US Census
+Bureau](http://quickfacts.census.gov/qfd/states/48/4830464.html)).

@@ -7,9 +7,8 @@ tags: [tech, dotnet, performance]
 excerpt_separator: <!--more-->
 ---
 
-_This article is part of the series <a
-href="/archive/2007/06/25/an_exercise_in/">An Exercise in Performance Tuning in
-C#.Net</a>_.
+_This article is part of the series [An Exercise in Performance Tuning in
+C#.Net](/archive/2007/06/25/an_exercise_in/)_.
 
 As I look at the code I now have, I wonder if the fileLines variable is an
 unnecessary intermediate step. Can I rewrite so that `stream.ReadLine()` is

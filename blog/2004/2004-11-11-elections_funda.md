@@ -35,7 +35,7 @@ decision. On the other hand, the far stronger side of me that rejects rampant
 nationalism and attempts to embrace the pluralism that is present in the world
 also realizes that you _do_ have a stake in this, even if the President is not
 responsible to you directly. Because as we all know, when America acts either
-the world follows or it reacts. 
+the world follows or it reacts.
 
 When America is at its best, for instance promoting the freedom of, it is a
 model that other nations would do well to follow. At its worst, the United
@@ -109,9 +109,9 @@ conjure:
 > greatest turning point in the history of civilization, the demands of such
 > service could not be more clear. "The well-being of mankind, its peace and
 > security, are unattainable", Bah&aacute;'u'll&aacute;h urges, "unless and
-> until its unity is firmly established." 
+> until its unity is firmly established."
 >
-> <a href="http://www.bahai.org/article-1-1-0-1.html">Letter to the World's Religious Leaders, April 2002</a>, the Universal House of Justice._
+> [Letter to the World's Religious Leaders, April 2002](http://www.bahai.org/article-1-1-0-1.html), the Universal House of Justice._
 
 Peace be with you,
 Stephen A. Fuqua

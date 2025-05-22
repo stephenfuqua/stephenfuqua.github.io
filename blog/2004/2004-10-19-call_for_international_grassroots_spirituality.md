@@ -93,12 +93,10 @@ Of course these are but two of the many inter-religious organizations that are
 taking an active and increasingly important role in achieving the peace for
 which the United Nations was developed. Each has a role to play; each can
 contribute to the individual changes that may soon spill over into real social
-change, and, in turn, into achievement of a more harmonious future. 
+change, and, in turn, into achievement of a more harmonious future.
 
 ---
 
-_This editorial was partially inspired by <a
-href="http://windsofchange.net/archives/005747.php">If You See Blue Helmets,
-Run</a>. Readers may be interested in a related piece from this blog, <a
-href="/archive/2004/09/08/unity_the_mortar_of_world_peace/s">Unity - the Mortar
-of World Peace</a>._
+_This editorial was partially inspired by [If You See Blue Helmets,
+Run](http://windsofchange.net/archives/005747.php). Readers may be interested in a related piece from this blog, [Unity - the Mortar
+of World Peace](/archive/2004/09/08/unity_the_mortar_of_world_peace/s)._

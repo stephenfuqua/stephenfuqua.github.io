@@ -69,30 +69,30 @@ facilitates full integration of the system test framework as well).
 
 ## Preferred Tools
 
-* _Unit test execution:_ <a href="http://msdn.microsoft.com/en-us/library/dd264975.aspx">Microsoft Unit Test Framework</a>, built into Visual Studio
-* _Unit test mocking framework:_ <a href="http://code.google.com/p/moq/">MoQ</a>
-* _System/Specification tests:_ written in <a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> using <a href="http://www.specflow.org/specflownew/">SpecFlow</a>
-* _Automated-build:_ <a href="http://www.cruisecontrolnet.org/">CruiseControl.Net</a>, or <a href="http://msdn.microsoft.com/en-us/magazine/jj721597.aspx">Team Foundation Server</a> if you have it.
-    * Note: <a href="http://msdn.microsoft.com/en-us/library/hh549175.aspx">Microsoft Fakes</a> might be an excellent framework, but since it is based on Moles, I am <a href="/archive/2012/04/moles-no-longer-fit-for-unit-tests.html">leery of it</a> except when working with legacy code that you can't afford to refactor &hellip; yet. The "stubs" part is equivalent to Moq, but the latter has been around longer and is thus better established.
-* _Source Control:_ most of my experience is with <a href="http://www.accurev.com/">AccuRev</a> (and VSS years ago). AccuRev has its merits, but I wouldn't necessarily recommend it over TFS, SVN, GIT, etc. Personally, I just want to make sure that the tool has atomic transaction support, has good branching/merging, and is well integrated with the rest of the toolset.
+* _Unit test execution:_ [Microsoft Unit Test Framework](http://msdn.microsoft.com/en-us/library/dd264975.aspx), built into Visual Studio
+* _Unit test mocking framework:_ [MoQ](http://code.google.com/p/moq/)
+* _System/Specification tests:_ written in [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) using [SpecFlow](http://www.specflow.org/specflownew/)
+* _Automated-build:_ [CruiseControl.Net](http://www.cruisecontrolnet.org/), or [Team Foundation Server](http://msdn.microsoft.com/en-us/magazine/jj721597.aspx) if you have it.
+    * Note: [Microsoft Fakes](http://msdn.microsoft.com/en-us/library/hh549175.aspx) might be an excellent framework, but since it is based on Moles, I am [leery of it](/archive/2012/04/moles-no-longer-fit-for-unit-tests.html) except when working with legacy code that you can't afford to refactor &hellip; yet. The "stubs" part is equivalent to Moq, but the latter has been around longer and is thus better established.
+* _Source Control:_ most of my experience is with [AccuRev](http://www.accurev.com/) (and VSS years ago). AccuRev has its merits, but I wouldn't necessarily recommend it over TFS, SVN, GIT, etc. Personally, I just want to make sure that the tool has atomic transaction support, has good branching/merging, and is well integrated with the rest of the toolset.
 
 ## Resources
 
 ### Books
 
 <ul>
-<li><a href="http://www.growing-object-oriented-software.com/">Growing Object Oriented Software Guided by Tests</a> (<a href="/archive/2012/05/review-growing-object-oriented-software-guided-by-tests.html">my review</a>)</li>
-<li><a href="http://xunitpatterns.com/">XUnit Test Patterns</a></li>
-<li><a href="http://www.agiletester.ca/">Agile Testing: A Practical Guide for Testers and Agile Teams</a></li>
-<li>* Cohn's diagram is in <a href="http://www.succeedingwithagile.com/">Succeeding with Agile Software Development Using Scrum</a></li>
-<li><a href="http://www.manning.com/kawalerowicz/">Continuous Integration in .Net</a></li>
+<li>[Growing Object Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) ([my review](/archive/2012/05/review-growing-object-oriented-software-guided-by-tests.html))</li>
+<li>[XUnit Test Patterns](http://xunitpatterns.com/)</li>
+<li>[Agile Testing: A Practical Guide for Testers and Agile Teams](http://www.agiletester.ca/)</li>
+<li>* Cohn's diagram is in [Succeeding with Agile Software Development Using Scrum](http://www.succeedingwithagile.com/)</li>
+<li>[Continuous Integration in .Net](http://www.manning.com/kawalerowicz/)</li>
 </ul>
 
 ### Articles
 
 <ul>
-<li><a href="http://docs.behat.org/guides/1.gherkin.html">Writing Features - Gherkin Language</a>, a worthy companion to the official documentation in the link above</li>
-<li><a href="http://www.jamesshore.com/Blog/Red-Green-Refactor.html">Red, Green, Refactor</a>, the critical attitude required for TDD</a>
+<li>[Writing Features - Gherkin Language](http://docs.behat.org/guides/1.gherkin.html), a worthy companion to the official documentation in the link above</li>
+<li>[Red, Green, Refactor](http://www.jamesshore.com/Blog/Red-Green-Refactor.html), the critical attitude required for TDD</a>
 </ul>
 
 ### Related posts from this blog

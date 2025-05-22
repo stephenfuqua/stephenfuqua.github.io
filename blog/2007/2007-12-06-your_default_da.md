@@ -15,6 +15,5 @@ doing this. Thankfully it happened to me in development, not production!
 
 **Solution:** It turns out the solution is just as easy as the mistake: when you
 log in, click the options button and choose a different database. More detail at
-<a
-href="http://benharrell.wordpress.com/2007/01/15/cannot-open-user-default-database-login-failed-login-failed-for-user-username-microsoft-sql-server-error-4064/">public
-class:ben harrell</a>.
+[public
+class:ben harrell](http://benharrell.wordpress.com/2007/01/15/cannot-open-user-default-database-login-failed-login-failed-for-user-username-microsoft-sql-server-error-4064/).

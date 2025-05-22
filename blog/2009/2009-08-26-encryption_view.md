@@ -38,9 +38,8 @@ Let's give this as the table structure:
 The first solution was to create a view that would decrypt the data. In the
 Entity Framework, we need to import the view rather than the table. Then, create
 three stored procedures: ADDRESS_INSERT, ADDRESS_UPDATE, and ADDRESS_DELETE. No
-explanation really needed for these stored procedures. <a
-href="http://blogs.microsoft.co.il/blogs/bursteg/archive/2007/12/17/ado-net-entity-framework-tools-stored-procedures.aspx">Map
-the stored procedures</a> to the view. Works beautifully in some cases. But...
+explanation really needed for these stored procedures. [Map
+the stored procedures](http://blogs.microsoft.co.il/blogs/bursteg/archive/2007/12/17/ado-net-entity-framework-tools-stored-procedures.aspx) to the view. Works beautifully in some cases. But...
 
 Because this is a view without a primary key, the Entity Framework needs to
 infer the proper primary key. And sometimes it does not do so correctly. For
@@ -51,19 +50,16 @@ determine a valid ordering for dependent operations." What to do?
 
 Well, you can edit the CSDL to correct the primary key - but as soon as you do a
 Database Update, then it will go back to the incorrectly-inferred primary key.
-So this solution really doesn't work. These issues are discussed in an <a
-href="http://social.msdn.microsoft.com/Forums/en-US/adodotnetentityframework/thread/ea0bf748-bc97-439d-99b0-76180b2161bb/">
-MSDN forum posting</a>.
+So this solution really doesn't work. These issues are discussed in an [
+MSDN forum posting](http://social.msdn.microsoft.com/Forums/en-US/adodotnetentityframework/thread/ea0bf748-bc97-439d-99b0-76180b2161bb/).
 
 ## Independently Mapping the Insert Stored Procedure
 
 Taking a different route, you can define a stand-alone function that will
-execute the stored procedure (see "Map Query Functions" in the <a
-href="http://blogs.microsoft.co.il/blogs/bursteg/archive/2007/12/17/ado-net-entity-framework-tools-stored-procedures.aspx">
-stored procedures mapping</a> link). This turns out to be rather simple, but
-figuring this out took me quite a few hours to muddle through, because the <a
-href="http://msdn.microsoft.com/en-us/library/bb399203.aspx">Microsoft
-documentation</a> didn't make some of the limitations of the Entity Framework
+execute the stored procedure (see "Map Query Functions" in the [
+stored procedures mapping](http://blogs.microsoft.co.il/blogs/bursteg/archive/2007/12/17/ado-net-entity-framework-tools-stored-procedures.aspx) link). This turns out to be rather simple, but
+figuring this out took me quite a few hours to muddle through, because the [Microsoft
+documentation](http://msdn.microsoft.com/en-us/library/bb399203.aspx) didn't make some of the limitations of the Entity Framework
 clear.
 
 Creating the function for the stored procedure was easy - I created a function

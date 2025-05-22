@@ -30,8 +30,7 @@ Finally, I decided to just try another language. As I've not written anything in
 Perl or PHP in many years (both well suited to the task), I chose Node.js. And I
 was able to send e-mail on the first try.
 
-It seems there is something wrong with the <a
-href="http://msdn.microsoft.com/en-us/library/system.net.mail.smtpclient%28v=vs.110%29.aspx">System.Net.Mail.SmtpClient</a>.
+It seems there is something wrong with the [System.Net.Mail.SmtpClient](http://msdn.microsoft.com/en-us/library/system.net.mail.smtpclient%28v=vs.110%29.aspx).
 I tried both synchronous and asynchronous, by the way. And I've used the
 SmtpClient with 2.0 and 3.5 applications, though never with 4.0+. There are a
 few people who have experienced similar problems. Although disabling the
@@ -41,29 +40,28 @@ security settings.
 What I realized is that I was just wasting my time trying to get this working
 .NET. Switching to Node.js also gave me a good opportunity to get some practice
 in with this elegant, highly-componetized framework. The keys to success were
-using the built-in <a href="http://nodejs.org/api/fs.html">filesystem API</a>
-and NPM installing the <a href="http://csv.adaltas.com/parse/">csv</a> and <a
-href="https://github.com/eleith/emailjs">emailjs</a> modules. 
+using the built-in [filesystem API](http://nodejs.org/api/fs.html)
+and NPM installing the [csv](http://csv.adaltas.com/parse/) and [emailjs](https://github.com/eleith/emailjs) modules.
 
 Though quick-and-dirty, I give this to the Internet for my own future reference
 if nothing else.
 
 ```javascript
 var campaign = {
-    user: "arthur@the.roundtable.uk", 
-    password: "12345678909876", 
+    user: "arthur@the.roundtable.uk",
+    password: "12345678909876",
     host: "mailserver.the.roundtable.com",
-    port: 465, 
+    port: 465,
     templateFile: "c:/temp/invitationToGrailSearch.txt",
     logFile: "c:/temp/invitationToGrailSearch.log",
     addressFile: "c:/temp/completeListOfTheKnightsOfAlbion.txt",
     from: "King Arthur <arthur@the.roundtable.uk>;",
     subject: "Open Invitation to Join in the Grail Hunt"
 };
- 
+
  var csv = require('csv');
 var fs = require('fs');
- 
+
 var logToFile = function (message) {
     fs.appendFileSync(campaign.logFile, message + "\r\n");
 };
@@ -87,14 +85,14 @@ fs.readFile(campaign.addressFile, function (err, data) {
         logToFile(err);
         throw err;
     }
-    
+
     // now that we've read the file, need to parse it
     csv.parse(data.toString(), function (parseError, output) {
         if (parseError) {
             logToFile(parseError);
             throw parseError;
         }
-        
+
         // for each line from the file
         var lineNumber = 0;
         output.forEach(function (record) {
@@ -107,18 +105,18 @@ fs.readFile(campaign.addressFile, function (err, data) {
 
             var name = record[0].trim();
             var email = record[1].trim();
-            
+
             var message = {
-                from: campaign.from, 
+                from: campaign.from,
                 to: '"' + name + '" &lt;' + email + '&gt;',
                 subject: campaign.subject,
-                attachment: 
+                attachment:
                 [
                     // my template only has a single placeholder - "[person]"
                     { data: template.replace('[person]', name), alternative: true }
                 ]
             };
-            
+
             server.send(message, function (err, message) {
                 logToFile(message.header.to.toString() + ", " + (err || 'success').toString() );
             });

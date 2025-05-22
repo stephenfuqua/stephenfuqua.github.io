@@ -13,8 +13,7 @@ bemoaning the executive branch's handling of science-related policy and
 suggesting greater Congressional oversight for protection of consumer and
 environmental rights. If you too are concerned with federal scientific policy
 making, then please feel free to copy the letter below (and modify as desired)
-and send to your <a href="http://www.senate.gov">senators</a> and <a
-href="http://www.house.gov">representative</a>.
+and send to your [senators](http://www.senate.gov) and [representative](http://www.house.gov).
 
 <!--more-->
 

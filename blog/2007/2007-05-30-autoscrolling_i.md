@@ -21,13 +21,11 @@ DataGrid control. So that stymied me for a bit.
 
 First thing I needed was to recognize that the latest entry is now off the
 screen &mdash; in other words, I had to recognize that the scrollbar is showing.
-Found a very helpful <a
-href="http://groups.google.com/group/microsoft.public.dotnet.framework.windowsforms.controls/browse_thread/thread/54f69a9aec43d913/087328404ccdf5ac?lnk=st&q=ScrollLastRowIntoView&rnum=1#087328404ccdf5ac">newsgroup
-posting</a> for that.
+Found a very helpful [newsgroup
+posting](http://groups.google.com/group/microsoft.public.dotnet.framework.windowsforms.controls/browse_thread/thread/54f69a9aec43d913/087328404ccdf5ac?lnk=st&q=ScrollLastRowIntoView&rnum=1#087328404ccdf5ac) for that.
 
 That posting actually describes moving the scrollbar independently of the grid.
-Not exactly what I want. After a bit more searching, I found that the <a
-href="http://msdn2.microsoft.com/en-us/library/system.windows.forms.datagridview.firstdisplayedscrollingrowindex.aspx">FirstDisplayedScrollingRowIndex</a>
+Not exactly what I want. After a bit more searching, I found that the [FirstDisplayedScrollingRowIndex](http://msdn2.microsoft.com/en-us/library/system.windows.forms.datagridview.firstdisplayedscrollingrowindex.aspx)
 property. That does it. I have my solution:
 
 ```csharp

@@ -24,9 +24,8 @@ if (sequenceNumber < 0)
 
 This got me thinking: why don't we ever use unsigned integers? Seems like having
 a uint would better communicate the requirement, and would simply not allow a
-negative number.  The <a
-href="http://stackoverflow.com/questions/2013116/should-i-use-uint-in-c-for-values-that-cant-be-negative">main
-answer</a> seems to be that casting between uint and other data types, which is
+negative number.  The [main
+answer](http://stackoverflow.com/questions/2013116/should-i-use-uint-in-c-for-values-that-cant-be-negative) seems to be that casting between uint and other data types, which is
 inevitable, is ugly. And that uint is not CLS compliant. Even though I'm not
 trying to write CLS-compliant code at the moment, I think I'll stick with int
 &mdash; because that is our existing convention, and I don't see enough reason

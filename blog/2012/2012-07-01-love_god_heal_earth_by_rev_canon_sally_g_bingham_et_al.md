@@ -66,9 +66,8 @@ realism, but also of hope.
 {: .center-block }
 \***
 
-Review of <a
-href="http://www.goodreads.com/book/show/4863759-love-god-heal-earth">Love God
+Review of [Love God
 Heal Earth: 21 Leading Religious Voices Speak Out on Our Sacred Duty to Protect
-the Environment</a>, by Rev. Canon Sally G. Bingham et al. Published in 2009 by
-<a href="http://www.stlynnspress.com">St. Lynn's Press</a>, Pittsburgh, PA. No
+the Environment](http://www.goodreads.com/book/show/4863759-love-god-heal-earth), by Rev. Canon Sally G. Bingham et al. Published in 2009 by
+[St. Lynn's Press](http://www.stlynnspress.com), Pittsburgh, PA. No
 goods or services were received in return for this review.

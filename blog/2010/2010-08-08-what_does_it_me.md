@@ -33,7 +33,7 @@ disunity in that community Bah&aacute;'u'll&aacute;h says:
 > to knit together the hearts of men, in His Name, the Unifier, the All-Knowing,
 > the All-Wise."
 >
-> <a href="http://reference.bahai.org/en/t/b/GWB/gwb-5.html">Gleanings, p9</a>)
+> [Gleanings, p9](http://reference.bahai.org/en/t/b/GWB/gwb-5.html))
 
 Unity does not mean absolute agreement or conformity of thought. It means
 support for whatever decision is made. It means that diverse paths are for the
@@ -60,7 +60,7 @@ And if you love Bah&aacute;'u'll&aacute;h, He asks of us even more personally:
 > and overlook the faults of one another for My name's sake and as a token of
 > your love for My manifest and resplendent Cause."
 >
-> <a href="http://reference.bahai.org/en/t/b/GWB/gwb-146.html">Gleanings p315</a>)
+> [Gleanings p315](http://reference.bahai.org/en/t/b/GWB/gwb-146.html))
 
 There are many more beautiful passages on this theme, but I want to share just
 one more from 'Abdu'l-Bah&aacute;, as it has become a maxim for me, a litany
@@ -69,7 +69,7 @@ against hatred and ill-will:
 > "When a thought of war comes, oppose it by a stronger thought of peace. A
 > thought of hatred must be destroyed by a more powerful thought of love."
 >
-> <a href="http://reference.bahai.org/en/t/ab/PT/pt-6.html">Paris Talks, p29</a>
+> [Paris Talks, p29](http://reference.bahai.org/en/t/ab/PT/pt-6.html)
 
 So there's unity for you, although it occurs to me that I've not addressed
 service, nor what difference this unity makes. I'll have to come back to these

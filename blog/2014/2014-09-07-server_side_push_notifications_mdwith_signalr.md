@@ -38,7 +38,7 @@ server (the client might not care, but this adds up on the server over time).
 Better to keep a single connection open between the browser and client, and push
 messages out just in time.
 
-<a href="http://signalr.net/">SignalR</a> is Microsoft's technology for managing
+[SignalR](http://signalr.net/) is Microsoft's technology for managing
 that RPC push. It is an open source .Net (server side) and JavaScript (client
 side) technology that will work with any modern browser. It does this by
 detecting the browser capability and choosing the most efficient of several RPC
@@ -55,19 +55,17 @@ know. Therefore I'll stick with the server side. Here are some useful
 references:
 
 <ul>
-<li><a href="http://www.asp.net/signalr/overview/signalr-20/hubs-api/hubs-api-guide-server">ASP.NET SignalR Hubs API Guide - Server (C#)</a></li>
-<li><a href="http://www.asp.net/signalr/overview/signalr-20/getting-started-with-signalr-20/tutorial-server-broadcast-with-signalr-20">Tutorial: Server Broadcast with SignalR 2</a> (Stock Ticker)</li>
-<li><a href="http://www.asp.net/signalr/overview/signalr-20/hubs-api/mapping-users-to-connections">Mapping SignalR Users to Connections</a>. In other words, this gives you the critical knowledge for  sending a message to the right person, not just everyone.</li>
-<li>These guides come from <a href="http://www.asp.net/signalr/overview/signalr-20">Learn About ASP.Net SignalR</a>, which has quite a bit of other important documentation around security, troubleshooting, scalability, and client-side scripting.</li>
+<li>[ASP.NET SignalR Hubs API Guide - Server (C#)](http://www.asp.net/signalr/overview/signalr-20/hubs-api/hubs-api-guide-server)</li>
+<li>[Tutorial: Server Broadcast with SignalR 2](http://www.asp.net/signalr/overview/signalr-20/getting-started-with-signalr-20/tutorial-server-broadcast-with-signalr-20) (Stock Ticker)</li>
+<li>[Mapping SignalR Users to Connections](http://www.asp.net/signalr/overview/signalr-20/hubs-api/mapping-users-to-connections). In other words, this gives you the critical knowledge for  sending a message to the right person, not just everyone.</li>
+<li>These guides come from [Learn About ASP.Net SignalR](http://www.asp.net/signalr/overview/signalr-20), which has quite a bit of other important documentation around security, troubleshooting, scalability, and client-side scripting.</li>
 </ul>
 
 ## Dependency Injection
 
 When your SignalR code needs any outside resource, you will need to set up a
-`DependencyResolver` to manage <a
-href="http://www.asp.net/signalr/overview/signalr-20/extensibility/dependency-injection">Dependency
-Injection</a> (DI). Ultimately you just need a simple class that implements <a
-href="http://msdn.microsoft.com/en-us/library/system.web.http.dependencies.idependencyresolver%28v=vs.118%29.aspx">IDependencyResolver</a>
+`DependencyResolver` to manage [Dependency
+Injection](http://www.asp.net/signalr/overview/signalr-20/extensibility/dependency-injection) (DI). Ultimately you just need a simple class that implements [IDependencyResolver](http://msdn.microsoft.com/en-us/library/system.web.http.dependencies.idependencyresolver%28v=vs.118%29.aspx)
 (the System.Web.Http version, not the System.Web.Mvc interface with the same
 name and purpose). As shown in the DI link above, it is trivial to build an
 adapter so that <acronym title="Inversion of Control">IoC</acronym> container
@@ -98,8 +96,7 @@ about it too. Otherwise, it cannot instantiate a hub for you properly. There
 will be no compile-time or run-time errors. But the system just won't work. If
 you build the StockTicker example and add a `DependencyResolver` as shown above,
 the outcome will be rather boring. One small change will fix that though (thank
-you, <a
-href="http://stackoverflow.com/questions/21126624/signalr-autofac-owin-why-doesnt-globalhost-connectionmanager-gethubcontext/21126852#comment40181303_21126852">StackOverflow</a>):
+you, [StackOverflow](http://stackoverflow.com/questions/21126624/signalr-autofac-owin-why-doesnt-globalhost-connectionmanager-gethubcontext/21126852#comment40181303_21126852)):
 
 ```csharp
 public class Startup
@@ -114,9 +111,8 @@ public class Startup
 ```
 
 Note that the `HubConfiguration` is no longer in use. I left it there because
-there as a reminder that one might like to inquire about <a
-href="http://msdn.microsoft.com/en-us/library/microsoft.aspnet.signalr.hubconfiguration_properties%28v=vs.118%29.aspx">other
-useful settings</a> that can be injected via this object.
+there as a reminder that one might like to inquire about [other
+useful settings](http://msdn.microsoft.com/en-us/library/microsoft.aspnet.signalr.hubconfiguration_properties%28v=vs.118%29.aspx) that can be injected via this object.
 
 ## Sending to a Single User
 
@@ -124,12 +120,9 @@ The Stock Ticker example broadcasts to everyone. How do you send a message to
 a single user? The references above have a link with more detail. There are
 several ways to solve this problem. The **In-Memory Storage** method is a good
 option, except that you might as well use thread-safe collections and avoid
-having use a `lock`. Replace `Dictionary` with `<a
-href="http://msdn.microsoft.com/en-us/library/dd287191%28v=vs.110%29.aspx">ConcurrentDictionary</a>`
-and `HashSet` with `<a
-href="http://msdn.microsoft.com/en-us/library/dd381779%28v=vs.110%29.aspx">ConcurrentBag</a>`.
-Or, stick with the locking and use the experimental `<a
-href="http://blogs.msdn.com/b/dotnet/archive/2014/08/05/multidictionary-becomes-multivaluedictionary.aspx">MultiValueDictionary</a>`.
+having use a `lock`. Replace `Dictionary` with `[ConcurrentDictionary](http://msdn.microsoft.com/en-us/library/dd287191%28v=vs.110%29.aspx)`
+and `HashSet` with `[ConcurrentBag](http://msdn.microsoft.com/en-us/library/dd381779%28v=vs.110%29.aspx)`.
+Or, stick with the locking and use the experimental `[MultiValueDictionary](http://blogs.msdn.com/b/dotnet/archive/2014/08/05/multidictionary-becomes-multivaluedictionary.aspx)`.
 
 ## Updating the Client Browser
 

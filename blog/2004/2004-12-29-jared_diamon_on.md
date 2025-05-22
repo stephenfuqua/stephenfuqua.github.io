@@ -9,9 +9,8 @@ tags:
 ---
 
 Go read Jared Diamond's (author of _Guns, Germs, and Steel_) report in _Harper's
-Magazine_, <a
-href="http://findarticles.com/p/articles/mi_m1111/is_1837_306/ai_103124295/print">The
-last Americans: environmental collapse and the end of civilization</a>. Then
+Magazine_, [The
+last Americans: environmental collapse and the end of civilization](http://findarticles.com/p/articles/mi_m1111/is_1837_306/ai_103124295/print). Then
 donate a few dollars to the Red Cross or other aid agencies working in South
 Asia (tangentially connected, but it must be said). From the report:
 

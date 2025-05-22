@@ -27,8 +27,7 @@ remember if vectors (in the STL) behave this way, but it seems like a pretty
 natural assumption that the generic `List` would behave like arrays, with a
 First-In-First-Out (FIFO) type approach.
 
-Better read the <a
-href="http://msdn2.microsoft.com/en-us/library/6sh2ey19(vs.80).aspx">documentation</a>
+Better read the [documentation](http://msdn2.microsoft.com/en-us/library/6sh2ey19(vs.80).aspx)
 carefully though: "The List is not guaranteed to be sorted. You must sort the
 List before performing operations (such as BinarySearch) that require the List
 to be sorted."
@@ -36,8 +35,7 @@ to be sorted."
 I was not a computer science major. I only took a few programming classes, so I
 don't always have a strong intuitive sense for memory allocation and usage. But
 now that I think about it, this makes perfect sense. `List<T>` is the
-generic implementation of an `ArrayList`. And as we <a
-href="http://msdn2.microsoft.com/en-us/library/system.collections.arraylist(VS.80).aspx">know</a>,
+generic implementation of an `ArrayList`. And as we [know](http://msdn2.microsoft.com/en-us/library/system.collections.arraylist(VS.80).aspx),
 `ArrayList` "Implements the IList interface using an array whose size is
 dynamically increased as required."
 

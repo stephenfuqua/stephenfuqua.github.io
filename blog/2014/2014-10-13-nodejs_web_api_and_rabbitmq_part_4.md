@@ -17,9 +17,9 @@ _Desiring to learn about both Node.js (particularly as an API server) and
 ASP.Net Web API, I decided to throw one more technology in the mix and see which
 one is faster at relaying messages to a service bus, namely, RabbitMQ._
 
-* <a href="/archive/2014/07/29/nodejs_web_api_and_rabbitmq_part_1/">Part 1: Test Runner</a>
-* <a href="/archive/2014/08/03/nodejs_web_api_and_rabbitmq_part_2/">Part 2: Initial Node.js Code</a>
-* <a href="/archive/2014/10/11/nodejs_web_api_and_rabbitmq_part_3/">Part 3: Web API Code</a>
+* [Part 1: Test Runner](/archive/2014/07/29/nodejs_web_api_and_rabbitmq_part_1/)
+* [Part 2: Initial Node.js Code](/archive/2014/08/03/nodejs_web_api_and_rabbitmq_part_2/)
+* [Part 3: Web API Code](/archive/2014/10/11/nodejs_web_api_and_rabbitmq_part_3/)
 * Part 4: Enhanced Node.js code
 
 Time to turn that Node.js test green. In Part 2, I succeeded in publishing a
@@ -42,8 +42,7 @@ RabbitMQ, at the end of Part 2 and of Part 3. The
 **application/vnd.masstransit+json** content header in particular can be rather
 tricky. Do not spell it incorrectly (e.g. underscore instead of hyphen). Do not
 put it in the message body. Do not put it in the a message property. It is a
-header. This is not part of the <a
-href="https://www.rabbitmq.com/tutorials/amqp-concepts.html">AMQP protocol</a>
+header. This is not part of the [AMQP protocol](https://www.rabbitmq.com/tutorials/amqp-concepts.html)
 used by Rabbit, but rather a convention used by  MassTransit (among other
 library providers).
 

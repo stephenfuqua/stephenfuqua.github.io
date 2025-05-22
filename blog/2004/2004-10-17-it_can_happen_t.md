@@ -6,7 +6,7 @@ basename: it_can_happen_to_you
 tags:
 - living
 ---
-  
+
 Two weeks ago our car was broken into at a park. Laptop, wallet, keys, and more
 stolen. We didn't think it could happen to us. We thought we were playing it
 safe. Oh, and my system backups were sorely inadequate.
@@ -16,7 +16,7 @@ safe. Oh, and my system backups were sorely inadequate.
 ## Como Park
 
 The Twin Cities are renowned for their park systems. In St. Paul, the
-keystone park is <a href="http://www.comozooconservatory.org/">Como Park</a>,
+keystone park is [Como Park](http://www.comozooconservatory.org/),
 instituted in 1878. Someday perhaps I'll write a bit more about the Park,
 which is a wonderful place. Central to the park's existence is Como Lake,
 one of the 11,000+ lakes in Minnesota. Circumference is roughly 1.6 miles,
@@ -29,7 +29,7 @@ round-trip makes for an excellent walk or jog from home.
 Sadly, it turns out that it is the single place in western Saint Paul
 where a person is most likely to have his/her car broken into, according to
 the investigating police sergeant.
- 
+
 ## An Evening Stroll
 
 ![Scene of the crime, 2 weeks later](/images/como_theft_large.jpg){: .text-center }

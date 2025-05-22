@@ -12,8 +12,7 @@ Frequent blog readers will easily recognize comment spam: unrelated or gibberish
 comments posted to entries. I've been getting a ton of them with phrases like
 "cool site. Thanks!". In the old Movable Type I knew how to filter these out.
 With the new I wasn't sure, and have been too lazy to figure out the proper
-regular expression syntax. Thankfully someone came to <a
-href="http://www.lifewiki.net/sixapart/SpamLookupRecipes">my rescue</a>:
+regular expression syntax. Thankfully someone came to [my rescue](http://www.lifewiki.net/sixapart/SpamLookupRecipes):
 `/(cool|excellent|good|nice)(\s)+site\.(\s)+(thank(\s)+you|thanks)/i`.
 
 ## Comments

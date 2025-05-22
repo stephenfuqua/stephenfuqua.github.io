@@ -7,11 +7,11 @@ tags:
 - discourse
 - climate
 ---
-  
+
 {: .float-right }
 ![lighting tap water on fire](/images/Gasland_5Full.png)
 
-<a href="http://www.gaslandthemovie.com/">The Sky Is Pink</a>, from the director
+[The Sky Is Pink](http://www.gaslandthemovie.com/), from the director
 of _Gasland_, makes a potent argument that we need to resist ANY gas drilling,
 but particularly fracking with its permanently toxic benzene, toluene, etc. In
 middle school I recall writing a paper for science class, about sources of

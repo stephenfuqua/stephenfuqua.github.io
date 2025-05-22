@@ -11,20 +11,20 @@ tags:
 ---
 
 Lately I've been wondering if the
-<a href="http://en.wikipedia.org/wiki/Keystone_Pipeline">Keystone Pipeline</a> 
+[Keystone Pipeline](http://en.wikipedia.org/wiki/Keystone_Pipeline)
 isn't more of a NIMBY than anything else.
-<a href="http://en.wikipedia.org/wiki/NIMBY">NIMBY</a> stands for _Not In My 
-Backyard_, and is typically a reference to well-off individuals and 
-communities decrying the building of some unwanted facility "in their backyards" 
-&mdash; that is, just down the street or in the general vicinity. For example, in St. 
+[NIMBY](http://en.wikipedia.org/wiki/NIMBY) stands for _Not In My
+Backyard_, and is typically a reference to well-off individuals and
+communities decrying the building of some unwanted facility "in their backyards"
+&mdash; that is, just down the street or in the general vicinity. For example, in St.
 Paul, MN there has been an outcry over plans for an
 <a href="http://minneapolis.about.com/od/environment/a/rocktenn.htm">
-electricity-generating incinerator</a> on the edge of the neighborhood in which 
-I used to live. Now, that is a blue collar neighborhood, not particularly 
-well-off. A classic NIMBY situation is where the well-funded are able to 
-fend-off development, pushing it to some location where the project's opposition 
-are not so well funded. Thus, the NIMBY-effect becomes a matter of eco-justice: 
-the poor end up saddled with the polluting plant, though the rich derive at 
+electricity-generating incinerator</a> on the edge of the neighborhood in which
+I used to live. Now, that is a blue collar neighborhood, not particularly
+well-off. A classic NIMBY situation is where the well-funded are able to
+fend-off development, pushing it to some location where the project's opposition
+are not so well funded. Thus, the NIMBY-effect becomes a matter of eco-justice:
+the poor end up saddled with the polluting plant, though the rich derive at
 least as much benefit from the project.
 
 <!--more-->
@@ -49,11 +49,9 @@ pumping more oil off the coast of Brazil or in Nigeria.
 
 Many Americans are rightly afraid of the environmental impact of a potential
 pipeline break. But are they just as worried about the impact of recent spills
-in those two countries, for example? Current headlines: <a
-href="http://www.bloomberg.com/news/2011-12-30/brazil-oil-regulator-fines-chevron-for-the-third-time-for-spill.html">
-Brazil Oil Regulator Fines Chevron for Third Time for Spill</a>; <a
-href="http://www.reuters.com/article/2011/12/27/us-shell-nigeria-spill-idUSTRE7BQ0M220111227">
-Shell says Nigeria oil spill contained</a>. Let us evaluate the alternatives,
+in those two countries, for example? Current headlines: [
+Brazil Oil Regulator Fines Chevron for Third Time for Spill](http://www.bloomberg.com/news/2011-12-30/brazil-oil-regulator-fines-chevron-for-the-third-time-for-spill.html); [
+Shell says Nigeria oil spill contained](http://www.reuters.com/article/2011/12/27/us-shell-nigeria-spill-idUSTRE7BQ0M220111227). Let us evaluate the alternatives,
 and let's ask ourselves: is the attempt to shut down the Keystone Pipeline
 project _ just_, given our continued use of oil products in the United States? Or
 is it in fact a large-scale example of an eco-injustice NIMBY hue-and-cry?

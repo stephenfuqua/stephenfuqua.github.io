@@ -11,7 +11,7 @@ I have a couple of article recommendations for you all*: <a href=
 "http://www.cjr.org/issues/2004/6/mooney-science.asp">Blinded By Science: How
 'Balanced' Coverage Lets the Scientific Fringe Hijack Reality</a>; <a href=
 "http://www.thenation.com/doc.mhtml?i=20040920&amp;s=zinn">The Optimism of
-Uncertainty</a>. Plus a few small comments&hellip; 
+Uncertainty</a>. Plus a few small comments&hellip;
 
 <!--more-->
 
@@ -23,8 +23,7 @@ that 1 as they do to the 1 worried scientist they quote. Completely
 misleading, and a big reason why this country doesn't seem to understand
 the ramifications of climate change.
 
-I originally noticed the _Blinded By Science_ article over at <a
-href="http://www.worldchanging.com/archives/001562.html">WorldChanging</a>,
+I originally noticed the _Blinded By Science_ article over at [WorldChanging](http://www.worldchanging.com/archives/001562.html),
 where I left the following comment:
 
 > It may be that the best way to counter this is for the scientists to
@@ -32,7 +31,7 @@ where I left the following comment:
 > who have not passed the peer review muster, who exist on the fringes. So we
 > who have a clue about science should be vigilant and ready to respond with
 > letters to the editor in all times and places.
-> 
+>
 > Conservation biologists in particular are learning that, when it comes
 > to enacting real policies, science cannot ignore the human elements;
 > "objective science" becomes useless without understanding the
@@ -50,7 +49,7 @@ _very_ familiar question:
 
 Let me add one more quote to assure you of the worthiness of this quick
 read:
-  
+
 > Revolutionary change does not come as one cataclysmic moment (beware of
 > such moments!) but as an endless succession of surprises, moving zigzag
 > toward a more decent society. We don't have to engage in grand, heroic
@@ -59,4 +58,3 @@ read:
 > don't "win," there is fun and fulfillment in the fact that we
 > have been involved, with other good people, in something worthwhile. We
 > need hope.
-  

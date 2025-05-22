@@ -11,14 +11,12 @@ tags:
 
 I've spent the weekend preparing a presentation on the <a
 href="http://www.dallasinterfaith.org/d/faithful_call_action>Faithful Call to
-Action on Climate Change</a>, which I'll be giving at the <a
-href="http://www.irvingbahai.org">Bah&aacute;'&iacute; Center of Irving</a> on
+Action on Climate Change</a>, which I'll be giving at the [Bah&aacute;'&iacute; Center of Irving](http://www.irvingbahai.org) on
 this coming Friday evening.
 
 Joining so many others in the worldwide faith communities, I am overjoyed at the
-Pope's encyclical <a
-href="http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html">_Laudato
-Si_</a>, which came out officially just a few days ago. Although I will not be
+Pope's encyclical [_Laudato
+Si_](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html), which came out officially just a few days ago. Although I will not be
 saying much about it, it is a large part of the inspiration for the up-coming
 presentation. And I would like to share the heart-achingly beautiful second
 paragraph:

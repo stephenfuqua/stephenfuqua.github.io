@@ -56,8 +56,7 @@ are aspects of a continuous revelation. Every frog, fossil, frond, and fawn is a
 microcosm, pregnant with transcendence. Truly, "[t]his is an existence which
 knoweth no decay," as Bah&aacute;'u'll&aacute;h tells us in His Tablet of Wisdom, "and
 Nature itself is lost in bewilderment before its revelations, its compelling
-evidences and its effulgent glory which have encompassed the universe." (<a
-href="http://reference.bahai.org/en/t/b/TB/tb-10.html">http://reference.bahai.org/en/t/b/TB/tb-10.html</a>)
+evidences and its effulgent glory which have encompassed the universe." ([http://reference.bahai.org/en/t/b/TB/tb-10.html](http://reference.bahai.org/en/t/b/TB/tb-10.html))
 
 _* Thank you, Dad, for my early lessons in computing._
 

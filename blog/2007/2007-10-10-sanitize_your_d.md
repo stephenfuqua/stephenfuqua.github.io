@@ -9,12 +9,11 @@ excerpt_separator: <!--more-->
 
 {: .text-center }
 ![exploits of a mom - xkcd comic](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)<br>
-From <a href="https://www.xkcd.org/">www.xkcd.org</a>
+From [www.xkcd.org](https://www.xkcd.org/)
 
 That's reason number 1 to use  stored procedures in your application code
-&mdash; they automatically sanitize your SQL (assuming you <a
-href="http://www.owasp.org/index.php/Testing_for_SQL_Injection#Stored_Procedure_Injection">aren't
-dynamically</a> executing  statements inside the procedure).
+&mdash; they automatically sanitize your SQL (assuming you [aren't
+dynamically](http://www.owasp.org/index.php/Testing_for_SQL_Injection#Stored_Procedure_Injection) executing  statements inside the procedure).
 
 Stephen's top 4 reasons for using stored procedures rather than inline SQL:
 

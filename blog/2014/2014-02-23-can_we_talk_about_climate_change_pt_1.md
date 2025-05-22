@@ -11,15 +11,12 @@ tags:
 
 Last weekend, faith communities across the U.S. hosted more than two-hundred
 events aimed at expanding awareness of the reality of climate change. This was
-the <a href="http://www.preachin.org/">National Preach-In on Climate Change</a>,
-sponsored by Interfaith Power &amp; Light. As Co-Chair of <a
-href="http://www.dallasinterfaith.org">Dallas Interfaith Power &amp; Light</a>,
+the [National Preach-In on Climate Change](http://www.preachin.org/),
+sponsored by Interfaith Power &amp; Light. As Co-Chair of [Dallas Interfaith Power &amp; Light](http://www.dallasinterfaith.org),
 I was excited and honored to be able to give a presentation to my own community
-(<a href="http://www.irvingbahai.org/?">Bah&aacute;'&iacute;s of Irving</a>) and
-to attend the innovative <a
-href="http://txipl.org/content/youre-invited-austins-first-ever-preach-climate-change">Preach-Off
-on Climate Change</a> in Austin. The <a
-href="http://www.austinbahai.org">Bah&aacute;'&iacute; s of Austin</a> also
+([Bah&aacute;'&iacute;s of Irving](http://www.irvingbahai.org/?)) and
+to attend the innovative [Preach-Off
+on Climate Change](http://txipl.org/content/youre-invited-austins-first-ever-preach-climate-change) in Austin. The [Bah&aacute;'&iacute; s of Austin](http://www.austinbahai.org) also
 afforded me an opportunity to give my presentation on Moral Imperatives for
 Climate Action, from a Bah&aacute;'&iacute; Perspective, at their Sunday morning
 devotional program. Hopefully I was able to provide something useful to a few
@@ -31,7 +28,7 @@ blog posts reflecting on the conversations.
 
 {: .float-right }
 ![Stephen talking](/images/sf_Presenting_2014_02_16.jpg){: .border .rounded }<br>
-Photo by <a href="https://www.jaybraden.net/">Jay Braden</a>
+Photo by [Jay Braden](https://www.jaybraden.net/)
 
 _Summary of "Moral Imperatives for Climate Action" presentation:_
 
@@ -49,8 +46,7 @@ My own presentation was nothing ground-breaking. Nevertheless it felt incredibly
 meaningful to hone my own ability to express the importance of acting on climate
 change before it acts on us. I would **encourage as many people as possible** to
 do their own research and **find their own voice** on this critical topic. You
-can download a PDF version of the slide deck at <a
-href="http://www.greenbahai.com">greenbahai.com</a>, beneath the "resources" tab
+can download a PDF version of the slide deck at [greenbahai.com](http://www.greenbahai.com), beneath the "resources" tab
 (quick summary in the sidebar here).
 
 Although the presentation ran longer than I hoped (about 40 minutes), I think
@@ -58,9 +54,8 @@ the mixture of science and religion helped keep the audience attentive. The
 presentation tried to make clear that real harms face people and ecosystems
 around the world, it needed at least one more slide: one that presents **climate
 change as a clear and present danger, a danger that requires action NOW**. We
-cannot wait for today's children to solve the problem. Some say we have but <a
-href="http://www.theguardian.com/environment/earth-insight/2013/jul/10/james-hansen-fossil-fuels-runaway-global-warming">16
-years to radically change our ways</a>. Maybe that is a doomsday prediction, but
+cannot wait for today's children to solve the problem. Some say we have but [16
+years to radically change our ways](http://www.theguardian.com/environment/earth-insight/2013/jul/10/james-hansen-fossil-fuels-runaway-global-warming). Maybe that is a doomsday prediction, but
 we must take it seriously.
 
 The presentation was followed by conversation around an **ecological footprint

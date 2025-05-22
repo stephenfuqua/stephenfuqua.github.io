@@ -13,7 +13,7 @@ tags:
 {: .center-block}
 ![preach-in logo](/images/preachIn.jpg){: .img-fluid .border .rounded }
 
-The <a href="http://www.preachin.org/">National Preach-In on Global Warming</a>
+The [National Preach-In on Global Warming](http://www.preachin.org/)
 is coming up - Feb 8 - 10 &mdash; and I am excited to say that the
 Bah&aacute;'&iacute;s of Grand Prairie have signed on! This event is a project
 of <a href="http://www.interfaithpowerandlight.org">Interfaith Power &amp;
@@ -40,7 +40,6 @@ prevent future climate change and to help humanity to adapt to the changes
 already set in motion."
 
 During the consultation, the community will be asked to consider sending the
-"Love Creation" <a
-href="http://www.preachin.org/sermon-ideas/send-postcards-to-president-obama/">postcards
-to the President</a>. As well, we will broach the topic of next steps for our
+"Love Creation" [postcards
+to the President](http://www.preachin.org/sermon-ideas/send-postcards-to-president-obama/). As well, we will broach the topic of next steps for our
 community.

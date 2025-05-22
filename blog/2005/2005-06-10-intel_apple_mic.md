@@ -6,9 +6,8 @@ basename: intel_apple_mic
 tags: [tech]
 ---
 
-PBS's Robert X. Cringeley thinks Intel is <a
-href="http://www.pbs.org/cringely/pulpit/pulpit20050609.html">poised to buy
-Apple</a>, saying "Apple's Decision to Use Intel Processors Is Nothing Less Than
+PBS's Robert X. Cringeley thinks Intel is [poised to buy
+Apple](http://www.pbs.org/cringely/pulpit/pulpit20050609.html), saying "Apple's Decision to Use Intel Processors Is Nothing Less Than
 an Attempt to Dethrone Microsoft. Really." What is a fan of upstart competitors
 to do when his favorite upstart (Apple) might merge with one of the upstarted
 (Intel as opposed to AMD)? Course its sheer speculation at this point, but

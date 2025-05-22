@@ -17,8 +17,7 @@ understanding of "God". This passage might seem a bit paradoxical to that
 viewpoint, at first glance. The paradox is because of my  inability to precisely
 describe the nuance of a belief that lies somewhere between the poles of atheism
 and personal theism, without recourse to philosophical language (the best
-"school of thought" to describe my own core belief has always been <a
-href="http://en.wikipedia.org/wiki/Panentheism">panentheism</a>).
+"school of thought" to describe my own core belief has always been [panentheism](http://en.wikipedia.org/wiki/Panentheism)).
 
 > I am well aware, O my Lord, that I have been so carried away by the clear
 > tokens of Thy loving-kindness, and so completely inebriated with the wine of
@@ -61,8 +60,7 @@ The reason for the anthropomorphic-seeming statements is not stated; I can only
 assume that the terminology is used as a metaphorical device that helps us puny
 humans connect to this inscrutable force-Being. But of pantheism itself,
 'Abdu'l-Bah&aacute; makes clear that this concept is too limiting of God in His
-Father's theology (_Some Answered Questions_, <a
-href="http://reference.bahai.org/en/t/ab/SAQ/saq-83.html">p290-6</a>; the
+Father's theology (_Some Answered Questions_, [p290-6](http://reference.bahai.org/en/t/ab/SAQ/saq-83.html); the
 discussion of this concept is too philosophical, and wrapped around particular
 S&uacute;f&iacute; beliefs, for quoting any particular part here).
 

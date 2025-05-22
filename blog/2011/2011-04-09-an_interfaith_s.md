@@ -8,8 +8,7 @@ tags:
 - religion
 ---
 
-Last Sunday I  attend my first interfaith passover <a
-href="http://en.wikipedia.org/wiki/Passover_Seder">seder</a>, at Mount Zion
+Last Sunday I  attend my first interfaith passover [seder](http://en.wikipedia.org/wiki/Passover_Seder), at Mount Zion
 Temple in St. Paul. There were around 150 people present, from many different
 religions (though almost entirely white), commemorating together the Jewish
 liberation from Egyptian slavery. In addition to a traditional Haggadah
@@ -53,6 +52,5 @@ perspective, ritual tends to re-inforce power structures rather than liberate:
 liberation of the human spirit, were, in time, taken captive by 'the insistent
 self', were frozen into man-made dogma, ritual, clerical privilege and sectarian
 quarrels, and reached their end with their ultimate purpose frustrated."
-(Universal House of Justice, _<a
-href="http://reference.bahai.org/en/t/bic/COL/col-11.html">Century of
-Light</a>_, p110)].
+(Universal House of Justice, _[Century of
+Light](http://reference.bahai.org/en/t/bic/COL/col-11.html)_, p110)].

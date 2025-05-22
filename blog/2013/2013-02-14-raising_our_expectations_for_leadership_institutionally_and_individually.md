@@ -10,12 +10,11 @@ tags:
 
 {: .float-right }
 ![mural showing fingers pointing different directions](/images/fingerPointingMural.jpg)<br>
-<small><a href="http://creativecommons.org/licenses/by/2.0/deed.en">Some rights reserved</a><br>
-by <a href="http://www.flickr.com/photos/newtown_grafitti/">Newtown grafitti</a></small>
+<small>[Some rights reserved](http://creativecommons.org/licenses/by/2.0/deed.en)<br>
+by [Newtown grafitti](http://www.flickr.com/photos/newtown_grafitti/)</small>
 
-In an editorial published last weekend, <a
-href="https://www.commondreams.org/view/2013/02/09-0">Power, Privilege, and
-Climate Change: A Tale of Two Presidents</a>, Vassar College professor Joseph
+In an editorial published last weekend, [Power, Privilege, and
+Climate Change: A Tale of Two Presidents](https://www.commondreams.org/view/2013/02/09-0), Vassar College professor Joseph
 Nevins contrasts the lifestyles of the richest and "poorest" presidents in the
 world, in the context of global climate change: those of the United States and
 Uruguay. It is a powerful reminder that we in the U.S. can't look at climate
@@ -33,9 +32,8 @@ bubble up to the top of the power structure. How can we connect the two ends?
 They say that all politics is local. As we work to reduce our own energy
 footprints, perhaps concerned individuals should redouble their efforts to
 "green up" their local governments; for instance, we can ask our city leaders to
-join the <a
-href="http://www.un.org/en/sustainablefuture/cities.shtml">sustainable
-cities</a> movement. City council and school board members become state leaders,
+join the [sustainable
+cities](http://www.un.org/en/sustainablefuture/cities.shtml) movement. City council and school board members become state leaders,
 who in turn become national legislative and executive leaders, carrying local
 lessons with them. While on the topic of institutional change, let us not forget
 our religious bodies: clergy and lay leadership can and will influence their

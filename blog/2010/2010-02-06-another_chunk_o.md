@@ -18,8 +18,7 @@ post-death rather than ante-. And then I remembered the twins.
 <!--more-->
 
 What other links exist? A number of minor things (Alia/Leia, Leto/Luke...), as
-pointed out at <a
-href="http://www.moongadget.com/origins/dune.html">Star Wars Origins</a>.
+pointed out at [Star Wars Origins](http://www.moongadget.com/origins/dune.html).
 That site of course reminds us what already know: "What has been will be again,
 what has been done will be done again; there is nothing new under the sun". So I
 can't really can't hold it against Lucas if he borrowed liberally from Herbert

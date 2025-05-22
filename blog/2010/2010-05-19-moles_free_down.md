@@ -11,7 +11,6 @@ excerpt_separator: <!--more-->
 ---
 
 I wonder how many others didn't think to scroll down further on the Pex download
-page, and find this link? <a
-href="http://visualstudiogallery.msdn.microsoft.com/en-us/b3b41648-1c21-471f-a2b0-f76d8fb932ee">Visual
-Studio 2010 Moles - Isolation Framework for .NET</a>. Moles is available for
+page, and find this link? [Visual
+Studio 2010 Moles - Isolation Framework for .NET](http://visualstudiogallery.msdn.microsoft.com/en-us/b3b41648-1c21-471f-a2b0-f76d8fb932ee). Moles is available for
 free, while the full Pex environment requires MSDN.

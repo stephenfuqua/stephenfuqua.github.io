@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 
 **Problem:** Need to convert an image from one format to another using .Net.
 
-**Solution:** Microsoft has really made this easy. The key is the <a href="http://msdn2.microsoft.com/en-us/library/system.drawing.image(vs.80).aspx">System.Drawing.Image</a> class, combined with the <a href="http://msdn2.microsoft.com/en-us/library/system.drawing.imaging.imageformat_members(vs.80).aspx">System.Drawing.Imaging.ImageFormat</a> class.
+**Solution:** Microsoft has really made this easy. The key is the [System.Drawing.Image](http://msdn2.microsoft.com/en-us/library/system.drawing.image(vs.80).aspx) class, combined with the [System.Drawing.Imaging.ImageFormat](http://msdn2.microsoft.com/en-us/library/system.drawing.imaging.imageformat_members(vs.80).aspx) class.
 
 Steps:
 

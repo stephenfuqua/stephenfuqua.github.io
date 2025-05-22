@@ -12,8 +12,7 @@ tags:
 
 This past Friday I finally completed the "public expression" portion of the
 eco-theology project for the <a href="http://www.greenfaith.org">GreenFaith
-Fellowship</a>. The presentation is accessible at <a
-href="http://www.greenbahai.com/#/discourse">GreenBahai.com</a>. It addresses
+Fellowship</a>. The presentation is accessible at [GreenBahai.com](http://www.greenbahai.com/#/discourse). It addresses
 the following topics from an multi-faith perspective:
 
 ![screen grab of presentation cover slide](/images/faithfulCallToAct.png){: .float-right}

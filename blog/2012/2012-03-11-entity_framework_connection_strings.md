@@ -11,6 +11,5 @@ excerpt_separator: <!--more-->
 ---
 
 This is a shout out to an agony-saving explanation of the connection string used
-for Entity Framework: <a
-href="http://blogs.teamb.com/craigstuntz/2010/08/13/38628/">Troubleshooting
-Entity Framework Connection Strings</a>. 
+for Entity Framework: [Troubleshooting
+Entity Framework Connection Strings](http://blogs.teamb.com/craigstuntz/2010/08/13/38628/).

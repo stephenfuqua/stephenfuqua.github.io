@@ -18,9 +18,8 @@ outside of postexecute". What's up?
 
 <!--more-->
 
-**Solution:** <a
-href="http://msdn2.microsoft.com/en-us/library/aa337079.aspx">Microsoft
-explains</a>: "The collection of ReadWriteVariables is only available in the
+**Solution:** [Microsoft
+explains](http://msdn2.microsoft.com/en-us/library/aa337079.aspx): "The collection of ReadWriteVariables is only available in the
 PostExecute." OK, so what now? It turns out that this is really easy. In your
 script, add a class-level variable. Make sure you instantiate it. In the
 InputBuffer routine, update the class variable rather than the external package

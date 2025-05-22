@@ -30,8 +30,7 @@ of the service pack. Some, maybe even all, of these problems may have been
 eliminated. But Microsoft has a lot of pressure on them to get this software
 released, and that typically leads to more bugs.
 
-If you have firewall software or hardware in place, and if you use the latest <a
-href="http://www.mozilla.org">Mozilla FireFox</a> or <a href=
+If you have firewall software or hardware in place, and if you use the latest [Mozilla FireFox](http://www.mozilla.org) or <a href=
 "http://www.netscape.com">Netscape Navigator</a> web browser instead of Internet
 Explorer, then I heartily recommend waiting at least a month or two before
 installing SP2 (read on for how to do this). If you do not have both of these in

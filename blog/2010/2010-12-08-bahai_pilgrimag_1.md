@@ -9,14 +9,12 @@ tags:
 - Bahai
 ---
 
-In an <a
-href="http://bahai-library.com/provisionals/lawh.bagh.ridvan.html">epistle</a>
+In an [epistle](http://bahai-library.com/provisionals/lawh.bagh.ridvan.html)
 extolling the Ridv&aacute;n Gardens outside of 'Akk&aacute; &mdash; more on
 which in a future post &mdash; Bah&aacute;'u'll&aacute;h wrote that "God's power
 and the perfection of His handiwork could enjoyably be seen in the blossoms, the
 fruits, the trees, the leaves and the streams." In that spirit, the time spent
-out in the various "<a
-href="http://www.ganbahai.org.il/en/">Bah&aacute;'&iacute; Gardens</a>" was an
+out in the various "[Bah&aacute;'&iacute; Gardens](http://www.ganbahai.org.il/en/)" was an
 integral part of the spiritual experience of the pilgrimage &mdash; linking
 physical sensation with spiritual "praise" of creation &dagger;. No matter how
 handsome the building, I will always feel most alive and aware in natural (or

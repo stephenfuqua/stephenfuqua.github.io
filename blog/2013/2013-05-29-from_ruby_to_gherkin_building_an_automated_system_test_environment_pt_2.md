@@ -44,8 +44,7 @@ non-programmer. Compounding the difficulty is the fact that the non-programmer
 users are still trying to understand the _fundamentals_ of software testing, in
 plain English, and without the benefit of meaningful time to study. In other
 words, asking someone else to verify and maintain these tests would be throwing
-them into the deep end with inadequate support. The <a
-href="http://marcbless.blogspot.com/2011/05/agile-principle-12-inspect-and-adapt.html">inspect-and-adapt</a>
+them into the deep end with inadequate support. The [inspect-and-adapt](http://marcbless.blogspot.com/2011/05/agile-principle-12-inspect-and-adapt.html)
 mentality suggests modifying the system testing approach.
 
 <div class="float-right shadow p-3 rounded bg-dark text-light">
@@ -57,7 +56,7 @@ mentality suggests modifying the system testing approach.
 </ol>
 </div>
 
-<a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a> to the
+[Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) to the
 rescue! The Gherkin language provides a very simple format for writing tests in
 plain English. A programmer then writes code that executes the intended actions,
 in the context of an automation system. Initially I continued on the Ruby path
@@ -65,8 +64,7 @@ by trying to install RSpec as the interpreter, but I could not get it to install
 properly in IronRuby. Undismayed, I revised my goal: no longer would I seek to
 convert a tester into a Ruby programmer. Instead, I would encourage that tester
 to write and review English-language test scenarios in Gherkin, which the
-programming team would then support with code in C# using the <a
-href="http://www.specflow.org/specflownew/">SpecFlow</a> framework.
+programming team would then support with code in C# using the [SpecFlow](http://www.specflow.org/specflownew/) framework.
 
 At that point, we were working on a line-of-business application. Whereas
 learning the rudiments of Ruby, and setting up the code environment, had taken a

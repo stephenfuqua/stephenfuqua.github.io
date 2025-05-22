@@ -8,12 +8,11 @@ tags:
 - justice
 ---
 
-As a matter of religious conviction &mdash;and standard English language <a
-href="http://dictionary.reference.com/search?q=marriage">definition</a>&mdash; I
+As a matter of religious conviction &mdash;and standard English language [definition](http://dictionary.reference.com/search?q=marriage)&mdash; I
 have never felt that the term "gay marriage" meant much of anything, and would,
 perhaps, even call it an oxymoron. When the government, however, tries to step
 in and reinforce that definition with legal statutes, I immediately react
-against it as an unwarranted and discriminatory encroachment upon civil rights. 
+against it as an unwarranted and discriminatory encroachment upon civil rights.
 
 <!--more-->
 
@@ -42,8 +41,7 @@ apart from and in reaction with women joining the work force in greater numbers.
 No longer is it necessary for a women to stay at home, and no longer is their a
 strong societal need for high levels of procreation (considered true at one time
 by those who wished to fill America from coast-to-coast with Europeans, and true
-again today with nations such as <a
-href="http://news.bbc.co.uk/1/hi/world/europe/2472845.stm">Italy</a>). Thus if
+again today with nations such as [Italy](http://news.bbc.co.uk/1/hi/world/europe/2472845.stm)). Thus if
 we are to continue granting spousal rights, why deny them for gay couples? This
 does, I admit, presuppose a mindset of some openness, tolerance,
 progressivism&mdash;whatever you want to call it.
@@ -51,26 +49,21 @@ progressivism&mdash;whatever you want to call it.
 ***{: .text-center }
 
 The past several years have brought the issue of homosexuality to the fore of
-national attention. In the 1990's the <a
-href="http://news.google.com/news?hl=en&edition=us&ie=ISO-8859-1&q=%22matthew+shepard%22">Matthew
-Shepard</a> case showed the extremes of hatred for gays. The <a
-href="http://www.usatoday.com/news/health/2003-02-11-hiv-rates-rising_x.htm">rise
-in the rate</a> of HIV/AIDS infections amongst straights forced the pundits to
+national attention. In the 1990's the [Matthew
+Shepard](http://news.google.com/news?hl=en&edition=us&ie=ISO-8859-1&q=%22matthew+shepard%22) case showed the extremes of hatred for gays. The [rise
+in the rate](http://www.usatoday.com/news/health/2003-02-11-hiv-rates-rising_x.htm) of HIV/AIDS infections amongst straights forced the pundits to
 realize that AIDS is not solely " the wrath of God upon homosexuals." Texas's
-anti-sodomy laws shocked  those who did not know about them, and the <a
-href="http://www.cnn.com/2003/LAW/06/26/scotus.sodomy/">Supreme Court's
-decision</a> to overrule them shocked those who genuinely believed that sodomy
+anti-sodomy laws shocked  those who did not know about them, and the [Supreme Court's
+decision](http://www.cnn.com/2003/LAW/06/26/scotus.sodomy/) to overrule them shocked those who genuinely believed that sodomy
 should be punished by law. The highest courts of several states found that their
 constitutions forbid discrimination against same-sex couples in the granting of
 marriage licenses, resulting in state constitutional amendments, the creation of
-civil unions, and <a
-href="http://www.cbsnews.com/stories/2004/02/04/politics/main597863.shtml">Massachusetts's</a>
+civil unions, and [Massachusetts's](http://www.cbsnews.com/stories/2004/02/04/politics/main597863.shtml)
 now official recognition of gay marriages. Meanwhile a handful of mayors defied
 state lawmakers by granting licenses to same-sex partners, unsurprisingly led by
 San Francisco (gay-friendly Austin did not follow). And now in this election
-year we have begun the <a
-href="http://news.google.com/news?q=gay+marriage&hl=en&lr=&ie=UTF-8&sa=N&tab=nn">ultimate
-debate</a>&mdash;whether the states should be allowed to recognize gay marriages
+year we have begun the [ultimate
+debate](http://news.google.com/news?q=gay+marriage&hl=en&lr=&ie=UTF-8&sa=N&tab=nn)&mdash;whether the states should be allowed to recognize gay marriages
 or the Constitution amended to forbid it.
 
 ***{: .text-center }
@@ -87,11 +80,11 @@ The membership of this federation is, of course, composed of two classes: indivi
 and states. Within the Constitution and its amendments are laws affecting and regulating
 the relationships between and amongst the two classes and the federal government
 itself. Within this context decisions are meant to devolve to the local level wherever
-feasible. 
+feasible.
 
 Thus it is that I am inclined to leave the question of gay marriage to the states,
 who have already been recognized as the final secular authority in other matters
-of wedlock. Sadly, the <a href="http://www.house.gov/Constitution/Constitution.html">Constitution</a>, which strives to insure the tyranny of neither
+of wedlock. Sadly, the [Constitution](http://www.house.gov/Constitution/Constitution.html), which strives to insure the tyranny of neither
 the majority nor the minority, has a flaw in this regard:
 
 > "Full Faith and Credit shall be given in each State to the public Acts,
@@ -107,8 +100,7 @@ is at hand.
 What can and should be done to reconcile such a conundrum? No longer a merely
 theoretical discussion, may wish to bring rectification with what may be undue
 haste. It is true that the states are immediately placed in an unjust position.
-However, the short-term harm to the states is truly <a
-href="http://www.newsday.com/news/local/wire/ny-bc-ny--gaymarriage-lawsu0712jul12,0,1847916.story?coll=ny-ap-regional-wire">negligible</a>,
+However, the short-term harm to the states is truly [negligible](http://www.newsday.com/news/local/wire/ny-bc-ny--gaymarriage-lawsu0712jul12,0,1847916.story?coll=ny-ap-regional-wire),
 and would be a poor excuse for placing the greater emphasis on ratification than
 debate. We must grant a measured time for public discourse before attempting to
 legislate a resolution.
@@ -125,8 +117,7 @@ insurance, etc. as one removed from the workforce on behalf of the family? Some
 would say that these fiscal considerations are at the heart of today's debate.
 
 The methods of resolving this conflict are many. The 20th century religious
-leader <a
-href="http://en.wikipedia.org/wiki/%60Abdu%27l-Bah%E1">'Abdu'l-Bah&aacute;</a>
+leader ['Abdu'l-Bah&aacute;](http://en.wikipedia.org/wiki/%60Abdu%27l-Bah%E1)
 said that "[t]he shining spark of truth cometh forth only after the clash of
 differing opinions." Let us then enter into civil debate, that we may arrive at
 the spark of truth with all deliberate speed.

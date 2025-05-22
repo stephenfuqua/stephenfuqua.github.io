@@ -9,9 +9,8 @@ tags:
 - Bahai
 ---
 
-I've done my alloted time now: taught a <a
-href="http://www.bahai.us/bahai-children">Bah&aacute;'&iacute; children's
-class</a> at a St. Paul public housing community center two weeks running, with
+I've done my alloted time now: taught a [Bah&aacute;'&iacute; children's
+class](http://www.bahai.us/bahai-children) at a St. Paul public housing community center two weeks running, with
 around 10 children each time. None of whom are Bah&aacute;'&iacute;s, and
 neither are their parents. We learned about service and truthfulness. Well, I
 learned, and I hope they did too. And they taught me about karma. Perhaps I'll
@@ -44,8 +43,8 @@ snacks.
 
 The two lessons I co/taught were on service and honesty. In the first one, we
 worked on learning "That one indeed is a man who, today, dedicateth  himself to
-the service of the entire human race" [<a href="#one">1</a>] and in the second,
-"Truthfulness is the foundation of all human virtues" [<a href="#two">2</a>]. We
+the service of the entire human race" [[1](#one)] and in the second,
+"Truthfulness is the foundation of all human virtues" [[2](#two)]. We
 did this by repeating the quotation several times, learning the meaning of
 specific words, and then illustrating with several concrete examples. Finally we
 finished with a story that would further demonstrate the intent of the lesson.

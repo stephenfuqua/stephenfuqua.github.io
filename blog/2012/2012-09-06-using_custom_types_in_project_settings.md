@@ -10,9 +10,8 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-**Problem:** using <a
-href="http://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx">Application
-Settings</a> in a .Net project, you find that there are so many entries that
+**Problem:** using [Application
+Settings](http://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx) in a .Net project, you find that there are so many entries that
 some organization is needed.
 
 **Solution:** create custom, serializable data types for logical groups of
@@ -47,7 +46,7 @@ public class MySettingsType
 ```
 
 Now, to write a few lines of code&hellip; I put this into a unit test class so
-that I could easily execute it from within Visual Studio. 
+that I could easily execute it from within Visual Studio.
 
 ```csharp
 using System.Xml.Serialization;

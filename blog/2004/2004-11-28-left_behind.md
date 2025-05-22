@@ -69,8 +69,7 @@ deepen our intra-religious dialogue even as we engage in the inter-religious
 kind.
 
 The full Kristoff article (which is a bit more pointed/angry than my little
-exposition) can be found at <a
-href="http://www.nytimes.com/2004/11/24/opinion/24kristof.html?ex=1259038800&en=c982a8d18d38c2c4&ei=5090&partner=rssuserland">http://www.nytimes.com/2004/11/24/opinion/24kristof.html?ex=1259038800&en=c982a8d18d38c2c4&ei=5090&partner=rssuserland</a>.
+exposition) can be found at [http://www.nytimes.com/2004/11/24/opinion/24kristof.html?ex=1259038800&en=c982a8d18d38c2c4&ei=5090&partner=rssuserland](http://www.nytimes.com/2004/11/24/opinion/24kristof.html?ex=1259038800&en=c982a8d18d38c2c4&ei=5090&partner=rssuserland).
 Please note that this link bypasses the Times' normal registration/logon process
 and should work even after Wednesday (articles normally require payment after 7
 days).

@@ -11,9 +11,8 @@ tags:
 {: .float-right}
 ![pushing a bicyclist over a cliff](/images/pushBikeCliff.jpg){: .border .rounded}
 
-At a Bah&aacute;'&iacute; retreat on <a
-href="http://www.cvent.com/events/friends-and-family-session-iii-conversations-on-the-way/event-summary-3fb948043b9244a8bbd0e1844a883dc6.aspx">Conversations
-on the Way:  Kindling Hope in a Time of Despair</a>, the conversation following
+At a Bah&aacute;'&iacute; retreat on [Conversations
+on the Way:  Kindling Hope in a Time of Despair](http://www.cvent.com/events/friends-and-family-session-iii-conversations-on-the-way/event-summary-3fb948043b9244a8bbd0e1844a883dc6.aspx), the conversation following
 a presentation on the environmental crisis turned to the notion of _hastening
 the collapse_ of the old world order. There is a thesis out there, amongst some
 Bah&aacute;'&iacute;s and in parts of the Christian community, that
@@ -80,5 +79,4 @@ the collapse, let us work across all divisions to "assuage its fury" and hasten
 the _integration_ of civilizations.
 
 &dagger; Shoghi Effendi, _The Promised Day is Come_, US Bah&aacute;'&iacute;
-Publishing Trust, 1980 revised edition, from pages  2, 3, and 4. <a
-href="http://reference.bahai.org/en/t/se/PDC/pdc-2.html">http://reference.bahai.org/en/t/se/PDC/pdc-2.html</a>
+Publishing Trust, 1980 revised edition, from pages  2, 3, and 4. [http://reference.bahai.org/en/t/se/PDC/pdc-2.html](http://reference.bahai.org/en/t/se/PDC/pdc-2.html)

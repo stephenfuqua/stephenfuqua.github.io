@@ -21,9 +21,8 @@ was trying to import.
 
 **Solution:** The `BufferTempStoragePath` is kind of self explanatory. As usual,
 Jamie Thomson's SQL Junkie blog has an excellent article that gives useful
-background on the issue, in <a
-href="http://blogs.conchango.com/jamiethomson/archive/2007/10/09/SSIS_3A00_-Dataflow-mechanics.asp
-x">Dataflow mechanics</a>. He also points to my other favorite SSIS reference,
+background on the issue, in [Dataflow mechanics](http://blogs.conchango.com/jamiethomson/archive/2007/10/09/SSIS_3A00_-Dataflow-mechanics.asp
+x). He also points to my other favorite SSIS reference,
 _Microsoft SQL Server 2005 Integration Services_, by Kirk Haselden. Apparently
 my package needed to write some data out to the buffer and did not have proper
 permissions, just as the error says. So, where is this buffer? Neither THomson
@@ -32,9 +31,8 @@ my package usually succeed, only rarely failing? "The Data Flow Task only uses
 the `BufferTempStoragePath` when it runs out of memory and must spool buffers
 out to disk." (p422)
 
-In a <a
-href="http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=552382&SiteID=1">random
-forum</a> I found someone mentioning that the default buffer location is in
+In a [random
+forum](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=552382&SiteID=1) I found someone mentioning that the default buffer location is in
 `c:\documents and settings\<username>\...`. Well, there's my problem &mdash; the
 user executing the package does not have such a directory. No wonder it failed.
 Thankfully there is an override at the package level: you can directly set the

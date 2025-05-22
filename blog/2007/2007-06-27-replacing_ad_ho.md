@@ -188,7 +188,6 @@ regular expressions (i.e. would be able to handle `myField = ` as well as
 `myField=`), but that would require CLR integration and I'm just not ready to go
 to that extreme.
 
-Note: MD2 has <a
-href="http://en.wikipedia.org/wiki/MD2_%28cryptography%29#Security">not been
-considered secure</a> since 2004. You should choose a better algorithm than
+Note: MD2 has [not been
+considered secure](http://en.wikipedia.org/wiki/MD2_%28cryptography%29#Security) since 2004. You should choose a better algorithm than
 this.

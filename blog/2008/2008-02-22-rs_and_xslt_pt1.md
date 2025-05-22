@@ -11,8 +11,7 @@ excerpt_separator: <!--more-->
 ---
 
 It was driving me nuts &mdash; my transforms just wouldn't apply. I tried
-working with some fake data, from my little-used O'Reilly <a
-href="http://www.oreilly.com/catalog/xmlnut3/">XML in a Nutshell</a>, and that
+working with some fake data, from my little-used O'Reilly [XML in a Nutshell](http://www.oreilly.com/catalog/xmlnut3/), and that
 worked fine. So why couldn't I transform my Reporting Services output? After
 banging my head against this one for a while, I finally decided to mess around
 with the root `<Report ... />` node, first by removing all the extra

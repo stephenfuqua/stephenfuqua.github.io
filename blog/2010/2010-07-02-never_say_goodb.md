@@ -9,10 +9,9 @@ I've been a recycling fool since I was in elementary school, when my best friend
 and I would walk around house construction sites and collect all of the aluminum
 cans (we weren't the least bit bothered if there were workers actually there,
 though typically we were out on Saturdays and that wasn't an issue). For years
-now I've been meaning to send my old floppy disks to <a
-href="http://www.greendisk.com/">Green Disk</a>, and tonight we finally boxed
+now I've been meaning to send my old floppy disks to [Green Disk](http://www.greendisk.com/), and tonight we finally boxed
 them up for shipping tomorrow: floppy and zip disks, DSL modems, an ancient
-dubbed-from-broadcast Spaceballs on VHS (and a few other VHS). 
+dubbed-from-broadcast Spaceballs on VHS (and a few other VHS).
 
 The _coup de gr&acirc;ce_: Bon Jovi's _Slippery When Wet_. I had to open the
 liner notes and read/semi-sing  the, shall we just leave it at trite, lyrics to

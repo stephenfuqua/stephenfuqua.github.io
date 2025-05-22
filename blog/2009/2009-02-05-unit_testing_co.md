@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 ---
 
 Lately I've been working with my team to understand and utilize good automated
-unit testing strategies with <a href="http://www.nunit.org">NUnit</a>. A code
+unit testing strategies with [NUnit](http://www.nunit.org). A code
 release I was inspecting revealed a couple of good points that seem worth
 expanding on: the importance of testing each layer, and the need to pay
 attention to code coverage. This is a rather facile treatment; for more in-depth
@@ -74,7 +74,7 @@ that's good. But, the service layer is left out entirely; it has not been
 covered in the code tests, and therefore at this time we have no idea if the
 service layer works as expected.
 
- <a href="http://sourceforge.net/projects/ncover/">NCover</a> is a useful tool
+ [NCover](http://sourceforge.net/projects/ncover/) is a useful tool
 for exploring how much of your code is covered by a single test or a suite of
 tests. It is an open source application, like NUnit, therefore free to download
 and use. The Visual Studio Team Test Edition also has a built-in code coverage

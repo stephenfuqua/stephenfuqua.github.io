@@ -109,8 +109,7 @@ private void libraryFunction()
 }
 ```
 
-Now, if I had fully read the <a
-href="http://msdn2.microsoft.com/en-us/library/ms954599.aspx">Exception
-Management Architecture Guide</a>, I'm sure I could have explained this all in
+Now, if I had fully read the [Exception
+Management Architecture Guide](http://msdn2.microsoft.com/en-us/library/ms954599.aspx), I'm sure I could have explained this all in
 more technically precise language. Then again, maybe (hopefully) its more
 intelligible in this form =).

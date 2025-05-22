@@ -10,8 +10,7 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-Wherein I record a few tips on the use of <a
-href="http://rachelappel.com/asp-net-mvc/how-data-annotations-for-asp-net-mvc-validation-work/">System.ComponentModel.DataAnnotations</a>,
+Wherein I record a few tips on the use of [System.ComponentModel.DataAnnotations](http://rachelappel.com/asp-net-mvc/how-data-annotations-for-asp-net-mvc-validation-work/),
 which I am likely to forget if I do not need to think about them again for some
 months&hellip;
 
@@ -20,9 +19,8 @@ months&hellip;
 ## Unit Testing for Validation Attributes
 
 In your unit tests, do not test the validation &mdash; but rather test to see if
-the validation attributes have been applied. See Brad Wilson's blog post, <a
-href="http://bradwilson.typepad.com/blog/2009/04/dataannotations-and-aspnet-mvc.html">DataAnnotations
-and ASP.NET MVC</a>, for details.
+the validation attributes have been applied. See Brad Wilson's blog post, [DataAnnotations
+and ASP.NET MVC](http://bradwilson.typepad.com/blog/2009/04/dataannotations-and-aspnet-mvc.html), for details.
 
 ## Manual Validation
 

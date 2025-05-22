@@ -7,10 +7,10 @@ tags:
 - discourse
 - nature
 ---
-  
+
 
 <i style="color: #009">Updated 12/19._ This Friday (12/17/2004) will be the last
-broadcast of <a href="http://www.pbs.org/now/">Now with Bill Moyers</a> on PBS,
+broadcast of [Now with Bill Moyers](http://www.pbs.org/now/) on PBS,
 a fantastic show that takes journalism seriously and brings insightful &mdash;
 and sometimes harrowing &mdash; news to its viewers. I have often found myself
 unable to watch _Now_, knowing that what Moyers uncovers would only ruin my
@@ -30,14 +30,11 @@ original reporting, though it will be shortened by half an hour and sandwiched
 between Tucker Carlson and some _Wall Street Journal_ guy. Now back to Moyers.
 
 I've seen a number of articles in recent days by and about Moyers that are truly
-inspirational and/or informative: <a
-href="http://www.alternet.org/envirohealth/20666/">Battlefield Earth</a> (by),
+inspirational and/or informative: [Battlefield Earth](http://www.alternet.org/envirohealth/20666/) (by),
 <a href="http://www.alternet.org/mediaculture/20741/">PBS' Future
-Post-Moyers</a> (tangentially about), <a
-href="http://www.thenation.com/doc.mhtml?i=20041227&amp;s=editors2">Our Debt to
-Bill Moyers</a> (about), <a
-href="http://www.truthout.org/docs_04/112904V.shtml">Bill Moyers Leaves PBS in
-the Middle of a Rebalancing Act</a> (tangential).
+Post-Moyers</a> (tangentially about), [Our Debt to
+Bill Moyers](http://www.thenation.com/doc.mhtml?i=20041227&amp;s=editors2) (about), [Bill Moyers Leaves PBS in
+the Middle of a Rebalancing Act](http://www.truthout.org/docs_04/112904V.shtml) (tangential).
 
 I want to draw particular attention to the _Battlefield Earth_ article, which is
 actually the text of a talk given by Moyers upon receiving a Global Environment
@@ -47,18 +44,15 @@ with environmental issues: **"millions of Christian fundamentalists may believe
 that environmental destruction is not only to be disregarded but actually
 welcomed &mdash; even hastened &mdash; as a sign of the coming apocalypse."**
 For more exploration of the depth of the problem faced by the environmental
-movement, see <a
-href="http://www.grist.org/news/maindish/2004/10/27/scherer-christian/index.html">
-The Godly Must Be Crazy</a> (author referenced by Moyers).
+movement, see [
+The Godly Must Be Crazy](http://www.grist.org/news/maindish/2004/10/27/scherer-christian/index.html) (author referenced by Moyers).
 
-So add another ill-effect of the Left Behind series to my <a
-href="http://www.safnet.com/writing/archives/000043.html">post of
-11/28/2004</a>. This is precisely why **the religious non-right* needs to get
+So add another ill-effect of the Left Behind series to my [post of
+11/28/2004](http://www.safnet.com/writing/archives/000043.html). This is precisely why **the religious non-right* needs to get
 together with each other and with the scientists if we are to accomplish
 anything meaningful in the fight to create a sustainable civilization**, as I
-hinted at in <a
-href="http://www.safnet.com/writing/archives/000044.html">Reforming the
-Environmental Movement</a> (11/30/2004).
+hinted at in [Reforming the
+Environmental Movement](http://www.safnet.com/writing/archives/000044.html) (11/30/2004).
 
 Finally, though there is much that one can find inspiring in Moyers' work over
 the years, I leave you with the final paragraph from _Battlefield Earth_, the
@@ -87,14 +81,12 @@ The last episode of _Now_ was of course brilliant as usual. Yes, Bill Moyers
 goes out on a limb and editorializes (that's why he's not a news anchor). But he
 backs everything up with facts, something you won't find Bill O'Reilly doing.
 
-Read a great article at the _Times_: <a
-href="http://www.nytimes.com/2004/12/17/arts/television/17moye.html?ex=1261026000&amp;en=e634685e55090435&amp;ei=5090&amp;partner=rssuserland">Moyers
-Leaves a Public Affairs Pulpit With Sermons to Spare</a>, with a perfect summary
+Read a great article at the _Times_: [Moyers
+Leaves a Public Affairs Pulpit With Sermons to Spare](http://www.nytimes.com/2004/12/17/arts/television/17moye.html?ex=1261026000&amp;en=e634685e55090435&amp;ei=5090&amp;partner=rssuserland), with a perfect summary
 of his mission: "The gospel of Mr. Moyers &mdash; an unreconstructed progressive
 &mdash; warns against the danger of media consolidation, the growing links
 between conservative government and conservative media and the threat of
 information control by government."
 
-If you missed his last episode, the <a
-href="http://www.pbs.org/now/archive_transcripts.html">transcript</a> should be
+If you missed his last episode, the [transcript](http://www.pbs.org/now/archive_transcripts.html) should be
 posted soon.

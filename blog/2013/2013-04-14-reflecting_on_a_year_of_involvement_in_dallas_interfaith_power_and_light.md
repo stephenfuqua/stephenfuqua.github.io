@@ -62,9 +62,8 @@ from all walks of life.
 Since that July retreat, we have continued with monthly meetings, with
 attendance ranging from just a handful to 50 or so. We've had presenters,
 round-table discussions, a walk in an downtown park, and conversation around a
-<a href="http://video.pbs.org/video/1873639434/">Nova documentary</a>. Our most
-recent gathering was organized by the <a
-href="http://www.keeptexasparksopen.com/">Keep Texas Parks Open</a> campaign,
+[Nova documentary](http://video.pbs.org/video/1873639434/). Our most
+recent gathering was organized by the [Keep Texas Parks Open](http://www.keeptexasparksopen.com/) campaign,
 who gave us the opportunity to learn about the state of funding for, and the
 economics of, state and local parks. That was far more enlightening than it
 might sound, thanks to a slate of knowledgeable and passionate speakers. This
@@ -79,7 +78,7 @@ especially when covering such a large geography. On Sunday, May 5, we will hold
 an afternoon conference at Trinity River Audubon Center in Dallas, on the theme
 of "Let's Get to Work". Our keynote speaker will address the topic of water; we
 will also have an expert Q&A panel, a break out session, and time to enjoy the
-Center grounds in the late afternoon. 
+Center grounds in the late afternoon.
 
 Long term, we hope to engage our "members" (we have no formal membership) to
 become volunteers working with different houses of worship to help facilitate
@@ -123,7 +122,7 @@ _Dallas Interfaith Power &amp; Light's mission is extended by this statement of 
   href="http://reference.bahai.org/en/t/se/UD/ud-2.html">Unfolding Destiny</a>_,
   p6.
 1. I feel blessed to be working with <a href="http://www.annamclark.com/">Anna
-  Clark</a>, <a href="http://www.gennyrowley.com/">Genny Rowley</a> (co-chair),
+  Clark</a>, [Genny Rowley](http://www.gennyrowley.com/) (co-chair),
   Glen Suhren (treasurer), and Jinen Adenwala. I serve as co-chair at this time.
 1. Texas Interfaith Power &amp; Light is a program of the Interfaith Center; they
   also support local groups in various stages of development in Austin, Ft.

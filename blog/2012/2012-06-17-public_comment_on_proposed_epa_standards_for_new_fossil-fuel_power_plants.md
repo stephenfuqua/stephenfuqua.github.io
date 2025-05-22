@@ -13,11 +13,9 @@ will be constructed in the future, that will help ensure a lower carbon future
 and hopefully spur innovation in the electric industry. They are accepting
 public comments through June 25<sup>th</sup>.  There are a number of
 organizations that will help you provide comments directly to the EPA, such as
-the <a
-href="http://salsa.democracyinaction.org/o/1845/p/dia/action/public/?action_KEY=10600">National
-Council of Churches</a> or the <a
-href="http://www.ucsusa.org/global_warming/what_you_can_do/power-plant-standards.html">Union
-of Concerned Scientists</a>. My letter, with extra citations, is below.
+the [National
+Council of Churches](http://salsa.democracyinaction.org/o/1845/p/dia/action/public/?action_KEY=10600) or the [Union
+of Concerned Scientists](http://www.ucsusa.org/global_warming/what_you_can_do/power-plant-standards.html). My letter, with extra citations, is below.
 
 <!--more-->
 

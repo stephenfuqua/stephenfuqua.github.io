@@ -22,9 +22,8 @@ through the shoebox of memory, two stand out at very different scales.
 
 {: .center-block }
 ![Colorado river in Arizona](/images/arizonaNasa.jpg)<br>
-<small>Page, Arizona, along the Colorado River. <a
-href="http://www.dvidshub.net/image/855668/page-arizona-image-day#.VHEMwMkXJx1">Courtesy
-of Nasa</a>.</small>
+<small>Page, Arizona, along the Colorado River. [Courtesy
+of Nasa](http://www.dvidshub.net/image/855668/page-arizona-image-day#.VHEMwMkXJx1).</small>
 
 </div>
 <!--more-->
@@ -51,7 +50,7 @@ minor marks barely worth noticing on our vast Earth Mother.
 
 {: .center-block }
 ![baby owls](/images/barred-owl-chicks4-069.jpg)<br>
-<small>Copyright © 2011, <a href="http://morningjoy.wordpress.com/2011/02/23/owl-babies/">Karen Gallagher</a>. Used by permission under the Creative Commons  <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Attribution-NonCommercial-NoDerivs 3.0 Unported</a> license.</small>
+<small>Copyright © 2011, [Karen Gallagher](http://morningjoy.wordpress.com/2011/02/23/owl-babies/). Used by permission under the Creative Commons  [Attribution-NonCommercial-NoDerivs 3.0 Unported](http://creativecommons.org/licenses/by-nc-nd/3.0/) license.</small>
 
 The second scene occurred in 2010 in a well-wooded park above the Mississippi
 River in St. Paul, Minnesota. We were out performing points counts of the

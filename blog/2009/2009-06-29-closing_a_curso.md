@@ -38,8 +38,7 @@ computer. There it was running as a user with restricted access. I received the
 following error:`The SELECT permission was denied on the object 'syscursors',
 database 'mssqlsystemresource', schema 'sys'."`
 
-This was easily remedied when I finally discovered the <a
-href="http://technet.microsoft.com/en-us/library/ms177609.aspx">CURSOR_STATUS</a>
+This was easily remedied when I finally discovered the [CURSOR_STATUS](http://technet.microsoft.com/en-us/library/ms177609.aspx)
 function:
 
 ```sql

@@ -9,9 +9,8 @@ tags:
 - nature
 ---
 
-_An essay submitted as part of my application to the <a
-href="http://www.greenfaith.org/programs/fellowship">GreenFaith Fellowship
-Program</a>_. Hopefully I put my best foot forward ;-).
+_An essay submitted as part of my application to the [GreenFaith Fellowship
+Program](http://www.greenfaith.org/programs/fellowship)_. Hopefully I put my best foot forward ;-).
 
 There are no clergy in the Bah&aacute;'&iacute;­ Faith. There is no seminary,
 and none can seek a position of leadership based on education, attainment, or

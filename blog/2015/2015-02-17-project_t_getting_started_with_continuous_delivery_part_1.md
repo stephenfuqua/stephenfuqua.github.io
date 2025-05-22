@@ -11,10 +11,8 @@ excerpt_separator: <!--more-->
 ---
 
 "Project T" is a temporary codename for a web application that I have begun
-developing off hours. Having just read <a
-href="http://itrevolution.com/books/phoenix-project-devops-book/">The Phoenix
-Project</a>, and now reading <a
-href="http://continuousdelivery.com/resources/">Continuous Delivery</a>, I
+developing off hours. Having just read [The Phoenix
+Project](http://itrevolution.com/books/phoenix-project-devops-book/), and now reading [Continuous Delivery](http://continuousdelivery.com/resources/), I
 realized that the first step in creating a _minimum viable product_ is to have a
 _minimum viable **process**_ for continuous delivery, with no financial budget
 for that process. The solution combines a Microsoft Azure VM, GitHub, TeamCity,
@@ -81,23 +79,23 @@ This is a bare-bones server, after all.
 <tr>
 <td>TeamCity</td>
 <td>Continuous Integration/Delivery (task runner)</td>
-<td>msi download from <a href="https://www.jetbrains.com/teamcity/">JetBrains</a></td>
+<td>msi download from [JetBrains](https://www.jetbrains.com/teamcity/)</td>
 </tr>
 <tr>
 <td>Chocolatey</td>
 <td>Windows application package manager, for installing Windows apps (makes installs very convenient and command-line driven.</td>
-<td>Run the powershell script at <a href="https://chocolatey.org/">chocolatey.org</a>.
+<td>Run the powershell script at [chocolatey.org](https://chocolatey.org/).
 </td>
 </tr>
 <tr>
 <td>Visual Studio 2013 Community Edition</td>
 <td>Provides msbuild.exe and mstest.exe, critical for .NET compilation and testing.</td>
-<td><a href="http://www.microsoft.com/web/downloads/">Microsoft Web Platform Installer</a></td>
+<td>[Microsoft Web Platform Installer](http://www.microsoft.com/web/downloads/)</td>
 </tr>
 <tr>
 <td>Web Deploy 3.5</td>
 <td>For pushing web site files out to remote servers through a command line interface.</td>
-<td><a href="http://www.microsoft.com/web/downloads/">Microsoft Web Platform Installer</a></td>
+<td>[Microsoft Web Platform Installer](http://www.microsoft.com/web/downloads/)</td>
 </tr>
 <tr>
 <td>NuGet</td>

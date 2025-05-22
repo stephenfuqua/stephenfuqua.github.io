@@ -29,7 +29,7 @@ way for me to digest the experience, and stretch it into the future.
 
 For official public information on the "Bah&aacute;'&iacute; gardens" in Israel
 (two of the primary locations we visited), there is a very informative (and
-relatively new) <a href="http://www.ganbahai.org.il/en/">public web site</a>. As
+relatively new) [public web site](http://www.ganbahai.org.il/en/). As
 I compile my experiences, I plan on linking to many historical stories regarding
 the various places visited, which illuminate the importance of these sites to
 Bah&aacute;'&iacute;s.

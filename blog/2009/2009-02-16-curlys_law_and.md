@@ -9,10 +9,9 @@ tags:
 excerpt_separator: <!--more-->
 ---
 
-<a href="http://www.codinghorror.com">Coding Horror</a>, almost two years back,
+[Coding Horror](http://www.codinghorror.com), almost two years back,
 christened a name for the principle variously known as "don't repeat yourself,"
-"once and only once," etc.: <a
-href="http://www.codinghorror.com/blog/archives/000805.html">Curly's Law</a>.
+"once and only once," etc.: [Curly's Law](http://www.codinghorror.com/blog/archives/000805.html).
 Excellent formulation of the principle. In sending this to my development team,
 I thought it would be useful to pull this from the abstract to the specific
 through a few questions:

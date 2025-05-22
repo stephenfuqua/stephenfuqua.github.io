@@ -10,12 +10,10 @@ tags:
 ---
 
 Dallas Interfaith Power &amp; Light will be hosting a screening and round-table
-discussion of the Nova Documentary <a
-href="http://www.pbs.org/wgbh/nova/tech/power-surge.html">Power Surge</a>, on
+discussion of the Nova Documentary [Power Surge](http://www.pbs.org/wgbh/nova/tech/power-surge.html), on
 Monday, September 24, 7:00 PM. This film looks at the state of "green energy" in
 the United States and the potential impact of technology on softening the blow
-of global climate change. The event will be held at the <a
-href="http://www.bahaisofdallas.org/">Dallas Baha'i Center</a>, 9400 Plano Rd,
+of global climate change. The event will be held at the [Dallas Baha'i Center](http://www.bahaisofdallas.org/), 9400 Plano Rd,
 Dallas, TX (south of Walnut Hill, north of E Northwest Hwy).
 
 In addition, participants of this new faith-based initiative will be presented

@@ -22,16 +22,14 @@ quoted as having said "The Russian Government is meticulously examining this
 question and is studying all the difficult problems associated with it." That is
 hardly a strong or urgent endorsement of  the Treaty.
 
-Nevertheless, the <a
-href="http://www.nytimes.com/2004/10/01/international/europe/01russia.html?hp">New
-York Times</a> reports that the Russian Cabinet has approved the Treaty and
+Nevertheless, the [New
+York Times](http://www.nytimes.com/2004/10/01/international/europe/01russia.html?hp) reports that the Russian Cabinet has approved the Treaty and
 formally submitted it to the Duma for consideration. Knowing Putin's power in
 Russia, it would seem that the way forward is clear, and the Treaty will be
 ratified. Once ratified, it will officially go into effect 90 days later.
 
 But I'm not so sure that the Times has interpreted the signals correctly. Both
-the Times and the <a
-href="http://news.bbc.co.uk/2/hi/science/nature/3152424.stm">BBC report</a> that
+the Times and the [BBC report](http://news.bbc.co.uk/2/hi/science/nature/3152424.stm) that
 Putin's top economic adviser as recently as today has said that it shouldn't be
 ratified, and just yesterday (Wed) said that it would not be ratified. Perhaps
 Putin is playing a game with us?
@@ -51,11 +49,10 @@ American support as disgraceful and cowardly) can only hope that the Cabinet's
 approval is a positive sign and that the Duma will shortly ratify it.
 
 One thing I would like to know is: would ratification have any effect on the
-U.S.? As a non-signatory, does it do anything to us? Of course the <a
-href="http://www.terradaily.com/2004/040930164209.dm9a5r58.html">Europeans</a>
+U.S.? As a non-signatory, does it do anything to us? Of course the [Europeans](http://www.terradaily.com/2004/040930164209.dm9a5r58.html)
 are not happy with us, and this could do much to gather their support for Russia
 in other arenas (particularly in WTO negotiations, as most of the articles above
-note). 
+note).
 
 Surprisingly little news of this on the blog front - yet. If any readers can
 point to go, "non-canned" analysis of the prospects for ratification, then

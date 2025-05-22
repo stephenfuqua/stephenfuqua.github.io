@@ -40,7 +40,7 @@ text</a> calls signatories to implement policies such as:
   <li>Research on, and promotion, development and increased use of, new and
   renewable forms of energy, of carbon dioxide sequestration technologies and
   of advanced and innovative environmentally sound technologies;</li>
-                                                                              
+
   <li>Progressive reduction or phasing out of market imperfections, fiscal
   incentives, tax and duty exemptions and subsidies in all greenhouse gas
   emitting sectors that run counter to the objective of the Convention and
@@ -99,9 +99,8 @@ instead of creating a complex patchwork of internal policies. Heightened demand
 for cleaner equipment could result in lower prices in the long run, thus making
 clean manufacturing and production processes more economically feasible.
 
-While a change of heart is <a
-href="http://story.news.yahoo.com/news?tmpl=story&u=/ap/20041106/ap_on_go_pr_wh/bush_global_warming&e=6&ncid=703">not
-forthcoming</a> from the newly re-elected President, one can hope that Russia's
+While a change of heart is [not
+forthcoming](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20041106/ap_on_go_pr_wh/bush_global_warming&e=6&ncid=703) from the newly re-elected President, one can hope that Russia's
 actions will renew domestic interest in working to reduce greenhouse gas
 emissions, though the fact that their signing came during election season doomed
 the news to relative obscurity stateside. Perhaps the <a href=
@@ -121,8 +120,7 @@ difficulty in manufacturing and marketing cars specific to California.
 ## The Future
 
 Data showing the <a href=
-"http://www.newscientist.com/news/news.jsp?id=ns99996615">truth</a> and <a
-href="http://www.msnbc.msn.com/id/6398305/">probable impact</a> of global
+"http://www.newscientist.com/news/news.jsp?id=ns99996615">truth</a> and [probable impact](http://www.msnbc.msn.com/id/6398305/) of global
 warming continues to pour in, though the once and future Administration also
 continues to <a href="http://www.msnbc.msn.com/id/6390299/">play down that
 data</a> and even attempt to suppress it to some extent, according to other

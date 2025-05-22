@@ -14,13 +14,10 @@ excerpt_separator: <!--more-->
 I have set myself the goal of learning how to develop a Windows user interface
 with a moderately complex workflow, one that implies a Wizard-like set of
 screens to guide the user through a set of steps. The demonstration project's
-architecture will utilize the <a
-href="http://msdn.microsoft.com/en-us/magazine/dd419663.aspx">Model-View-ViewModel</a>
-(MVVM) pattern, with the help of <a
-href="http://caliburnmicro.codeplex.com/documentation">Caliburn.Micro</a> (CM)
-[<a
-href="http://www.mindscapehq.com/blog/index.php/2012/1/12/caliburn-micro-part-1-getting-started/">nice
-tutorial</a>]. The solution will utilize the _Application Controller_ pattern
+architecture will utilize the [Model-View-ViewModel](http://msdn.microsoft.com/en-us/magazine/dd419663.aspx)
+(MVVM) pattern, with the help of [Caliburn.Micro](http://caliburnmicro.codeplex.com/documentation) (CM)
+[[nice
+tutorial](http://www.mindscapehq.com/blog/index.php/2012/1/12/caliburn-micro-part-1-getting-started/)]. The solution will utilize the _Application Controller_ pattern
 and CM's _Conductors_.
 
 {: .text-center}
@@ -39,9 +36,8 @@ enough so that anyone can visit any scren in pretty much any order, there's
 little value in a _Application Controller_. The strength of an _Application
 Controller_ comes from definite rules about the order in which pages should be
 visited and different views depending on the state of objects." (_Patterns of
-Enterprise Application Architecture_, p 381, <a
-href="http://martinfowler.com/eaaCatalog/applicationController.html">Application
-Controller</a>)."
+Enterprise Application Architecture_, p 381, [Application
+Controller](http://martinfowler.com/eaaCatalog/applicationController.html))."
 
 The state machine implies some way to manage session state &mdash; in this case,
 I'll let the controller manage the state via a <acronym title="Plain Old C#
@@ -137,18 +133,16 @@ Undoubtedly, there are a number of ways to accomplish this with Caliburn.Micro
 (CM), and the method presented here might not be the best one. At this time, I
 have focused on learning how to utilize <acronym title="Caliburn
 Micro">CM's</acronym> `Conductors` to create the workflow. Before going any
-further, you might want to read <a
-href="http://www.mindscapehq.com/blog/index.php/2013/09/11/caliburn-micro-part-6-introduction-to-screens-and-conductors/">Caliburn
-Micro Part 6: Introduction to Screens and Conductors</a>.
+further, you might want to read [Caliburn
+Micro Part 6: Introduction to Screens and Conductors](http://www.mindscapehq.com/blog/index.php/2013/09/11/caliburn-micro-part-6-introduction-to-screens-and-conductors/).
 
 What's missing from the tutorial linked above is an explanation of how to close
 one screen and move to another. The simplistic approach is to implement
 `Conductor<object>` and activate one screen in the deactivation of another
 (event handler on `Deactivated`). But, "the activation of each new item causes
 both the deactivation and close of the previously active item," according to the
-<a
-href="http://caliburnmicro.codeplex.com/wikipage?title=Screens%2c%20Conductors%20and%20Composition&referringTitle=Documentation">official
-documentation</a>. Thus activation inside of deactivation re-triggers the
+[official
+documentation](http://caliburnmicro.codeplex.com/wikipage?title=Screens%2c%20Conductors%20and%20Composition&referringTitle=Documentation). Thus activation inside of deactivation re-triggers the
 original deactivation, and an infinite loop / StackOverflowException ensues. The
 `Conductor<IScreen>.Collection.OneActive` is a better, in fact correct,
 choice. Using an event handler is still possible, but that will leave the screen
@@ -219,9 +213,8 @@ setInterval(animate, 13000);
 </div>
 
 And there you have it: clean, easily-maintained, expandable, object-oriented
-code for a WPF wizard-like interface. <a
-href="https://github.com/stephenfuqua/WorkflowDemonstration">Download the
-complete application from GitHub</a>.
+code for a WPF wizard-like interface. [Download the
+complete application from GitHub](https://github.com/stephenfuqua/WorkflowDemonstration).
 
 ## Comments
 

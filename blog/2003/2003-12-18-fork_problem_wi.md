@@ -12,8 +12,7 @@ into a small problem today: "fork: Permission denied".
 
 <!--more-->
 
-OpenSSH runs in Windows via a port using <a
-href="http://www.cygwin.com/">Cygwin</a> ("_a Linux-like environment for
+OpenSSH runs in Windows via a port using [Cygwin](http://www.cygwin.com/) ("_a Linux-like environment for
 Windows_").  It has full SSH capabilities, including key management and server
 operation (yes, that means you can SSH into your Windows box!). Today I tried to
 load the `ssh-agent` at the command line (`cmd.exe`) and got an obnoxious

@@ -7,7 +7,7 @@ tags:
 - Bahai
 ---
 
-<a href="http://www.cnn.com/2010/WORLD/meast/01/09/iran.bahai.trial/index.html">http://www.cnn.com/2010/WORLD/meast/01/09/iran.bahai.trial/index.html</a>
+[http://www.cnn.com/2010/WORLD/meast/01/09/iran.bahai.trial/index.html](http://www.cnn.com/2010/WORLD/meast/01/09/iran.bahai.trial/index.html)
 
 (CNN) -- A trial for seven Iranian Baha'is that has come to symbolize the
 persecution of followers of the faith is set to unfold next week with added

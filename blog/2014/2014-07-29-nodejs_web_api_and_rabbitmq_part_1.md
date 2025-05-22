@@ -144,7 +144,7 @@ public class WebAPITest
 
     private void GivenWebApiIsRunning()
     {
-        // Unlike service bus, I moved this out of Initialize to help clarify the essential test conditions - 
+        // Unlike service bus, I moved this out of Initialize to help clarify the essential test conditions -
         // that is, to clarify that the API is running. The fact that we're monitoring the bus is a little
         // more incidental and showing that directly in the test (as opposed ot the Initialize() method)
         // does aid in understanding what is being tested.
@@ -201,8 +201,7 @@ And now the Helper class:
 ```
 
 The `ApiTestConsumer` class is relatively straight-forward and ellided for
-brevity. Note that the service bus is being accessed with the help of <a
-href="http://docs.masstransit-project.com/en/latest/">MassTransit</a>. While
+brevity. Note that the service bus is being accessed with the help of [MassTransit](http://docs.masstransit-project.com/en/latest/). While
 MassTransit is rather helpful in .Net to .Net messaging across either RabbitMQ
 or MSMQ, it turned out that it introduces some interesting challenges with
 respect to using anything _other than MassTransit_ to publish a message. In

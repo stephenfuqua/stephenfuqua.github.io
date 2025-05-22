@@ -9,9 +9,8 @@ tags:
 - nature
 ---
 
-_Also see: <a
-href="/archive/2013/03/17/op-ed_preserve_local_parks_grants/">Op-Ed: Preserve
-Local Parks Grants </a>_, adapted from this essay
+_Also see: [Op-Ed: Preserve
+Local Parks Grants ](/archive/2013/03/17/op-ed_preserve_local_parks_grants/)_, adapted from this essay
 
 Like many in my parents' generation, my Gen-X childhood was spent outside
 whenever possible, with the freedom to roam the neighborhood and explore the
@@ -52,10 +51,9 @@ North Dallas. Eventually, we also discovered Bob Woodruff Park in Plano, but it
 was Spring Creek that captured my heart. Soon, however, it was time for college.
 
 {: .center-block }
-<a
-href="http://www.flickr.com/photos/46183897@N00/5744731155/sizes/l/in/photostream/">
+[
 ![flowers](/images/5744731155_a011fe670b_z.jpg){: .img-fluid .border .rounded }
-</a> <small> Gaillardia  flowers at Spring Creek Forest Preserve in Richardson
+](http://www.flickr.com/photos/46183897@N00/5744731155/sizes/l/in/photostream/) <small> Gaillardia  flowers at Spring Creek Forest Preserve in Richardson
 and Garland.<br>[Some rights
 reserved](https://creativecommons.org/licenses/by/2.0/) by
 [gurdonark](https://www.flickr.com/photos/46183897@N00/) </small>
@@ -105,9 +103,7 @@ defined&dagger;. Without these spaces, I could not bear to remain in Texas
 &dagger; The book <a href="http://mitpress.mit.edu/books/urban-place">Urban
 Place: Reconnecting with the Natural World</a>, edited by Peggy F. Barlett,
 offers a good review of the science. Richard Louv has written extensively about
-what he calls <a
-href="http://en.wikipedia.org/wiki/Nature_deficit_disorder">nature deficit
-disorder</a>. Renowned biologist-humanist E.O. Wilson hypothesises a genetic
-basis for the human connection to nature, _biophilia_ (<a
-href="http://www.pbs.org/wgbh/nova/nature/conversation-eo-wilson.html">PBS
-interview 2008</a>).
+what he calls [nature deficit
+disorder](http://en.wikipedia.org/wiki/Nature_deficit_disorder). Renowned biologist-humanist E.O. Wilson hypothesises a genetic
+basis for the human connection to nature, _biophilia_ ([PBS
+interview 2008](http://www.pbs.org/wgbh/nova/nature/conversation-eo-wilson.html)).

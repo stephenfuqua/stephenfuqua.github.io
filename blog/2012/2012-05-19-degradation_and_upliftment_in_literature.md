@@ -87,6 +87,5 @@ Coda: despite the darkness, I found the _Hunger Games_ trilogy more uplifting
 than expected. Perhaps more on that later.
 
 The photo is of 12th century icon, called _The Ladder of Divine Ascent_;
-license public domain; source <a
-href="http://commons.wikimedia.org/wiki/File:The_Ladder_of_Divine_Ascent_Monastery_of_St_Catherine_Sinai_12th_century.jpg">Wikimedia
-Commons</a>.
+license public domain; source [Wikimedia
+Commons](http://commons.wikimedia.org/wiki/File:The_Ladder_of_Divine_Ascent_Monastery_of_St_Catherine_Sinai_12th_century.jpg).
