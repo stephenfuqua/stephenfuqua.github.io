@@ -24,22 +24,20 @@ home life to do more than dabble. The revolution was passing me by.
 <!-- truncate -->
 
 But with a change in employment came an opportunity &mdash; in fact the
-necessity &mdash; of digging in deeper. That was no accident. But as a <a
-href="http://www.safnet.com/fcgi-bin/mt/mt-search.cgi?IncludeBlogs=3&tag=test%20driven%20development&limit=20"></a>test
-driven developer</a>, I quickly realized that I was building up technical debt
+necessity &mdash; of digging in deeper. That was no accident. But as a test
+driven developer, I quickly realized that I was building up technical debt
 in the form of untested code. I don't accept that in the C# I write, so why
 accept that in JavaScript?
 
 Thankfully plenty of others agree and some smart developers have provided the
 necessary tools. Somewhat arbitrarily, I've decided to focus my efforts on
-learning to test with [QUnit](http://qunitjs.com/) as my test runner
-and [SinonJS](http://sinonjs.org/) as a mocking framework. Although I
-like [jQuery UI](http://www.jqueryui.com) well enough, I generally
-like the widgets in [Kendo UI](http://www.telerik.com/kendo-ui)
-better ([comparison](http://jqueryuivskendoui.com/)). So, with those
+learning to test with [QUnit](httsp://qunitjs.com/) as my test runner
+and [SinonJS](https://sinonjs.org/) as a mocking framework. Although I
+like [jQuery UI](https://www.jqueryui.com) well enough, I generally
+like the widgets in [Kendo UI](https://www.telerik.com/kendo-ui)
+better ([comparison](https://jqueryuivskendoui.com/)). So, with those
 tools chosen, let's demonstrate a simple unit test on a function that opens a
-dialog box using <a href="http://demos.telerik.com/kendo-ui/window/index">Kendo
-Window</a>.
+dialog box using [Kendo Window](https://demos.telerik.com/kendo-ui/window/index).
 
 Confession: this is not proper <acronym title="Test Driven
 Development">TDD</acronym>. I don't know the frameworks well enough to work in a
@@ -164,9 +162,9 @@ complex situation, combining a couple of different Kendo widgets. **And the test
 actually exposed a bug. Win.** It took embarrassingly long to come up with this
 simple test, due to my long detour through trying to use SinonJS mocks. I think
 I'll stay aware from them. As a next step, I might try out the suggestions in [Using
-QUnit and Require.js to build modular unit tests](http://www.nathandavison.com/article/17/using-qunit-and-requirejs-to-build-modular-unit-tests). In addition to the QUnit
+QUnit and Require.js to build modular unit tests](https://www.nathandavison.com/article/17/using-qunit-and-requirejs-to-build-modular-unit-tests) (dead link). In addition to the QUnit
 and SinonJS documentation linked above, I want to give a shout-out to these
 articles:
 
-* [Unit Test Like a Secret Agent with Sinon JS](http://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/)
-* [Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step](http://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx)
+* [Unit Test Like a Secret Agent with Sinon JS](https://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/) (dead link)
+* [Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step](https://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx) (dead link)

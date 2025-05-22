@@ -23,15 +23,13 @@ completely uninstall from my sister's computer recently and start all the
 security update installations again from scratch). I have probably reinstalled
 Windows because it was "broken" by a security patch.
 
-Overall the chances of having something major go wrong are slim. <a href=
-"http://techrepublic.com.com/5100-6264-5222856.html">Tech Republic</a> can tell
+Overall the chances of having something major go wrong are slim. [Tech Republic](http://techrepublic.com.com/5100-6264-5222856.html) (dead link) can tell
 you about some of the specific warnings with the last pre-release (beta) version
 of the service pack. Some, maybe even all, of these problems may have been
 eliminated. But Microsoft has a lot of pressure on them to get this software
 released, and that typically leads to more bugs.
 
-If you have firewall software or hardware in place, and if you use the latest [Mozilla FireFox](http://www.mozilla.org) or <a href=
-"http://www.netscape.com">Netscape Navigator</a> web browser instead of Internet
+If you have firewall software or hardware in place, and if you use the latest [Mozilla FireFox](https://www.mozilla.org) or [Netscape Navigator](https://en.wikipedia.org/wiki/Netscape_Navigator) web browser instead of Internet
 Explorer, then I heartily recommend waiting at least a month or two before
 installing SP2 (read on for how to do this). If you do not have both of these in
 place, and your computer is constantly connected to the Internet, then it may be
@@ -61,34 +59,31 @@ To maximally protect yourself, I recommend these steps:
 
    * OR SOFTWARE: If you are on a dial-up connection still, or can't afford the
      $40, and you have a relatively fast computer, then setup up a software
-     firewall. Windows XP has a software firewall built in. <a href=
-     "http://www.microsoft.com/athome/security/protect/windowsxp/firewall.aspx">
-     Turn that on</a>. If you don't trust Microsoft or if you are reading this
+     firewall. Windows XP has a software firewall built in.
+     [Turn that on](http://www.microsoft.com/athome/security/protect/windowsxp/firewall.aspx). If you don't trust Microsoft or if you are reading this
      even though you don't have WindowsXP, you can download a free version of
-     Zone Labs's <a href=
-     "http://www.zonelabs.com/store/content/catalog/products/sku_list_za.jsp">
-     Zone Alarm</a> firewall software.
+     Zone Labs's Zone Alarm firewall software.
 
-1. Switch to <a href=
-      "http://www.mozilla.org/products/firefox/switch.html">Mozilla
-      Firefox</a>, as recommended by Homeland Security.
+2. Switch to [Mozilla
+      Firefox](https://www.mozilla.org/products/firefox/switch.html), as
+      recommended by Homeland Security.
 
-1. Backup all important data on your computer. That means everything on your
+3. Backup all important data on your computer. That means everything on your
    desktop and My Documents. And if you use Outlook or Outlook Express you'll
    need to hunt for your mail files to backup them. I don't know about Outlook
    Express, but Outlook typically stores its mail file in `c:\documents and
    settings\<YOUR LOGIN NAME>\Application
    Data\Microsoft\Outlook\outlook.pst` (most computers will hide the ".pst"
    extension on your file). In some cases there is a "Local Folders" directory
-   in between <YOUR LOGIN NAME> (which means substitute in the name you
+   in between `<YOUR LOGIN NAME>` (which means substitute in the name you
    logon to Windows as) and Application Data. Now, Application Data and Local
    Folders will be hidden from you most likely, so in Windows Explorer (i.e. My
    Computer) click on Tools then Options. In the second tab, I think (I'm typing
    on a mac, so can't check) there is a list of display options that includes
    "Don't show hidden files". Uncheck that one to see Local Folders and
    Application Data. That should have you covered for backup, I hope.
-1. In September, install SP2 manually from Windows Update. Read the release
+4. In September, install SP2 manually from Windows Update. Read the release
    notes before hand to know what is changing. After installing, be sure to
    immediately reboot. Then run Windows Update again to see if there are any
    patches FOR SP2.
-1. Be happy =).
+5. Be happy =).

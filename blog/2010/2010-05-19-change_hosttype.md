@@ -21,5 +21,4 @@ HostType "pex" instead of "moles". I changed these around, and still got the
 error. Closed Visual Studio, restarted, and vo&igrave;la, the tests can run, and
 Test View is populated again.
 
-<a href="http://research.microsoft.com/en-us/projects/pex/releasenotes.aspx">Pex
-and Moles - Release Notes</a>
+[Pex and Moles - Release Notes](https://www.microsoft.com/en-us/research/project/pex-and-moles-isolation-and-white-box-unit-testing-for-net/)

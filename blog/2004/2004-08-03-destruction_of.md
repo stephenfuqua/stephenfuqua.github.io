@@ -27,8 +27,8 @@ Prophet's teachings and explicate His laws. He was slain most cruelly by the mob
 of B&aacute;rfur&uacute;sh, the 19<sup>th</sup> century Persian equivalent of a
 brutal lynching. Thanks to the efforts of a sympathetic clergyman, the ruin of
 his body was buried at an old Madrasa (school or college). It was this building
-that was <a href="http://www.bahaiworldnews.org/story.cfm?storyid=293">torn
-down</a>, after standing as a shrine to this holy soul for over 150 years.
+that was torn down, after standing as a shrine to this holy soul for over 150
+years.
 
 To a Christian, this would be akin to the sack and pillage of the tomb of the
 Apostle Peter. The other destruction I speak of requires no such analogy: for it
