@@ -76,12 +76,10 @@ that `Startup` class, shall we?
 
 In summary, this class configures Web API with:
 
-<ol>
-<li>attribute routing</li>
-<li>Unity as my dependency injector of choice</li>
-<li>`text/html` as the supported mime type for content transfers</li>
-<li>Open a connection to the Rabbit service bus and inject it into Unity for use in the API service method</li>
-</ol>
+1. attribute routing
+1. Unity as my dependency injector of choice
+1. `text/html` as the supported mime type for content transfers
+1. Open a connection to the Rabbit service bus and inject it into Unity for use in the API service method
 
 But you could probably read and figure that out. The key thing here is getting
 the service bus setup in the dependency injector. When a call is made to the

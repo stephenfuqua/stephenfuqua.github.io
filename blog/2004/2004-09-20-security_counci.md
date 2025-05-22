@@ -23,26 +23,13 @@ The <a href="
 http://daccess-ods.un.org/access.nsf/Get?Open&DS=S/RES/1564%20(2004)&Lang=E&Area=UNDOC">Security Council Resolution</a> passed on Saturday features the following
 (summarized) actions (not all inclusive):
 
-<ol>
-<li>declaration of Sudanese non-compliance with previous resolutions
-</li>
-<li>support of African Union troops
-</li>
-<li>call for other nations to provide material support to these troops
-</li>
-<li>urges, reiterates, calls on, demands, etc. &hellip; peace, security,
-agreements, ceasefire, etc.,
-</li>
-<li>requests that the Secretary General formally investigate charges of
-genocide and bring anyone responsible for genocide to justice
-</li>
-<li>calls for humanitarian aid
-</li>
-<li>declares that the council will consider future sanctions on the oil
-industry, the government, and various individuals if other conditions are
-not satisfactorily met
-</li>
-</ol>
+1. declaration of Sudanese non-compliance with previous resolutions
+1. support of African Union troops
+1. call for other nations to provide material support to these troops
+1. urges, reiterates, calls on, demands, etc. &hellip; peace, security, agreements, ceasefire, etc.,
+1. requests that the Secretary General formally investigate charges of genocide and bring anyone responsible for genocide to justice
+1. calls for humanitarian aid
+1. declares that the council will consider future sanctions on the oil industry, the government, and various individuals if other conditions are not satisfactorily met
 
 ## Ethnic Violence is Widespread
 
@@ -118,15 +105,6 @@ figure should be significantly higher in the next report.
 
 ## Background Sources
 
-<ol>
-<li>
-  <a href="http://www.refugees.org/">U.S. Committee for Refugees World
-  Refugee Survey 2004</a>
-</li>
-<li>
-  [Amnesty International USA](http://www.amnestyusa.org/)
-</li>
-<li>
-  [allAfrica.com](http://www.allafrica.com)
-</li>
-</ol>
+1. <a href="http://www.refugees.org/">U.S. Committee for Refugees World Refugee Survey 2004</a>
+1. [Amnesty International USA](http://www.amnestyusa.org/)
+1. [allAfrica.com](http://www.allafrica.com)

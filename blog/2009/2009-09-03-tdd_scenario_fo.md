@@ -45,8 +45,6 @@ written the test incorrectly.
 
 Good related links:
 
-<ol>
-<li>[Red-Green-Refactor](http://jamesshore.com/Blog/Red-Green-Refactor.html) (random blogger)</li>
-<li>[Guidelines for Test-Driven Development](http://msdn.microsoft.com/en-us/library/aa730844(VS.80).aspx) (Microsoft)</li>
-<li>[Unit Test Rulz ](http://tech.groups.yahoo.com/group/extremeprogramming/message/111829) (random forum post)</li>
-</ol>
+1. [Red-Green-Refactor](http://jamesshore.com/Blog/Red-Green-Refactor.html) (random blogger)
+1. [Guidelines for Test-Driven Development](http://msdn.microsoft.com/en-us/library/aa730844(VS.80).aspx) (Microsoft)
+1. [Unit Test Rulz ](http://tech.groups.yahoo.com/group/extremeprogramming/message/111829) (random forum post)

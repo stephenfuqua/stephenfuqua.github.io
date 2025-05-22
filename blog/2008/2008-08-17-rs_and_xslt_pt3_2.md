@@ -56,18 +56,12 @@ This is a cool function, add it to the template file:
 
 Line-by-line analysis:
 
-<ol>
-  <li value="5">Start the template</li>
-  <li>Create an input parameter/variable <span class="command">called </span>
-  count (think of this like a function's argument)</li>
-  <li>Branch the template when the <span class="command">count </span>variable
-  has data (is greater than zero)</li>
-  <li>Add a space character</li>
-  <li>Call the template again, recursively</li>
-  <li>Set the input parameter to the current count minus one</li>
-
-  <li>Next three lines wrap things up.</li>
-</ol>
+1. Create an input parameter/variable <span class="command">called </span> count (think of this like a function's argument)
+1. Branch the template when the <span class="command">count </span>variable has data (is greater than zero)
+1. Add a space character
+1. Call the template again, recursively
+1. Set the input parameter to the current count minus one
+1. Next three lines wrap things up.
 
 ## Variables for the Column Widths
 
@@ -88,13 +82,9 @@ Line-by-line analysis:
 
 Analysis:
 
-<ol>
-  <li value="23">Insert the col1 value</li>
-  <li>Call the Space template</li>
-  <li>Set the input parameter as the pre-defined column width for column1
-  minus the length of the data value</li>
-  <li>End the Space template call</li>
-</ol>
+1. Call the Space template
+1. Set the input parameter as the pre-defined column width for column1 minus the length of the data value
+1. End the Space template call
 
 ## Putting It All Together
 

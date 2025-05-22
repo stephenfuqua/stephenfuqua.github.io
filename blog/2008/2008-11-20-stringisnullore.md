@@ -23,10 +23,8 @@ Wanting to double-check my memory before recommending this method to a
 colleague, I found a few very interesting blog posts that suggest to me that I
 should avoid its usage:
 
-<ol>
-<li>[DANGER ! String.IsNullOrEmpty can lead to runtime Null exceptions !!](http://msmvps.com/blogs/bill/archive/2006/04/04/89234.aspx), it looks like this isn't fully explained yet. Might not be an issue in .Net 3.0/3.5 frameworks, but I'm still using .Net 2.0, so it is best to heed this warning.</li>
-<li>[string.IsNullOrEmpty Samples](http://dotnetperls.com/Content/IsNullOrEmpty-Samples.aspx), it seems the performance is good, but not the best. So where performance matters, go with the longest, safest version: `if (myString == null || myString.Length == 0)`</li>
-</ol>
+1. [DANGER ! String.IsNullOrEmpty can lead to runtime Null exceptions !!](http://msmvps.com/blogs/bill/archive/2006/04/04/89234.aspx), it looks like this isn't fully explained yet. Might not be an issue in .Net 3.0/3.5 frameworks, but I'm still using .Net 2.0, so it is best to heed this warning.
+1. [string.IsNullOrEmpty Samples](http://dotnetperls.com/Content/IsNullOrEmpty-Samples.aspx), it seems the performance is good, but not the best. So where performance matters, go with the longest, safest version: `if (myString == null || myString.Length == 0)`
 
 ## Comments
 

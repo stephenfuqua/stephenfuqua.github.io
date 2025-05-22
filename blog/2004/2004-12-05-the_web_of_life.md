@@ -43,12 +43,7 @@ and, "systems cannot be understood by analysis."
 
 Four criteria of systems thinking are laid out:
 
-<ol>
-<li>holistic, systemic properties emerge as "organizing relations of the parts"
-<li>different properties emerge at each "level" of a system
-<li>knowledge as a network, not an edifice
-<li>must explicitly describe epistemology
-</ol>
+
 
 Dr. Capra, a particle physicist by training, has a true gift for translating
 abstract scientific concepts into intelligible English. This gift is used well

@@ -26,12 +26,10 @@ of posts on this process
 First, what is the rationale? What is this "necessity", or rather _necessities_?
 Respecting proprietary business matters, let&rsquo;s say&hellip;
 
-<ol>
-<li>There&rsquo;s never enough time partly because testing takes too much time.</li>
-<li>The repetitive nature of manual testing makes it (a) boring, and (b) easy to mess up.</li>
-<li>Because of both of these factors, I am loathe to delegate much testing to others. On the one hand I feel bad about pushing things on others just because I don&rsquo;t want to do them; on the other hand, I have trouble trusting results that I did not generate myself.</li>
-<li>There is an active interest from others to be more involved in testing; bringing them in will free me up for more interesting projects, and, objectively speaking, provide a good check-and-balance.</li>
-</ol>
+1. There&rsquo;s never enough time partly because testing takes too much time.
+1. The repetitive nature of manual testing makes it (a) boring, and (b) easy to mess up.
+1. Because of both of these factors, I am loathe to delegate much testing to others. On the one hand I feel bad about pushing things on others just because I don&rsquo;t want to do them; on the other hand, I have trouble trusting results that I did not generate myself.
+1. There is an active interest from others to be more involved in testing; bringing them in will free me up for more interesting projects, and, objectively speaking, provide a good check-and-balance.
 
 Automation can help with all of these factors, and more. Having come to that
 conclusion, what are the goals for this project?

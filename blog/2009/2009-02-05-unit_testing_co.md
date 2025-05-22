@@ -55,11 +55,9 @@ has a good summary:
 Summary from the book: "We write separate tests for each layer of the layered
 architecture". Right now we have three layers:
 
-<ol>
-	<li>Domain</li>
-	<li>DataMapper</li>
-	<li>Service</li>
-</ol>
+1. Domain
+1. DataMapper
+1. Service
 
 Generally our domain layer does very little work &mdash; these objects basically
 just hold fields, but don't perform any work on their own data. An exception to

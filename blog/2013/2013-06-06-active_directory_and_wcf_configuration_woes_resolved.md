@@ -66,11 +66,9 @@ practice.
 
 Between these  resources, I came to realize that:
 
-<ol>
-	<li>At the time of installation, a Windows service registers itself in the Domain controller, identifying itself by name, address, and either a Server Principle Name (SPN) or User Principle Name (UPN) (the former when running the service under the default Network Service account and the latter when running under a custom account, as in my situation).</li>
-	<li>When in the same subnet, it is easy for the client to find the server. I suspect - but do not have the resources to test - that this was particularly true because the same service account was running both.</li>
-	<li>Service1 (the client) was trying to find Service2 as identified by UPN asdf123@domain1, but in reality it was registered under asdf@domain2. That is, the wrong Kerberos token was being issued while searching for Service2.</li>
-	</ol>
+1. At the time of installation, a Windows service registers itself in the Domain controller, identifying itself by name, address, and either a Server Principle Name (SPN) or User Principle Name (UPN) (the former when running the service under the default Network Service account and the latter when running under a custom account, as in my situation).
+1. When in the same subnet, it is easy for the client to find the server. I suspect - but do not have the resources to test - that this was particularly true because the same service account was running both.
+1. Service1 (the client) was trying to find Service2 as identified by UPN asdf123@domain1, but in reality it was registered under asdf@domain2. That is, the wrong Kerberos token was being issued while searching for Service2.
 
 The solution? Simply specify the UPN identity in the config file (if using the auto-generated client proxy) or in code, using the [fully qualified domain name](http://technet.microsoft.com/en-us/library/cc783351%28v=ws.10%29.aspx) (FQDN):
 

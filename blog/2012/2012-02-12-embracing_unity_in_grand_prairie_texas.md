@@ -36,14 +36,9 @@ I had very modest expectations for any speaker. Well peppered with
 self-deprecating jokes, he emphasized three principles needed to "embrace
 unity":
 
-<ol>
-	<li>Be open to new people and ideas, _and actively seek them out_.
-	To "embrace" requires getting out of your comfort zone.</li>
-	<li>Think of others. Imagine their challenges and rewards. Escape from
-	egocentrism.</li>
-	<li>Appreciate diversity, but look for commonalities and use them in working
-	together.</li>
-</ol>
+1. Be open to new people and ideas, _and actively seek them out_. To "embrace" requires getting out of your comfort zone.
+1. Think of others. Imagine their challenges and rewards. Escape from egocentrism.
+1. Appreciate diversity, but look for commonalities and use them in working together.
 
 But the real story is the children. Each year, the organization, in partnership
 with the Grand Prairie Arts Council, sponsors an art contest through the school
