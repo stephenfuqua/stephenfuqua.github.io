@@ -15,7 +15,7 @@ environmental rights. If you too are concerned with federal scientific policy
 making, then please feel free to copy the letter below (and modify as desired)
 and send to your [senators](http://www.senate.gov) and [representative](http://www.house.gov).
 
-<!--more-->
+<!-- truncate -->
 
 ***{: .text-center}
 

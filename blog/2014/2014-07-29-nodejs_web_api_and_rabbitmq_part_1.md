@@ -8,7 +8,7 @@ tags:
 - programming
 - javascript
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Desiring to learn about both Node.js (particularly as an API server) and ASP.Net
@@ -24,7 +24,7 @@ self-hosted; free from additional cruft like error-handling*; and should utilize
 an url like http://localhost:port/Message/mymessage, where "mymessage" is the
 string to be sent across the bus.
 
-<!--more-->
+<!-- truncate -->
 
 > "Simplicity &mdash; the art of maximizing the amount of work not done &mdash;
 > is essential," to quote the <a

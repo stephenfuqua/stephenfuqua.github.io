@@ -6,7 +6,7 @@ basename: tackle_be_kind
 tags:
 - tech
 - meta
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 This is a technical blog, right? Why would I mention this virtue? In [Management 3.0](http://www.mgt30.com/), Jurgen Appelo suggests in [Do-It-Yourself Team Values](http://bit.ly/1jy6a1f) that the various
@@ -18,7 +18,7 @@ rationale for "kindness" will overlap that of many other virtues, such as
 words offers a slightly different window into an ineffable world of human
 goodness, and I choose "kindness" for this theory. First, a minor digression.
 
-<!--more-->
+<!-- truncate -->
 
 Information technology (IT) is about business, which is capitalism. Some would
 have us believe that capitalism is about ruthlessly applying all available

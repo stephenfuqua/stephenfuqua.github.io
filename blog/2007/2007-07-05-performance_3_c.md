@@ -4,7 +4,7 @@ title: 'Performance #3: CLR Profiler'
 date: '2007-07-05 19:59:15 -0500'
 basename: performance_3_c
 tags: [tech, dotnet, performance]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 
@@ -18,7 +18,7 @@ on application performance and scalability. The specific article that I found mo
 helpful was <a href="http://msdn2.microsoft.com/en-us/library/ms979205.aspx">How To:
 Use CLR Profiler</a>.
 
-<!--more-->
+<!-- truncate -->
 
 _Note: the above article was written for the .Net 1.1 version of the CLR Profiler.
 It does not provide a link to the .Net 2.0 version, so that must be

@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - FlightNode
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Citizen-science: meet open source software. I'm starting an open source project
@@ -22,7 +22,7 @@ name). What they want and need is more than I can provide in my "spare time."
 And I know of other programs that would be interested in using components of
 these projects.
 
-<!--more-->
+<!-- truncate -->
 
 Building an open source platform to support conservation efforts has been a
 dream of mine for several years - but I need help! I will build out the

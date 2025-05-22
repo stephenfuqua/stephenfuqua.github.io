@@ -20,7 +20,7 @@ federal jurisdiction or concern; I cannot see that it is a matter of such
 overwhelming importance to the continued functioning of our society that it
 should be enshrined in our Constitution.
 
-<!--more-->
+<!-- truncate -->
 
 The above is the custom text that I inserted into a form letter to Senators
 Hutchison and Cornyn a few minutes ago, through the National [Organization of Women](http://www.now.org) (NOW). Debate was moved up

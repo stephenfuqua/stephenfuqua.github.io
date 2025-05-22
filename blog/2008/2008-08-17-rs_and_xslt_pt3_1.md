@@ -14,7 +14,7 @@ a simple report in MSSQL Reporting Services, and looked at the plain XML output
 from Reporting Services. Now, long after that post, we can create and apply the
 XLST needed to convert that report to the desired output.
 
-<!--more-->
+<!-- truncate -->
 
 Here's the raw XML output again:
 

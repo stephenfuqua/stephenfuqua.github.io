@@ -4,7 +4,7 @@ title: Replacing Ad Hoc Query Text When Fields Change
 date: '2007-06-27 17:10:47 -0500'
 basename: replacing_ad_ho
 tags: [tech, database, sql-server]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Situation:** We have a stored procedure running a query whose `WHERE` clause is
@@ -17,7 +17,7 @@ is a varchar and wildcards are not used. Platform: SQL Server 2005.
 encrypted value &mdash; thus can no longer query directly against it. How do we
 make this work?
 
-<!--more-->
+<!-- truncate -->
 
 **Solution:** First a tangent &mdash; querying against a hash value. Right now
 we'd have to decrypt every single value of myField, compare it to the `WHERE`

@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** using [Application
@@ -17,7 +17,7 @@ some organization is needed.
 **Solution:** create custom, serializable data types for logical groups of
 settings.
 
-<!--more-->
+<!-- truncate -->
 
 ## 1. Custom Types
 

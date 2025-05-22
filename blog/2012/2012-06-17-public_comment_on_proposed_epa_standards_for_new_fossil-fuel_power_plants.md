@@ -17,7 +17,7 @@ the [National
 Council of Churches](http://salsa.democracyinaction.org/o/1845/p/dia/action/public/?action_KEY=10600) or the [Union
 of Concerned Scientists](http://www.ucsusa.org/global_warming/what_you_can_do/power-plant-standards.html). My letter, with extra citations, is below.
 
-<!--more-->
+<!-- truncate -->
 
 {: .text-center }
 \***

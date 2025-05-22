@@ -13,7 +13,7 @@ That is a middling temperature for October, on the low side. Halloween hit
 90&deg; (admittedly a record high). Today I saw snow flurries, something I
 saw once this past winter in Austin. I'm really in for it this year.
 
-<!--more-->
+<!-- truncate -->
 
 {: .text-center }
 ![Silver Maple at our complex](/images/foliage1.jpg)

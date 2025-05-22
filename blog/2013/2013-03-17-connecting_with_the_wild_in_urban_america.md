@@ -34,7 +34,7 @@ without obviously trespassing &mdash; and it wasn't compelling enough to risk
 getting in trouble. I turned inward and focused on my studies; perhaps that was
 for the best. But I felt lost. A part of me was missing.
 
-<!--more-->
+<!-- truncate -->
 
 Thankfully, those first few summers did include memorable respites from the
 suburban lifestyle: trips back to Missouri, a few visits to Dinosaur Valley

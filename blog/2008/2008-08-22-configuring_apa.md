@@ -6,7 +6,7 @@ basename: configuring_apa
 tags:
 - tech
 - devops
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Years ago I knew how to configure the Apache webserver, back when I was a grad
@@ -14,7 +14,7 @@ student / Linux admin. As any reader will have figured out, I've been a
 Microsoft-centric programmer for a number of years now. Thus it is not surprised
 that I would have forgotten some basics about Apache.
 
-<!--more-->
+<!-- truncate -->
 
 I wanted to re-setup a WAMP environment in XP sp3 and had just downloaded
 WAMPServer2. I desired to setup a root folder on the primary port and add two

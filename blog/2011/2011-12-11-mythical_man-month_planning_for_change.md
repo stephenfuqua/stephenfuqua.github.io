@@ -8,7 +8,7 @@ tags:
 - programming
 - books
 - agile
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Part four in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
@@ -28,7 +28,7 @@ justify throwing out the first design _on purpose_? By recognizing that "[t]he
 only question is whether to plan in advance to build a throwaway, or to promise
 to deliver the throwaway to customers."
 
-<!--more-->
+<!-- truncate -->
 
 This followed an analogy to the creation of a physical pilot plant for testing
 out a proposed manufacturing design. That sounds to me like a prototype. Spend

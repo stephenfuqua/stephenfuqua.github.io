@@ -20,7 +20,7 @@ fetid ruins of the Cruisader capital of St. Jean de Acre.
 ![ancient citadel](http://lh3.ggpht.com/_mZAPo8ePwc4/TQPiiCB3eSI/AAAAAAAAApc/UovtgBRN0eU/s400/IMG_2148.JPG){: .img-fluid .border .rounded}<br>
 The Citadel of 'Akk&aacute;
 
-<!--more-->
+<!-- truncate -->
 
 After two years and two months in the citadel, the army needed to use it as a
 barracks and forced Bah&aacute;'u'll&aacute;h, his family and followers (around

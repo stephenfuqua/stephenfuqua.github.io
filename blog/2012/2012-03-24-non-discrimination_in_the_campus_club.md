@@ -17,7 +17,7 @@ particular: one can easily imagine a group of atheists gate-crashing a meeting
 and electing their own leader to be the President/Chair/Grand Poobah of the _
 &lt;insert religion&gt; Association_.
 
-<!--more-->
+<!-- truncate -->
 
 Now, the aim of these rules is to prevent wholesale exclusion of a
 classification of people from an organization, to whit a gay White man has been

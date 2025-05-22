@@ -22,7 +22,7 @@ researched and clearly written, the book has much to offer to those who, from
 any background, wish to better understand the underpinnings and the implications
 of this critical spiritual principle.
 
-<!--more-->
+<!-- truncate -->
 
 The authors begin with a brief introduction to the religion, followed by an
 attempt to define equality and an exploration of the role of family. Within

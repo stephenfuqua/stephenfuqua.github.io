@@ -4,7 +4,7 @@ title: Threading and Waiting with Delegates
 date: '2007-12-07 10:33:45 -0600'
 basename: threading_and_w
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 One of the casualties of not having a full computer science education is that I
@@ -15,7 +15,7 @@ struggle for me to use threads in a practical manner. Further complicating the
 matter is that I've wanted to use anonymous methods (aka delegates) and
 generally want to do some work after _all_ threads have finished executing.
 
-<!--more-->
+<!-- truncate -->
 
 Unfortunately most of the examples I've found deal with one or the other, but in
 a manner either too simplistic for what I wanted or at cross purposes. For

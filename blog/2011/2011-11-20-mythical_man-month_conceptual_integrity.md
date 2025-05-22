@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - books
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Part two in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
@@ -23,7 +23,7 @@ the mainframe programmers of the sixties, _The Mythical Man-Month_ presents many
 lessons-learned that are no less applicable today. This is the second article in
 a series exploring some of these lessons, in particular: conceptual integrity.
 
-<!--more-->
+<!-- truncate -->
 
 "Conceptual integrity" is one of the most important concepts in the book. Many
 of Dr. Brooks's recommendations throughout the book are predicated on the

@@ -20,7 +20,7 @@ despair at the condition of the world. Do you remember those "I want to be like
 Mike" Gatorade commercials with Michael Jordan? Well, I don't want to be like
 Mike. **I want to be like Bill.**
 
-<!--more-->
+<!-- truncate -->
 
 First, let me step back from the demise of _Now_: Moyers is retiring from the
 show he created, but it will be carried forward by David Brancaccio, whose

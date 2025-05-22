@@ -23,7 +23,7 @@ many such personal journeys, Dallas Interfaith Power &amp; Light has been
 organically emerging as a moral and practical social space for addressing the
 great challenge of our times, climate change.
 
-<!--more-->
+<!-- truncate -->
 
 Returning to the personal journey: on one level, one can form friendships with
 neighbors, taking time to uncover shared concerns and discover the means for

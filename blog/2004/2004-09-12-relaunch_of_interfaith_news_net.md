@@ -13,7 +13,7 @@ to add comments to select articles. I invite you to stop by to see the new
 features and articles; read on below for descriptions of the latest articles
 added this month.
 
-<!--more-->
+<!-- truncate -->
 
 
 **Links to the long defunct InterfaithNews.Net website removed April 2012**
@@ -35,7 +35,7 @@ _Link removed_			<h3 class="Text8" style="color: #006699">Impressions from the P
 <p class="Text8" style="line-height: 150%">In our last issue, sent out just prior
 to the Parliament, we requested personal responses from the attendees.
 Read on for a collection of the best individual and institutional responses
-we've received. 
+we've received.
 
 _Link removed_
 <h3 class="Text8" style="color: #006699">College of Preachers' Abrahamic Fellows Confront Religious Violence</h3>  		<p class="Text8" style="line-height: 150%">The College of Preachers at Washington
@@ -56,7 +56,7 @@ anything about the retributions, recrimnations, and violence in the Middle East?
 An initiative called "Hands Across the Jordan" seeks to find out. Their intention
 is to build a bridge of peace across the Jordan River, with help from all around
 the world, to help unite the people of Israel and Jordan in a grassroots effort.
-Here is their statement. 
+Here is their statement.
 
 _Link removed_
 <h3 class="Text8" style="color: #006699">Importance of Religious Pluralism: a Hindu Perspective </h3>
@@ -64,7 +64,7 @@ _Link removed_
 to call it a collection of religious traditions. In that vein, it may also be
 the most pluralistic religion on the planet. Taking lessons from his Hindu faith,
 Jay Lakhani of the Vivekananda Centre in London, UK, shares reflections on the
-nature of pluralism. 
+nature of pluralism.
 
 
 _Link removed_
@@ -73,6 +73,6 @@ _Link removed_
 People MCC in Latin America, took an extended trip in October and November
 2003 through the Andes to visit with indigenous people - to listen to their ideas
 and to share ideas about the URI. Attached, please find Raul's warm-hearted
-and inspiring report of his experiences and conversations." 
+and inspiring report of his experiences and conversations."
 
 _Link removed_

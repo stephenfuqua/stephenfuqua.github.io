@@ -19,7 +19,7 @@ ties](http://www.splcenter.org/blog/2015/04/23/anti-immigrant-groups-flock-to-la
 would be out at Earth Day Texas. Seeing one of their (unmanned) booths was,
 therefore, not a surprise. But being verbally accosted at my own booth was.
 
-<!--more-->
+<!-- truncate -->
 
 Toward the end of the last day of the festival (Apr 26), a gentleman approached
 the Dallas Interfaith Power &amp; Light booth and engaged in conversation. From

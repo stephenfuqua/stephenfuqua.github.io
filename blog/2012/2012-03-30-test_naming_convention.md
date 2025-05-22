@@ -8,7 +8,7 @@ tags:
 - programming
 - dotnet
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Historically I've advocated naming test methods after the method under test, in
@@ -22,7 +22,7 @@ we're going to test. But we do know the functionality (feature) that we are
 going after, and that knowledge should be used when writing out a test name. For
 example:
 
-<!--more-->
+<!-- truncate -->
 
 From a [previous
 post](/archive/2012/02/15/a_recipe_for_setting_up_automated_test_projects/): a

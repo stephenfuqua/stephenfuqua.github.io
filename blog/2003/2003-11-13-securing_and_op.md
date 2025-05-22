@@ -4,7 +4,7 @@ title: 'Securing and Optimizing Linux, pt. 1: Services'
 date: '2003-11-13 17:47:07 -0600'
 basename: securing_and_op
 tags: [tech, Linux]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I find that Red Hat Linux ([now defunct](http://www.redhat.com/solutions/migration/rhl/)) is fairly
@@ -13,7 +13,7 @@ series of notes on optimizing and improving security in Linux. Some items may be
 specific to Red Hat, but most of these notes will be applicable to all systems.
 In part 1, we look at _runlevel services_.
 
-<!--more-->
+<!-- truncate -->
 
 _This is not intended to be an all-inclusive manual. This site is called
 Penguin_ Notes _, afterall!_

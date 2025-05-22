@@ -4,7 +4,7 @@ title: Ignoring SSIS Data Conversion Failures
 date: '2007-08-17 20:39:51 -0500'
 basename: ignoring_ssis_d
 tags: [tech, database, sql-server, ssis]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** In SQL Server Integration Services (SSIS), you're trying to import
@@ -13,7 +13,7 @@ SQL Server. While the conversions look pretty straigh forward, you get failures
 of the type "The value could not be converted because of a potential loss of
 data.". But despite the mismatch data types, you can't see anything wrong.
 
-<!--more-->
+<!-- truncate -->
 
 **Background:** In my case I am converting from a Paradox dump. Paradox has an
 `integer` type whose length comes out to 11 digits, whereas SQL Server's `int`

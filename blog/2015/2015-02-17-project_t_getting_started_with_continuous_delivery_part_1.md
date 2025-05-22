@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - devops
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 "Project T" is a temporary codename for a web application that I have begun
@@ -22,7 +22,7 @@ that ends with a complete install on my integration test servers.
 
 ![deployment pipeline image](/images/deploymentPipeline.png){: .text-center }
 
-<!--more-->
+<!-- truncate -->
 
 Project T's essential requirements are the same as any web _application_:
 deliver some content and allow users to manipulate data. The content might be

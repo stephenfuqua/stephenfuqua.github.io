@@ -4,7 +4,7 @@ title: Rethrowing Exceptions Is a Dangerous Business
 date: '2007-07-09 04:21:14 -0500'
 basename: rethrowing_exce
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem**: in Visual Studio's debugger, you've landed on an Exception
@@ -16,7 +16,7 @@ throwing the error. What's going on here?
 from a number of people, and recall making the mistake myself at one point. The
 problem is most likely due to nested throws to a new custom exception.
 
-<!--more-->
+<!-- truncate -->
 
 Let's say you have a custom exception class, `CustomError`, inheriting from
 `System.Exception`. Further, let's say that you have an application that calls a

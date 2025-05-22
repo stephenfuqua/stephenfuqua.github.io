@@ -19,7 +19,7 @@ perceptions, and mere contemplation feels hollow. But reflection on action...
 that may yet have some bearing on the course of future action. So, let's look at
 today's action: a workshop on choosing a power provider.
 
-<!--more-->
+<!-- truncate -->
 
 In Texas, deregulation means that we have energy generators, transmitters, and
 dozens of providers that sit in between those two and the consumer. There can be

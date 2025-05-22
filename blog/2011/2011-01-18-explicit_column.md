@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Recently, I received a code delivery that worked on our development server but
@@ -16,7 +16,7 @@ failed in unit tests on my box. The culprit was a method that transformed a
 SQL Server using [SqlBulkCopy](http://msdn.microsoft.com/en-us/library/system.data.sqlclient.sqlbulkcopy.aspx).
 Lesson: apply column mappings.
 
-<!--more-->
+<!-- truncate -->
 
 We went back and forth: "it doesn't work," I reported. "But it works on the dev
 server," says the developer. Can we both be right? I rebuild the code from my

@@ -13,7 +13,7 @@ been all over the blogosphere and I'm probably the last blogger in the world to
 notice it, but that's okay. I'm sure opinions range, but I probably rank in the
 majority of bloggers in saying "right on, Jon."
 
-<!--more-->
+<!-- truncate -->
 
 Not having cable, I rarely have occasion to watch Jon Stewart. I did manage to
 catch some of his election coverage in 2000 and was thoroughly impressed then

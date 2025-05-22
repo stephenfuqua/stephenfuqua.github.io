@@ -16,7 +16,7 @@ Niebuhr <a href="http://en.wikipedia.org/wiki/Serenity_Prayer">famous
 prayer</a>, "God, grant me the serenity to accept the things I cannot change,
 Courage to change the things I can, And wisdom to know the difference."
 
-<!--more-->
+<!-- truncate -->
 
 Not having marked it, I'll never find the exact passage. In Gregory's journeys
 throughout the south in the '20s through late '30s, he typically found himself

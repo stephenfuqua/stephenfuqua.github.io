@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - javascript
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Over the weekend I had what at first appeared to be a small challenge: send out
@@ -17,7 +17,7 @@ variety, and a formal mailing list felt too spammy. Initially I wrote a utility
 in .NET, but ended up solving with Node.js instead due to timeouts experienced
 with SmtpClient.
 
-<!--more-->
+<!-- truncate -->
 
 Requirements: parse a CSV file and then send HTML-formatted e-mail through an
 SMTP server. The body of the e-mail has a place holder for the recipient's name.

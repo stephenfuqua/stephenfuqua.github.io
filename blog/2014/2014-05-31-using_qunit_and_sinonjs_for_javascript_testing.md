@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - javascript
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 ![QUnit + SinonJS logos](/images/qunitPlusSinonJs.png){: .float-right}
@@ -21,7 +21,7 @@ minor pages with DOM manipulation, before any of the modern frameworks had come
 out. I went to work, used it occasionally, but never had any excuses in work or
 home life to do more than dabble. The revolution was passing me by.
 
-<!--more-->
+<!-- truncate -->
 
 But with a change in employment came an opportunity &mdash; in fact the
 necessity &mdash; of digging in deeper. That was no accident. But as a <a

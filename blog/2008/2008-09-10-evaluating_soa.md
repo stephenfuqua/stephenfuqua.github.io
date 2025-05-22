@@ -6,7 +6,7 @@ basename: evaluating_soa
 tags:
 - tech
 - architecture
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 A few weeks ago I started trying to better understand the concepts behind
@@ -18,7 +18,7 @@ environments, but also sounds like a performance nightmare in a business
 environment that does not need distribution. So I largely ignored it, and
 assumed I could ignore SOA as well.
 
-<!--more-->
+<!-- truncate -->
 
 
 In the last few years, it has become more clear that SOA also allows the

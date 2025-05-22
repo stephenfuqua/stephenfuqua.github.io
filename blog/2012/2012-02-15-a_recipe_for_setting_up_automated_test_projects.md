@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Assuming that you are already sold on the notion of automated testing, it can be
@@ -16,7 +16,7 @@ approaches to this; my approach is based on experience, the wisdom in _xUnit
 Test Patterns_, and standard coding best practices. I will try to keep this
 language agnostic, though my examples will be in C#.
 
-<!--more-->
+<!-- truncate -->
 
 ### Separate Projects
 

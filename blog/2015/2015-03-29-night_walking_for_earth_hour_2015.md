@@ -21,7 +21,7 @@ and heard no owls, as I had hoped. But the tree shadows from a bright half-moon,
 overcoming the city glow, was magical in itself. This suburban dweller, overcome
 by too many street lights, had forgotten about the beauty of moon shadows.
 
-<!--more-->
+<!-- truncate -->
 
 Oddly enough, the highway noise seemed louder at night than daytime, and the
 spell of the evening wore thin when reached the end of the trail: for there we

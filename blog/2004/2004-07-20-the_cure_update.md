@@ -15,7 +15,7 @@ across Europe and in Argentina. But sadly they have not announced any new dates
 for the Curiosa Festival with Interpol, Mogwai, and others, so I will have to
 remain detached&hellip .
 
-<!--more-->
+<!-- truncate -->
 
 I must say that the first few times I heard The End of the World (new single) I
 absolutely hated it. But it has grown on me, especially in context with the rest

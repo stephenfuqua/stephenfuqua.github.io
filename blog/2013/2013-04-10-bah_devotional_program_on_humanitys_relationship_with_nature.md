@@ -28,7 +28,7 @@ Feast of Glory, by considering how the Glory of God is revealed through, and yet
 extends far beyond, Nature, which is also called Creation and Existence, and how
 our relationship to this Creation must be one of humility and moderation.
 
-<!--more-->
+<!-- truncate -->
 
 In light of the House of Justice's statement above, and the passages below, what
 are the implications of biological destruction and impoverishment of the

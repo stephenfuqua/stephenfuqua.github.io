@@ -20,7 +20,7 @@ the rules, watering away in their yards. I wish I could accompany those folks on
 a visit out to <a href="http://www.wetlandcenter.com/">John Bunker Sands
 Wetlands Center</a>.
 
-<!--more-->
+<!-- truncate -->
 
 [Alex Steffen](http://www.alexsteffen.com/), introducing the water
 segment of _World Changing, A User's Guide to the 21<sup>st</sup> Century_,

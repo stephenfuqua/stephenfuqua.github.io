@@ -4,7 +4,7 @@ title: Grad School and The Linux Guru
 date: '2003-11-11 18:23:49 -0600'
 basename: grad_school_and
 tags: [tech, Linux]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Okay, so this is a slight tangent from my intentions with this site, but I must
@@ -12,7 +12,7 @@ share the following quote from Neal Stephenson's _Cryptonomicon_, neatly
 summarizing (with only slight exagerration to reality) my experience as a
 graduate student in physics.
 
-<!--more-->
+<!-- truncate -->
 
 > &hellip;Randy enrolled at another Sibling with the aim of getting his master's
 degree in astronomy. This made him a grad student, and grad students existed not

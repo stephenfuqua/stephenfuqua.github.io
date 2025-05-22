@@ -8,7 +8,7 @@ tags:
 - data-and-analytics
 - agile
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 

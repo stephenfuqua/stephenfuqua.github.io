@@ -13,7 +13,7 @@ feeds](http://www.mozilla.org/products/firefox/live-bookmarks.html) in the new [
 My slumming has turned an interesting piece on the [future
 of cold fusion](http://popularmechanics.com/science/research/2004/8/dangerous_science/print.phtml) over at Popular Science.
 
-<!--more-->
+<!-- truncate -->
 
 First I must give credit where credit is due: I found this article thanks to the
 a run down of new alternative energy articles ([New Energy Currents:

@@ -8,7 +8,7 @@ tags:
 - programming
 - javascript
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 ![a passing test](/images/nodeToRabbitGreen.png){: .float-right }
@@ -28,7 +28,7 @@ test runner could not handle the generated message. Three key elements were
 missing, which are required for the MassTransit .Net library to interpret the
 message correctly:
 
-<!--more-->
+<!-- truncate -->
 
 1. A "Content-Type" **header** with value "application/vnd.masstransit+json"
    &mdash; _not to be confused with the message's content type, which is still

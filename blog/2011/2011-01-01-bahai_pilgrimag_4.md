@@ -12,7 +12,7 @@ tags:
 There is more to show about the holy sites and places visited, but first I want
 to share some miscellaneous photos of birds, fruits, trees, and a bee.
 
-<!--more-->
+<!-- truncate -->
 
 A cactus garden near the Shrine of the B&aacute;b and the old Pilgrim House
 

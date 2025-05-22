@@ -16,7 +16,7 @@ of useful features and improvements that should make one strongly consider
 upgrading when the Release to Market (RTM) is ready (certainly this is not
 all-inclusive):
 
-<!--more-->
+<!-- truncate -->
 
 ## Encryption at rest
 

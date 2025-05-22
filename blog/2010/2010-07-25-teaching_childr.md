@@ -16,7 +16,7 @@ neither are their parents. We learned about service and truthfulness. Well, I
 learned, and I hope they did too. And they taught me about karma. Perhaps I'll
 go back and help out some more.
 
-<!--more-->
+<!-- truncate -->
 
 First, who are these kids? A mixture of Asian and African immigrants, whites and
 African-Americans. Some of the Bah&aacute;'&iacute;s of St. Paul had met a few

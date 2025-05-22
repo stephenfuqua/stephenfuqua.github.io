@@ -17,7 +17,7 @@ to link these individual shifts to a wider movement. It is probably rarer still
 that they attempt to create the overarching paradigm, as opposed to simply
 documenting it.
 
-<!--more-->
+<!-- truncate -->
 
 Capra begins by acknowledging the countless problems plaguing humanity today.
 Taking a deep ecological approach, he sees the problems of hunger, climate
@@ -58,7 +58,7 @@ ideas drawn out in full in The Tao of Physics. In fact, his work now revolves
 around the idea of life being at the center of our quest for knowledge, instead
 of pure structure. Theories so richly described include cybernetics, dissipative
 structures and mathematical complexity (chaos), laser theory, hypercycles,
-autopoeisis, Gaia theory, and symbiogenesis. 
+autopoeisis, Gaia theory, and symbiogenesis.
 
 Much of the synthesis throughout and following these theories grows from the
 work of Humberto Maturela and Francisco Varela (the Santiago theory of

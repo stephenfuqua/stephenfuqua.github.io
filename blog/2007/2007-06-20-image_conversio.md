@@ -4,7 +4,7 @@ title: Image Conversion Made Easy in .Net
 date: '2007-06-20 21:29:16 -0500'
 basename: image_conversio
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** Need to convert an image from one format to another using .Net.
@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 Steps:
 
-<!--more-->
+<!-- truncate -->
 
 1. In your project's References, add a reference to System.Drawing.
 1. Add System.Drawing and System.Drawing.Imaging to the namespaces list in the

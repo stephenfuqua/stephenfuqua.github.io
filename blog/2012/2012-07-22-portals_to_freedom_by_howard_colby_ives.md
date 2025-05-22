@@ -23,7 +23,7 @@ Bah&aacute;&rsquo;&iacute; Faith from his father&rsquo;s death in 1892 until his
 own in 1921. In various cultural terms, you might call him a holy man, a guru, a
 saint; Bah&aacute;&rsquo;is simply call him "the Master."
 
-<!--more-->
+<!-- truncate -->
 
 &lsquo;Abdu&rsquo;l-Bah&aacute;, then approaching 70 years old, journeyed to
 North America in 1912 to strengthen the faith of those who already embraced his

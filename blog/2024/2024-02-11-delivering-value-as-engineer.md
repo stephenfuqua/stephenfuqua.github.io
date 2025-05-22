@@ -6,7 +6,7 @@ comments: true
 tags:
 - programming
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 In [Unpopular Opinion: It’s harder than ever to be a good software
@@ -25,7 +25,7 @@ people, and "other". I was bemused to note I currently sit squarely in the
 category labeled "beware" 🤨. A position that may continue throughout this year,
 but will need to change over time.
 
-<!--more-->
+<!-- truncate -->
 
 One way that we can deliver value as senior engineers is by knowing when, and
 how, to break the rules. Although I am now in management, I am staying close to

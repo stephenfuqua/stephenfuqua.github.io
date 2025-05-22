@@ -4,7 +4,7 @@ title: Running Both .Net 1.1 and 2.0 in Windows 2003 Server 64 Bit Edition
 date: '2007-06-21 19:59:42 -0500'
 basename: running_both_ne
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** Microsoft .Net Framework 1.1 and .Net Framework 2.0 don't play well
@@ -15,7 +15,7 @@ compatibility mode. Of course switching to 32 bit mode will cause you to lose
 out on some performance benefits, but maybe you're okay with that (unless you're
 running under a very high load). Two easy steps:
 
-<!--more-->
+<!-- truncate -->
 
 * Per <a
   href="http://support.microsoft.com/kb/894435">http://support.microsoft.com/kb/894435</a>,

@@ -15,7 +15,7 @@ milieu, shares a good deal of religious worldview with that faith. Thus in ["A
 note on Muslim-Christian dialogue"]( http://underprogress.blogs.com/weblog/2004/08/a_small_note_on.html) one could almost directly substitute the
 Bah&aacute;'&iacute; Faith for Islam.
 
-<!--more-->
+<!-- truncate -->
 
 It is well worth reading the entire, well-informed treatment. Thebit (the
 author), himself commenting on other comments about Muslim-Christian dialogue (

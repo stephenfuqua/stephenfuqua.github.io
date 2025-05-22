@@ -6,7 +6,7 @@ basename: validating_xml
 tags:
 - tech
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** You have some XML, and you need to validate it against a custom
@@ -20,7 +20,7 @@ you, attilan.com](http://www.attilan.com/2006/08/accessing_embedded_resources_u.
 Explorer, right-click the schema file and choose properties. Change the Build
 Action to "Embedded Resource".
 
-<!--more-->
+<!-- truncate -->
 
 ### Open the Embedded Resource Stream
 

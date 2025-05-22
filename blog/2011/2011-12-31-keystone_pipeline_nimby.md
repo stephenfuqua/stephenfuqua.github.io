@@ -27,7 +27,7 @@ are not so well funded. Thus, the NIMBY-effect becomes a matter of eco-justice:
 the poor end up saddled with the polluting plant, though the rich derive at
 least as much benefit from the project.
 
-<!--more-->
+<!-- truncate -->
 
 The opposition to the Keystone Pipeline is centered on environmental concerns.
 From what I have seen, they are generally well-founded concerns: do we really

@@ -15,7 +15,7 @@ grim picture of the Second Coming of Christ based on the authors'
 interpretations of some passages in the Gospels and, in particular, the
 revelatory language of St. John the Divine.
 
-<!--more-->
+<!-- truncate -->
 
 Kristoff writes: "If Saudi Arabians wrote an Islamic version of this series, we
 would furiously demand that sensible Muslims repudiate such hatemongering. We

@@ -8,7 +8,7 @@ tags:
 - dotnet
 - sql-server
 - performance
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 We had a horribly pernicious timeout problem recently. It was occurring in a
@@ -24,7 +24,7 @@ In the end multiple interacting problems had to be solved in order to get the
 reports running properly. For the past few weeks they've been running without a
 hitch.
 
-<!--more-->
+<!-- truncate -->
 
 ## Lesson 1: Optimization Plan Over-Dependence
 

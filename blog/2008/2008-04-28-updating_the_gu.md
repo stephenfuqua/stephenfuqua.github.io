@@ -14,7 +14,7 @@ update a (Windows Forms) GUI while a method was still running. Once I decided it
 was worth the effort to learn how to do so, I was not surprised to find that it
 is rather easy, using `BeginInvoke()`.
 
-<!--more-->
+<!-- truncate -->
 
 **Problem:** I have a long-running method and want to update the mouse cursor
 asynchronously. More accurately, I need to span a couple of methods. There is an

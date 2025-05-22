@@ -8,7 +8,7 @@ tags:
 - database
 - sql-server
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** You have an table with encrypted columns. In the ADO.Net Entity
@@ -17,7 +17,7 @@ handle the encryption commands. Furthermore, the framework will not return
 meaningful information, since it cannot decrypt the data. Finding the solution
 to this has been an adventure.
 
-<!--more-->
+<!-- truncate -->
 
 Let's give this as the table structure:
 

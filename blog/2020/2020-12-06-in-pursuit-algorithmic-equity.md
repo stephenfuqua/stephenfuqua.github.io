@@ -10,7 +10,7 @@ tags:
 - tech
 - data-and-analytics
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Advances in the availability and breadth of data over the past few decades have
@@ -22,7 +22,7 @@ suppression of freedoms. Regardless of intention, these algorithms often
 reinforce existing social inequities or present a double-edged sword, with
 potential for positive use weighed against potential for misuse.
 
-<!--more-->
+<!-- truncate -->
 
 ![Coded Bias film poster](/images/CODED_Instagram_Post_1080px.jpg){: .float-right}
 

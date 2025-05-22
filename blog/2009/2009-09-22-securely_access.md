@@ -8,7 +8,7 @@ tags:
 - dotnet
 - programming
 - security
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** You have an ASP.Net web service/site that needs to access network
@@ -22,7 +22,7 @@ gives a few alternatives, as well as giving the basic instructions. However, I
 found that these instructions had to be modified with inclusion of a few extra
 security rules. Steps:
 
-<!--more-->
+<!-- truncate -->
 
 * Create service account
 * Grant that account access to IIS. At the command prompt on the server, switch

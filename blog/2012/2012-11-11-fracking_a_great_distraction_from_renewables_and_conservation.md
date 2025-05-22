@@ -21,7 +21,7 @@ public libraries. This short film reminds us that a significant increase in the
 number of wells translates to a significant increase in the number of leaking
 wells that pollute our water supplies.
 
-<!--more-->
+<!-- truncate -->
 
 The United States' levels of greenhouse gas emissions have gone down
 dramatically, thanks to fracking (<a href=

@@ -17,7 +17,7 @@ feedback, we expect this will be the first of many opportunities to tour
 community gardens in the ambit of sacred spaces. Likewise, this will be the
 first of several blog posts on the subject.
 
-<!--more-->
+<!-- truncate -->
 
 ## What is urban agriculture?
 

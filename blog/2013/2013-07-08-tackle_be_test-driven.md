@@ -7,14 +7,14 @@ tags:
 - tech
 - programming
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Executable tests are the best form of requirements documentation. They improve
 quality through early discovery of bugs and by fostering a more detailed
 "what-if" analysis: what if we have this input X? What if the user does Y?
 
-<!--more-->
+<!-- truncate -->
 
 Whenever possible , methods and classes should be covered by unit tests that
 isolate the functionality: from a database, from file system or web access, and

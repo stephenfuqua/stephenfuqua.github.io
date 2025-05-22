@@ -19,7 +19,7 @@ shall find it." [[2](http://reference.bahai.org/en/t/b/SVFV/svfv-1.html#fn12)]
 (self-fulfilling). Truthfully, my attitude towards the concept has traditionally
 been dismissive.
 
-<!--more-->
+<!-- truncate -->
 
 It was while studying _ [
 Raising up Animators of Junior Youth Groups](http://www.ruhiresources.org/book-5/raising-up-animators-of-junior-youth-groups/)_ last year that I started fully

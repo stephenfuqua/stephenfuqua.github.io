@@ -10,7 +10,7 @@ tags:
   - Linux
   - Windows
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Goal**: setup PowerShell Core and .NET for development in Ubuntu running in
@@ -21,7 +21,7 @@ enabling more programmers to develop on [a certain
 codebase](https://github.com/Ed-Fi-Alliance-OSS) and enabling use of Linux-based
 containers for continuous integration and testing.
 
-<!--more-->
+<!-- truncate -->
 
 ## 1. Install Ubuntu and PowerShell (Core) 7
 

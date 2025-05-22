@@ -7,7 +7,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** You have a long-running query in SQL Server that is causing failures
@@ -20,7 +20,7 @@ transactions need to be short and sweet. But there is another source of
 blocking, one that can be a bit more subtle: long-running queries that are
 trying to read committed data only.
 
-<!--more-->
+<!-- truncate -->
 
 READ COMMITTED is the default isolation level for SQL Server 2005 (and most
 other versions, I presume). Ben Gan describes: "In this isolation level,

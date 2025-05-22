@@ -7,7 +7,7 @@ tags:
 - tech
 - architecture
 - books
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 <a
@@ -29,7 +29,7 @@ already had a positive impact on the communication efficacy of my charts. But, I
 simply didn't  completely like the specific modeling "language" presented by the
 authors.
 
-<!--more-->
+<!-- truncate -->
 
 The flow charting is good, though I prefer having a few more block types to
 illustrate the type of data being dealt with (i.e. documents vs databases). The

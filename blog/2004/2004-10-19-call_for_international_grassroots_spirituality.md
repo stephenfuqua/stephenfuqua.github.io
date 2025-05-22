@@ -18,7 +18,7 @@ are "united"? Perhaps these are not the questions to ask. Instead, I suggest
 that we ask &mdash; where is the grassroots appeal, and where is the recognition
 of human spirituality?
 
-<!--more-->
+<!-- truncate -->
 
 I do not pretend to know the answer to the former questions. But they are
 questions that the apologists amongst us must ask. At the same time, the

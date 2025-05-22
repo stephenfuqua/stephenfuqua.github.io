@@ -15,7 +15,7 @@ having to recompile the library containing the the class. What is my best
 option, in terms of performance, for a .Net 2.0 collection to hold my mixed-bag
 of objects? I'll be referring to these with a string name.
 
-<!--more-->
+<!-- truncate -->
 
 **Solution:**  I was contemplating both a [Hashtable
 ](http://msdn2.microsoft.com/en-us/library/system.collections.hashtable(VS.80).aspx) and a [HybridDictionary](http://msdn2.microsoft.com/en-us/library/system.collections.specialized.listdictionary(vs.80).aspx).

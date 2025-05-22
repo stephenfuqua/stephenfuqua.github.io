@@ -27,7 +27,7 @@ consuming &mdash; so that the day of reckoning, when we must transcend our baser
 natures in order to survive (or achieve the rapture, in another theology), will
 arrive that much sooner?
 
-<!--more-->
+<!-- truncate -->
 
 One of the participants had a particularly beautiful response, something like
 this&hellip; If we are teaching a child to ride a bicycle, we know the child is

@@ -22,7 +22,7 @@ will have different parameters, both in number and kind. It is impractical to
 create one column for each possible parameter, and seems senseless to create a
 separate table for every report.
 
-<!--more-->
+<!-- truncate -->
 
 **Solution:** Create a single XML column that can hold any data. Each report
 will get its own schema for specifying the subscription parameters. To

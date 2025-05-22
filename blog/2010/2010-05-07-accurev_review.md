@@ -6,7 +6,7 @@ basename: accurev_review
 tags:
 - tech
 - sdlc
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I've been using [AccuRev](http://www.accurev.com), including
@@ -16,7 +16,7 @@ is interested in spending some money, it is certainly a good option. So, for
 anyone considering using AccuRev for source code control, and who happens to
 stumble across this site, here are a few points to consider:
 
-<!--more-->
+<!-- truncate -->
 
 ## Positives
 

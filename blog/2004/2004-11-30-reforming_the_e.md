@@ -21,7 +21,7 @@ of the environmental and interfaith/religious movements. Sadly that piece is
 gone and I've not had time to reformulate it. Below are two of the central
 points I was working towards.
 
-<!--more-->
+<!-- truncate -->
 
 1. I have the feeling that the partisanship of today's grassroots environmental
    organizations is counter-productive. Organizations that take direct stances

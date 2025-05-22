@@ -21,7 +21,7 @@ for the interfaith movement itself to reach out to those who do not normally
 participate, calling for an internal dialogue to accompany the external work of
 interreligious organizations.
 
-<!--more-->
+<!-- truncate -->
 
 ---
 

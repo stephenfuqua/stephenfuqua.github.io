@@ -8,7 +8,7 @@ tags:
 - architecture
 - dotnet
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 GitHub CoPilot recently promoted [Agent mode as a full
@@ -28,7 +28,7 @@ undo and try again. It was the right advice. Experiment and build an intuition.
 
 Below I describe three experiments and outcomes.
 
-<!--more-->
+<!-- truncate -->
 
 ## Converting JSON to YAML
 

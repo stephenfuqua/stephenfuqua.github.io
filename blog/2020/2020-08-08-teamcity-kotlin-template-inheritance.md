@@ -8,7 +8,7 @@ tags:
   - tech
   - sdlc
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 This summer, one of the development teams at the Ed-Fi Alliance has been hard at
@@ -25,7 +25,7 @@ deployment operations. The team agreed to develop the applications in TypeScript
 on both the front- and back-ends. My next challenge: rapidly create TeamCity
 build configurations for all components using Kotlin code.
 
-<!--more-->
+<!-- truncate -->
 
 ## Components
 

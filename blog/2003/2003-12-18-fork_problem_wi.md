@@ -4,13 +4,13 @@ title: Fork Problem with Cygwin
 date: '2003-12-18 04:34:56 -0600'
 basename: fork_problem_with_cy
 tags: [tech, Windows]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I've been enjoying the use of [OpenSSH in Windows](http://sshwindows.sourceforge.net/) lately but ran
 into a small problem today: "fork: Permission denied".
 
-<!--more-->
+<!-- truncate -->
 
 OpenSSH runs in Windows via a port using [Cygwin](http://www.cygwin.com/) ("_a Linux-like environment for
 Windows_").  It has full SSH capabilities, including key management and server

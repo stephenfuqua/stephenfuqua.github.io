@@ -20,7 +20,7 @@ anything too obvious, e.g. no dystopian novels, and no&hellip; well, I guess we
 don't even know about novels that are deliberately or obviously uplifting. I
 presume they exist, but I couldn't tell you the name of one.
 
-<!--more-->
+<!-- truncate -->
 
 ## Degradation
 

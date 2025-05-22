@@ -4,7 +4,7 @@ title: AJAX RESPONSE Parsing Exception
 date: '2007-08-08 15:27:13 -0500'
 basename: ajax_response_p
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** In newly AJAX-enabled .Net 2.0 page, buttons that redirect user to
@@ -18,7 +18,7 @@ or server trace is enabled. Details: Error parsing near
 '<BODY><ASP_SMARTNAV_'.
 ```
 
-<!--more-->
+<!-- truncate -->
 
 Specifically, I had a small landing page with a few checkbox and a few buttons.
 I had wrapped these in an AJAX UpdatePanel. Below the panel is a Save button and

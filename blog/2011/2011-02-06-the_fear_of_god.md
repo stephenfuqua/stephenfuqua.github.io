@@ -17,7 +17,7 @@ the references). But as with so many concepts, it seems important to dig into
 the words, exploring their literal and symbolic meaning both inclusive of and
 apart from our pre-conceived notions.
 
-<!--more-->
+<!-- truncate -->
 
 I grew up with two different poles to the "fear of God". On the one hand there
 was the dread of judgment and eternal damnation &mdash; a never-ending series of

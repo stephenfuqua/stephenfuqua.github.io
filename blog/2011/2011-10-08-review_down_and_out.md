@@ -13,7 +13,7 @@ combined with the extrusion of an open source ethos into the management of
 everyday affairs, tosses in immortality and lean project management, and sets it
 all in the context of the semi-religious experience of Disney World.
 
-<!--more-->
+<!-- truncate -->
 
 A well-crafted amusement park ride of the Disney-variety leads you through a
 thrilling story in a matter of minutes. The rider does not foresee the end of

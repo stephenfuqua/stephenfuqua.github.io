@@ -4,7 +4,7 @@ title: Autoscrolling in the DataGridView
 date: '2007-05-30 15:48:51 -0500'
 basename: autoscrolling_i
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem**: In a .Net 2.0 Windows Forms application, user action causes a new
@@ -12,7 +12,7 @@ row to be added to a DataGridView control. When the viewport fills up, causing
 the vertical scrollbar to appear, the most recent entry is hidden "below the
 fold" &mdash; off the screen. Users want to see the latest entry at all times.
 
-<!--more-->
+<!-- truncate -->
 
 **Solution**: turns out to be relatively easy.  But first, it is important to
 know what control you're dealing with. Because I don't program in Windows Forms

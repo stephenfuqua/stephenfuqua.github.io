@@ -8,7 +8,7 @@ tags:
   - tech
   - sdlc
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 "Infrastructure as Code", or IaC if you prefer <abbr title="Three Letter
@@ -23,7 +23,7 @@ respect to continuous integration (CI) and delivery (CD): the process of
 automating software compilation, testing, quality checks, packaging, deployment,
 and more.
 
-<!--more-->
+<!-- truncate -->
 
 ## Continuous Integration and Delivery Tools
 

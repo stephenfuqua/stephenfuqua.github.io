@@ -14,7 +14,7 @@ that letting myself become too regimented is a sure sign that I'm being pulled
 too far into the rat race, into the humdrum existence that I've always dreaded.
 Building a trail and listening to Texas folk-rock are good cures for that.
 
-<!--more-->
+<!-- truncate -->
 
 This past weekend, I was in Missouri visiting my grandfather and my parents
 (mostly the former since the latter then headed south to visit my sisters).

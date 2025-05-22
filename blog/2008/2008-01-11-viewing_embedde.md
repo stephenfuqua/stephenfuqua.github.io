@@ -6,7 +6,7 @@ basename: viewing_embedde
 tags:
 - tech
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem**: you have image data from an HTML e-mail, but don't know what to do
@@ -19,7 +19,7 @@ converted to a text string for easy transmission over text protocols. [.Net Deve
 has a good full explanation. All you have to do is convert the string over to a
 byte array using `Convert.FromBase64String`, then save your new `byte[]`.
 
-<!--more-->
+<!-- truncate -->
 
 And what if the string is itself transmitted as a byte array? Well, simply
 convert each byte into a char and then convert the resulting array into the new

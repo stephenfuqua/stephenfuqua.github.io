@@ -13,7 +13,7 @@ invalid, sheltered in childhood, entering high society for the first time. His
 innocence leads him through fantasy, love, hatred, wealth, jealousy, and all the
 other attributes of earthly life--especially that life of the elite.
 
-<!--more-->
+<!-- truncate -->
 
 Though almost devoid of plot, the drama reads well and coherently (much more so
 than _Brothers Karamazov_ or _Notes from Underground_). Dostoyevsky's

@@ -7,7 +7,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 It was driving me nuts &mdash; my transforms just wouldn't apply. I tried
@@ -18,7 +18,7 @@ with the root `<Report ... />` node, first by removing all the extra
 elements (because my samples did not have any elements in the root node).
 Voil&agrave;, the transform now works. Why is that?
 
-<!--more-->
+<!-- truncate -->
 
 Continuing with the trial-and-error approach, I discovered that it was the
 "xmlns" attribute causing the problem. I looked that up and found that it is a

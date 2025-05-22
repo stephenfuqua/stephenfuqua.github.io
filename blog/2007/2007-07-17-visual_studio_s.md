@@ -4,7 +4,7 @@ title: 'Visual Studio Says: "Failed to create component"'
 date: '2007-07-17 20:27:07 -0500'
 basename: visual_studio_s
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** "Failed to create component" error pops up when dragging a custom
@@ -18,7 +18,7 @@ contains a textbox, which I want to fill with the application name, the version,
 copyright information, and company name. All of this is to come from the
 AssemblyInfo.cs file, using System.Reflection where necessary:
 
-<!--more-->
+<!-- truncate -->
 
 ```csharp
 string copyright = string.Empty;

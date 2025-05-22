@@ -22,7 +22,7 @@ than nuclear fission, which provides the POTENTIAL for nasty poisoning of the
 environment, whereas fracking by definition requires destruction of increasingly
 scarce (at least here in Texas) water.
 
-<!--more-->
+<!-- truncate -->
 
 It would be trivial to find articles backing up the assertions above. But are
 they reputable? "Whoso seeketh out a thing with zeal shall find it" [[The Seven

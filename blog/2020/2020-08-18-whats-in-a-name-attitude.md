@@ -9,7 +9,7 @@ tags:
 - inclusion
 - tech
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Last month my manager asked me about changing our naming convention for the
@@ -19,7 +19,7 @@ After all, it seems like the name derives from the multimedia concept of a
 "master copy." It's not like the terribly-named "master-slave" software and
 hardware patterns. Or is it?
 
-<!--more-->
+<!-- truncate -->
 
 ---
 

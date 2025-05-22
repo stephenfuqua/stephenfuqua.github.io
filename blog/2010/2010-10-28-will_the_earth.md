@@ -15,11 +15,11 @@ demagoguery that would later serve me well in debate class. The
 overall point I was trying to make was and is sound, but on
 rediscovering this recently, I couldn&rsquo;t help laughing at my
 (ignorant) scare-tactic of running out of oxygen. And where did I
-get this "con-environmentalist" term? The assignment was clearly 
-intended as an exercise in persuasive, opinion-based writing. 
+get this "con-environmentalist" term? The assignment was clearly
+intended as an exercise in persuasive, opinion-based writing.
 The lack of citations is irksome to me._
 
-<!--more-->
+<!-- truncate -->
 
 Sickening and outright disgusting factors are heavily
 contributing to the demise of our environment. But there is a major

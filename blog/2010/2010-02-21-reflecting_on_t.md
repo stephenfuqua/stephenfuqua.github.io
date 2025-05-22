@@ -17,7 +17,7 @@ and Death_. Each one contains a number of passages from the Bah&aacute;'&iacute;
 writings as well as questions designed to help the person remember and apply the
 text.
 
-<!--more-->
+<!-- truncate -->
 
 Luckily I was able to find an acquaintance fluent in Spanish who could join me,
 and we met this individual and her family yesterday. In fact, I can't imagine

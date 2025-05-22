@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I'm writing a class with several methods that take integer input. The input

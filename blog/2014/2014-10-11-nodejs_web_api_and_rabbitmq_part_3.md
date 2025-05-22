@@ -8,7 +8,7 @@ tags:
 - programming
 - javascript
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 _Desiring to learn about both Node.js (particularly as an API server) and
@@ -27,7 +27,7 @@ were my guide for Web API, and as with the test runner in part 1, I used [MassTr
 for publishing from .Net code to RabbitMQ. Owin was my solution for self-hosting
 the web application.
 
-<!--more-->
+<!-- truncate -->
 
 With Owin integration, a Web API server starts with one line of code invoked
 from the hosting application:

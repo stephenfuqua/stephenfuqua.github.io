@@ -19,7 +19,7 @@ Waiting for this year's must-have bargain.
 {: .center-block }
 ![people gathered](/images/mlkGP2013_0.jpg){: .img-fluid .border .rounded }
 
-<!--more-->
+<!-- truncate -->
 
 But this crowd, still gathering when the photo was taken this morning, is of a
 different sort. It is a group, primarily of students, who were brought together

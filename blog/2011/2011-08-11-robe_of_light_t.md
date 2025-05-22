@@ -24,7 +24,7 @@ B&aacute;b&iacute;s. That he does so in a relatively objective and scientific
 manner gives his work an additional refreshing lens through which to gaze on the
 life and teachings of Bah&aacute;'u'll&aacute;h.
 
-<!--more-->
+<!-- truncate -->
 
 The book's subject matter is meticulously researched, using both the "standard
 sources" (_The Dawnbreakers_, _Bah&aacute;'u'll&aacute;h &mdash; King of Glory_,

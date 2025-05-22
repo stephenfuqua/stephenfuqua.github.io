@@ -15,7 +15,7 @@ Service Broker in order to make an asynchronous call, with the receiving service
 doing your work for you. You've read all about it, and tried it out after hours,
 but it didn't work. What gives?
 
-<!--more-->
+<!-- truncate -->
 
 **Solution:** obviously, this situation occurred with your humble blogger. I had
 a few different things going on, but once it was solved, how sweet it was.

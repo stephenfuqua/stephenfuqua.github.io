@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 My team often starts Tuesday morning status meetings with a round of
@@ -18,7 +18,7 @@ Several weeks ago someone brought up C# <a href=
 a learn. I could see the potential, but I didn't immediately think of any
 practical examples.
 
-<!--more-->
+<!-- truncate -->
 
 Fast forward: working on an application at home, and started the data layer. I
 was reminded that I am annoyed the fact that [IDataReader](http://msdn.microsoft.com/en-us/library/system.data.idatareader.aspx)

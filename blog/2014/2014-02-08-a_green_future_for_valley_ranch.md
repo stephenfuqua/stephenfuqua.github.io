@@ -16,7 +16,7 @@ Now we feel more confident that it has a bright future as well, one that
 includes serious water conservation measures, ecological aesthetics, and social
 opportunities.
 
-<!--more-->
+<!-- truncate -->
 
 Having moved into the neighborhood this past fall, we've settled in, talked to a
 few people, and taken a few nice walks. The eastern boundary of Valley Ranch is

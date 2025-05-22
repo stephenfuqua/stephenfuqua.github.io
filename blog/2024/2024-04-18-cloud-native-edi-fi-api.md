@@ -8,7 +8,7 @@ tags:
 - ed-fi
 - architecture
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 > "For the past two years, the Ed-Fi Alliance software development team has been

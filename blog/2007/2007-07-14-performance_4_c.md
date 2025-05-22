@@ -4,7 +4,7 @@ title: 'Performance #4: Consolidate Object Creation from Database'
 date: '2007-07-14 15:01:21 -0500'
 basename: performance_4_c
 tags: [tech, dotnet, performance]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 _This article is part of the series <a href="/archive/2007/06/25/an_exercise_in/">
@@ -21,7 +21,7 @@ Here's an interesting looking result:
     height="125" border="1" /></a>
 -->
 
-<!--more-->
+<!-- truncate -->
 
 Calls to `Class::FindByID` are accumulating up to 13.36% of the memory
 allocation. And they are occurring in two different methods (`Class2::Prep`

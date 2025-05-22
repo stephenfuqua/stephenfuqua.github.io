@@ -8,7 +8,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 For years I've had problems with SSIS deployments to production. In fact, I
@@ -23,7 +23,7 @@ access to production such that I can investigate, it will always be a
 hypothesis: using a template that sets various properties with the help of
 _variable expressions_.
 
-<!--more-->
+<!-- truncate -->
 
 The SSIS Junkie blog has a great series of posts about SSIS standards and
 building templates, including [SSIS:

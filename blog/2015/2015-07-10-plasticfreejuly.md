@@ -25,7 +25,7 @@ plastic, with circuits embedded in plastic. Perhaps someone, somewhere,
 manufactures computers using naught but metals, sand, and rubber insulation.
 With vacuum tubes.
 
-<!--more-->
+<!-- truncate -->
 
 This is not to excoriate the notion of going 100% plastic-free. Rather, these
 lessons constrain the month-long experiment to the realm of consumables. Let us

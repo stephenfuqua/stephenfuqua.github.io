@@ -8,7 +8,7 @@ tags:
 - tech
 - programming
 - books
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 
@@ -24,7 +24,7 @@ Dr. Brooks is my new&hellip; well, I can't think of an appropriate noun. Certain
 not a deity. One book does not make him a favorite tech author. Static text cannot make
 him a mentor. Maybe tech hero?
 
-<!--more-->
+<!-- truncate -->
 
 _The Mythical Man-Month_ is a true classic. Many have heard of it; I wonder how
 many in my generation have taken the time to read it? Although it was written
