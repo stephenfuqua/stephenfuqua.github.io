@@ -20,7 +20,7 @@ fantastic and tireless teacher, well-loved by 'Abdu'l-Bah&aacute;, and thanks to
 the Master&#8217;s encouragement, one-half of perhaps the first black/white
 Bah&aacute;'&iacute; marriage in the U.S.
 
-<!--more-->
+<!-- truncate -->
 
 I paid my respects as the sun rose on a chilly November morning, illuminating
 the lovely gravestone even as the Bah&aacute;'&iacute; teachings illuminated

@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 One of my team members sent in the following piece of code, which is clearly
@@ -18,7 +18,7 @@ objects that match a particular `productId`. I took one look at it and thought
 happens... lo and behold, it worked. And well it should, once I thought about
 it.
 
-<!--more-->
+<!-- truncate -->
 
 ```csharp
 list = cardQueue.FindAll(delegate(MyObject obj1)

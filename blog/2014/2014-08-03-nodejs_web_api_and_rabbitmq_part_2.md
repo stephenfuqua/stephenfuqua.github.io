@@ -8,7 +8,7 @@ tags:
 - programming
 - javascript
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 _Desiring to learn about both Node.js (particularly as an API server) and
@@ -22,7 +22,7 @@ message for .Net to pick it up is tricky, and I won't get into the detail of
 that yet. For now, let's concentrate on setting up node.js and communicating
 with RabbitMQ. We'll get the finer points of interacting with .Net later.
 
-<!--more-->
+<!-- truncate -->
 
 So this is my first project in Node.js. I'm not going to claim any expertise or
 try to explain the framework. I first learned it in an HTML 5 meetup meeting

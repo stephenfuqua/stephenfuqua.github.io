@@ -22,7 +22,7 @@ Kh&aacute;num](http://en.wikipedia.org/wiki/Mun%C3%ADrih_Kh%C3%A1num), wife of '
 scheduled tour of holy places, we felt it was essential that we pay our respects
 to these departed souls, who gave everything to the Faith.
 
-<!--more-->
+<!-- truncate -->
 
 Assessing their individual legacies is difficult today, particularly for the
 women. M&iacute;rz&aacute; Mihd&iacute;'s death played an integral role in

@@ -14,7 +14,7 @@ The Kyoto Protocol has been <a href=
 What changes will we see, what effects will it have on the United States, and
 what comes next?
 
-<!--more-->
+<!-- truncate -->
 
 ## Implementation
 

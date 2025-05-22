@@ -17,7 +17,7 @@ Buzurg-i-N&uacute;r&iacute; in Tehran was brought to light. It is unknown (to
 me) how many holy places are left in Iran and Iraq; these were undoubtedly two
 of the most historical.
 
-<!--more-->
+<!-- truncate -->
 
 Qudd&uacute;s ("The Most Holy"), whose given name was Mulla Muhammad-'Al&iacute;
 B&aacute;fur&uacute;shi, was also called "El B&aacute;b'u'l-B&aacute;b" ("Gate

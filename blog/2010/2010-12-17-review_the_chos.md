@@ -21,7 +21,7 @@ recently, and several other books dealing with Bab&iacute; and
 Bah&aacute;'&iacute; history. So I decided to try out Lady Blomfield's _The
 Chosen Highway_ &mdash; and was well-rewarded for it.
 
-<!--more-->
+<!-- truncate -->
 
 The books is written in a semi-epistolary style, which struck me as a very odd
 way of presenting a history. But it worked. Lady Blomfield's aim was to give a

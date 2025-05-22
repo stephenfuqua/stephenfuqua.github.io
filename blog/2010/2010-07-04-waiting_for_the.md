@@ -16,7 +16,7 @@ coming of Jesus Christ, far fewer see Christ's return as imminent. Overall just
 among those who say that the Bible is the literal word of God, just 37% expect
 Christ to return to earth in their lifetime."
 
-<!--more-->
+<!-- truncate -->
 
 I imagine the poll's questions gave three options, something like: Do you believe that Christ will return to Earth...
 

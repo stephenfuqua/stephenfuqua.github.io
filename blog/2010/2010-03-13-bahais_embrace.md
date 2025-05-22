@@ -22,7 +22,7 @@ Action on Climate Change</a>. They encouraged us to actively incorporate
 sustainable practices into our community life, in a manner more direct than ever
 before.
 
-<!--more-->
+<!-- truncate -->
 
 Again: it's about time. But don't think that's a statement critical of
 Bah&aacute;'&iacute; institutions. Rather, it's a statement about _the

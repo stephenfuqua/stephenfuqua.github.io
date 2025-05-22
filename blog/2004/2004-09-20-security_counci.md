@@ -15,7 +15,7 @@ investigations, and new legal obligations have now been imposed on Sudan.
 Its too bad we can't get this done elsewhere in the world, as Darfur is
 really just the current poster child of global conflict.
 
-<!--more-->
+<!-- truncate -->
 
 ## First, The Security Council
 

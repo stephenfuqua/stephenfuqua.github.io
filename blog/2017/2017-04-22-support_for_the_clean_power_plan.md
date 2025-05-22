@@ -17,7 +17,7 @@ began to awaken to the manifest injustice of suburban commuters contributing
 more than their fair share to pollution, from the tailpipe and the power plant.
 What had been a mere academic awareness suddenly turned visceral.
 
-<!--more-->
+<!-- truncate -->
 
 Cities and states have had a mixed track record, at best, in dealing with air
 quality - ultimately it is a matter of national concern. Thankfully Congress and

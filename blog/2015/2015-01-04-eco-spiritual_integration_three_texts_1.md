@@ -29,7 +29,7 @@ Spiritual principles can shape our research methods (viz animal
 experimentation), and scientific research can shape our application of justice
 and equality (seeking climate justice, for example).
 
-<!--more-->
+<!-- truncate -->
 
 In a <a href="/archive/2014/12/22/birdsong_and_rustling_leaves">prior blog
 post</a>, I wrote about birdwatching helping me to overcome a sense of being

@@ -23,7 +23,7 @@ firmly opposed to the construction of this pipeline, and have signed onto <a
 href="http://www.interfaithpowerandlight.org">Interfaith Power &amp; Light's [letter-writing
 campaign against the pipeline](http://action.interfaithpowerandlight.org/siteapps/advocacy/ActionItem.aspx?c=dmJUKgOZJiI8G&b=8627517&aid=519509).
 
-<!--more-->
+<!-- truncate -->
 
 (A) Previous thought: the alternative to piping through the US is piping through
 Canada or trucking, so the NIMBY principle would just push the transport into

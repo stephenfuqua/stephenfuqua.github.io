@@ -4,7 +4,7 @@ title: Do not trust the generic List!
 date: '2007-09-28 13:43:11 -0500'
 basename: do_not_trust_th
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Actually, that's a slightly misleading title. You should trust `List<T>`,
@@ -19,7 +19,7 @@ So naturally I started properly stepping through the application, inspecting
 results from SQL and in code. What do I find? That SQL is returning the proper
 sort order, but then the ordering is getting lost. Why is that?
 
-<!--more-->
+<!-- truncate -->
 
 `List<T>` is basically what I remember as a vector in C++: an expandable,
 more flexible array. Its been a while since I wrote anything in C++, so I don't

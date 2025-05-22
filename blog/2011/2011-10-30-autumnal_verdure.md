@@ -11,7 +11,7 @@ tags:
 This is a strange sort of spring we're having. And a small part of me died a
 little death watching the new Lorax trailer this morning.
 
-<!--more-->
+<!-- truncate -->
 
 A Red-tailed Hawk was calling from the greenbelt outside my window; I stepped
 out to try and find it. Naturally it stopped a few seconds later. Blue Jays and

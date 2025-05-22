@@ -24,7 +24,7 @@ conversation was robust, heartfelt, and meaningful &mdash; yet in reflection, it
 raises some key questions about how to have a productive, spiritually-oriented
 conversation.
 
-<!--more-->
+<!-- truncate -->
 
 After sharing a few prayers, we watched <a href="
 http://billmoyers.com/episode/full-show-climate-change-faith-and-fact/">Bill

@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 A few months after I first purchased it, I am still reading [xUnit Test Patterns](http://xunitpatterns.com/). Been reading a few
@@ -19,7 +19,7 @@ the office, so that we can access protected methods in our classes. However, we
 stumbled upon it on our own, well before reading anyone else's suggestions on
 how to apply it. That's the nature of _patterns_ for you.
 
-<!--more-->
+<!-- truncate -->
 
 One problem I have noticed with it is that the code coverage (NCover, Visual
 Studio Team Suite) tools get confused by this, thinking that we are testing the

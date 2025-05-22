@@ -8,7 +8,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I am using the latest edition of Service Factory - Modeling Edition (VS2008).
@@ -16,7 +16,7 @@ I've created a number of FaultContracts in my DataContract model, and utilized
 them in my ServiceContract model. The generated code for the ServiceContract
 does not include the namespace or action for the FaultContract, e.g.
 
-<!--more-->
+<!-- truncate -->
 
 ```csharp
 [WCF::ServiceContract(Namespace = "http://mynamespace", Name = "MyServiceContract", SessionMode = WCF::SessionMode.Allowed, ProtectionLevel = ProtectionLevel.None )]

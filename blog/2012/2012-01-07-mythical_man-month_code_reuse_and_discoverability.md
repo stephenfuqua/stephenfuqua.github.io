@@ -8,7 +8,7 @@ tags:
 - programming
 - books
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 
@@ -24,7 +24,7 @@ Part five in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
 "is not to build it at all." (p222). With this he introduces a brief discussion
 of the importance of code reuse, and of its challenges.
 
-<!--more-->
+<!-- truncate -->
 
 Building software for reuse is expensive: it requires greater attention to
 architecture and more hardening. Perhaps more importantly, it is difficult to

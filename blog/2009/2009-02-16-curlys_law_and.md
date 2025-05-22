@@ -6,7 +6,7 @@ basename: curlys_law_and
 tags:
 - tech
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 [Coding Horror](http://www.codinghorror.com), almost two years back,
@@ -16,7 +16,7 @@ Excellent formulation of the principle. In sending this to my development team,
 I thought it would be useful to pull this from the abstract to the specific
 through a few questions:
 
-<!--more-->
+<!-- truncate -->
 
 1. Can you identify something in our programming (any project we've worked on)
    that violates "Curly's Law"?

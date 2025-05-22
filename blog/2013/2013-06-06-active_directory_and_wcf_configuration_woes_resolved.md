@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 
@@ -18,7 +18,7 @@ error: `SOAP security negotiation with '<myEndpointAddress>' for target
 '<myEndpointAddress>' failed. See inner exception for more details.` Inner
 exception: `The Security Support Provider Interface (SSPI) negotiation failed.`
 
-<!--more-->
+<!-- truncate -->
 
 The solution was simple in the end, but required a good deal of research to find
 and understand. But before we get to that, let's talk a bit more about the

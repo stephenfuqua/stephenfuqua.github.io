@@ -25,7 +25,7 @@ to support public and private endeavors to restore vital natural systems.
 <small>White-morph Reddish Egret, doing the Reddish Egret dance, in a wetland on Texas's Mustang
 Island</small>
 
-<!--more-->
+<!-- truncate -->
 
 Wetlands are <a href="http://water.epa.gov/type/wetlands/index.cfm">nature's
 defence</a> against storm surges, and they are her filters for clean water. They

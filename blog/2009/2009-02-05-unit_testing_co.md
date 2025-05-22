@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Lately I've been working with my team to understand and utilize good automated
@@ -18,7 +18,7 @@ attention to code coverage. This is a rather facile treatment; for more in-depth
 reasoning and details, I recommend <a href="http://www.xunitpatterns.com">xUnit
 Test Patterns</a>.
 
-<!--more-->
+<!-- truncate -->
 
 ## Code coverage
 

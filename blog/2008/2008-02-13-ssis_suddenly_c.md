@@ -8,7 +8,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** periodically, one of my SSIS packages was throwing an error saying
@@ -17,7 +17,7 @@ BufferTempStoragePath property. There is an incorrect file name or no
 permission."` The package in question then would hang, locking a file that it
 was trying to import.
 
-<!--more-->
+<!-- truncate -->
 
 **Solution:** The `BufferTempStoragePath` is kind of self explanatory. As usual,
 Jamie Thomson's SQL Junkie blog has an excellent article that gives useful

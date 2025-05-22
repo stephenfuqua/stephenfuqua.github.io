@@ -24,7 +24,7 @@ enough to share with friends and family.
 {: .center-block }
 ![photo of bluebonnets and mesquite tree](/images/bluebonnetsAndMesquite.JPG){: .img-fluid .border .rounded }
 
-<!--more-->
+<!-- truncate -->
 
 Equally important, it inspires and fuels my efforts to protect that natural
 world: for its own sake, for the joy it brings others, and for the critical

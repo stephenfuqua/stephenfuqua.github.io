@@ -2,7 +2,7 @@
 layout: page
 title: Data Cataloging at Data Day Texas 2025
 date: 2025-02-03
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 tags:
 - tech
 - data
@@ -15,7 +15,7 @@ Notes from three talks on data cataloging at the recent [Data Day Texas
 * Investing in Semantics and Knowledge
 * We Are All Librarians
 
-<!--more-->
+<!-- truncate -->
 
 ## The Meta Grid
 

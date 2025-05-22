@@ -20,7 +20,7 @@ As the last update was written in April, the site now contains news from My, Jun
 and this first week of July, as well as three new polls about the site's functioning.
 So please stop by, enjoy, and vote.
 
-<!--more-->
+<!-- truncate -->
 
 **Links to the long defunct InterfaithNews.Net website removed April 2012**
 
@@ -46,7 +46,7 @@ and shares two stories from URI members in Croatia and India._Link removed_</dd>
   call for greater respect for other religions in institutional religious education.
   The survey also finds that religious tolerance is strongly correlated to age.
   The article also announces an essay competition for youth, with $100,000 worth
-of prizes. 
+of prizes.
 _Link removed_</dd>
 <dt>Teens from Regions of Conflict Gather to Learn to Use Religion for Peace</dt>
 <dd>Beginning June 27, teens from several conflict-ridden areas gathered for a

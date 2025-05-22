@@ -2,7 +2,7 @@
 layout: page
 title: Tools for Engineering New Managers
 date: 2024-12-31
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 tags:
 - books
 - meta
@@ -23,7 +23,7 @@ play with and questions to aid my reflection.
 {: .figure .figure-caption}
 Sharp-shinned Hawk at Resaca de la Palma State Park, by Stephen A. Fuqua (2024).
 
-<!--more-->
+<!-- truncate -->
 
 Let's start with [What I wish somebody told me during my first year as a
 manager](https://zaidesanton.substack.com/p/a-letter-to-the-first-time-manager),

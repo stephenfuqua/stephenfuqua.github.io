@@ -10,7 +10,7 @@ tags:
 If you know the voice of The Collector from The Simpsons, please invoke it now.
 Worst defeat ever (in soccer).
 
-<!--more-->
+<!-- truncate -->
 
 In order to exorcise the demon of wounded pride (and wounded knee, literally), I
 will announce that my soccer team was completely outclassed by a younger,

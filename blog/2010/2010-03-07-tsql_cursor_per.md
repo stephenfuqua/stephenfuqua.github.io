@@ -7,7 +7,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 One should work hard to avoid Cursors in T-SQL &mdash; for instance, by using
@@ -17,7 +17,7 @@ excellent guide to the subject, [Performance
 Tuning SQL Server Cursors](http://www.sql-server-performance.com/tips/cursors_p1.aspx), which includes the following enlightening piece
 of advice:
 
-<!--more-->
+<!-- truncate -->
 
 > If you have no choice but to use a server-side cursor in your application, try
 > to use a FORWARD-ONLY or FAST-FORWARD, READ-ONLY cursor. When working with

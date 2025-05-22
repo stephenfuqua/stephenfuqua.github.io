@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 A few weeks ago I stumbled upon a tool called Pex from the Microsoft Research
@@ -19,7 +19,7 @@ which now has me jump started. First a few highlights of what I learned (without
 cribbing too much from Jason Bock's presentation), and then sample results from
 the [method in my last post](/archive/2010/01/18/c_extension_met/).
 
-<!--more-->
+<!-- truncate -->
 
 ## Highlights
 

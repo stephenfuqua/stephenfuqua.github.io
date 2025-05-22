@@ -15,7 +15,7 @@ tags:
 The concept of world peace is surely not new to you. The idea that it
 just might come about &mdash; now that is a revolutionary concept.
 
-<!--more-->
+<!-- truncate -->
 
 Every day we hear more depressing news: from natural disasters to
 terrorism to another child kidnapping. When it comes to religion, many

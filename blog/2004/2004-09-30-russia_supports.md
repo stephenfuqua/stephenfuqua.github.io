@@ -14,7 +14,7 @@ get this through the Duma for ratification, then the Protocol will become
 international law despite the US's lack of ratification. But what is really
 going on? And how will it effect the U.S.?
 
-<!--more-->
+<!-- truncate -->
 
 In <a href="http://www.climate.org/topics/intaction/russfog.shtml">Russian
 Ratification of Kyoto Lost in the Fog</a>, published on the 29th, Putin is

@@ -4,13 +4,13 @@ title: An Exercise in Performance Tuning in C#.Net
 date: '2007-06-25 19:59:27 -0500'
 basename: an_exercise_in
 tags: [tech, dotnet]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** Your application is slow. Horribly slow. And that just isn't
 acceptable.
 
-<!--more-->
+<!-- truncate -->
 
 I had a real world problem with an application that needs to process an input
 file, performing various calculations on pieces of data in each line. When

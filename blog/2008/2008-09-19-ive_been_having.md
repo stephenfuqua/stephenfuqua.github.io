@@ -8,7 +8,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I've been having problems migrating some SSIS packages from localhost (32bit) to
@@ -21,7 +21,7 @@ directory set to a variable. When I remove the variable setting it works, when I
 add the variable expression it fails. Note: this does not fail in the 64bit
 `dtexec`.
 
-<!--more-->
+<!-- truncate -->
 
 I read [KB
 913817](http://support.microsoft.com/default.aspx?scid=kb;en-us;913817) and determined that this was not causing my problem. When I open the

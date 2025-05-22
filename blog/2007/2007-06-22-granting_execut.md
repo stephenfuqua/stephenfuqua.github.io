@@ -4,7 +4,7 @@ title: Granting Execute Permission to All Stored Procedures
 date: '2007-06-22 22:39:17 -0500'
 basename: granting_execut
 tags: [tech, database, sql-server]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** You've transferred or run a bunch of stored procedure scripts, but
@@ -18,7 +18,7 @@ people needing this tip will only be using PUBLIC.
 Wouldn't it be great to automate this for all stored procedures in the database?
 Well, here you go:
 
-<!--more-->
+<!-- truncate -->
 
 ```sql
 DECLARE procs CURSOR FOR select [name] from sys.objects where type= 'p'

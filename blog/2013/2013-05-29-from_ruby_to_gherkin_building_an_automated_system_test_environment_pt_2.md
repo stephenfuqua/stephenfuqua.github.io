@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 
@@ -22,7 +22,7 @@ After that October post, I managed to construct a full system/regression test
 suite for a key data-management application, using the combination of Ruby and
 C# as described. My team has been able to go through several cycles of&hellip;
 
-<!--more-->
+<!-- truncate -->
 
 * Updating unit tests to reflect change requests,
 * Writing code to pass the tests, and

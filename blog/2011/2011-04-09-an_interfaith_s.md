@@ -17,7 +17,7 @@ opportunity to speak about liberation or an exodus from their religious
 perspectives, and at the tables we had an opportunity to speak from our own
 perspectives, particularly with the "questions" aspect of the seder.
 
-<!--more-->
+<!-- truncate -->
 
 The interfaith commenters started with a woman who is a Buddhist priest,
 speaking about feeling liberation with each breath we take. She also commented

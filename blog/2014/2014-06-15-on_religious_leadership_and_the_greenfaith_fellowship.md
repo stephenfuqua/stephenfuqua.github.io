@@ -17,7 +17,7 @@ and none can seek a position of leadership based on education, attainment, or
 station. Its governance is egalitarian and progressively inclusive. And yet it
 is inaccurate to say there are no leaders.
 
-<!--more-->
+<!-- truncate -->
 
 There are always those who stand out &mdash; for a day, a year, or a lifetime.
 These  leaders emerge from the community based on the service they render. For

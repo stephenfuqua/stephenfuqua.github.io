@@ -15,7 +15,7 @@ and e-mails from about a dozen recruiters starting two weeks ago, and even more
 surprising when I received two excellent job offers last week. What a bounty to
 get two offers in the tech industry in this day and age!
 
-<!--more-->
+<!-- truncate -->
 
 Both positions would play a key role in generation and analysis of corporate
 data. Both would pay well. In the end, the decision was a confluence of two
@@ -35,7 +35,7 @@ company with a high growth curve and room for me to make meaningful
 contributions outside of my narrow scope (if I'm up to the challenge). My title
 is "Data Analyst/Programmer;" I am responsible for maintaining various custom
 in-house software applications, as well as generating, tweaking, and
-interpreting data from thousands of customer records. 
+interpreting data from thousands of customer records.
 
 The history of the company is a bit complex and will bore most folks. The short,
 short version: Ember's Restaurants were founded in the '50's in the Twin Cities;

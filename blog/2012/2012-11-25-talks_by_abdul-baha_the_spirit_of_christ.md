@@ -20,7 +20,7 @@ from these pages. This of course is an elucidation of
 Bah&aacute;'u'll&aacute;h's theology; as such, this new volume would make an
 excellent compliment to the study of the _Kit&aacute;b-i-&iacute;qan_.
 
-<!--more-->
+<!-- truncate -->
 
 Having just read two other books containing many excerpts from
 'Abdu'l-Bah&aacute;'s talks, presented in historical context, I was looking for

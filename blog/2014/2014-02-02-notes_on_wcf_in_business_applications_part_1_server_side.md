@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 [Windows Communication
@@ -20,7 +20,7 @@ mind, here are some of the lessons I have learned in using WCF for internal,
 line-of-business, applications. These notes, which will be published in several
 parts, assume a basic understanding of WCF and contracts.
 
-<!--more-->
+<!-- truncate -->
 
 ## Self-Hosting
 

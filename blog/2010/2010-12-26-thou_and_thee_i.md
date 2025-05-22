@@ -17,7 +17,7 @@ thinking: is "thou" is an outdated form of familar address, like "t&uacute;"
 compared to "su" in Spanish? Well, more or less, though that distinction may not
 do it justice in the context of sacred literature.
 
-<!--more-->
+<!-- truncate -->
 
 <a href="http://etymonline.com/columns/do-be-thee.htm">Etymology
 Online</a> has a nice little article about the downfall of "thou"

@@ -20,7 +20,7 @@ I arrive at this point where birding brings me such joy?
 ![photo of birds](/images/WhiteRockPelicans.JPG){: .img-fluid .border .rounded }<br>
 <small><i>American White Pelicans, Double Crested Cormorants, and domestic goose. White Rock Lake, Dallas, TX. January 2014.</i></small>
 
-<!--more-->
+<!-- truncate -->
 
 When I moved from a small city to a big one in middle school, the soundscape
 changed: Northern Mockingbirds dominated the scene, and their song was

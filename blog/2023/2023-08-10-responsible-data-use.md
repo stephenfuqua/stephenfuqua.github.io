@@ -10,7 +10,7 @@ tags:
 - tech
 - data-and-analytics
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 A strange thing about my job is that, although we're all about supporting K-12
@@ -28,7 +28,7 @@ values and principles that I wish to hold myself accountable for whenever I _do_
 use data, encourage others to make use of data, allow my own data to be used,
 etc.
 
-<!--more-->
+<!-- truncate -->
 
 **☝Note** First draft, 2023-08-10
 

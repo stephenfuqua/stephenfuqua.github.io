@@ -20,7 +20,7 @@ Black-Chinned.
 {: .center-block }
 ![black chinned hummmer photo montage](/images/blackChinFemale-thumb-350x237-48.png){: .img-fluid .border .rounded}
 
-<!--more-->
+<!-- truncate -->
 
 It started with a lone male. We saw his purple/black <span style="border-bottom:
 1px black dotted" title="also known as the 'throat'">gorget</span> in the sun,

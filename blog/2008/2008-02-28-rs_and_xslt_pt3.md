@@ -7,7 +7,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 The last two posts have touched on some issues related to Reporting Services and
@@ -22,7 +22,7 @@ record. Reporting Services' subscription capabilities are ideal for the report
 delivery, but does not have any built-in way to support this kind of output. One
 can use CSV export, but:
 
-<!--more-->
+<!-- truncate -->
 
 <ul>
 <li>that restricts the user to commas rather than pipes (or other characters),</li>

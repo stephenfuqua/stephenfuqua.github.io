@@ -20,7 +20,7 @@ world, in the context of global climate change: those of the United States and
 Uruguay. It is a powerful reminder that we in the U.S. can't look at climate
 change, point the finger elsewhere, and  keep going about our lives.
 
-<!--more-->
+<!-- truncate -->
 
 As President, Mr. Obama has made some strides with respect to climate change
 (e.g. higher mileage standards). Yet this article reminds us of the tyranny of

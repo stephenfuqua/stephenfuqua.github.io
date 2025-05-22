@@ -8,7 +8,7 @@ tags:
 - programming
 - javascript
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Many social websites, and web-based applications, have a notification process
@@ -23,7 +23,7 @@ achieve this.
 
 ![example from Twitter](/images/twitterNotification.jpg){: .text-center}
 
-<!--more-->
+<!-- truncate -->
 
 ## Pushing With SignalR
 

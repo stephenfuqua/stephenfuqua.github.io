@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - books
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Part three in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
@@ -28,7 +28,7 @@ development environments. Take the _telephone log_ for example:
 > implementers. While this mechanism is quite informal, it is both quick and
 > comprehensive." (p69)
 
-<!--more-->
+<!-- truncate -->
 
 Read the book for more context. Updated in modern terms: as an architect, or any
 kind of _subject matter expert_ (SME), questions and answers over the phone,

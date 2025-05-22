@@ -19,7 +19,7 @@ to get moving before the cafe downstairs opened, that was my wake-up.
 ![Templar's Boutique Balcony](/images/balconyView.JPG){: .img-fluid .border .rounded }<br>
 <small>View of the cafe from our balcony, November 22, 2010.</small>
 
-<!--more-->
+<!-- truncate -->
 
 One year later&hellip; and how has that trip affected my life? There, I
 encountered a beauty and serenity unlike anything I've ever seen or felt before.

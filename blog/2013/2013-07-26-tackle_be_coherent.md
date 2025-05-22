@@ -7,7 +7,7 @@ tags:
 - tech
 - sdlc
 - meta
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Hypothesis: at the beginning of their careers (and perhaps well into them), most
@@ -18,7 +18,7 @@ best, the truth is that communication skills are critical to success. Being
 "coherent" means that one is able to express himself in clear terms, logically
 and consistently. This ability is essential in both code and "regular" language.
 
-<!--more-->
+<!-- truncate -->
 
 ## Written/Verbal
 

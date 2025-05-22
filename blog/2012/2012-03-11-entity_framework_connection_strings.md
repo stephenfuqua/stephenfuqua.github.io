@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 This is a shout out to an agony-saving explanation of the connection string used

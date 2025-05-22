@@ -26,7 +26,7 @@ through the shoebox of memory, two stand out at very different scales.
 of Nasa](http://www.dvidshub.net/image/855668/page-arizona-image-day#.VHEMwMkXJx1).</small>
 
 </div>
-<!--more-->
+<!-- truncate -->
 
 In 1998, I flew from Austin, Texas to San Francisco, California, to attend the
 third global summit for the creation of a United Religions.  Although I had

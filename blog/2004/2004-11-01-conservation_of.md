@@ -15,7 +15,7 @@ tags:
 
 Thus begins "Water Conservation as a Religious Duty".
 
-<!--more-->
+<!-- truncate -->
 
 The _Yemen Observer_ is carrying an [intriguing article](http://www.yobserver.com/news/article_2650.html) on
 the need to conserve water in that desert country. As with so many things in

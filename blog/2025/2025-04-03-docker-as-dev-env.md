@@ -8,7 +8,7 @@ tags:
 - architecture
 - dotnet
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 mermaid: true
 ---
 
@@ -32,7 +32,7 @@ container](https://www.docker.com).
 [_Lamium amplexicaule_](https://en.wikipedia.org/wiki/Lamium_amplexicaule) aka
 henbit, the first flower to appear in my yard this year.
 
-<!--more-->
+<!-- truncate -->
 
 _This is article is part 1 in a planned series on using Docker containers in the
 software development lifecycle (SDLC)._

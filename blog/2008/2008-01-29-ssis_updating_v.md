@@ -8,7 +8,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** In SSIS, you want to update a variable from a Script Component
@@ -16,7 +16,7 @@ embedded in a Data Transform task. You get an error message reading "the
 collection of variables locked for read and write access is not available
 outside of postexecute". What's up?
 
-<!--more-->
+<!-- truncate -->
 
 **Solution:** [Microsoft
 explains](http://msdn2.microsoft.com/en-us/library/aa337079.aspx): "The collection of ReadWriteVariables is only available in the

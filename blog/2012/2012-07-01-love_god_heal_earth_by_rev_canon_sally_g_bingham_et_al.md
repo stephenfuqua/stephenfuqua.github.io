@@ -20,7 +20,7 @@ deeply spiritual, personal, and hopeful message that moves beyond the
 intellectual reality of global climate change. In other words, it is a powerful
 complement to the grim facts of _An Inconvenient Truth_.
 
-<!--more-->
+<!-- truncate -->
 
 Rev. Bingham assembled the author list from among her contacts in the network of
 state-level Interfaith Power and Light organizations, of which her California

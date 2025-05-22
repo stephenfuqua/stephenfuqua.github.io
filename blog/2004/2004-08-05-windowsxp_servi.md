@@ -4,7 +4,7 @@ title: WindowsXP Service Pack 2 Warning
 date: '2004-08-05 10:47:51 -0500'
 basename: windowsxp_servi
 tags: [tech, Windows]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 In the next day or two Microsoft will come out with its long-heralded, major
@@ -13,7 +13,7 @@ usability, default settings, and security bugs/holes. A new security pack from
 Microsoft is always a major step forward&hellip; but in my experience always
 comes with a few bugs itself.
 
-<!--more-->
+<!-- truncate -->
 
 The conventional wisdom for years amongst tech geeks is to NEVER install a
 Windows NT/2000/XP service pack until it has been out for at least a month. Let

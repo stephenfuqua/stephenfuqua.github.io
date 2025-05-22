@@ -7,7 +7,7 @@ tags:
 - tech
 - sdlc
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Stephen's first law of diagnosing problems in production: try to replicate in

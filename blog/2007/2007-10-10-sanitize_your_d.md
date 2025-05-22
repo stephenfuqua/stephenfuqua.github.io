@@ -4,7 +4,7 @@ title: Sanitize Your Database Inputs!
 date: '2007-10-10 20:33:37 -0500'
 basename: sanitize_your_d
 tags: [tech, database]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 {: .text-center }
@@ -17,7 +17,7 @@ dynamically](http://www.owasp.org/index.php/Testing_for_SQL_Injection#Stored_Pro
 
 Stephen's top 4 reasons for using stored procedures rather than inline SQL:
 
-<!--more-->
+<!-- truncate -->
 
 1. Sanitizes input by completely wrapping the data in the assigned data type, so
    that a input parameter `@param1 varchar(5)` will always treat `val '` or

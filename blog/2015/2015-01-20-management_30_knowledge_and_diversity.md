@@ -8,7 +8,7 @@ tags:
 - programming
 - sdlc
 - inclusion
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Last year I read Jurgen Appelo's <a href="http://www.mgt30.com">Management 3.0:
@@ -23,7 +23,7 @@ myself by re-collecting and re-pondering a few of those notes, starting with the
 topics of **Knowledge **and **Diversity **(from Ch 4 - The
 Information-Innovation System)
 
-<!--more-->
+<!-- truncate -->
 
 ## Knowledge
 

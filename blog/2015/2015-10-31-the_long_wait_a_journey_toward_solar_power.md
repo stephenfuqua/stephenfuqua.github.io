@@ -20,7 +20,7 @@ the electric grid company (Oncor) comes out to inspect.
 {: .center-block }
 ![solar panel photo 1](/images/solar1.jpg){: .img-fluid .border .rounded}
 
-<!--more-->
+<!-- truncate -->
 
 {: .float-right }
 ![solar panel photo 2 ](/images/solar2.jpg){: .border .rounded}

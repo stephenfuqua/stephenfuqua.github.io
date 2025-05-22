@@ -8,7 +8,7 @@ tags:
   - tech
   - programming
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
@@ -30,7 +30,7 @@ crippled my ability to know how to build and test .NET Framework solutions
 (setting up an automated  build process in [Cruise
 Control](http://cruisecontrol.sourceforge.net/) helped cure me of that).
 
-<!--more-->
+<!-- truncate -->
 
 {: .float-right }
 ![Screenshot of CLI-based hacking in The Matrix](/images/matrix-shell.png)

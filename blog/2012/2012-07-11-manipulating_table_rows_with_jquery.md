@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - javascript
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** need to move rows up and down, and from one table to another, in an
@@ -17,7 +17,7 @@ HTML page.
 already out there, but I wanted to learn how to write one for myself. Key
 functions: [closest](http://api.jquery.com/closest/), [detach](http://api.jquery.com/detach/), [append](http://api.jquery.com/append/), [prev](http://api.jquery.com/prev/), [next](http://api.jquery.com/next/), [before](http://api.jquery.com/before/), and [after](http://api.jquery.com/after/).
 
-<!--more-->
+<!-- truncate -->
 
 ## Demonstration
 

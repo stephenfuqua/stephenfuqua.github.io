@@ -17,7 +17,7 @@ school district. The organization's mission is to provide education and
 opportunities for cross-cultural association to the Grand Prairie community, and
 that mission was admirably pursued with Wednesday's event.
 
-<!--more-->
+<!-- truncate -->
 
 I had difficulty counting the heads as they came in; I estimate that around 200
 attended. There were a few church groups, several local businesses, and members

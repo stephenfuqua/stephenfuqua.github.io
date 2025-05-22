@@ -15,7 +15,7 @@ bargain, became a tool. Thence the jihad and establishment of empire. Slightly
 twisted &mdash; Annakin is right hand, rather than Imperator, and jihad occurs
 post-death rather than ante-. And then I remembered the twins.
 
-<!--more-->
+<!-- truncate -->
 
 What other links exist? A number of minor things (Alia/Leia, Leto/Luke...), as
 pointed out at [Star Wars Origins](http://www.moongadget.com/origins/dune.html).

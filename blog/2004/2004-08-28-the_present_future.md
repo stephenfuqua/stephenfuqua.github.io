@@ -19,7 +19,7 @@ humanity might invent. While their tales were scoffed at or ignored by the
 masses, especially when the Cold War ended with fall-out-free winters, the days
 of past present may be returning to the present future.
 
-<!--more-->
+<!-- truncate -->
 
 Dwellings perched on stalks above the land, orbiting the Earth, or traveling at
 sub-light speed are, perhaps, not around the proverbial corner. The very notion
@@ -29,7 +29,7 @@ much a vital part of our lives to be replaced by perfect capsules or
 Nebuchadnezzar's amino acid gruel.  Doping, though overlooked by many in the
 audience, is fast becoming the athletic world's P2P dilemma&mdash;technology
 enables it, but the powers that be look to squash it (though only with the
-former do I acknowledge a black and white case). 
+former do I acknowledge a black and white case).
 
 Our limits are pushed, and they push back. Thanks to the liberating influence of
 free will, our expansion defies the first law of thermodynamics&mdash;though
@@ -57,7 +57,7 @@ crashed harder than the vehicle, and reprogram and reboot it on the fly.
 Though computing may be a prime culprit in the ever widening rich/poor,
 north/south gap, its ubiquity and recent price trends have begun to bring
 economic development to impoverished lands and glimpses of democracy to
-isolated ones. 
+isolated ones.
 
 And then there is the realm were the twain meet: computer implants. Though
 little explored in the popular media, sci-fi has certainly had much to say about
@@ -65,7 +65,7 @@ wet-ware and cyborgs. Implants may allow the blind to see, quadriplegics to
 return to near normal life, and day-traders to have the latest market news
 projected directly onto their optic nerves. But would Stephen Hawking be The Man
 if his crippled body did not force his equally brilliant mind to levels of
-utilization the rest of us cannot fathom? 
+utilization the rest of us cannot fathom?
 
 Thus through biology and computing the old philosophical worry about the
 spiritual dehumanization of mankind is now realistically joined by the question

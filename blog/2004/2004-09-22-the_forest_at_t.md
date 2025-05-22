@@ -14,7 +14,7 @@ Forests](http://windsofchange.net/archives/005533.php) quite timely. Of course i
 one has been reading up on the subject, and I recommend it even more to those
 who _haven't_ been doing so.
 
-<!--more-->
+<!-- truncate -->
 
 An aside: though it was staring me in the face, it took me a few moments to
 decompose "ecolonomics" into "ecology" + "economics." So perhaps this message

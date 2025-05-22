@@ -8,7 +8,7 @@ tags:
 - dotnet
 - programming
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Here's a really dumb scenario that will illustrate a point about the usefulness
@@ -16,7 +16,7 @@ of the "red, green, refactor" approach to testing and coding. Here's the
 functionality - need to test whether or not a string has a value other than 1.
 Let's say I write a method before any tests:
 
-<!--more-->
+<!-- truncate -->
 
 ```csharp
 public static bool MyMethod(string value)

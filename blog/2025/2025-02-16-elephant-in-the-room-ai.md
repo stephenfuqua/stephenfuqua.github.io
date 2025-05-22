@@ -2,7 +2,7 @@
 layout: page
 title: Addressing the Elephant in the Room – AI – at the Data Day Texas 2025 Town Hall
 date: 2025-02-16
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 tags:
 - tech
 - data
@@ -31,7 +31,7 @@ what the fuss what all about, just as I wonder what the backstory was on this
 balloon-based scarecrow protecting raspberries in my backyard circa 2006. By
 Stephen A. Fuqua.
 
-<!--more-->
+<!-- truncate -->
 
 Or at least _some_ of them are. Some in the audience already see themselves as
 the ones leading the AI wave in their companies, and others feel more confident

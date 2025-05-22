@@ -7,11 +7,11 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
-Something I was reading this weekend pointed out that leaving braces out of a 
-one-line block can be dangerous. For instance, it is correct to code the 
+Something I was reading this weekend pointed out that leaving braces out of a
+one-line block can be dangerous. For instance, it is correct to code the
 following (and I do it all the time!)
 
 ```csharp
@@ -19,7 +19,7 @@ if (someCondition)
     this.doSomething();
 ```
 
-<!--more-->
+<!-- truncate -->
 
 There are two different ways this can be problematic. Let's give a little more
 context. Perhaps the code has this:

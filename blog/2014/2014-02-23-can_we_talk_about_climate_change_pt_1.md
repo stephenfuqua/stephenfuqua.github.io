@@ -24,7 +24,7 @@ people; I certainly received much from my conversation and participation with
 people from many faith backgrounds. This will, God-willing, be the first of two
 blog posts reflecting on the conversations.
 
-<!--more-->
+<!-- truncate -->
 
 {: .float-right }
 ![Stephen talking](/images/sf_Presenting_2014_02_16.jpg){: .border .rounded }<br>

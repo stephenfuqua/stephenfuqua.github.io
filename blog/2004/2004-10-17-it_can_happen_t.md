@@ -11,7 +11,7 @@ Two weeks ago our car was broken into at a park. Laptop, wallet, keys, and more
 stolen. We didn't think it could happen to us. We thought we were playing it
 safe. Oh, and my system backups were sorely inadequate.
 
-<!--more-->
+<!-- truncate -->
 
 ## Como Park
 

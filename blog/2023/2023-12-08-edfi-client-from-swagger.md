@@ -7,7 +7,7 @@ tags:
 - ed-fi
 - programming
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 ## Motivation
@@ -33,7 +33,7 @@ SDK](https://techdocs.ed-fi.org/display/ODSAPIS3V71/Using+Code+Generation+to+Cre
 (Note: this link is for ODS/API 7.1, but the instructions are essentially the
 same for all versions).
 
-<!--more-->
+<!-- truncate -->
 
 But what about Python? Yes, Swagger Codegen supports Python output. But it is
 not quite enough - you also need to manage authentication on your own. And,

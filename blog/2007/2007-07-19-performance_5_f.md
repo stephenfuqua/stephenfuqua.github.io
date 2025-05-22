@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - performance
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 _This article is part of the series [An Exercise in Performance Tuning
@@ -24,7 +24,7 @@ the input file.
 <img alt="filebuffer1.jpg" src="http://www.safnet.com/writing/tech/filebuffer1.jpg" width="214" height="56" />
 -->
 
-<!--more-->
+<!-- truncate -->
 
 40 MB total are allocated to strings. The input file I am processing is about
 1.02 MB. So that's only 1/40th of the total. Let's trace back to the left with

@@ -8,7 +8,7 @@ tags:
 - programming
 - dotnet
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Here&rsquo;s an interesting scenario: I have a Linq-to-Entities query that is
@@ -16,7 +16,7 @@ giving me no results when performing a system test, but when I look in the
 database, logically there should be results. Better yet, the unit test passes.
 How can that be?
 
-<!--more-->
+<!-- truncate -->
 
 The query includes a step where it is excluding any MyObject that is linked a
 particular SomeOtherObject. MyObject has a _conceptual_, but not _foreign_, key

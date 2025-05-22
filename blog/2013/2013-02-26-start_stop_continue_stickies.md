@@ -7,7 +7,7 @@ tags:
 - tech
 - sdlc
 - agile
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 
@@ -20,7 +20,7 @@ development team. But, I think it is time to heed good advice.
 
 ![startStopContinueStickies.png](/images/startStopContinueStickies.png)
 
-<!--more-->
+<!-- truncate -->
 
 For several months now I've been running bi-weekly retrospectives. Following
 good advice found many places (initially in _Integrating Agile Development in

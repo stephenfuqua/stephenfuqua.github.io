@@ -13,7 +13,7 @@ means striving to build unity in our midst, and acting on a path of service that
 starts "at home" but continues into the whole community, not just the
 Bah&aacute;'&iacute;s.
 
-<!--more-->
+<!-- truncate -->
 
 Human nature has evolved such that "two's company, but three's a crowd."
 Community dynamics are hard to get right. Differences of opinion about how or

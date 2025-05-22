@@ -4,7 +4,7 @@ title: 'Performance #1 and #2: Clean Client / Server Interaction'
 date: '2007-06-29 22:00:56 -0500'
 basename: performance_1_a
 tags: [tech, dotnet, performance]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 _This article is part of the series [An Exercise in Performance Tuning
@@ -15,7 +15,7 @@ perform operations. These calls are made through a proprietary API implemented
 in .Net. Speaking with the vendor, I discovered two really dumb mistakes that
 were killing our performance.
 
-<!--more-->
+<!-- truncate -->
 
 The first of these was improper socket management. In the initial code I was
 explicitly opening the server connection once, making remote calls in a loop

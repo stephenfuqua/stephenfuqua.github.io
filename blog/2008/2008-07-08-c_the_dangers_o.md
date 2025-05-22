@@ -13,7 +13,7 @@ Although very handy, C#'s `foreach` statement is actually quite dangerous. In
 fact, I may swear off its use entirely. Why? Two reasons: (1) performance, and
 (2) predictability.
 
-<!--more-->
+<!-- truncate -->
 
 ## Performance
 

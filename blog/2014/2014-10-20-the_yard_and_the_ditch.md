@@ -20,7 +20,7 @@ Ditch.
 {: .center-block}
 ![satellite view](/images/theDitch.png){: .img-fluid .border .rounded}
 
-<!--more-->
+<!-- truncate -->
 
 The Ditch might have been a bayou once upon a time, emptying as it does into the
 famed Buffalo Bayou of Houston. Or it may have simply been a canal for the rice

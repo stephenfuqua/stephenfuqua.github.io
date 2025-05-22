@@ -9,7 +9,7 @@ tags:
 - Bahai
 - climate
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Amongst its many admirable principles, where does one find environmental
@@ -41,7 +41,7 @@ Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_, [CLXXVI](www.baha
 {: .figure .figure-caption}
 Wildflowers on Naw Ruz at Enchanted Rock State Natural Area, by Stephen A. Fuqua (2024).
 
-<!--more-->
+<!-- truncate -->
 
 From there, we turned to the importance of thinking about the oneness of
 humanity, and the analogy: if one limb of the body is afflicted, the entire

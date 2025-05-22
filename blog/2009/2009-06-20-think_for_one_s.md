@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 What's wrong with this code? There are unnecessary lines. So? Why care about
@@ -28,7 +28,7 @@ MyObject obj = someList.Find(delegate(MyObject test)
 });
 ```
 
-<!--more-->
+<!-- truncate -->
 
 We always need to be thinking carefully about even little things like this, if
 we want to produce quality code. Thankfully in the sense that I mean "thinking

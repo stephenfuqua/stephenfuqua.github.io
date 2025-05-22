@@ -20,7 +20,7 @@ Research Center](http://www.people-press.org/2015/08/05/across-racial-lines-more
 the systemic challenges faced by African Americans, and either don't care or,
 worse yet, are satisfied with them.
 
-<!--more-->
+<!-- truncate -->
 
 As a white, multi-generational American, I have benefited tremendously from
 centuries of this systemic and institutional racism. And it feels as if there is

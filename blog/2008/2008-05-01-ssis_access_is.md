@@ -16,7 +16,7 @@ hooked up to a proper proxy and credentials for Windows authentication. Works in
 development, doesn't work in production: the agent gets the error `Connect to
 SSIS Service on machine "MyServer" failed: Access is denied`.
 
-<!--more-->
+<!-- truncate -->
 
 **Solution:** Clearly there is something different between the two servers, and
 it is probably an important difference. Kirk Haselden has <a href=

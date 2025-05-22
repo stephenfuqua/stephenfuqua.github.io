@@ -17,7 +17,7 @@ world today, or to appreciate God's handiwork just beyond your nose and all
 around. From a comment to a friend after I asked for advice on pursuing an MBA.
 Thoughts?"
 
-<!--more-->
+<!-- truncate -->
 
 The two comments received were certainly thought-provoking and appreciated.
 Since I haven't asked for permission, I won't quote them directly, but rather

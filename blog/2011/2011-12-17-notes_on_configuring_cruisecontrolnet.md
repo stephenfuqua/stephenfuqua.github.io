@@ -8,7 +8,7 @@ tags:
 - dotnet
 - programming
 - devops
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Recently I began carving out some time for using CruiseControl.Net in earnest.
@@ -17,7 +17,7 @@ in .Net</a> was, and I'm sure will continue to be, of great help. Nevertheless,
 I think it will behoove my own memory, and perhaps help a few others, to record
 some notes on a few practical details.
 
-<!--more-->
+<!-- truncate -->
 
 ### AccuRev Integration
 
@@ -80,7 +80,7 @@ to include a lot of database-related code. There is extensive use of mocking
 database code of course still does. It runs on a UnitTest database on each
 developer's local machine. Unless I build an automatic deployment/install system
 for database code changes, it would be impractical to create a UnitTest database
-that can be accessed by the build server. 
+that can be accessed by the build server.
 
 Therefore I plan to separate those tests into a different test project. The
 original project will now be more purely "unit tests" (as opposed to integration

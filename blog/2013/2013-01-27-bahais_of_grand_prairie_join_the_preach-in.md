@@ -22,7 +22,7 @@ issue [global climate change] of our time". We may not have clergy in the
 Bah&aacute;'&iacute; Faith, but that need not stop our Spiritual Assemblies from
 participating.
 
-<!--more-->
+<!-- truncate -->
 
 The Bah&aacute;'&iacute; calendar, with 19 months and 19 days (plus 4-5
 intercalary days), is punctuated by a Feast at the beginning of every month -

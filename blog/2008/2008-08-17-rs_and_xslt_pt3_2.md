@@ -16,7 +16,7 @@ basic, so let's look at something more complex: a fixed format.
 Let's say the client has given us the following file format, and we've trimmed
 the data in the SQL query to make sure it doesn't exceed the data width:
 
-<!--more-->
+<!-- truncate -->
 
 {: .table .table-condensed .table-bordered}
 | Record Type | Static Data | Dynamic Data | Width |

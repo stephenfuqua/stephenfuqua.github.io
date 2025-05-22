@@ -6,7 +6,7 @@ basename: traceability
 tags:
 - tech
 - sdlc
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 _Postscript November 2020: from the days in which I was not allowed to practice
@@ -19,7 +19,7 @@ the user from doing X? Its right there in the requirements. What happened? Not
 only was it missed in the unit testing (and possibly use cases), but it was
 missed in the review process as well.
 
-<!--more-->
+<!-- truncate -->
 
 Traceability might be the gap here. Traceability is the notion that you should
 be able to track a single requirement from the requirements document through to

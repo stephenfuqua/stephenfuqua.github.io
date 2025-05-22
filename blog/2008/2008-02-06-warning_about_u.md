@@ -7,7 +7,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I was looking at a query today that has an inline expression in it, something similar to
@@ -21,7 +21,7 @@ not literally, since I made up a fake example), so I created a UDF to simplify
 the queries that use this statement. Suppose that UDF is called
 `dbo.fnNulifyMyColumn`.
 
-<!--more-->
+<!-- truncate -->
 
 Now let's suppose I originally had the following query:
 

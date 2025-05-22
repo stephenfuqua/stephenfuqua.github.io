@@ -17,7 +17,7 @@ CPU utilization and they don't seem out of line. Did you check the indexes
 fragmentation? Ah, there's the problem &mdash; a highly fragmented index was
 slowing things down. Is there a way to pre-emptively find and fix these?
 
-<!--more-->
+<!-- truncate -->
 
 **Problem:** SQL Server 2005 queries that used to be fast are now rather slow.
 You've already tuned the query with good indexes and optimized structures.

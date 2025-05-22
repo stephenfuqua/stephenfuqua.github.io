@@ -4,7 +4,7 @@ title: 'Performance #7: An (unsafe) Dead End'
 date: '2007-09-21 09:25:17 -0500'
 basename: performance_7_f
 tags: [tech, dotnet, performance]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 _This article is part of the series [An Exercise in Performance Tuning in
@@ -20,7 +20,7 @@ Where to next? Turns out my next steps were false starts, at least insofar as
 _tuning_ is concerned. Still, there were some lessons (or should be) from these
 dead ends.
 
-<!--more-->
+<!-- truncate -->
 
 The application modifies a few pieces of data from the input file and writes out
 a nearly-identical output file. I am re-reading the input file, identifying the

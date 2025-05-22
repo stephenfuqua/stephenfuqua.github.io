@@ -20,7 +20,7 @@ physical sensation with spiritual "praise" of creation &dagger;. No matter how
 handsome the building, I will always feel most alive and aware in natural (or
 semi-natural) settings.
 
-<!--more-->
+<!-- truncate -->
 
 It strikes me that Western development since the time of the Romans has
 primarily seen "sacred space" as enclosed by walls and a ceiling. But for many

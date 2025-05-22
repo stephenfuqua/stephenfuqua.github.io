@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 
@@ -23,7 +23,7 @@ and CM's _Conductors_.
 {: .text-center}
 ![simple chart showing a branching workflow](/images/workflow.png)
 
-<!--more-->
+<!-- truncate -->
 
 ## ApplicationController and State Management
 

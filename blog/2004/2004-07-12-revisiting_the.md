@@ -14,7 +14,7 @@ perhaps, even call it an oxymoron. When the government, however, tries to step
 in and reinforce that definition with legal statutes, I immediately react
 against it as an unwarranted and discriminatory encroachment upon civil rights.
 
-<!--more-->
+<!-- truncate -->
 
 To be fair, there was until recently nothing to encroach upon &mdash;there was
 no practical right or ability for a non-man/woman relationship to be legally

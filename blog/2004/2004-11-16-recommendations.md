@@ -13,7 +13,7 @@ I have a couple of article recommendations for you all*: <a href=
 "http://www.thenation.com/doc.mhtml?i=20040920&amp;s=zinn">The Optimism of
 Uncertainty</a>. Plus a few small comments&hellip;
 
-<!--more-->
+<!-- truncate -->
 
 The issue of "balance" in scientific reporting is one I've
 noticed for years, particularly with regard to climate change: while maybe 1

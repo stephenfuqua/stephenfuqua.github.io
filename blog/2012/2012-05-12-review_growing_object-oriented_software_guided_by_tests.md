@@ -9,7 +9,7 @@ tags:
 - testing
 - books
 - agile
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 [_Growing Object-Oriented Software, Guided by Tests_](http://www.growing-object-oriented-software.com/)
@@ -27,7 +27,7 @@ Analysis and Design and Iterative Development_, _Xunit Test Patterns:
 Refactoring Test Code_, and others are wonderful but have few detailed
 real-world business-case examples.
 
-<!--more-->
+<!-- truncate -->
 
 That said, I admit that I skimmed through some of the middle chapters where the
 application was being built &mdash; it was simple to skip the details of Java

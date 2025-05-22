@@ -4,7 +4,7 @@ title: 'Performance #6: Reading Directly Into the Parser'
 date: '2007-07-23 17:10:25 -0500'
 basename: performance_5_r
 tags: [tech, dotnet, performance]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 _This article is part of the series [An Exercise in Performance Tuning in
@@ -17,7 +17,7 @@ longer, but since no other application should be attempting to access the file,
 I'm okay with that. This means moving the open file command into
 `MyClass.ProcessFile()`.
 
-<!--more-->
+<!-- truncate -->
 
 This is what we left off with:
 

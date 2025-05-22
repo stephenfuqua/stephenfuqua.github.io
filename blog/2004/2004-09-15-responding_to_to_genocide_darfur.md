@@ -19,7 +19,7 @@ must push our political leaders to appropriate action under international law.
 [This editorial is specifically focused on religious and interfaith
 communities].
 
-<!--more-->
+<!-- truncate -->
 
 ### Current Situation
 

@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** you have a method that logs a message using the Microsoft Patterns &amp;
@@ -17,7 +17,7 @@ doesn't work; the file is still open when you try to read it to verify that the 
 been logged. Logging to the database doesn't work; it seems the log isn't written to the
 database immediately. And so forth. Is there an in-memory way of reading the logged message?
 
-<!--more-->
+<!-- truncate -->
 
 **Solution:** I wanted to create a Mock or Spy TraceListener, but didn't have the time to
 work on this. Thus I gave up on it for a while. Then I remembered that the Enterprise Library

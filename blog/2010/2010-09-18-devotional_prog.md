@@ -15,7 +15,7 @@ my friend that I wanted to go downstairs to the bookstore, to be material before
 being spiritual. The architecture is inspiring enough, but the devotions and
 music were, well, heavenly :-).
 
-<!--more-->
+<!-- truncate -->
 
 > Lord! Pitiful are we, grant us thy favor; poor, bestow upon us a share from the ocean of Thy wealth; needy, do Thou satisfy us; abased,
 > give us Thy glory. the fowls of the air and the beasts of the field receive

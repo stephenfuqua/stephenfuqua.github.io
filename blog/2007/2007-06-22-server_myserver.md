@@ -4,7 +4,7 @@ title: Server 'myserver' is not configured for RPC
 date: '2007-06-22 18:25:07 -0500'
 basename: server_myserver
 tags: [tech, database, sql-server]
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 **Problem:** On a Microsoft SQL Server 2005 installation with a linked server
@@ -16,7 +16,7 @@ Msg 7411, Level 16, State 1, Line 1
 Server 'myserver' is not configured for RPC.
 ```
 
-<!--more-->
+<!-- truncate -->
 
 
 **Solution:** Problem is most likely that RPC is not configured for your linked

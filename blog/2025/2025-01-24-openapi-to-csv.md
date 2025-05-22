@@ -2,7 +2,7 @@
 layout: page
 title: OpenAPI to CSV with Help from GitHub Copilot
 date: 2025-01-24
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 tags:
 - programming
 - tech
@@ -19,7 +19,7 @@ reluctant engineer has to start somewhere.
 {: .center-block }
 ![Screenshot of prompt entry and Copilot response](/images/openapi-to-csv-copilot.png){: .img-fluid}
 
-<!--more-->
+<!-- truncate -->
 
 {: .alert .alert-tip .mt-2 :}
 Postscript 3/22/2025: Now available in an expanded form, supporting both Open API version 2 (Swagger)

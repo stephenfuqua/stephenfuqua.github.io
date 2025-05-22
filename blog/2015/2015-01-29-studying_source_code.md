@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I've been misunderstanding .NET's List<T> for years.
@@ -18,7 +18,7 @@ for database access, and needed to understand how it constructs its SQL. Through
 study of the code, I was able to find and remediate a limitation in the wildcard
 handling*.
 
-<!--more-->
+<!-- truncate -->
 
 And while working on that data access code, a coworker challenged my
 understanding of the `List<T>` data structure. I thought that it did not

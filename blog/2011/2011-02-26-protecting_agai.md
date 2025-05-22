@@ -7,7 +7,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Microsoft's Books Online article on <a href=
@@ -24,7 +24,7 @@ SELECT @SQL = 'INSERT INTO MyTable (' + @Fields + ') VALUES (' + @Values + ')';
 EXEC(@SQL);
 ```
 
-<!--more-->
+<!-- truncate -->
 
 This represents the heart of what this stored procedure does. To protect against
 SQL Injection, I first added a section of code that checks to make sure that all
@@ -32,10 +32,10 @@ of the fields in @Fields are real fields &mdash; this is positive input
 validation:
 
 ```sql
-CREATE TABLE #temp (Field NVARCHAR(200)) 
+CREATE TABLE #temp (Field NVARCHAR(200))
 
 INSERT INTO #temp(Field)
-SELECT QUOTENAME(Field) FROM dbo.fnSplitString(@Fields,',')   
+SELECT QUOTENAME(Field) FROM dbo.fnSplitString(@Fields,',')
 
 -- Validate that all fields are real fields in the table
 IF EXISTS (SELECT  1 FROM #temp t WHERE NOT EXISTS

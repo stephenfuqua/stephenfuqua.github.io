@@ -16,7 +16,7 @@ How About Not 'Curing' Us, Some Autistics Are Pleading](http://www.nytimes.com/2
 Man and the Machines](http://www.legalaffairs.org/issues/January-February-2005/feature_sokis_janfeb05.html) (_Legal Affairs_). And what about animals that possess
 "theory of mind?"
 
-<!--more-->
+<!-- truncate -->
 
 ## Autism
 

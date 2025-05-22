@@ -9,7 +9,7 @@ tags:
   - Linux
   - Windows
 sharing: true
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 Prompted by a class I'm taking, I decided to try running Python from Windows
@@ -23,7 +23,7 @@ interfaces (GUIs) from WSL. Here are some quick notes from my experience.
 _Screenshot shows that I'm running Windows 10, and shows a small GUI window opened
 from both Powershell and from Bash using the same Python script._
 
-<!--more-->
+<!-- truncate -->
 
 ## First Things: Installing Python in Ubuntu
 

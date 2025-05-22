@@ -6,7 +6,7 @@ basename: stringisnullore
 tags:
 - tech
 - dotnet
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 I once read that .Net's [String.IsNullOrEmpty](http://msdn.microsoft.com/en-us/library/system.string.isnullorempty(VS.80).aspx)
@@ -17,7 +17,7 @@ has an empty value. I.e. replace `if (myString == "")` or `if
 that the string should really be checked for `null` value before doing anything
 else.
 
-<!--more-->
+<!-- truncate -->
 
 Wanting to double-check my memory before recommending this method to a
 colleague, I found a few very interesting blog posts that suggest to me that I

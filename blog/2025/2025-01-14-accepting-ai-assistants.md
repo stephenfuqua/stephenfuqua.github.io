@@ -2,7 +2,7 @@
 layout: page
 title: Grudgingly Accepting AI Coding Assistants
 date: 2025-01-14
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 tags:
 - programming
 - tech
@@ -20,7 +20,7 @@ assistants, with guardrails.
 {: .figure .figure-caption}
 Balcones National Wildlife Refuge, December 2024, by Stephen A. Fuqua
 
-<!--more-->
+<!-- truncate -->
 
 ## Intellectual Property
 

@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 ## Problem

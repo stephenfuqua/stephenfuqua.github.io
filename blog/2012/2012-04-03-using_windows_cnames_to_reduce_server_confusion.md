@@ -6,7 +6,7 @@ basename: using_windows_cnames_to_reduce_server_confusion
 tags:
 - tech
 - Windows
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 A common challenge for development teams is remembering the names for all of the
@@ -21,7 +21,7 @@ as they manage this motley collection. But for a developer, remembering if
 remembered, it would be simple enough to overlook or accidentally type
 "abcWEB04".
 
-<!--more-->
+<!-- truncate -->
 
 A Windows Server can be configured with [a name
 alias](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776292(v=ws.10))

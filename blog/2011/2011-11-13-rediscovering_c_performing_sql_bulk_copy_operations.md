@@ -6,7 +6,7 @@ basename: rediscovering_c_performing_sql_bulk_copy_operations
 tags:
 - tech
 - programming
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 When last I worked with C++, it was while working on my master's thesis ten
@@ -21,7 +21,7 @@ is another story, thanks to the [Bulk Copy Driver
 Extensions](http://msdn.microsoft.com/en-us/library/ms130922.aspx) made available by Microsoft. So, time for a C# developer to brush
 up on C++, and learn it the Visual Studio way!
 
-<!--more-->
+<!-- truncate -->
 
 To get started, I found the <a href="http://sqlserversamples.codeplex.com/">
 Microsoft SQL Server Community Projects &amp; Samples</a> site, and the Bulk

@@ -7,7 +7,7 @@ tags:
 - tech
 - sdlc
 - agile
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 A co-worker overheard the comment that "agile [software development] is not
@@ -25,7 +25,7 @@ Now jumping over to the Principles, we find two more orange flags:
 * The most efficient and effective method of conveying information to and within a
   development team is face-to-face conversation.
 
-<!--more-->
+<!-- truncate -->
 
 We find this drive for a close interaction in all of the agile methodologies,
 and that can scare some people. In

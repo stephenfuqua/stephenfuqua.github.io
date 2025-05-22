@@ -13,7 +13,7 @@ tags:
 
 Who did this? Who would leave such mighty poo below my bell pepper? Our fence is too tight for rabbits...
 
-<!--more-->
+<!-- truncate -->
 
 {: .center-block}
 ![photo of tobacco hornworm](/images/hornworm2.jpg){: .img-fluid .border .rounded }

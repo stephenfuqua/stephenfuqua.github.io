@@ -7,7 +7,7 @@ tags:
 - tech
 - programming
 - testing
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- truncate -->
 ---
 
 We build a lot of console applications, and Windows services, that process
@@ -21,7 +21,7 @@ time to get serious about system/integration test automation, just as I did
 about unit test automation a few years ago. This is the first of a n-part series
 of posts on this process
 
-<!--more-->
+<!-- truncate -->
 
 First, what is the rationale? What is this "necessity", or rather _necessities_?
 Respecting proprietary business matters, let&rsquo;s say&hellip;
