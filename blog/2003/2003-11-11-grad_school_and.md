@@ -3,7 +3,7 @@ title: Grad School and The Linux Guru
 date: '2003-11-11 18:23:49 -0600'
 slug: grad_school_and
 tags: [tech, Linux]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Okay, so this is a slight tangent from my intentions with this site, but I must

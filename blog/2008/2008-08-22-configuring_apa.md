@@ -5,7 +5,7 @@ slug: configuring_apa
 tags:
 - tech
 - devops
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Years ago I knew how to configure the Apache webserver, back when I was a grad

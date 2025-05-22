@@ -6,7 +6,7 @@ tags:
 - tech
 - sdlc
 - agile
-excerpt_separator: <!-- truncate -->
+
 ---
 
 

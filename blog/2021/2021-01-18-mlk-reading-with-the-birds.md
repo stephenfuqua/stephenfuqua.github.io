@@ -8,7 +8,7 @@ tags:
 - inclusion
 - justice
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 It looks like a beautiful morning in Austin, Texas, from the comfort of my

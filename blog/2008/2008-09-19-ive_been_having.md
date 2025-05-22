@@ -7,7 +7,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I've been having problems migrating some SSIS packages from localhost (32bit) to

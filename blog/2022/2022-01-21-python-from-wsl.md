@@ -8,7 +8,7 @@ tags:
   - Linux
   - Windows
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Prompted by a class I'm taking, I decided to try running Python from Windows

@@ -7,7 +7,7 @@ tags:
   - tech
   - sdlc
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 This summer, one of the development teams at the Ed-Fi Alliance has been hard at

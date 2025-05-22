@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** you have a method that logs a message using the Microsoft Patterns &amp;

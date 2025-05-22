@@ -3,7 +3,7 @@ title: Your Default Database Is Offline - How Do You Login?
 date: '2007-12-06 10:22:27 -0600'
 slug: your_default_da
 tags: [tech, database, sql-server]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** without thinking about the ramifications, you've taken your default

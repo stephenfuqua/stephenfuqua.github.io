@@ -5,7 +5,7 @@ slug: validating_xml
 tags:
 - tech
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** You have some XML, and you need to validate it against a custom

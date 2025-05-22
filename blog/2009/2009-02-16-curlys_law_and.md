@@ -5,7 +5,7 @@ slug: curlys_law_and
 tags:
 - tech
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 [Coding Horror](http://www.codinghorror.com), almost two years back,

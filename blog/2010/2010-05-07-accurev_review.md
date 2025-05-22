@@ -5,7 +5,7 @@ slug: accurev_review
 tags:
 - tech
 - sdlc
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I've been using [AccuRev](http://www.accurev.com), including

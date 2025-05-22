@@ -7,7 +7,7 @@ tags:
 - dotnet
 - programming
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Here's a really dumb scenario that will illustrate a point about the usefulness

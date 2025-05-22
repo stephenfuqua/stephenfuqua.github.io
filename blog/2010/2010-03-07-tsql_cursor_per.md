@@ -6,7 +6,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!-- truncate -->
+
 ---
 
 One should work hard to avoid Cursors in T-SQL &mdash; for instance, by using

@@ -3,7 +3,7 @@ title: Do not trust the generic List!
 date: '2007-09-28 13:43:11 -0500'
 slug: do_not_trust_th
 tags: [tech, dotnet]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Actually, that's a slightly misleading title. You should trust `List<T>`,

@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - devops
-excerpt_separator: <!-- truncate -->
+
 ---
 
 "Project T" is a temporary codename for a web application that I have begun

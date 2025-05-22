@@ -8,7 +8,7 @@ tags:
 - Bahai
 - climate
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Amongst its many admirable principles, where does one find environmental

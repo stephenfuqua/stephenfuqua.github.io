@@ -1,10 +1,10 @@
 ---
 title: Addressing the Elephant in the Room – AI – at the Data Day Texas 2025 Town Hall
 date: 2025-02-16
-excerpt_separator: <!-- truncate -->
+
 tags:
 - tech
-- data
+- data-and-analytics
 ---
 
 Data engineering gurus [Joe Reis and Matthew

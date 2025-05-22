@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Assuming that you are already sold on the notion of automated testing, it can be

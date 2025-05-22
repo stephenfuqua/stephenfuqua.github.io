@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Once again I've learned the hard way that it pays to read the release notes.

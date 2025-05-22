@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 One of my team members sent in the following piece of code, which is clearly

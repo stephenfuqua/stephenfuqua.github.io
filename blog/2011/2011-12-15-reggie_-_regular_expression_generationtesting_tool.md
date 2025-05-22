@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I've started a new project on CodePlex, called [Reggie](http://reggie.codeplex.com/), and posted the initial working

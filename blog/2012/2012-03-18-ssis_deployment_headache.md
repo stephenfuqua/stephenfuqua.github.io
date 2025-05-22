@@ -7,7 +7,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!-- truncate -->
+
 ---
 
 For years I've had problems with SSIS deployments to production. In fact, I

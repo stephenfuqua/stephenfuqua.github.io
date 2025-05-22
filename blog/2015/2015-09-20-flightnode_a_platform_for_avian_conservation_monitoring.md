@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - FlightNode
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Citizen-science: meet open source software. I'm starting an open source project

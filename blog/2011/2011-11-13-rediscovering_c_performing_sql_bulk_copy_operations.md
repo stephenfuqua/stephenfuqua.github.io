@@ -5,7 +5,7 @@ slug: rediscovering_c_performing_sql_bulk_copy_operations
 tags:
 - tech
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 When last I worked with C++, it was while working on my master's thesis ten

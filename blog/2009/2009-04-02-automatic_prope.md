@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 We just upgraded our servers to support .Net 3.x, so at last I'm able to start

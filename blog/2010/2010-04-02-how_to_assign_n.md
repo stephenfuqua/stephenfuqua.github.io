@@ -7,7 +7,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I am using the latest edition of Service Factory - Modeling Edition (VS2008).

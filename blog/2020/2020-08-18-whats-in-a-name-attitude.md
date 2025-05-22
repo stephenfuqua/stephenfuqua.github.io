@@ -8,7 +8,7 @@ tags:
 - inclusion
 - tech
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Last month my manager asked me about changing our naming convention for the

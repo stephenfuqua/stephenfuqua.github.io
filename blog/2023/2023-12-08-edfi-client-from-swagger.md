@@ -6,7 +6,7 @@ tags:
 - ed-fi
 - programming
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 ## Motivation

@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 A few weeks ago I stumbled upon a tool called Pex from the Microsoft Research

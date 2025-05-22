@@ -6,7 +6,7 @@ tags:
 - tech
 - database
 - sql-server
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** In a T-SQL script, an exception occurs while a cursor is open,

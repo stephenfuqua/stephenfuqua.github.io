@@ -3,7 +3,7 @@ title: Autoscrolling in the DataGridView
 date: '2007-05-30 15:48:51 -0500'
 slug: autoscrolling_i
 tags: [tech, dotnet]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem**: In a .Net 2.0 Windows Forms application, user action causes a new

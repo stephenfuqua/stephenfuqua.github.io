@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Wherein I record a few tips on the use of [System.ComponentModel.DataAnnotations](http://rachelappel.com/asp-net-mvc/how-data-annotations-for-asp-net-mvc-validation-work/),

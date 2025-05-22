@@ -5,7 +5,7 @@ slug: tackle_be_kind
 tags:
 - tech
 - meta
-excerpt_separator: <!-- truncate -->
+
 ---
 
 This is a technical blog, right? Why would I mention this virtue? In [Management 3.0](http://www.mgt30.com/), Jurgen Appelo suggests in [Do-It-Yourself Team Values](http://bit.ly/1jy6a1f) that the various

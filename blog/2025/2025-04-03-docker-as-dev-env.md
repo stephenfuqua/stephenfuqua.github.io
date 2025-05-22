@@ -7,7 +7,7 @@ tags:
 - architecture
 - dotnet
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 mermaid: true
 ---
 

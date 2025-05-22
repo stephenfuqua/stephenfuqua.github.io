@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - testing
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I wonder how many others didn't think to scroll down further on the Pex download

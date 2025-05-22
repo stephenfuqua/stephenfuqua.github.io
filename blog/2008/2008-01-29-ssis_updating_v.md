@@ -7,7 +7,7 @@ tags:
 - database
 - sql-server
 - ssis
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** In SSIS, you want to update a variable from a Script Component

@@ -7,7 +7,7 @@ tags:
 - dotnet
 - programming
 - security
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** You have an ASP.Net web service/site that needs to access network

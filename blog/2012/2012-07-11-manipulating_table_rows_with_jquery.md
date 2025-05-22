@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - javascript
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** need to move rows up and down, and from one table to another, in an

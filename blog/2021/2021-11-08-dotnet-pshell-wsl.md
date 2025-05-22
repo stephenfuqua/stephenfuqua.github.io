@@ -9,7 +9,7 @@ tags:
   - Linux
   - Windows
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Goal**: setup PowerShell Core and .NET for development in Ubuntu running in

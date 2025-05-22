@@ -5,7 +5,7 @@ slug: evaluating_soa
 tags:
 - tech
 - architecture
-excerpt_separator: <!-- truncate -->
+
 ---
 
 A few weeks ago I started trying to better understand the concepts behind

@@ -3,7 +3,7 @@ title: Windows Keyboard Shortcuts
 date: '2007-10-23 15:45:15 -0500'
 slug: windows_keyboar
 tags: [tech, Windows]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I've always been a  fan of keyboard shortcuts, using them whenever possible.

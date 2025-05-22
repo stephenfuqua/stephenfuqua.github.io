@@ -7,7 +7,7 @@ tags:
 - programming
 - sdlc
 - inclusion
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Last year I read Jurgen Appelo's <a href="http://www.mgt30.com">Management 3.0:

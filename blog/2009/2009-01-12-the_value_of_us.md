@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Something I was reading this weekend pointed out that leaving braces out of a

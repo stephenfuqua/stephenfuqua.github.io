@@ -5,7 +5,7 @@ slug: design_updates_and_fresh_content
 tags:
 - tech
 - meta
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Currently I'm working on updating the main blog at safnet.com with a refreshed

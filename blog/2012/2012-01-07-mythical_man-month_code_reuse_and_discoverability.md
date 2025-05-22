@@ -7,7 +7,7 @@ tags:
 - programming
 - books
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 

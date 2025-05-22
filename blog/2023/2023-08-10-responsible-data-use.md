@@ -9,7 +9,7 @@ tags:
 - tech
 - data-and-analytics
 sharing: true
-excerpt_separator: <!-- truncate -->
+
 ---
 
 A strange thing about my job is that, although we're all about supporting K-12

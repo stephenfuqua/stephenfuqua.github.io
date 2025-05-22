@@ -6,7 +6,7 @@ tags:
 - tech
 - dotnet
 - programming
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Recently, I received a code delivery that worked on our development server but

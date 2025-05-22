@@ -3,7 +3,7 @@ title: Rethrowing Exceptions Is a Dangerous Business
 date: '2007-07-09 04:21:14 -0500'
 slug: rethrowing_exce
 tags: [tech, dotnet]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem**: in Visual Studio's debugger, you've landed on an Exception

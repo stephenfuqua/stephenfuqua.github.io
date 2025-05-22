@@ -3,7 +3,7 @@ title: Server 'myserver' is not configured for RPC
 date: '2007-06-22 18:25:07 -0500'
 slug: server_myserver
 tags: [tech, database, sql-server]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 **Problem:** On a Microsoft SQL Server 2005 installation with a linked server

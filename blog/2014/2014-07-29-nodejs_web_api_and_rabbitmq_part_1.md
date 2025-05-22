@@ -7,7 +7,7 @@ tags:
 - programming
 - javascript
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Desiring to learn about both Node.js (particularly as an API server) and ASP.Net

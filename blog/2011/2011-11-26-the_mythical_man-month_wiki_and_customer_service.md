@@ -6,7 +6,7 @@ tags:
 - tech
 - programming
 - books
-excerpt_separator: <!-- truncate -->
+
 ---
 
 Part three in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:

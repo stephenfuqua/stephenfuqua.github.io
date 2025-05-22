@@ -5,7 +5,7 @@ slug: stringisnullore
 tags:
 - tech
 - dotnet
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I once read that .Net's [String.IsNullOrEmpty](http://msdn.microsoft.com/en-us/library/system.string.isnullorempty(VS.80).aspx)

@@ -2,7 +2,7 @@
 title: Principles and Patterns of Test Driven Development
 date: 2014-05-29
 comments: true
-tags: [testing, csharp]
+tags: [testing, dotnet]
 ---
 
 Developed to help introduce key topics in Test Driven Development, for new and veteran developers alike. Some examples are language-specific (C# / MSTest / Moq), but the principles apply to any object oriented language.

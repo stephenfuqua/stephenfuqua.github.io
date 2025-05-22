@@ -3,7 +3,7 @@ title: Configuring RP-PPPOE in Red Hat Linux 9
 date: '2003-11-09 18:03:32 -0600'
 slug: configuring_rpp
 tags: [tech, Linux]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I finally got DSL again a few months ago, after 2 years of dial-up. Worked like

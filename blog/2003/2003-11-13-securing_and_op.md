@@ -3,7 +3,7 @@ title: 'Securing and Optimizing Linux, pt. 1: Services'
 date: '2003-11-13 17:47:07 -0600'
 slug: securing_and_op
 tags: [tech, Linux]
-excerpt_separator: <!-- truncate -->
+
 ---
 
 I find that Red Hat Linux ([now defunct](http://www.redhat.com/solutions/migration/rhl/)) is fairly
