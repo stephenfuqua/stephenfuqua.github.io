@@ -1,7 +1,6 @@
 ---
 title: Addressing the Elephant in the Room – AI – at the Data Day Texas 2025 Town Hall
 date: 2025-02-16
-
 tags:
 - tech
 - data-and-analytics
@@ -21,15 +20,14 @@ by the people who, in theory, should be the ones developing expertise in using
 AI tooling. But that’s how disruptive the technologies may be: even the data
 experts are uncertain and afraid.
 
-<div class="text--center">
-![Balloon scarecrow](/img/balloon_scarecrow.jpg)<!-- {: .img-fluid .border .rounded } -->
-</div>
+<div class="image">
+![Balloon scarecrow](/img/balloon_scarecrow.jpg)
 
-{: .figure .figure-caption}
 Perhaps 20 years from now we'll look back and wonder
 what the fuss what all about, just as I wonder what the backstory was on this
 balloon-based scarecrow protecting raspberries in my backyard circa 2006. By
 Stephen A. Fuqua.
+</div>
 
 <!-- truncate -->
 
@@ -56,7 +54,7 @@ management strategy?
 Some remarked on the need for humans to provide _knowledge engineering_:
 structuring knowledge to provide context and more intelligent capability. Hence
 the continuing need for [data
-cataloging](../2025-02-03-data-cataloging-at-ddtx2025.md). In discussing
+cataloging](./2025-02-03-data-cataloging-at-ddtx2025.md). In discussing
 education and training, others commented on the need to focus on semantics –
 algorithms and problem solving – over syntax. LLM’s can help you write the
 proper code in whatever language, but you as an engineer need to know how to

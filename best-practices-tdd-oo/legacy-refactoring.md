@@ -9,8 +9,8 @@ Any code that has been released is "legacy code." This article is about that rea
 
 ## Justification
 
-<div class="text--center">
-![Lego wheel improvement](/img/lego-refactoring.jpg)<!-- {: .img-fluid .border .rounded } -->
+<div class="image">
+![Lego wheel improvement](/img/lego-refactoring.jpg)
 </div>
 
 Before getting into the patterns, let's talk a bit more about refactoring. We've all heard the argument "I don't have time to refactor". Counter:
@@ -148,7 +148,7 @@ namespace mockAndStubExample
 }
 ```
 
-And now unit test it with the help of a hand-created mock (with behavior verification capability) and stub. See [Unit Test Tools and Patterns](testing-tools-patterns) for improved versions that use mock/fake tools and a more structured approach to test writing.
+And now unit test it with the help of a hand-created mock (with behavior verification capability) and stub. See [Patterns for Writing Clean Test Cases](./patterns.md) for improved versions that use mock/fake tools and a more structured approach to test writing.
 
 ```csharp
 using System;
@@ -738,7 +738,7 @@ public class FileSystemReporterTest
         const string path = "c:\\some\\where";
         const string expected = @"Report for directory c:\some\where
 
-File Name	File Size
+File Name File Size
 ";
 
         var actual = TestSpecificFileSystemReporter.CreateReportHeader(path);
@@ -751,7 +751,7 @@ File Name	File Size
     {
         const string fileName = "file.txt";
         const long fileLength = 234;
-        const string expected = @"file.txt	234
+        const string expected = @"file.txt 234
 ";
 
         var builder = new StringBuilder();

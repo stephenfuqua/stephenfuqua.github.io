@@ -21,13 +21,12 @@ and realized that you don't have the SDK on your machine? Instead of installing
 the SDK locally, you may be able to run the SDK in a [Docker
 container](https://www.docker.com).
 
-<div class="text--center">
-![The first henbit of the season](/img/henbit-2025.webp)<!-- {: .img-fluid .border .rounded } -->
-</div>
+<div class="image">
+![The first henbit of the season](/img/henbit-2025.webp)
 
-{: .figure .figure-caption}
 [_Lamium amplexicaule_](https://en.wikipedia.org/wiki/Lamium_amplexicaule) aka
 henbit, the first flower to appear in my yard this year.
+</div>
 
 <!-- truncate -->
 
@@ -56,7 +55,7 @@ tasks:
 3. Run end-to-end tests
 4. Run the application for exploratory testing
 
-<div class="mermaid">
+```mermaid
 flowchart LR
     Build[Build + Unit Test] --> Integration
     Integration --> E2E[End to End]
@@ -66,16 +65,20 @@ flowchart LR
 
     Done -->|Yes| Commit
     Done -->|No| Build
-</div>
+```
 
 Since this article is about shifting left, we will not include containerization
 _of the application itself_.
 
-{: .alert .alert-success .mt-2 }
+:::tip
+
 Review [Microsoft Container Registry](https://mcr.microsoft.com/) to find the
 SDK, runtime, or other .NET images you may need.
 
-{: .alert .alert-warning .mt-2 }
+:::
+
+:::warning
+
 Many users, including your author, have had trouble pulling images from
 Microsoft's registry, receiving error messages like this: `ERROR: failed to do
 request: Head "https://mcr.microsoft.com/v2/dotnet/aspnet/manifests/8.0": EOF`.
@@ -83,6 +86,8 @@ This appears to be an unresolved bug in Docker Desktop or in Microsoft's web
 server configuration, related to IPv6. [Turning off
 IPv6](https://github.com/microsoft/containerregistry/issues/165) on your network
 connection resolves the issue.
+
+:::
 
 ## The Build Environment
 
@@ -103,8 +108,11 @@ application source files are mapped using read-write mode (`:rw`)
  so that the `bin` and
 `obj` directories that will be written by the build process.
 
-{: .alert .alert-warning .mt-2 }
+:::warning
+
 When using this statement in PowerShell scripts, replace `$pwd` with `$PSScriptRoot`.
+
+:::
 
 ## Build and Unit Test
 
@@ -139,14 +147,18 @@ docker run --rm `
     pwsh -File /opt/AdminApp/run-build.ps1
 ```
 
-{: .alert .alert-success .mt-2 }
+:::tip
+
 Future consideration:
+
 1. The reader may want to explore using a [`dotnet test`
    logger](https://github.com/microsoft/vstest/blob/main/docs/report.md#available-test-loggers)
    for alternative output types.
 2. The `run-build.ps1` script can also be used directly in a CI environment, so
    that you are running the exact same command in both the localhost and the
    automated environments.
+
+:::
 
 ## Integration Tests
 
@@ -206,12 +218,15 @@ $logFile = "./logs/dbup-$(Get-Date -Format "yyyyMMddHHmm").log"
 ./eng/run-dbup-migrations.ps1 $config | Tee-Object $logFile
 ```
 
-{: .alert .alert-warning .mt-2 }
+:::warning
+
 You may find small problems when running a PowerShell script in Linux that was
 written and historically used in Windows: watch out for proper casing on file
 names, since Linux cares about these things; change `\` to `/` or use
 `Join-Path` to create file paths; and don't use `.exe` as an extension on
 downloaded tools. I had to modify one of the existing PowerShell scripts as follows:
+
+:::
 
 ```powershell
 $exePath = "$ToolsPath/$toolName.exe"
@@ -399,7 +414,7 @@ docker run -d `
     pwsh -File /opt/AdminApp/run-application.ps1
 ```
 
-Open <http://localhost:8080> in your browser for manually accessing the web
+Open [http://localhost:8080](http://localhost:8080) in your browser for manually accessing the web
 application. Then, don't forget to clean up when you're done:
 
 ```powershell

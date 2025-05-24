@@ -4,11 +4,11 @@ date: 2014-04-10
 tags: [programming, testing, dotnet]
 ---
 
-Recently I have been looking at [ServiceStack's OrmLite ](https://github.com/ServiceStack/ServiceStack.OrmLite) "Micro ORM" as a light-weight alternative to Entity Framework. It is relatively easy to use and very powerful, with capability for both code-first and database-first development. After learning the basic interaction, it was time to flip back into TDD-mode.
+Recently I have been looking at [ServiceStack's OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) "Micro ORM" as a light-weight alternative to Entity Framework. It is relatively easy to use and very powerful, with capability for both code-first and database-first development. After learning the basic interaction, it was time to flip back into TDD-mode.
 
-And then I found quite the challenge: I wanted to write unit tests that insure that I'm using OrmLite correctly. I was not interested (for the time being) in testing OrmLite's interaction with SQL Server itself. That is, I wanted behavioral unit tests rather than database integration tests.  Time for a [mock](http://martinfowler.com/articles/mocksArentStubs.html). But what would I mock? This ORM framework makes extensive use of [extension methods](http://msdn.microsoft.com/en-us/library/bb383977.aspx) that run off of the core `IDbConnection` interface from the .Net framework - so it would seem that there is no way to take advantage of [Dependency Injection](http://msdn.microsoft.com/en-us/magazine/cc163739.aspx).
+And then I found quite the challenge: I wanted to write unit tests that insure that I'm using OrmLite correctly. I was not interested (for the time being) in testing OrmLite's interaction with SQL Server itself. That is, I wanted behavioral unit tests rather than database integration tests.  Time for a [mock](https://martinfowler.com/articles/mocksArentStubs.html). But what would I mock? This ORM framework makes extensive use of [extension methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods) that run off of the core `IDbConnection` interface from the .Net framework - so it would seem that there is no way to take advantage of [Dependency Injection](http://msdn.microsoft.com/en-us/magazine/cc163739.aspx).
 
-Enter the [static delegates method](http://blogs.clariusconsulting.net/kzu/how-to-mock-extension-methods/) promoted by Daniel Cazzulino. OK, so we have Constructor and Property Injection methods already. And now they are joined by have Delegate Injection. Let us take this simple example from a hypothetical [repository class](http://martinfowler.com/eaaCatalog/repository.html):
+Enter the static delegates method promoted by Daniel Cazzulino (2025: article has disappeared). OK, so we have Constructor and Property Injection methods already. And now they are joined by have Delegate Injection. Let us take this simple example from a hypothetical [repository class](https://martinfowler.com/eaaCatalog/repository.html):
 
 ```csharp
 var dbFactory = new OrmLiteConnectionFactory(connectionString, SqlServerDialect.Provider);
@@ -30,7 +30,7 @@ Using Cazzulino's technique, we can create a static class containing static dele
 public static IDbTransaction OpenTransaction(this IDbConnection dbConn)
 ```
 
-This can be represented with a <a href="http://msdn.microsoft.com/en-us/library/bb549151%28v=vs.110%29.aspx">Func<T, Tresult></a> delegate:
+This can be represented with a [`Func<T, Tresult>`](https://learn.microsoft.com/en-us/dotnet/api/system.func-2?view=net-9.0&redirectedfrom=MSDN) delegate:
 
 ```csharp
 public static Func<IDbConnection, IDbTransaction> OpenTransaction =

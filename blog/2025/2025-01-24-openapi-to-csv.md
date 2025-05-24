@@ -15,15 +15,18 @@ an Open API specification file to a CSV. There is nothing revolutionary in this
 small win; countless programmers have doubtlessly done much more. But a
 reluctant engineer has to start somewhere.
 
-<div class="text--center">
-![Screenshot of prompt entry and Copilot response](/img/openapi-to-csv-copilot.png){: .img-fluid}
+<div class="image">
+![Screenshot of prompt entry and Copilot response](/img/openapi-to-csv-copilot.png)
 </div>
 
 <!-- truncate -->
 
-{: .alert .alert-tip .mt-2 :}
+:::tip
+
 Postscript 3/22/2025: Now available in an expanded form, supporting both Open API version 2 (Swagger)
 and version 3, at [openapi-to-csv](https://github.com/Ed-Fi-Exchange-OSS/openapi-to-csv)
+
+:::
 
 ## Context
 
@@ -40,11 +43,14 @@ realization of the Ed-Fi Data Standard. Thus, a CSV file containing the a
 listing of all of the properties for each path _is_ a listing of the elements of
 the _effective_ Ed-Fi Data Standard.
 
-{: .alert .alert-info .mt-2}
+:::info
+
 There are small divergences between the Data Standard and this API
 Specification, such as how school years are represented. However, since actual
 exchange of data occurs through the API, then the API specification is the
 "physical" source of truth that we need to work with.
+
+:::
 
 ## Example
 
@@ -118,7 +124,6 @@ responses and `POST` and `PUT` requests (again, truncated for brevity):
 
 Putting this information together, the desired output would be:
 
-{: .table .table-striped .table-bordered .table-condensed .font-small }
 | Path                                   | Property Name | Property Type | Description                    |
 | -------------------------------------- | ------------- | ------------- | ------------------------------ |
 | /ed-fi/absenceEventCategoryDescriptors | id            | string        |                                |
@@ -150,7 +155,6 @@ exit and a shiny new CSV file in my directory.
 
 But is it right?
 
-{: .table .table-striped .table-bordered .table-condensed .font-small }
 | schema_name                          | property_name | property_type | description        | path                                   |
 | ------------------------------------ | ------------- | ------------- | ------------------ | -------------------------------------- |
 | edFi_absenceEventCategoryDescriptor  | id            | string        |                    | /ed-fi/absenceEventCategoryDescriptors |

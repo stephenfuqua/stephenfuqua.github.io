@@ -13,12 +13,11 @@ intellectual property and questions about the risks and real world effectiveness
 of AI coding assistants. It is now time to allow and even encourage AI coding
 assistants, with guardrails.
 
-<div class="text--center">
-![Balcones National Wildlife Refuge, by Stephen A. Fuqua](/img/panoramic_balcones_nwr.webp){: .img-fluid .border .rounded}
-</div>
+<div class="image">
+![Balcones National Wildlife Refuge, by Stephen A. Fuqua](/img/panoramic_balcones_nwr.webp)
 
-{: .figure .figure-caption}
 Balcones National Wildlife Refuge, December 2024, by Stephen A. Fuqua
+</div>
 
 <!-- truncate -->
 
@@ -115,7 +114,8 @@ potentially harmful or simply dodgy code. And we should encourage a community of
 practice where developers on different teams freely share about their
 experiences.
 
-{: .alert .alert-danger .mt-2}
+:::danger
+
 Those who are working with closed source applications will want to read the fine
 print to understand the privacy and security implications of your use of an AI
 coding assistant. For example, [GitHub
@@ -123,11 +123,16 @@ says](https://github.com/features/copilot): "GitHub does not use either Copilot
 Business or Enterprise data to train its models.". This seems to imply that it
 _does use_ data from Free and Pro.
 
-{: .alert .alert-success .mt-2}
+:::
+
+:::tip
+
 Also see [GitHub Copilot Security and
 Privacy Concerns: Understanding the Risks and Best
 Practices](https://blog.gitguardian.com/github-copilot-security-and-privacy/)
 for more detailed security tips.
+
+:::
 
 ## Personal Plans
 
@@ -141,7 +146,7 @@ curiosity. (Only tools that support VS Code make it on my evaluation list).
 Depending on the task at hand, I would like to experiment with these uses:
 
 1. Generating unit tests. I practice and encourage [Test Driven
-   Development](/best-practices-tdd-oo/intro). But not everyone does.
+   Development](/best-practices-tdd-oo). But not everyone does.
    Low-hanging fruit for me to contribute, without distracting the team: help
    them beef up the code coverage. (Moral Hazard Warning: only cover older code
    or expand existing tests. Don't let this be an excuse for not testing!).
