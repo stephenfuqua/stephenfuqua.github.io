@@ -21,8 +21,9 @@ and realized that you don't have the SDK on your machine? Instead of installing
 the SDK locally, you may be able to run the SDK in a [Docker
 container](https://www.docker.com).
 
-{: .center-block }
-![The first henbit of the season](/images/henbit-2025.webp){: .img-fluid .border .rounded }
+<div class="text--center">
+![The first henbit of the season](/img/henbit-2025.webp)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 {: .figure .figure-caption}
 [_Lamium amplexicaule_](https://en.wikipedia.org/wiki/Lamium_amplexicaule) aka

@@ -15,7 +15,7 @@ saw once this past winter in Austin. I'm really in for it this year.
 <!-- truncate -->
 
 {: .text-center }
-![Silver Maple at our complex](/images/foliage1.jpg)
+![Silver Maple at our complex](/img/foliage1.jpg)
 
 While I have a solid intellectual understanding for what I'm in store
 for in my first northern winter, I readily recognize that such an
@@ -30,7 +30,7 @@ knew that I would get these temperatures earlier in the fall and later in the
 spring than in Austin, naturally. But I was not prepared for them in
 mid-October. I was expecting 50's and 60's.
 
-![Sugar Maple leaf at our complex](/images/foliage2-thumb.jpg){: .float-right}
+![Sugar Maple leaf at our complex](/img/foliage2-thumb.jpg){: .float-right}
 
 Thankfully the warmth will be back this week, relatively speaking, as
 we're supposed to get up to about 60&deg;. But flurries? And sleet? I
@@ -45,7 +45,7 @@ technically reached freezing, but it has gotten down into the mid-thirties on
 8 days so far.
 
 {: .text-center }
-![Red Maple at Como Park](/images/foliage3.jpg)
+![Red Maple at Como Park](/img/foliage3.jpg)
 
 But at least the leaves are beautiful =). There's something to be said
 for that. Austin had a few leaves change, but nothing spectacular. Sadly
@@ -54,4 +54,4 @@ the grandeur that exists both to the north- and south-east of the city.
 Nevertheless there are many gorgeous trees in town.
 
 {: .text-center }
-![Hamm Memorial Waterfall at Como Park](/images/foliage4.jpg)
+![Hamm Memorial Waterfall at Como Park](/img/foliage4.jpg)

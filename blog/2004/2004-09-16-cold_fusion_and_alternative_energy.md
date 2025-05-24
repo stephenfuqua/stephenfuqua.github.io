@@ -42,7 +42,7 @@ research documented in the normal scientific journals. The topic is anathema to
 most physicists, and they won't have it sharing space with "serious" research.
 But despite the ridicule, the De Soto's of physics have continued looking for
 their fountain of youth. And if [this
-simple graph](http://popularmechanics.com/science/research/2004/8/dangerous_science/images/sb_lg_sb2-1-lg.jpg) is any indicator, they may have found it. Problem is, they
+simple graph](http://popularmechanics.com/science/research/2004/8/dangerous_science/img/sb_lg_sb2-1-lg.jpg) is any indicator, they may have found it. Problem is, they
 still don't know exactly how to use it or how it works.
 
 After describing the state of cold fusion research and renewed interest from the

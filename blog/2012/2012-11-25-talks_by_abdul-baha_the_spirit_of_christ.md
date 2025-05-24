@@ -50,8 +50,9 @@ and imagine if our academic discourse were devoted to building on itself rather 
 trying to tear each other apart. It would be a different and far more pleasant society, if we
 could learn from the Master.
 
-{: .center-block }
+<div class="text--center">
 \***
+</div>
 
 Review of <a href=
 "http://www.bahaibookstore.com/productdetails.cfm?PC=8619#.ULLY2oawVxc">Talks by

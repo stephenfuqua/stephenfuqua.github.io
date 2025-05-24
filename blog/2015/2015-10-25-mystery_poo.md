@@ -7,20 +7,21 @@ tags:
 - nature
 ---
 
-{: .center-block }
-![photo of caterpillar poop](/images/hornworm1.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![photo of caterpillar poop](/img/hornworm1.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 Who did this? Who would leave such mighty poo below my bell pepper? Our fence is too tight for rabbits...
 
 <!-- truncate -->
 
 {: .center-block}
-![photo of tobacco hornworm](/images/hornworm2.jpg){: .img-fluid .border .rounded }
+![photo of tobacco hornworm](/img/hornworm2.jpg)<!-- {: .img-fluid .border .rounded } -->
 
 It is a tobacco hornworm!
 
 {: .center-block}
-![photo of tobacco hornworm, 2](/images/hornworm3.jpg){: .img-fluid .border .rounded }
+![photo of tobacco hornworm, 2](/img/hornworm3.jpg)<!-- {: .img-fluid .border .rounded } -->
 
 And another!
 

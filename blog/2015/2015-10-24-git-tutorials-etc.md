@@ -86,7 +86,7 @@ Perhaps the best thing about VSCode's integration: it makes the cumbersome proce
 of un-staging and/or reverting your code changes very easy.
 
 {: .center-block}
-![Git in Visual Studio Code](/images/git-vs-code.jpg){: .img-fluid .border .rounded}
+![Git in Visual Studio Code](/img/git-vs-code.jpg){: .img-fluid .border .rounded}
 
 In this example:
 
@@ -119,4 +119,4 @@ in VS2013 in many months, I feel like the 2015 experience is somehow a little
 better and a little more powerful than its predecessor.
 
 {: .center-block}
-![Git in Visual Studio 2015](http://flightnode.github.io/images/vs2015Git.png){: .img-fluid .border .rounded}
+![Git in Visual Studio 2015](http://flightnode.github.io/img/vs2015Git.png){: .img-fluid .border .rounded}

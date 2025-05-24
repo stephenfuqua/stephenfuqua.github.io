@@ -18,7 +18,7 @@ this guy a few days ago. The light isn't very good, and the window is a bit
 dirty, but the ID is clear.
 
 {: .text-center }
-![Bewick's Wren in crapemyrtle](/images/bewicksWrenCrapemyrtle.jpg)<br>
+![Bewick's Wren in crapemyrtle](/img/bewicksWrenCrapemyrtle.jpg)<br>
 Bewick's Wren foraging in a crapemyrtle
 
 All of these birds are coming around because we've provided habitat for them:
@@ -38,9 +38,9 @@ crapemyrtle pests, so for me those little clumps of web and leaf are no less
 attractive than any store-bought feeder.
 
 {: .text-center }
-![photo of a Dark-eyed Junco](/images/darkEyedJunco.jpg)<br>
+![photo of a Dark-eyed Junco](/img/darkEyedJunco.jpg)<br>
 Dark-eyed Junco on the patio
 
 {: .text-center }
-![photo of a Yellow-rumped Warbler bathing](/images/yellowRumpedWarblerBathing.jpg)<br>
+![photo of a Yellow-rumped Warbler bathing](/img/yellowRumpedWarblerBathing.jpg)<br>
 Yellow-rumped Warbler Bathing

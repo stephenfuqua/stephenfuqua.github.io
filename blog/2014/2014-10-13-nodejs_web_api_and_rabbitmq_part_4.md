@@ -10,7 +10,7 @@ tags:
 
 ---
 
-![a passing test](/images/nodeToRabbitGreen.png){: .float-right }
+![a passing test](/img/nodeToRabbitGreen.png){: .float-right }
 
 _Desiring to learn about both Node.js (particularly as an API server) and
 ASP.Net Web API, I decided to throw one more technology in the mix and see which

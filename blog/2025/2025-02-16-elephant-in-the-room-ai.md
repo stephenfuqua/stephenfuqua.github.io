@@ -21,8 +21,9 @@ by the people who, in theory, should be the ones developing expertise in using
 AI tooling. But that’s how disruptive the technologies may be: even the data
 experts are uncertain and afraid.
 
-{: .center-block }
-![Balloon scarecrow](/images/balloon_scarecrow.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![Balloon scarecrow](/img/balloon_scarecrow.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 {: .figure .figure-caption}
 Perhaps 20 years from now we'll look back and wonder

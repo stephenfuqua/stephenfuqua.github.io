@@ -20,8 +20,9 @@ attendance count is 84 across all events.
 
 _Continue reading at the [Texas Interfaith Center for Public Policy](http://www.texasinterfaithcenter.org/blog/summertime-goals-building-relationships-and-developing-vision)_.
 
-{: .center-block }
+<div class="text--center">
 ![blurry and crisp
-photos](/images/ovenbirdLearningToFocus.png){: .border .rounded }<br> <small>"Learning to focus"
+</div>
+photos](/img/ovenbirdLearningToFocus.png){: .border .rounded }<br> <small>"Learning to focus"
 &copy; 2013, S. Fuqua / T. Homayoun. Ovenbird at Paradise Pond in Port Aransas,
 Texas.</small>

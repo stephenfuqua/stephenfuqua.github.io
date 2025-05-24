@@ -14,4 +14,4 @@ to get a few good photos, which are posted on [Google
 Photos](https://plus.google.com/photos/110829098089228358837/albums/6064182910237070737). First six in the gallery are from last fall, but the rest are from
 today.
 
-![photo collage from the park](/images/samHoustonTrailParkJuly112015.png){: .img-fluid }
+![photo collage from the park](/img/samHoustonTrailParkJuly112015.png){: .img-fluid }

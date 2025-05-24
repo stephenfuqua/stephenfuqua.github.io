@@ -11,8 +11,9 @@ Code quality does not improve. It isn't worth the time and effort. Here's why I
 don't buy it &mdash; why the research is fundamentally flawed and real software groups
 should ignore it.
 
-{: .center-block }
-![We don't need your wheels](/images/lego-refactoring.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![We don't need your wheels](/img/lego-refactoring.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 The study's aim was to evaluate the use of refactoring techniques to improve
 code quality and maintenance. In brief, they conclude that "there is no quality

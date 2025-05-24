@@ -43,40 +43,49 @@ Eurasian Collared Dove, Sombre Tit, Ring-necked Parakeet in the Terraces and
 related grounds, and suspected Yellow-Browed Warbler and Tawny Pipit and a few
 other unknowns. And of course the ubiquitous Rock Pigeon.
 
-{: .center-block }
-![observation platform](http://lh5.ggpht.com/_mZAPo8ePwc4/TQBIDCdgRWI/AAAAAAAAApA/cQSirLJxAVk/s400/IMG_2294.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![observation platform](http://lh5.ggpht.com/_mZAPo8ePwc4/TQBIDCdgRWI/AAAAAAAAApA/cQSirLJxAVk/s400/IMG_2294.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 From an observation platform to the west of the terrace 18 you can get a sense of the gradient from manicured grasses to native vegetation.
 
-{: .center-block }
-![untamed slopes](http://lh4.ggpht.com/_mZAPo8ePwc4/TQBLreOCGCI/AAAAAAAAApU/-QTomDUw7ls/s400/IMG_2441.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![untamed slopes](http://lh4.ggpht.com/_mZAPo8ePwc4/TQBLreOCGCI/AAAAAAAAApU/-QTomDUw7ls/s400/IMG_2441.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 View of the "untamed" slopes above the Seat of the Universal House of Justice (left) and the Center for the Study of the Texts (center)
 
-{: .center-block }
-![seat of the universal house of justice](http://lh6.ggpht.com/_mZAPo8ePwc4/TQBL-YSgE_I/AAAAAAAAApY/WtlPsn2Zn6s/s400/IMG_2439.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![seat of the universal house of justice](http://lh6.ggpht.com/_mZAPo8ePwc4/TQBL-YSgE_I/AAAAAAAAApY/WtlPsn2Zn6s/s400/IMG_2439.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 Seat of the Universal House of Justice. The lands behind it, to the barely-seen railing below the hotel, are part of the Bah&aacute;'&iacute; properties.
 
-{: .center-block }
-![succulents](http://lh4.ggpht.com/_mZAPo8ePwc4/TQwvgAZTi-I/AAAAAAAAAqQ/tky44-sTDMw/s400/IMG_2287.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![succulents](http://lh4.ggpht.com/_mZAPo8ePwc4/TQwvgAZTi-I/AAAAAAAAAqQ/tky44-sTDMw/s400/IMG_2287.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 Succulents on the Terraces
 
-{: .center-block }
-![international archives](http://lh5.ggpht.com/_mZAPo8ePwc4/TQwvOjv-atI/AAAAAAAAAqM/v-3EijdAZE0/s400/IMG_2271.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![international archives](http://lh5.ggpht.com/_mZAPo8ePwc4/TQwvOjv-atI/AAAAAAAAAqM/v-3EijdAZE0/s400/IMG_2271.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 International Archives building
 
-{: .center-block }
-![international archives building](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwyZjy8rLI/AAAAAAAAAqk/GHv6FnQGC5s/s400/IMG_2246.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![international archives building](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwyZjy8rLI/AAAAAAAAAqk/GHv6FnQGC5s/s400/IMG_2246.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 View of the International Archives Building from the 12th Terrace
 
-{: .center-block }
-![bird house](http://lh6.ggpht.com/_mZAPo8ePwc4/TQwyxAQZ4HI/AAAAAAAAAqo/sWnUTrZNxr0/s400/IMG_2232.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![bird house](http://lh6.ggpht.com/_mZAPo8ePwc4/TQwyxAQZ4HI/AAAAAAAAAqo/sWnUTrZNxr0/s400/IMG_2232.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 A bird house on the edge of the terraces
 
-{: .center-block }
-![water](http://lh4.ggpht.com/_mZAPo8ePwc4/TQwzRbr25vI/AAAAAAAAAqs/423_pNV15DQ/s400/IMG_2218.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![water](http://lh4.ggpht.com/_mZAPo8ePwc4/TQwzRbr25vI/AAAAAAAAAqs/423_pNV15DQ/s400/IMG_2218.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 Pulsing water next to the steps - note the crest of water five steps up
 
-{: .center-block }
-![olive grove](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwzyxe7kFI/AAAAAAAAAqw/5JQy9xIIXQw/s400/IMG_2238.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![olive grove](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwzyxe7kFI/AAAAAAAAAqw/5JQy9xIIXQw/s400/IMG_2238.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 Olive grove next to the Shrine of the B&aacute;b
 
 These photos are all from the Bah&aacute;'&iacute; terraces and gardens on the northern slope of Mt. Carmel, in Haifa, Israel.

@@ -28,7 +28,7 @@ artificially.
 \***
 
 {: .float-right }
-![photo of tree with pink flowers](/images/IMG_1689.JPG){: .border .rounded }<br>
+![photo of tree with pink flowers](/img/IMG_1689.JPG){: .border .rounded }<br>
 <small>Cassia grandis, Crooked Tree<br>Wildlife Sanctuary, Belize</small>
 
 I did not grow up in the Bah&aacute;'&iacute;­ Faith, having adopted it as a
@@ -91,7 +91,7 @@ my ability to engage in dialogue and action with people from diverse religious
 and social backgrounds.
 
 {: .center-block}
-![pelican photo](/images/IMG_2069.JPG){: .border .rounded .img-fluid }<br>
+![pelican photo](/img/IMG_2069.JPG){: .border .rounded .img-fluid }<br>
 <small>Brown Pelican, precariously perched, on a small caye off the coast of Belize (Hopkins area)</small>
 
 {: .center-block}

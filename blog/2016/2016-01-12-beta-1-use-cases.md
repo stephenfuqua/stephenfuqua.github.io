@@ -11,7 +11,7 @@ tags:
 The first beta release of FlightNode is now alive and in the hands of testers.
 So what's been delivered?
 
-<img src="/images/beta1_home_small.png" width="395" height="221" id="imgHome"
+<img src="/img/beta1_home_small.png" width="395" height="221" id="imgHome"
 class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 
 ## Context-Aware Navigation
@@ -20,7 +20,7 @@ Although eventually there will be more roles, for now there are effectively just
 two: Reporter and Administrator. The user naturally should see different
 navigation links when logged in.
 
-<img src="/images/beta1_authenticated_small.png" width="449" height="143" id="imgAuthenticated"
+<img src="/img/beta1_authenticated_small.png" width="449" height="143" id="imgAuthenticated"
 class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 
 ## User List
@@ -28,7 +28,7 @@ class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 As an Administrator, I want to view a list of existing users, so that I can
 find a user to edit.
 
-<img src="/images/beta1_users_small.png" width="397" height="230" id="imgUsers"
+<img src="/img/beta1_users_small.png" width="397" height="230" id="imgUsers"
 class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 
 ## List Filtering
@@ -36,7 +36,7 @@ class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 As an Administrator, I want to filter the user list so that, so that I can more
 quickly find a particular user.
 
-<img src="/images/beta1_filter_small.png" width="400" height="230" id="imgFilter"
+<img src="/img/beta1_filter_small.png" width="400" height="230" id="imgFilter"
 class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 
 ## User Create and Edit
@@ -44,7 +44,7 @@ class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 As an Administrator, I want to create / edit a user, so that user can sign-on
 to the system.
 
-<img src="/images/beta1_filter_small.png" width="400" height="230" id="imgFilter"
+<img src="/img/beta1_filter_small.png" width="400" height="230" id="imgFilter"
 class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 
 ## Log a Workday
@@ -55,7 +55,7 @@ Reporter, so that I can track volunteer hours.
 As a Reporter, I want to log my own workday, so that the project can
 track my volunteer hours. (Not shown).
 
-<img src="/images/beta1_logWorkday_small.png" width="394" height="346" id="imgLog"
+<img src="/img/beta1_logWorkday_small.png" width="394" height="346" id="imgLog"
 class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 
 ## List Workdays
@@ -72,7 +72,7 @@ the data outside of the website. (Only the button shown).
 As a Reporter, I want to export all of my workday logs, so that I can tally
 my volunteer hours. (Not shown).
 
-<img src="/images/beta1_workdays_small.png" width="394" height="346" id="imgWorkList"
+<img src="/img/beta1_workdays_small.png" width="394" height="346" id="imgWorkList"
 class="popup-img center-block" data-toggle="modal" data-target="#imgModal">
 
 ## Supporting Stories
@@ -89,11 +89,11 @@ Reporters can log bird survey data. (Referring to future functionality).
 <div class="modal fade" tabindex="-1" role="dialog" id="imgModal">
   <div class="modal-dialog modal-lg">
       <div class="modal-body">
-       	<img src="/images/beta1_home.png" id="modalHome" width="987" height="553">
-       	<img src="/images/beta1_authenticated.png" id="modalAuthenticated" width="898" height="286">
-       	<img src="/images/beta1_users.png" id="modalUsers" width="993" height="583">
-       	<img src="/images/beta1_filter.png" id="modalFilter" width="999" height="575">
-       	<img src="/images/beta1_logWorkday.png" id="modalLog" width="984" height="865">
+       	<img src="/img/beta1_home.png" id="modalHome" width="987" height="553">
+       	<img src="/img/beta1_authenticated.png" id="modalAuthenticated" width="898" height="286">
+       	<img src="/img/beta1_users.png" id="modalUsers" width="993" height="583">
+       	<img src="/img/beta1_filter.png" id="modalFilter" width="999" height="575">
+       	<img src="/img/beta1_logWorkday.png" id="modalLog" width="984" height="865">
     </div>
   </div>
 </div>

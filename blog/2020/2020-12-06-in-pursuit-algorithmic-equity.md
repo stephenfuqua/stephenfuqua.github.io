@@ -21,7 +21,7 @@ potential for positive use weighed against potential for misuse.
 
 <!-- truncate -->
 
-![Coded Bias film poster](/images/CODED_Instagram_Post_1080px.jpg){: .float-right}
+![Coded Bias film poster](/img/CODED_Instagram_Post_1080px.jpg){: .float-right}
 
 The films [Coded Bias](https://www.codedbias.com/) (now in virtual theaters) and
 [The Social Dilemma](https://www.thesocialdilemma.com/) (Netflix) probe these
@@ -88,5 +88,5 @@ justice, we all need to stand up, take notice, and act.
 5. Keep listening. Keep learning.
 
 {: .text-center}
-![Slack - choosing skin tone](/images/choose_skin_tone.png)<br>
+![Slack - choosing skin tone](/img/choose_skin_tone.png)<br>
 _Something positive: choosing an emoji skin tone_

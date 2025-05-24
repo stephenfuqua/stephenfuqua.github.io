@@ -20,7 +20,7 @@ blog post doesn't try to answer that directly. In fact, it is simply a
 collection of notes pointing out how to use Microsoft's SignalR technology to
 achieve this.
 
-![example from Twitter](/images/twitterNotification.jpg){: .text-center}
+![example from Twitter](/img/twitterNotification.jpg){: .text-center}
 
 <!-- truncate -->
 

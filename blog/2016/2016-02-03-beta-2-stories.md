@@ -21,13 +21,13 @@ Naturally, they can't take an existing user name, as seen in the following
 screenshot. All new users will be created under the Reporter role, though of
 course an admin can give additional privileges.
 
-![Registration form](/images/rc2_1.png)
+![Registration form](/img/rc2_1.png)
 
 Once the registration is completed, the user receives a friendly message. The
 user can still see what was previously submitted,  but the form is disabled so
 that the data cannot be re-submitted.
 
-![Registration complete](/images/rc2_2.png)
+![Registration complete](/img/rc2_2.png)
 
 What's missing? E-mail notifications.
 
@@ -39,18 +39,18 @@ that access to the site’s data collection is strictly limited.*
 New users cannot immediately login; they must instead be approved by and admin.
 Administrators have a new option under the Manage menu: Pending Users.
 
-![Pending users menu](/images/rc2_3.png)
+![Pending users menu](/img/rc2_3.png)
 
 This link brings the admin to a page displaying all pending users.
 
-![Pending users list](/images/rc2_4.png)
+![Pending users list](/img/rc2_4.png)
 
 Click the checkmark in the first column to select a particular record, or the
 checkmark at the top of the column to select all records. Click the approve
 button to allow that user to sign into the system. Once the user is approved,
 that user will show up in the normal user list.
 
-![Normal user list](/images/rc2_5.png)
+![Normal user list](/img/rc2_5.png)
 
 What's missing: e-mail alerts. Delete registrations that should not be approved
 (spam registrants).
@@ -64,7 +64,7 @@ In a prior screenshot showing the menus, you can see the new "My Account" link,
 which is available to all signed-in users. The account form looks familiar. Note
 that you cannot change your own roles in the system.
 
-![My Account](/images/rc2_6.png)
+![My Account](/img/rc2_6.png)
 
 What's missing? Nothing.
 
@@ -73,6 +73,6 @@ What's missing? Nothing.
 *As an Project Coordinator, I want to de-activate volunteers who are no longer
 working with the project, so that they can no longer submit data to the site.*
 
-![De-activation](/images/rc2_7.png)
+![De-activation](/img/rc2_7.png)
 
 What's missing: re-activation.

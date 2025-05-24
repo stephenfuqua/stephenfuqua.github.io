@@ -19,7 +19,7 @@ NuGet, Bower, Grunt, MSDeploy, and SoapUI. The result is this: as soon as I
 commit code to the version control system, it starts an automated chain reaction
 that ends with a complete install on my integration test servers.
 
-![deployment pipeline image](/images/deploymentPipeline.png){: .text-center }
+![deployment pipeline image](/img/deploymentPipeline.png){: .text-center }
 
 <!-- truncate -->
 
@@ -39,7 +39,7 @@ useful to the client) stored in a SQL solution, which could be Microsoft SQL
 Server or MySQL. If push notifications are required, then I will likely stick
 with Microsoft's SignalR hosted on the API server.
 
-![architecture diagram](/images/architecture.png){: .text-center }
+![architecture diagram](/img/architecture.png){: .text-center }
 
 ## Push Button Deploy
 

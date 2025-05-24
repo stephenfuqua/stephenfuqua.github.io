@@ -13,8 +13,9 @@ call external resources, such as a database, filesystem, or heavy-duty component
 new unit tests for legacy .Net code? Well, that depends... and I have a flow
 chart and brief notes to help you figure it out.
 
-{: .center-block }
-![Test toolkit flow chart](/images/testIsolationLegacyCode.png){: .img-fluid .border .rounded }
+<div class="text--center">
+![Test toolkit flow chart](/img/testIsolationLegacyCode.png)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 ## Stubs, Mocks, Etc.
 
@@ -60,7 +61,7 @@ interface. Now you can take full advantage of mocking. This is Wrapping.
 
 \* For a bit more from Feathers without reading the whole book, [here is a
 2-chapter extract
-(PDF)](http://ptgmedia.pearsoncmg.com/images/9780131177055/samplepages/0131177052.pdf).
+(PDF)](http://ptgmedia.pearsoncmg.com/img/9780131177055/samplepages/0131177052.pdf).
 Phil Haack wrote about test-specific subclasses from a .Net perspective: [Test
 Specific Subclasses vs Partial
 Mocks](http://haacked.com/archive/2007/12/06/test-specific-subclasses-vs-partial-mocks.aspx).

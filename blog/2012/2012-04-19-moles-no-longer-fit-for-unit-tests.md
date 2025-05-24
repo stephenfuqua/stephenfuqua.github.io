@@ -8,7 +8,7 @@ tags:
 - testing
 ---
 
-![No moles](/images/noMoles.png){: .float-right }
+![No moles](/img/noMoles.png){: .float-right }
 
 Moles is a powerful and useful framework for unit testing. Or was. But even
 then, it was overused (at least by me). But no more!

@@ -16,7 +16,7 @@ The end result: I have a prototype of a mixed Angular.Js / ASP.Net MVC
 application that provides a simple directory and simple administrative
 functionality. And it is Hosted on Azure.
 
-![safnetDirectory screenshot](/images/safnetDirectory1.png){: .text-center }
+![safnetDirectory screenshot](/img/safnetDirectory1.png){: .text-center }
 
 Two user stories drove this exercise, with a made-up corporate name Prism
 Company (I never did get around to using an engraving of Isaac Newton for the

@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![image depicting a ruby and gherkin](/images/fromRubyToGherkin.jpg){: .float-right .shadow .p-3 .rounded }
+![image depicting a ruby and gherkin](/img/fromRubyToGherkin.jpg){: .float-right .shadow .p-3 .rounded }
 
 _Follow-up to [Building a Test Script Environment with C# and IronRuby, pt
 1](/archive/2012/10/11/building_a_test_script_environment_with_c_and_ironruby_pt_1/),

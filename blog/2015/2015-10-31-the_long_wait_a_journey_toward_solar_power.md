@@ -16,13 +16,14 @@ since. The wait is finally over.
 Well, almost. The panels are on the roof, but now I have 4-6 weeks to wait until
 the electric grid company (Oncor) comes out to inspect.
 
-{: .center-block }
-![solar panel photo 1](/images/solar1.jpg){: .img-fluid .border .rounded}
+<div class="text--center">
+![solar panel photo 1](/img/solar1.jpg){: .img-fluid .border .rounded}
+</div>
 
 <!-- truncate -->
 
 {: .float-right }
-![solar panel photo 2 ](/images/solar2.jpg){: .border .rounded}
+![solar panel photo 2 ](/img/solar2.jpg){: .border .rounded}
 
 Chernobyl was probably the first environmental disaster I knew about as a child,
 and the news coverage brought me a measure of awareness of energy issues. But it
@@ -48,8 +49,9 @@ that the Earth is in fact warming, potentially catastrophically.
 magic of Google Books, I was able to find the tell-tale chart that likely set me
 on the path of renewable energy activism.
 
-{: .center-block }
-![global warming chart from old book](/images/globalWarming.png)<br>Red line added by me, showing the "magic" number of 2&deg; C.
+<div class="text--center">
+![global warming chart from old book](/img/globalWarming.png)<br>Red line added by me, showing the "magic" number of 2&deg; C.
+</div>
 
 Chernobyl, Valdez, Global Warming. These taught me, as a "tween", that humanity
 needed clean power. (For general environmental awareness, sprinkle in a dose of
@@ -64,6 +66,7 @@ that my home's digital smart meter won't literally run backwards when we throw
 that switch and power on. My long wait for solar is just about over. Apologies
 for the navel-gazing - but I just had to share my excitement.
 
-{: .center-block }
-![solar panel photo 3](/images/solar3.jpg){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![solar panel photo 3](/img/solar3.jpg)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 One of four banks of panels arrayed across the house.

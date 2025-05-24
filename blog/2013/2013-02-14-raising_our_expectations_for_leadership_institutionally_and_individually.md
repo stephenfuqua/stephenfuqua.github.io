@@ -8,7 +8,7 @@ tags:
 ---
 
 {: .float-right }
-![mural showing fingers pointing different directions](/images/fingerPointingMural.jpg)<br>
+![mural showing fingers pointing different directions](/img/fingerPointingMural.jpg)<br>
 <small>[Some rights reserved](http://creativecommons.org/licenses/by/2.0/deed.en)<br>
 by [Newtown grafitti](http://www.flickr.com/photos/newtown_grafitti/)</small>
 

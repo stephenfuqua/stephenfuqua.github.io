@@ -25,7 +25,7 @@ To authenticate, POST a form-encoded body to the `/oauth/token` endpoint. Screen
 
 Copy the value of the `access_token` from the response so that you can use it in subsequent steps.
 
-![Authenticate request](http://flightnode.github.io/images/authentication1.png)
+![Authenticate request](http://flightnode.github.io/img/authentication1.png)
 
 # Modify the User
 
@@ -46,7 +46,7 @@ Now we'll issue a POST request to the User route, using a JSON-formatted body. A
       "password": "dirigible"
      }
 
-![Attempt to modify user](http://flightnode.github.io/images/authentication2.png)
+![Attempt to modify user](http://flightnode.github.io/img/authentication2.png)
 
 # Create Authorization Header
 
@@ -61,7 +61,7 @@ So what do we need? We need another Header:
 
 And now&hellip;
 
-![Successful modification](http://flightnode.github.io/images/authentication3.png)
+![Successful modification](http://flightnode.github.io/img/authentication3.png)
 
 Everything is OK!
 

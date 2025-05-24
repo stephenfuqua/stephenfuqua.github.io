@@ -23,11 +23,11 @@ In Atom, I have [autocomplete-plus](https://atom.io/packages/autocomplete-plus) 
 
 **Code**
 
-![codeAtom_1](/images/codeAtom_1.png)
+![codeAtom_1](/img/codeAtom_1.png)
 
 **Atom**
 
-![codeAtom_2](/images/codeAtom_2.png)
+![codeAtom_2](/img/codeAtom_2.png)
 
 ## File Explorer / Tree View
 
@@ -43,11 +43,11 @@ Overall, I find the two different but equally useful.
 
 **Code**
 
-![codeAtom_3](/images/codeAtom_3.png)
+![codeAtom_3](/img/codeAtom_3.png)
 
 **Atom**
 
-![codeAtom_4](/images/codeAtom_4.png)
+![codeAtom_4](/img/codeAtom_4.png)
 
 # Search
 
@@ -55,11 +55,11 @@ When you've opened a folder, this will search every file in the folder. And it i
 
 **Code**
 
-![codeAtom_5](/images/codeAtom_5.png)
+![codeAtom_5](/img/codeAtom_5.png)
 
 **Atom**
 
-![codeAtom_6](/images/codeAtom_6.png)
+![codeAtom_6](/img/codeAtom_6.png)
 
 ## Git
 
@@ -71,11 +71,11 @@ Overall, the Code interface to Git is better, except for one flaw (for now): Com
 
 **Code**
 
-![codeAtom_7](/images/codeAtom_7.png)
+![codeAtom_7](/img/codeAtom_7.png)
 
 **Atom**
 
-![codeAtom_8](/images/codeAtom_8.png)
+![codeAtom_8](/img/codeAtom_8.png)
 
 ## Debug
 
@@ -83,7 +83,7 @@ There are some quirks, but this is promising. As you can see in this screenshot,
 
 That said, there is a [node debugger](https://atom.io/packages/node-debugger) project for Atom. The pictures look promising, but even the maintainer admits it is buggy. I cannot get it to work at all - opening the debugger palette, you are presented with an opportunity to fill in a few paths. But the fields, at least in my install, are not enabled.
 
-![codeAtom_9](/images/codeAtom_9.png)
+![codeAtom_9](/img/codeAtom_9.png)
 
 ## Conclusion
 

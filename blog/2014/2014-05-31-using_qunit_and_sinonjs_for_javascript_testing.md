@@ -9,7 +9,7 @@ tags:
 
 ---
 
-![QUnit + SinonJS logos](/images/qunitPlusSinonJs.png){: .float-right}
+![QUnit + SinonJS logos](/img/qunitPlusSinonJs.png){: .float-right}
 
 Basic was the first language I learned. Well, partially, in 8th grade. On Apple
 IIe at school and a Packard Bell 386 PC at home. A few years later, JavaScript

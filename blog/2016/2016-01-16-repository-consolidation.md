@@ -22,7 +22,7 @@ But&hellip; this has approach has caused problems.
 
 After trying to solve the third problem several times, it is finally time to move on by fixing the problem.
 
-![Repository consolidation](/images/scm_consolidation.png)
+![Repository consolidation](/img/scm_consolidation.png)
 
 ## Desired Structure
 
@@ -94,7 +94,7 @@ git commit -m "Merge Common into Service"
 
 Result:
 
-![Directories](/images/scm_dirs.png)
+![Directories](/img/scm_dirs.png)
 
 Oh, that solution file should have stayed in the root. I'll go ahead and rename it in anticipation of the repository rename.
 
@@ -109,7 +109,7 @@ git commit -m "Rename solution file"
 git log
 ```
 
-![Git log](/images/scm_log.png)
+![Git log](/img/scm_log.png)
 
 Recall that the middle commit, b9af26a, was in the FlightNode.Common repository, but now it is showing up in the FlightNode.Service repository - exactly as desired.
 

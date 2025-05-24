@@ -62,8 +62,9 @@ realism, but also of hope.
 > kindness, and walking humbly _with_ our God. Let us humbly _invite_ our
 > neighbor and walk _humbly_ to the future together.
 
-{: .center-block }
+<div class="text--center">
 \***
+</div>
 
 Review of [Love God
 Heal Earth: 21 Leading Religious Voices Speak Out on Our Sacred Duty to Protect

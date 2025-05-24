@@ -53,7 +53,7 @@ click the app.config file in Solution Explorer, and choose **Edit WCF
 Configuration**. This will load the config file into a helpful editor.
 
 {: .text-center}
-![UML Diagram](/images/wcfUml.png)
+![UML Diagram](/img/wcfUml.png)
 
   ```csharp
 public partial class MyService : ServiceBase

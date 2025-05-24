@@ -7,7 +7,7 @@ tags:
 - nature
 ---
 
-![photo of the moon over water](/images/MoonOverGulf.JPG){: .float-right .border .rounded }
+![photo of the moon over water](/img/MoonOverGulf.JPG){: .float-right .border .rounded }
 
 Last night we turned off the lights early for [Earth Hour](http://www.earthhour.org/), and went outside for a good
 long walk through the neighborhood and on the nearby CampiÃ³n Trail.

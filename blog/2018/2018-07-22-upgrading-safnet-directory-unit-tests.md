@@ -115,11 +115,11 @@ public void SetUp()
 
 At last it is possible to fully unit test this class: the database connection has been mocked and the tests can control the user's claimset. What about the other classes? There are some that will never be tested - e.g. the database migration classes and the data context class; these should be decorated with `[ExcludeFromCodeCoverage]`. It would be nice to find out what my code coverage is. Without Visual Studio Enterprise or DotCover we need to turn to OpenCover. Let's try [AxoCover](https://github.com/axodox/AxoCover) for integrating OpenCover into Visual Studio.
 
-![Axo Cover Results in Visual Studio](/images/axo-cover-1.png)
+![Axo Cover Results in Visual Studio](/img/axo-cover-1.png)
 
 Not bad. The display that is. Coverage isn't very good; 35.8% of lines. However note that it did not ignore the Migrations. I forgot that OpenCover does not automatically ignore classes / methods decorated with either `[GeneratedCode]` or `[ExcludeFromCodeCoverage]`. Is there a setting in Axo? Yes. And in fact it did ignore `ExcludeFromCodeCoverage`. I just need to add `GeneratedCode` to the list: `;*GeneratedCodeAttribute`
 
-![Axo Cover Settings](/images/axo-cover-2.png)
+![Axo Cover Settings](/img/axo-cover-2.png)
 
 Now we have a full 36.7% of lines! Before trying to fill in the missing unit tests, perhaps there is some more cleanup in order:
 

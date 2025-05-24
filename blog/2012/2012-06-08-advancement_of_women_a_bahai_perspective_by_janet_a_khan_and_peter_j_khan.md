@@ -12,7 +12,7 @@ tags:
 ---
 
 {: .float-right }
-![book cover](/images/advancementOfWomen.jpg)
+![book cover](/img/advancementOfWomen.jpg)
 
 In this scholarly work, Janet and Peter Khan present the theological grounding,
 social context, historical action, and modern implementation of the concept of

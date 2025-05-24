@@ -8,7 +8,7 @@ tags:
 ---
 
 {: .float-right}
-![pushing a bicyclist over a cliff](/images/pushBikeCliff.jpg){: .border .rounded}
+![pushing a bicyclist over a cliff](/img/pushBikeCliff.jpg){: .border .rounded}
 
 At a Bah&aacute;'&iacute; retreat on [Conversations
 on the Way:  Kindling Hope in a Time of Despair](http://www.cvent.com/events/friends-and-family-session-iii-conversations-on-the-way/event-summary-3fb948043b9244a8bbd0e1844a883dc6.aspx), the conversation following

@@ -15,8 +15,9 @@ Ubuntu on Windows was relatively easy, though I did run into a couple of little
 problems with running poetry. Bigger challenge: running graphical user
 interfaces (GUIs) from WSL. Here are some quick notes from my experience.
 
-{: .center-block }
-![Screenshot showing a small program displaying the operating system name](/images/python-xwindows-gui.jpg)
+<div class="text--center">
+![Screenshot showing a small program displaying the operating system name](/img/python-xwindows-gui.jpg)
+</div>
 _Screenshot shows that I'm running Windows 10, and shows a small GUI window opened
 from both Powershell and from Bash using the same Python script._
 

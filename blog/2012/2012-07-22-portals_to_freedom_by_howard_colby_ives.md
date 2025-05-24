@@ -84,8 +84,9 @@ cynicism, or to reconcile the western intellectual tradition with a religious
 worldview, would do well to follow Ives&rsquo; transformation, and to ponder and
 then put into action the meaning of the stories he relates.
 
-{: .center-block }
+<div class="text--center">
 \***
+</div>
 
 Review of [Portals to
 Freedom](http://www.bahaibookstore.com/productdetails.cfm?sku=PTFT), by Howard Colby Ives. Published in 2012 by [Bah&aacute;&rsquo;&iacute; Publishing](http://www.bahaibookstore.com/),

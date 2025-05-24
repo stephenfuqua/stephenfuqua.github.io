@@ -24,8 +24,9 @@ read,&rdquo; she went on to live an exceptional life of courage and action on
 behalf all people, most particularly her fellow African Americans and especially
 women of color.
 
-{: .center-block }
-![Mary Mcleod Bethune](https://blog.safnet.com/images/mary-mcleod-bethune.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![Mary Mcleod Bethune](https://blog.safnet.com/img/mary-mcleod-bethune.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 <!-- truncate -->
 
@@ -87,8 +88,9 @@ cause of the oneness of humanity,  contributing to the prevalent discourses of
 society and to the social and economic development of the community, raising up
 the voices of women.
 
-{: .center-block }
-![Advertisement from 1929](/images/mmb-bahai-center.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![Advertisement from 1929](/img/mmb-bahai-center.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 ---
 

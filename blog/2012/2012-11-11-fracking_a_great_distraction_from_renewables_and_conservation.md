@@ -8,7 +8,7 @@ tags:
 ---
 
 {: .float-right }
-![lighting tap water on fire](/images/Gasland_5Full.png)
+![lighting tap water on fire](/img/Gasland_5Full.png)
 
 [The Sky Is Pink](http://www.gaslandthemovie.com/), from the director
 of _Gasland_, makes a potent argument that we need to resist ANY gas drilling,

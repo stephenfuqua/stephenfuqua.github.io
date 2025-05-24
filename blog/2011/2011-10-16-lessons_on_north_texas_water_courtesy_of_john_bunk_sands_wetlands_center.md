@@ -87,8 +87,9 @@ This site teaches us that, given enough time and/or ingenuity, we can conserve
 our resources, restore the land, and live more sustainably &mdash; if we have
 the will to do so.
 
-{: .center-block }
+<div class="text--center">
 \***
+</div>
 
 I've just confirmed &mdash; my local water comes from [Joe Pool Lake](http://www.trinityra.org/default.asp?contentID=113).
 

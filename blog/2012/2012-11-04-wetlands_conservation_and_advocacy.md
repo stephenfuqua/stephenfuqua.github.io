@@ -18,8 +18,9 @@ to](https://www.nytimes.com/2012/11/04/nyregion/protecting-new-york-city-before-
 relying on massive levies, seawalls, and the like, we need to support public and
 private endeavors to restore vital natural systems.
 
-{: .center-block }
-![egret](/images/IMG_0075.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![egret](/img/IMG_0075.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 <small>White-morph Reddish Egret, doing the Reddish Egret dance, in a wetland on Texas's Mustang
 Island</small>
 
@@ -52,8 +53,9 @@ acres of wetlands are joined by over 1,000 acres of the "Great Trinity Forest",
 providing for substantial carbon
 sequestration.
 
-{: .center-block }
-![cormorants flying](/images/IMG_0439.JPG){: .img-fluid .border .rounded}<br>
+<div class="text--center">
+![cormorants flying](/img/IMG_0439.JPG){: .img-fluid .border .rounded}<br>
+</div>
 <small>Double-Crested Cormorants</small>
 
 The City of Dallas is working on a recreation plan that will provide access and
@@ -70,8 +72,9 @@ Dallas, we saw none. But we did see a tremendous flock, estimated at around
 1,000 individuals, of Double Crested Cormorants who have come down for the
 season, feeding in these wetlands and our local lakes.
 
-{: .center-block }
-![downtown Dallas](/images/IMG_0448.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![downtown Dallas](/img/IMG_0448.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 <small>Downtown Dallas over Wetland Cell F</small>
 
 Historically, our coastal areas and rivers like the Trinity contained
@@ -87,6 +90,7 @@ advocating for development projects that restore natural systems and protect
 local neighborhoods, and in encouraging local citizens to responsibly enjoy
 them.
 
-{: .center-block }
-![looking north](/images/IMG_0451.JPG){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![looking north](/img/IMG_0451.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 <small>Looking due north, across an old landfill and into the Great Trinity Forest</small>

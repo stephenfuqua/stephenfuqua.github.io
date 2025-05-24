@@ -81,12 +81,12 @@ examples.
 Viewing an individual build configuration:
 
 {: .center-block}
-![screenshot: view build configuration as code](/images/tc-view-build-configuration-as-code.png){: .img-fluid .border .rounded}
+![screenshot: view build configuration as code](/img/tc-view-build-configuration-as-code.png){: .img-fluid .border .rounded}
 
 Viewing a new build feature as code:
 
 {: .center-block}
-![screenshot: view new build feature as code](/images/tc-view-new-build-feature.png){: .img-fluid .border .rounded}
+![screenshot: view new build feature as code](/img/tc-view-new-build-feature.png){: .img-fluid .border .rounded}
 
 ### Export an Entire Project
 
@@ -96,7 +96,7 @@ preferably a relatively simple one without dependencies in other projects - and
 export it to Kotlin. Now you have a detailed example to study.
 
 {: .center-block}
-![screenshot: downloading entire project in kotlin](/images/tc-download-project-settings-in-kotlin.png){: .img-fluid .border .rounded}
+![screenshot: downloading entire project in kotlin](/img/tc-download-project-settings-in-kotlin.png){: .img-fluid .border .rounded}
 
 ### Internal Setting for Creating Smaller Files
 

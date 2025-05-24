@@ -31,7 +31,7 @@ the investigating police sergeant.
 
 ## An Evening Stroll
 
-![Scene of the crime, 2 weeks later](/images/como_theft_large.jpg){: .text-center }
+![Scene of the crime, 2 weeks later](/img/como_theft_large.jpg){: .text-center }
 
 We found that out the hard way. After a night out studying/working, we
 stopped by the park on the way home two weeks ago (10:30 PM), parked, smiled

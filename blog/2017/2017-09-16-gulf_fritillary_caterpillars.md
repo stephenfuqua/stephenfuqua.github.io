@@ -26,4 +26,4 @@ that were hiding under leaves and around stems.
   passionflower and its denizens</a>
 
 {: .center-block}
-![photo collage](/images/20170912_134051-COLLAGE.jpg){: .img-fluid }
+![photo collage](/img/20170912_134051-COLLAGE.jpg){: .img-fluid }

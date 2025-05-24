@@ -22,7 +22,7 @@ still had bits of barb wire encased in their bark. The trees sheltered squirrels
 and chipmunks, birds and bats.
 
 {: .center-block}
-![rock ledge outcrop](/images/springLedgeSpringfieldLarge.png){: .img-fluid .border .rounded }<br>
+![rock ledge outcrop](/img/springLedgeSpringfieldLarge.png)<!-- {: .img-fluid .border .rounded } --><br>
 <small>Small ledge and spring, along a minor brook emptying into Lake
 Springfield, Missouri</small>
 
@@ -49,9 +49,10 @@ was stunned to find this bit of "wild" just a few miles east of the density of
 North Dallas. Eventually, we also discovered Bob Woodruff Park in Plano, but it
 was Spring Creek that captured my heart. Soon, however, it was time for college.
 
-{: .center-block }
+<div class="text--center">
 [
-![flowers](/images/5744731155_a011fe670b_z.jpg){: .img-fluid .border .rounded }
+</div>
+![flowers](/img/5744731155_a011fe670b_z.jpg)<!-- {: .img-fluid .border .rounded } -->
 ](http://www.flickr.com/photos/46183897@N00/5744731155/sizes/l/in/photostream/) <small> Gaillardia  flowers at Spring Creek Forest Preserve in Richardson
 and Garland.<br>[Some rights
 reserved](https://creativecommons.org/licenses/by/2.0/) by
@@ -77,8 +78,9 @@ the canyon. Fish Creek Preserve in Grand Prairie and Joppa Preserve in Dallas
 are other common destinations. Plano, too, has grown up over the years: Arbor
 Hills now provides an excellent western counterpart to Bob Woodruff.
 
-{: .center-block }
-![Joe Pool lake](/images/dcacJoePoolLarge.png){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![Joe Pool lake](/img/dcacJoePoolLarge.png)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 <small>Joe Pool Overlook, Dogwood Canyon Audubon Center at Cedar Hill</small>
 
 While my personal faith plays an important role in helping keep me from the
@@ -95,8 +97,9 @@ settings that allow proximity to "nature", however that might be
 defined&dagger;. Without these spaces, I could not bear to remain in Texas
 &mdash; it would not be the land I love, but just another Sprawl.
 
-{: .center-block }
-![chain of wetlands](/images/wetlands.png){: .img-fluid .border .rounded }<br>
+<div class="text--center">
+![chain of wetlands](/img/wetlands.png)<!-- {: .img-fluid .border .rounded } --><br>
+</div>
 <small>Wetlands southeast of downtown Dallas.</small>
 
 &dagger; The book <a href="http://mitpress.mit.edu/books/urban-place">Urban

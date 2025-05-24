@@ -9,7 +9,7 @@ tags:
 ---
 
 {: .float-right }
-![photo of a stream](/images/ridvanWater.png){: .border .rounded}<br>
+![photo of a stream](/img/ridvanWater.png){: .border .rounded}<br>
 Stream at the restored<br>
 [Ridv&aacute;n Garden](http://www.bahaullah.org/ridvan/)<br>
 near Acre, Israel

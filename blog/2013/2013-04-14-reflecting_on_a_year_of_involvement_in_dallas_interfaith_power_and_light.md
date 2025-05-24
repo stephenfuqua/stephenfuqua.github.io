@@ -9,7 +9,7 @@ tags:
 ---
 
 {: .float-right }
-![DIPL Logo](/images/dipl_logo_mini.png)
+![DIPL Logo](/img/dipl_logo_mini.png)
 
 A year ago I began a personal journey that I had long wished to start: a journey
 of integration, practice, cooperation, and learning, all in the name of playing
@@ -105,8 +105,9 @@ _Dallas Interfaith Power &amp; Light's mission is extended by this statement of 
 > and share our own perspectives, building bridges with others who are equally
 > passionate about seeking God and protecting creation.
 
-{: .center-block }
+<div class="text--center">
 \***
+</div>
 
 1. Wilson, E.O. _<a
   href="http://www.safnet.com/archives/2009/10/review-the-crea.html">The

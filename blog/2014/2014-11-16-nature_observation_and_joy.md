@@ -20,8 +20,9 @@ please do return the favor). There is a wonder about the natural world, a wonder
 and a joy that is so great that it often cannot be contained. This joy is reason
 enough to share with friends and family.
 
-{: .center-block }
-![photo of bluebonnets and mesquite tree](/images/bluebonnetsAndMesquite.JPG){: .img-fluid .border .rounded }
+<div class="text--center">
+![photo of bluebonnets and mesquite tree](/img/bluebonnetsAndMesquite.JPG)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 <!-- truncate -->
 
@@ -47,7 +48,7 @@ when the memory remained: that glasses had opened up a whole new world for me.
 What I do know is that I have been looking up, down, and around ever since.
 
 {: .float-right}
-![bluebird photo](/images/bluebird-thumb-250x313-72.jpg){: .border .rounded }
+![bluebird photo](/img/bluebird-thumb-250x313-72.jpg){: .border .rounded }
 
 Observing, identifying, breathing hearing tasting nature. This is the joy of the
 divine. All of the small details of life, and the broad scenes they co-create,

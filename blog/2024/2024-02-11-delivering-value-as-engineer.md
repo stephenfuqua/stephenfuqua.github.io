@@ -45,8 +45,9 @@ done - the opportunity cost? This is a critical lesson for this first-time
 manager to learn: think twice (or more) before jumping into the code. Get better
 at empowering than (hands-on) solving.
 
-{: .center-block }
-![Alexander the Great, cutting the Gordian Knot](https://blog.safnet.com/images/gordian-knot.png){: .img-fluid .border .rounded }
+<div class="text--center">
+![Alexander the Great, cutting the Gordian Knot](https://blog.safnet.com/img/gordian-knot.png)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 {: .figure .figure-caption}
 Maturino da Firenze. [Alexander Cutting the Gordian

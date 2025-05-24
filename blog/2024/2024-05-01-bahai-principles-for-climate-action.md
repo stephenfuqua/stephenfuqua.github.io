@@ -32,8 +32,9 @@ God, who is recognized through all the natural wonders:
 {: .text-sm-right }
 Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_, [CLXXVI](www.bahai.org/r/129964059).
 
-{: .center-block }
-![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen A. Fuqua](/images/Enchanged-Rock-Flowers-2024-03-20.jpg){: .img-fluid  .border .rounded }
+<div class="text--center">
+![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen A. Fuqua](/img/Enchanged-Rock-Flowers-2024-03-20.jpg){: .img-fluid  .border .rounded }
+</div>
 
 {: .figure .figure-caption}
 Wildflowers on Naw Ruz at Enchanted Rock State Natural Area, by Stephen A. Fuqua (2024).
@@ -101,8 +102,9 @@ holding ourselves accountable for our thoughts and deeds; personal and communal
 Surely these are ameliorating influences to counter "civilization" "carried to
 excess."
 
-{: .center-block }
-![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/images/hill-country-sunset.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/img/hill-country-sunset.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 {: .figure .figure-caption}
 Central Texas Hill Country sunset, by Stephen A. Fuqua (2024).

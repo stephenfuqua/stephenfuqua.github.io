@@ -30,7 +30,7 @@ and simpler security, in comparison to httpBinding and wsHttpBinding. But as we
 shall see, that decision had an unforeseen consequence.
 
 {: .float-right .shadow .p-3 .rounded}
-![image showing two services communicating through a firewall](/images/wcfClientServer1.png)
+![image showing two services communicating through a firewall](/img/wcfClientServer1.png)
 
 TCP binding with either Message or Transport is secured by Kerberos tokens
 issued by Active Directory in a Windows network, whereas wsHttpBinding uses a
@@ -52,7 +52,7 @@ accounts  was not in the same Active Directory domain as the servers (both
 domains being in the same Tree, however).
 
 {: .float-right .shadow .p-3 .rounded}
-![image showing a domain controller reachable by servers on both sides of the firewall](/images/wcfClientServer2.png)
+![image showing a domain controller reachable by servers on both sides of the firewall](/img/wcfClientServer2.png)
 
 To prevent getting too long winded, I won't repeat most of what I found in three
 particularly helpful Microsoft resources &mdash; well, helpful once I was able

@@ -17,7 +17,7 @@ because of the waste factor. Although I love the idea of note cards for user
 story development, I've been thankful that they are impractical for my
 development team. But, I think it is time to heed good advice.
 
-![startStopContinueStickies.png](/images/startStopContinueStickies.png)
+![startStopContinueStickies.png](/img/startStopContinueStickies.png)
 
 <!-- truncate -->
 

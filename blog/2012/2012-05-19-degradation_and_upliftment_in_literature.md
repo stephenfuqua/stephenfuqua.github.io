@@ -8,7 +8,7 @@ tags:
 ---
 
 {: .float-right }
-![latter of divine ascent](/images/latterAscent.png)
+![latter of divine ascent](/img/latterAscent.png)
 
 What books leave you feeling misanthropic? And what books lift your spirit,
 restoring a sense of faith in humanity? In this household we are currently

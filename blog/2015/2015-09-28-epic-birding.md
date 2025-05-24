@@ -6,7 +6,7 @@ tags: [FlightNode]
 ---
 
 <img style="width: 100%; height: auto;"
-src="/images/chainOfWetlands_downtown.jpg" alt="Chain of Wetlands - view of downtown Dallas">
+src="/img/chainOfWetlands_downtown.jpg" alt="Chain of Wetlands - view of downtown Dallas">
 
 <p>
 Once upon a time, not far from downtown high rises, the greens and ponds of a
@@ -65,12 +65,12 @@ cousin: open source.
 <div class="col-md-4 text-right">
 
 <div>
-<img src="/images/chainOfWetlands_volunteers.JPG" style="width: 250; height: 228;">
+<img src="/img/chainOfWetlands_volunteers.JPG" style="width: 250; height: 228;">
 <p>Volunteer birders hiking through the prairie.</p>
 </div>
 
 <div>
-<img src="/images/chainOfWetlands_WCSP.jpg" style="width: 180; height: 204;">
+<img src="/img/chainOfWetlands_WCSP.jpg" style="width: 180; height: 204;">
 <p>White Crowned Sparrow in a netleaf hackberry tree.</p>
 </div>
 
@@ -83,7 +83,7 @@ reading on the Dallas Floodway Extension Project</a>
 </p>
 
 <img style="width: 100%; height: auto; border: 0;"
-src="/images/chainOfWetlands_PrairieFlowers.jpg" alt="Chain of Wetlands - prairie flowers">
+src="/img/chainOfWetlands_PrairieFlowers.jpg" alt="Chain of Wetlands - prairie flowers">
 
 <p>
 All photos by Stephen A. Fuqua.

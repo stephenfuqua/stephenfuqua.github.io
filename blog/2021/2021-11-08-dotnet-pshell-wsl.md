@@ -92,4 +92,4 @@ And... the build failed, but that is hardly surprising, given that no work has
 been done to support Linux in this particular build script. Tools are in place
 to start get this fixed up.
 
-![Screenshot of terminal window](https://blog.safnet.com/images/pshell-dotnet-wsl-adminapp.jpg){: .img-fluid }
+![Screenshot of terminal window](https://blog.safnet.com/img/pshell-dotnet-wsl-adminapp.jpg){: .img-fluid }

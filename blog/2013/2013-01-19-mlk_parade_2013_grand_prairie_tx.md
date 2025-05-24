@@ -15,8 +15,9 @@ perhaps it is the bustling crowd under the sodium light of a parking lot, in the
 wee hours after Thanksgiving dinner has been packed into the refrigerator.
 Waiting for this year's must-have bargain.
 
-{: .center-block }
-![people gathered](/images/mlkGP2013_0.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![people gathered](/img/mlkGP2013_0.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 <!-- truncate -->
 
@@ -28,8 +29,9 @@ marched a few miles through the heart of this large, older suburb of Dallas. A
 blustery and cool morning, there were still a few hundred people at the
 curbside, smiling and taking pictures.
 
-{: .center-block }
-![marching](/images/mlkGP2013_3.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![marching](/img/mlkGP2013_3.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 Truthfully, it was a small event. This is not a day and age filled with the
 public spirit, when parents from all over town bring their children to walk in
@@ -47,8 +49,9 @@ to our scientific and technological abundance. ... We have learned to fly the
 air like birds and swim the sea like fish, but we have not learned the simple
 art of living together as brothers." [1]
 
-{: .center-block }
-![the float](/images/mlkGP2013_1.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![the float](/img/mlkGP2013_1.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 The Grand Prairie Unity Coalition supports the city's annual parades &mdash;
 MLK, Cinco de Mayo, Juneteenth &mdash; every year. Last year, I merely helped to
@@ -57,8 +60,9 @@ not be the last time I do so, for it felt that our spirits where lifted above
 the material, and that we showed in some small way what it means to live
 together as brothers.
 
-{: .center-block }
-![children in the float](/images/mlkGP2013_2.jpg){: .img-fluid .border .rounded }
+<div class="text--center">
+![children in the float](/img/mlkGP2013_2.jpg)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 [1] "Martin Luther King Jr. - Nobel Lecture: The Quest for Peace and Justice".
 Nobelprize.org. 19 Jan 2013 [http://www.nobelprize.org/nobel_prizes/peace/laureates/1964/king-lecture.html](http://www.nobelprize.org/nobel_prizes/peace/laureates/1964/king-lecture.html)

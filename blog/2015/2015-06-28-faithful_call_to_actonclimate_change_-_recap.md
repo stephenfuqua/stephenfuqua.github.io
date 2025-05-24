@@ -14,7 +14,7 @@ eco-theology project for the <a href="http://www.greenfaith.org">GreenFaith
 Fellowship</a>. The presentation is accessible at [GreenBahai.com](http://www.greenbahai.com/#/discourse). It addresses
 the following topics from an multi-faith perspective:
 
-![screen grab of presentation cover slide](/images/faithfulCallToAct.png){: .float-right}
+![screen grab of presentation cover slide](/img/faithfulCallToAct.png){: .float-right}
 
 * Highlight key themes in religious responses to climate change: <ul> <li>Love of Creation
 * Urgency

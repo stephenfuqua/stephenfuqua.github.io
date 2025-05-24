@@ -9,8 +9,9 @@ Recently I was talking with a friend and extolling the virtues of using NuGet pa
 
 But the most important piece is this: you don't have to bundle your dependencies with your installer package. You just need to "wire" them up properly in the .nuspec specification file, and make them available. Now, let's talk about managing those packages.
 
-{: .center-block }
-![diagram](/images/packaging.png){: .img-fluid .border .rounded }
+<div class="text--center">
+![diagram](/img/packaging.png)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 ## Teasing Apart the Dependencies
 

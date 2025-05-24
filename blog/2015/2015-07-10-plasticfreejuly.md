@@ -8,7 +8,7 @@ tags:
 ---
 
 {: .float-right}
-<a href="https://www.flickr.com/photos/mbeo52/3276997568/in/photolist-5Zztd5-9wBV4g-2crwN-4PdrRb-pGsnhV-9PjFwY-9aXpaS-mSDByV-7HAYLQ-m8aMEc-jAAwuC-8eu4XU-5LhE7L-83MGRE-grEcNh-nvipJh-7Ai73n-7j8mC-E1B66-8oCwRk-7GgSE2-7Hx3NP-35W7U1-4ZH2fp-7DgEjU-5fgY1N-794oZA-77ioG2-78ZB8n-54VSQQ-78Zpm2-q2PtYc-2PoQq-7v9miT-8QWen6-7jRtgt-ksNbHZ-wvqtH-2RN1dJ-7AKMsJ-nZKUs9-8kDCq6-78ZpS8-7mupFc-27TWfq-4wGTeG-8zbZgS-ow5ig-4TXrDX-6o63KT/">![walls of plastic ready for recycling](/images/plasticWalls.jpg)<br>
+<a href="https://www.flickr.com/photos/mbeo52/3276997568/in/photolist-5Zztd5-9wBV4g-2crwN-4PdrRb-pGsnhV-9PjFwY-9aXpaS-mSDByV-7HAYLQ-m8aMEc-jAAwuC-8eu4XU-5LhE7L-83MGRE-grEcNh-nvipJh-7Ai73n-7j8mC-E1B66-8oCwRk-7GgSE2-7Hx3NP-35W7U1-4ZH2fp-7DgEjU-5fgY1N-794oZA-77ioG2-78ZB8n-54VSQQ-78Zpm2-q2PtYc-2PoQq-7v9miT-8QWen6-7jRtgt-ksNbHZ-wvqtH-2RN1dJ-7AKMsJ-nZKUs9-8kDCq6-78ZpS8-7mupFc-27TWfq-4wGTeG-8zbZgS-ow5ig-4TXrDX-6o63KT/">![walls of plastic ready for recycling](/img/plasticWalls.jpg)<br>
 &copy; Marco Beltrametti 2009,<br>some rights reserved (
 [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/) ).
 
@@ -97,7 +97,7 @@ Scary New Evidence on BPA-Free Plastics&hellip; And the Big Tobacco-style
 campaign to bury it](http://www.motherjones.com/environment/2014/03/tritan-certichem-eastman-bpa-free-plastic-safe), by Mariah Blake, _Mother Jones_, March/April 2014.
 
 {: .float-right }
-<a href="https://www.flickr.com/photos/29069717@N02/13543488693/in/photolist-mCMVkK-7usXr9-4EjGoh-enYX3N-28jFN6-bpsiMq-bxdkUM-ce4kAy-tYnCPH-ceL4wu-ceL3jE-ceL48S-4s3WXA-ceL3M9-cNYPtq-5seVp-2SSnxo-ai7pAx-ceL4tu-ceL4r1-bXoyY6-5GNkq-bXoz5v-bXozeB-ceL4DG-ceL4jY-bnTfGY-5tiUQ2-ceL3fW-4w36hs-8vgBsP-9veAqQ-ceL4nG-bXoxMH-bXoz26-bXoz8g-7yLTk3-6v3Dwy-aCyE7N-p6456k-4EfrZr-k5f2sa-4cNVuq-bsFKcK-dzVBcB-7hZWNf-75Mwqs-nWAefT-6rjzZ2-7yH71a">![Old ad for bouillon cubes in plastic container](/images/plasticBouillon.jpg){: .border .rounded}<br>
+<a href="https://www.flickr.com/photos/29069717@N02/13543488693/in/photolist-mCMVkK-7usXr9-4EjGoh-enYX3N-28jFN6-bpsiMq-bxdkUM-ce4kAy-tYnCPH-ceL4wu-ceL3jE-ceL48S-4s3WXA-ceL3M9-cNYPtq-5seVp-2SSnxo-ai7pAx-ceL4tu-ceL4r1-bXoyY6-5GNkq-bXoz5v-bXozeB-ceL4DG-ceL4jY-bnTfGY-5tiUQ2-ceL3fW-4w36hs-8vgBsP-9veAqQ-ceL4nG-bXoxMH-bXoz26-bXoz8g-7yLTk3-6v3Dwy-aCyE7N-p6456k-4EfrZr-k5f2sa-4cNVuq-bsFKcK-dzVBcB-7hZWNf-75Mwqs-nWAefT-6rjzZ2-7yH71a">![Old ad for bouillon cubes in plastic container](/img/plasticBouillon.jpg){: .border .rounded}<br>
 By "Classic Film", 2014,<br>Some rights reserved (CC-BY-NC).
 
 ### Risk and Reward

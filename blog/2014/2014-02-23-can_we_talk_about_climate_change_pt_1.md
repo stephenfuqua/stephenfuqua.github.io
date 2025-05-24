@@ -26,7 +26,7 @@ blog posts reflecting on the conversations.
 <!-- truncate -->
 
 {: .float-right }
-![Stephen talking](/images/sf_Presenting_2014_02_16.jpg){: .border .rounded }<br>
+![Stephen talking](/img/sf_Presenting_2014_02_16.jpg){: .border .rounded }<br>
 Photo by [Jay Braden](https://www.jaybraden.net/)
 
 _Summary of "Moral Imperatives for Climate Action" presentation:_
@@ -75,8 +75,8 @@ attention. The answer I came up with the next day was probably subconsciously
 influenced by the responses from others. Hypothetical conversation:
 
 <style type="text/css">
-.maryam { padding-left: 60px; background-image: url('/images/woman.png'); background-position: top left; background-repeat: no-repeat; min-height: 50px;}
-.thomas { padding-right: 60px; background-image: url('/images/strawMan.png'); background-position: top right; background-repeat: no-repeat; min-height: 50px; }
+.maryam { padding-left: 60px; background-image: url('/img/woman.png'); background-position: top left; background-repeat: no-repeat; min-height: 50px;}
+.thomas { padding-right: 60px; background-image: url('/img/strawMan.png'); background-position: top right; background-repeat: no-repeat; min-height: 50px; }
 </style>
 
 {: .maryam }

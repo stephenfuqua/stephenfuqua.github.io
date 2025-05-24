@@ -46,7 +46,7 @@ perhaps we can find ways to achieve the scalability/impartiality goals of
 algorithms while upholding true equity and justice.
 
 {: .center-block}
-![equality, equity, justice graphic](/images/equality_equity_justice.jpg){: .img-fluid .border .rounded}<br>
+![equality, equity, justice graphic](/img/equality_equity_justice.jpg){: .img-fluid .border .rounded}<br>
 <small>Justice: changing conditions, removing the barriers. Could not find the original
 source to credit, so I drew my own version of this thought-provoking graphic. I
 leave the sport being played behind the fence up to your imagination.</small>
@@ -90,7 +90,7 @@ more of our pool of successful loan applicants than all other models? Admittedly
 this was an eyeball test, not a rigorous and statistically valid experiment.
 
 {: .float-right}
-![create model, test, tweak, validate, evaluate](/images/create-test-tweak-validate-evaluate.jpg){: .border .rounded }
+![create model, test, tweak, validate, evaluate](/img/create-test-tweak-validate-evaluate.jpg){: .border .rounded }
 
 Machine learning is the automated process of creating models, testing them
 against a sample, and seeing which yields the best predictions. Then (if you are
@@ -117,8 +117,9 @@ sure the baseline data are meaningful and valid for the problem, listen to
 domain experts, and most of all treat equity and justice as key features to be
 baked in rather than bolted on.
 
-{: .center-block }
-![blurred image of the scoring spreadsheet](/images/prequalification.png){: .img-fluid .border .rounded }
+<div class="text--center">
+![blurred image of the scoring spreadsheet](/img/prequalification.png)<!-- {: .img-fluid .border .rounded } -->
+</div>
 
 ---
 

@@ -20,7 +20,7 @@ tutorial](http://www.mindscapehq.com/blog/index.php/2012/1/12/caliburn-micro-par
 and CM's _Conductors_.
 
 {: .text-center}
-![simple chart showing a branching workflow](/images/workflow.png)
+![simple chart showing a branching workflow](/img/workflow.png)
 
 <!-- truncate -->
 
@@ -204,11 +204,11 @@ setInterval(animate, 13000);
 </script>
 
 <div style="text-align: center; width: 350px; height: 400px;">
-	<img id="wfd0" src="/images/wfd1.png" style="width:350px;height:400px;" />
-	<img id="wfd1" src="/images/wfd2.png" style="width:350px;height:400px;display:none;" />
-	<img id="wfd2" src="/images/wfd3.png" style="width:350px;height:400px;display:none;" />
-	<img id="wfd3" src="/images/wfd4.png" style="width:350px;height:400px;display:none;" />
-	<img id="wfd4" src="/images/wfd0.png" style="width:350px;height:400px;display:none;" />
+	<img id="wfd0" src="/img/wfd1.png" style="width:350px;height:400px;" />
+	<img id="wfd1" src="/img/wfd2.png" style="width:350px;height:400px;display:none;" />
+	<img id="wfd2" src="/img/wfd3.png" style="width:350px;height:400px;display:none;" />
+	<img id="wfd3" src="/img/wfd4.png" style="width:350px;height:400px;display:none;" />
+	<img id="wfd4" src="/img/wfd0.png" style="width:350px;height:400px;display:none;" />
 </div>
 
 And there you have it: clean, easily-maintained, expandable, object-oriented

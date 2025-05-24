@@ -51,8 +51,9 @@ back on myself after all. Nevertheless, self-reflection is critical if I am to
 of this great republic toward the full realization of its glorious destiny"
 (from the _Vision of Race Unity_).
 
-{: .center-block }
+<div class="text--center">
 ***
+</div>
 
 <a name="1">*</a> Resources dealing with climate and pollution impacts on health and justice:
 * [Here's how environmental justice advocates improved Obama's Clean Power Plan](http://grist.org/climate-energy/heres-how-environmental-justice-advocates-improved-obamas-clean-power-plan/), by Jalonne L. White-Newsome in Grist (Aug 2015).

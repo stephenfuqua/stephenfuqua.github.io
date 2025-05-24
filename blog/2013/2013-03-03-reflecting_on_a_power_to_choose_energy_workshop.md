@@ -8,7 +8,7 @@ tags:
 ---
 
 {: .float-right }
-![lightbulb image](/images/lighbulbOn.png)
+![lightbulb image](/img/lighbulbOn.png)
 
 Lately, I have been in such a mode of _doing_ that _being_ has taken a back
 seat. As I try to enter a more contemplative mood, particularly regarding social

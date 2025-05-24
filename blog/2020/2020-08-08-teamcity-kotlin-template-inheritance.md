@@ -59,7 +59,7 @@ several templates and build configurations.
 
 ## Classes
 
-![Class diagram](/images/kotlin-template-base-classes-1.png)
+![Class diagram](/img/kotlin-template-base-classes-1.png)
 
 ### BuildBaseClass
 

@@ -9,7 +9,7 @@ tags:
 - inclusion
 ---
 
-![photo from EarthDayTX booth](/images/dallasIPL_EDTX2015.jpg){: .float-right .border .rounded }
+![photo from EarthDayTX booth](/img/dallasIPL_EDTX2015.jpg){: .float-right .border .rounded }
 
 A disturbing thing happened at Earth Day Texas - racists and nativists showed up
 masquerading as environmentalists. A tweet from the Southern Poverty Law Center

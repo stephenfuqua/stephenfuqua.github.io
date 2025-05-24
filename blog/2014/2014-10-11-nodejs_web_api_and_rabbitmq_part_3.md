@@ -132,7 +132,7 @@ and can be consumed by the MassTransit-based test helper class, documented in
 part 1. Let's look at this in action: open a browser window, type a
 message-formatted URL, and watch it show up in the message queue:
 
-![composite screenshot](/images/webApi_RabbitMQ.png){: .text-center}
+![composite screenshot](/img/webApi_RabbitMQ.png){: .text-center}
 
 And here is the message in the queue. Note that it is in the
 **apitest_webapi_error** queue, with **_error** appended. This is because I have

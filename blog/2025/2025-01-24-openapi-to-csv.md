@@ -15,8 +15,9 @@ an Open API specification file to a CSV. There is nothing revolutionary in this
 small win; countless programmers have doubtlessly done much more. But a
 reluctant engineer has to start somewhere.
 
-{: .center-block }
-![Screenshot of prompt entry and Copilot response](/images/openapi-to-csv-copilot.png){: .img-fluid}
+<div class="text--center">
+![Screenshot of prompt entry and Copilot response](/img/openapi-to-csv-copilot.png){: .img-fluid}
+</div>
 
 <!-- truncate -->
 

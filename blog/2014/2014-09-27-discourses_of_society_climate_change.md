@@ -9,7 +9,7 @@ tags:
 ---
 
 {: .float-right }
-![aqueduct](/images/MazraehAquaduct.JPG){: .border .rounded }<br>
+![aqueduct](/img/MazraehAquaduct.JPG){: .border .rounded }<br>
 <small>Aqueduct-as-garden outside<br>
 the Mansion of Mazra'eh<br>
 in Israel. November 2010.</small>
