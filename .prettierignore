@@ -1,6 +1,14 @@
+.docusaurus/
+.sass-cache/
+node_modules/
+drafts/
+
 # Ignore artifacts:
 build
 coverage
 
 # Use markdownlint for formatting Markdown files - has more control
 *.md
+
+# Temporary
+staged-blog
