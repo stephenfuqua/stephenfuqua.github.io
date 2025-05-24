@@ -95,7 +95,7 @@ const config = {
                 },
                 items: [
                     { to: "/", label: "Blog", position: "left" },
-                    { to: "/docs", label: "About", postiion: "left"},
+                    { to: "/docs", label: "About", postiion: "left" },
                     {
                         href: "https://github.com/stephenfuqua",
                         label: "GitHub",
