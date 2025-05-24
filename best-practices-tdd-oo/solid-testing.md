@@ -7,14 +7,13 @@ tags: [testing, programming, oo]
 
 S.O.L.I.D. (henceforth "SOLID") is a set of object-oriented design principals, assembled by Robert C. Martin and popularized in many of his articles and books. The following table is from his article [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod):
 
-{: .table .table-striped .table-bordered}
-| Acronym | Principle | Summary |
-| -- | -- | -- |
-| SRP | The Single Responsibility Principle | A class should have one, and only one, reason to change. |
-| OCP | The Open Closed Principle | You should be able to extend a class's behavior, without modifying it. |
-| LSP | The Liskov Substitution Principle | Derived classes must be substitutable for their base classes. |
-| ISP | The Interface Segregation Principle | Make fine grained interfaces that are client specific. |
-| DIP | The Dependency Inversion Principle | Depend on abstractions, not on concretions. |
+| Acronym | Principle                           | Summary                                                                |
+| ------- | ----------------------------------- | ---------------------------------------------------------------------- |
+| SRP     | The Single Responsibility Principle | A class should have one, and only one, reason to change.               |
+| OCP     | The Open Closed Principle           | You should be able to extend a class's behavior, without modifying it. |
+| LSP     | The Liskov Substitution Principle   | Derived classes must be substitutable for their base classes.          |
+| ISP     | The Interface Segregation Principle | Make fine grained interfaces that are client specific.                 |
+| DIP     | The Dependency Inversion Principle  | Depend on abstractions, not on concretions.                            |
 
 There are a myriad of good, detailed explanations [on the web](https://duckduckgo.com/?q=solid+object+oriented+design&ia=web). This article is about the relationship between SOLID and unit testing, and it will not make much of an attempt to explain the details of the various principles.
 
@@ -210,8 +209,11 @@ In effect, this is turning the `HumanResourcesDbContext` into a set of Repositor
 
 So while the principle is sound and theoretically useful, in practice I've not seen it used often in clean code, highly testable code.
 
-{: .mx-auto .w-75 .p-3 .mb-2 .bg-info .text-white }
-For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/testinging-with-ef-core/){: .text-dark }
+:::tip
+
+For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/testinging-with-ef-core/)
+
+:::
 
 ## Dependency Inversion Principle (DIP)
 

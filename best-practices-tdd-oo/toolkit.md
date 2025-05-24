@@ -5,7 +5,11 @@ date: 2020-01-16
 tags: [testing, programming, oo]
 ---
 
-{: .bg-warning }Unfinished work-in-progress
+:::warning
+
+Unfinished work-in-progress
+
+:::
 
 My current favorite tools:
 

@@ -23,14 +23,23 @@ Develop test cases to explore a reasonable set of inputs. Build test cases that 
 
 This is the classic mantra of test-driven development (TDD):
 
-{: .bg-danger }
+:::danger
+
 Write a test that fails
 
-{: .bg-success }
+:::
+
+:::tip
+
 Write code that passes the test
 
-{: .bg-info }
+:::
+
+:::info
+
 Cleanup the code so that it is easy to understand and maintain.
+
+:::
 
 Note the emphasis on writing a test first. Why is that?
 
@@ -69,7 +78,9 @@ Behavior-Driven Development, or BDD for short, is a variation on TDD that is foc
 
 It should be clear that this is a reformulation of Arrange-Act-Assert. This language can be useful in TDD, especially when [structuring test classes](patterns) and methods so that the test output report is meaningful to non-developers. When writing tests as [nested classes](patterns#one-assert-per-test), I like to keep the action (which is invariant) in a parent class, changing the order to _When-Given-Then_. In ReSharper, I thus getting something like this:
 
-![Example When-Given-Then test results](/images/test_results_when_given_then.png){: .center-image }
+<div class="text--center">
+![Example When-Given-Then test results](/img/test_results_when_given_then.png)
+</div>
 
 ------------------------------
 
