@@ -41,5 +41,29 @@
   },
   "engines": {
     "node": ">=18.0"
+  },
+  "markdownlint-cli2": {
+    "config": {
+      "default": true,
+      "line-length": false,
+      "no-inline-html": {
+        "allowed_elements": [
+          "div",
+          "kbd",
+          "DocCardList",
+          "details",
+          "summary",
+          "br",
+          "iframe",
+          "sup"
+        ]
+      },
+      "emphasis-style": {
+        "style": "underscore"
+      },
+      "ul-style": {
+        "style": "asterisk"
+      }
+    }
   }
 }
