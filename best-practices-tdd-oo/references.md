@@ -32,4 +32,4 @@ Books and a few relevant articles that influenced the techniques found in this w
 
 ------------------------------
 
-_[Back to the introduction / table of contents](intro)_
+_[Back to the introduction / table of contents](./readme.md)_

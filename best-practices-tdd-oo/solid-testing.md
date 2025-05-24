@@ -223,4 +223,4 @@ Code smell: if you find yourself injecting more than one dependency into a class
 
 ------------------------------
 
-_[Back to the introduction / table of contents](intro)_
+_[Back to the introduction / table of contents](./readme.md)_
