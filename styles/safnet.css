@@ -5,7 +5,7 @@ body {
 
 
 .jumbotron {
-    background: transparent url(../images/mexicanHat.png) no-repeat;
+    background: transparent url(../img/mexicanHat.png) no-repeat;
     margin: 0;
     height: 250px;
     position: relative
