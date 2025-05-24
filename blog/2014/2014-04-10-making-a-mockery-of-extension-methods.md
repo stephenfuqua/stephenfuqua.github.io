@@ -8,6 +8,8 @@ Recently I have been looking at [ServiceStack's OrmLite](https://github.com/Serv
 
 And then I found quite the challenge: I wanted to write unit tests that insure that I'm using OrmLite correctly. I was not interested (for the time being) in testing OrmLite's interaction with SQL Server itself. That is, I wanted behavioral unit tests rather than database integration tests.  Time for a [mock](https://martinfowler.com/articles/mocksArentStubs.html). But what would I mock? This ORM framework makes extensive use of [extension methods](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods) that run off of the core `IDbConnection` interface from the .Net framework - so it would seem that there is no way to take advantage of [Dependency Injection](http://msdn.microsoft.com/en-us/magazine/cc163739.aspx).
 
+<!--truncate-->
+
 Enter the static delegates method promoted by Daniel Cazzulino (2025: article has disappeared). OK, so we have Constructor and Property Injection methods already. And now they are joined by have Delegate Injection. Let us take this simple example from a hypothetical [repository class](https://martinfowler.com/eaaCatalog/repository.html):
 
 ```csharp
