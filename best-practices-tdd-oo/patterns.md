@@ -3,6 +3,7 @@ title: "Patterns for Writing Clean Test Cases"
 permalink: /best-practices-tdd-oo/patterns
 date: 2020-01-16
 tags: [testing, programming, oo]
+sidebar_position: 4
 ---
 
 Each team will want to find its own style for expressing unit tests. Or multiple styles, depending on the situation. The patterns below represent just a handful of techniques that may be useful in creating easy-to-read and easy-to-maintain unit tests.

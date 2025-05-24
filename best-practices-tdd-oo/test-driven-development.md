@@ -3,6 +3,7 @@ title: "Test Driven Development"
 permalink: /best-practices-tdd-oo/test-driven-development
 date: 2020-01-17
 tags: [testing, programming, oo]
+sidebar_position: 3
 ---
 
 ## Thinking Like QA

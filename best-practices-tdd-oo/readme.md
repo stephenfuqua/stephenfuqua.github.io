@@ -3,6 +3,7 @@ title: "Best Practices in Test-Driven, Object Oriented, Green- and Brownfield De
 permalink: /best-practices-tdd-oo
 date: 2020-01-12
 tags: [testing, programming, oo]
+sidebar_position: 0
 ---
 
 Developing clean, testable, code has been a passion since my first full-time job as a programmer, when I inherited a mess of spaghetti-code in the form of a large ASP classic web application. Since 2009 I've written written more than a dozen blog posts on [unit testing](/tags/testing), created several presentations, and evangelized unit testing at every opportunity.

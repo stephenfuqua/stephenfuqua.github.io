@@ -3,6 +3,7 @@ title: "SOLID and Unit Testing"
 permalink: /best-practices-tdd-oo/solid-testing
 date: 2020-01-12
 tags: [testing, programming, oo]
+sidebar_position: 1
 ---
 
 S.O.L.I.D. (henceforth "SOLID") is a set of object-oriented design principals, assembled by Robert C. Martin and popularized in many of his articles and books. The following table is from his article [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod):

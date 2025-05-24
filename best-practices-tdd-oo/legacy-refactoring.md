@@ -3,6 +3,7 @@ title: "Legacy Refactoring Isolation Patterns"
 permalink: /best-practices-tdd-oo/legacy-refactoring
 date: 2020-01-13
 tags: [testing, programming, oo]
+sidebar_position: 2
 ---
 
 Any code that has been released is "legacy code." This article is about that really old legacy code your team inherited (from itself?). It wasn't designed in a way that is amenable to unit testing, and yet you're on a mission to add features, stamp out bugs, and improve the quality through refactoring. Here are some brief, practical tips for getting through this Gordian knot without a scimitar.
