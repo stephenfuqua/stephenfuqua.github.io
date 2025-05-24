@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: "Stephen A. Fuqua (safnet) - Blog",
   tagline: "Stephen A. Fuqua (SAF) is a Bahá'í, software engineer, and nature lover in Austin, Texas, USA.",
-  favicon: "img/favicon.png",
+  favicon: "img/BHCU-logo-safnet-small.webp",
 
   // Set the production url of your site here
   url: "https://blog.safnet.com",
@@ -75,10 +75,10 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Stephen A. Fuqua (safnet) - Blog",
+        title: "Stephen A. Fuqua",
         logo: {
           alt: "Stephen A. Fuqua Logo",
-          src: "img/logo.svg",
+          src: "img/BHCU-logo-safnet-small-darktheme.webp",
         },
         items: [
         //   { to: "/blog", label: "Blog", position: "left" },
