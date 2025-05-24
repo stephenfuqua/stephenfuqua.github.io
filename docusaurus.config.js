@@ -145,6 +145,35 @@ const config = {
         additionalLanguages: ['powershell', 'csharp', 'sql', 'json', 'ini', 'bash'],
       },
     }),
+    headTags: [
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'preconnect',
+            href: 'https://fonts.googleapis.com',
+          },
+        },
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'preconnect',
+            href: 'https://fonts.gstatic.com',
+            crossorigin: 'anonymous',
+          },
+        },
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'stylesheet',
+            href: 'https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap',
+          },
+        },
+      ],
+      stylesheets: [
+        {
+          href: 'https://unpkg.com/@antonz/codapi@0.19.7/dist/snippet.css',
+        },
+      ],
     markdown: {
       mermaid: true,
     },

@@ -15,7 +15,10 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-link-color: #00A576;
+
+  --ifm-link-color: #037F67;
+  --ifm-heading-color: #3B197B;
+  --ifm-font-family-base: "Noto Sans", system-ui, apple-system, Helvetica, Arial, sans-serif;
 }
 
 .image {
