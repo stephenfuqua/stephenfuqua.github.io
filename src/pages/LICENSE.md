@@ -1,6 +1,9 @@
-Content and design are published under the Creative Commons Attribution-ShareAlike
-4.0 License: <https://creativecommons.org/licenses/by-sa/4.0/>. Copyright © Stephen A.
-Fuqua, some rights reserved.
+# License
+
+Content and design are published under the [Creative Commons
+Attribution-ShareAlike 4.0
+License](https://creativecommons.org/licenses/by-sa/4.0/). Copyright © Stephen
+A. Fuqua, some rights reserved.
 
 Unless otherwise stated or granted, source code is licensed under the MIT license:
 

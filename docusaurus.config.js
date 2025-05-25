@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "Stephen A. Fuqua (safnet) - Blog",
+    title: "Stephen A. Fuqua - Blog",
     tagline:
         "Stephen A. Fuqua (SAF) is a Bahá'í, software engineer, and nature lover in Austin, Texas, USA.",
     favicon: "img/BHCU-logo-safnet-small.webp",
@@ -61,6 +61,8 @@ const config = {
                     onInlineTags: "warn",
                     onInlineAuthors: "warn",
                     onUntruncatedBlogPosts: "warn",
+                    blogDescription:
+                        "Stephen A. Fuqua writes about technology, the natural world, and religion.",
                 },
                 theme: {
                     customCss: "./src/css/custom.css",
@@ -111,47 +113,48 @@ const config = {
             footer: {
                 style: "dark",
                 links: [
-                    //   {
-                    //     title: "Docs",
-                    //     items: [
-                    //       {
-                    //         label: "Tutorial",
-                    //         to: "/docs/intro",
-                    //       },
-                    //     ],
-                    //   },
-                    //   {
-                    //     title: "Community",
-                    //     items: [
-                    //       {
-                    //         label: "Stack Overflow",
-                    //         href: "https://stackoverflow.com/questions/tagged/docusaurus",
-                    //       },
-                    //       {
-                    //         label: "Discord",
-                    //         href: "https://discordapp.com/invite/docusaurus",
-                    //       },
-                    //       {
-                    //         label: "Twitter",
-                    //         href: "https://twitter.com/stephen_fuqua",
-                    //       },
-                    //     ],
-                    //   },
-                    //   {
-                    //     title: "More",
-                    //     items: [
-                    //       {
-                    //         label: "Blog",
-                    //         to: "/blog",
-                    //       },
-                    //       {
-                    //         label: "GitHub",
-                    //         href: "https://github.com/stephenfuqua",
-                    //       },
-                    //     ],
-                    //   },
+                    {
+                        title: "Blog",
+                        items: [
+                            {
+                                label: "Latest Posts",
+                                to: "/",
+                            },
+                            {
+                                label: "Archive",
+                                to: "/archive",
+                            },
+                            {
+                                label: "Tags",
+                                to: "/tags",
+                            },
+                        ],
+                    },
+                    {
+                        title: "Other Sites",
+                        items: [
+                            {
+                                label: "South Central Regional Training Institute",
+                                href: "https://www.southcentralrti.org",
+                            },
+                            {
+                                label: "Green Bahá'í",
+                                href: "https://www.greenbahai.com",
+                            },
+                            {
+                                label: "InterfaithNews.Net (in memoriam)",
+                                href: "https://www.safnet.com/inn/",
+                            },
+                        ],
+                    },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} Stephen A. Fuqua. Built with Docusaurus.`,
+                copyright: `
+                <p>The information on this site, unless otherwise attributed, is the sole opinion of its author and should not be construed
+                as reflecting the views of any organization or employer unless explicitly stated.</p>
+                <p>Copyright © ${new Date().getFullYear()} Stephen A. Fuqua. Built with Docusaurus. Content and design are published under
+                the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution - ShareAlike 4.0 License</a>.
+                Unless otherwise stated or granted, source code is licensed under the <a href="/LICENSE">MIT license</a>.`
+
             },
             prism: {
                 theme: prismThemes.github,
