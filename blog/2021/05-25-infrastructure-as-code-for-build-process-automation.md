@@ -50,11 +50,11 @@ limitations.
 
 ### Why?
 
-Many tools provide useful <acronym title="Graphical User
-Interface">GUI</acronym>s that allow you to, more-or-less quickly, setup a CI/CD
-process through point, click, and typing in some small attributes like project
-name. Until you get used to it, writing code instead of clicking might actually
-take longer. So why do it?
+Many tools provide useful <abbr title="Graphical User Interface">GUI</abbr>s
+that allow you to, more-or-less quickly, setup a CI/CD process through point,
+click, and typing in some small attributes like project name. Until you get used
+to it, writing code instead of clicking might actually take longer. So why do
+it?
 
 * Repeatability - what happens when you need to transfer the instructions to
   another computer/server? Re-apply a text file vs. click around all over again.
@@ -97,8 +97,9 @@ the same commands on your development workstation.
 How do you avoid vendor lock-in? "Universalize" &mdash; create a process that can be
 transported to any tool with ease. This likely means writing imperative scripts.
 
-{: .center-block}
+<div class="image">
 ![Image of NUnit configuration with caption "how do i run this locally?"](/img/iac-how-do-i-run-this-locally.jpg)
+</div>
 
 The screenshot above is from TeamCity, showing a build runner step for running
 NUnit on a project. A developer who does not know how to run NUnit at the
@@ -335,7 +336,7 @@ changes can be scripted and then picked up by Octopus Deploy instead of vice
 versa.
 
 In the [Ed-Fi ODS/API
-application](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Implementation/blob/main/logistics/scripts/modules/octopus-deploy-management.psm1)
+application](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Implementation/blob/v7.3/logistics/scripts/modules/octopus-deploy-management.psm1)
 there's a PowerShell script that imperatively creates channels and releases, and
 deploys releases, on Octopus Deploy &mdash; all without having to click around
 in the user interface. The following example imports the module; runs a command
@@ -468,4 +469,4 @@ the benefit of both. Good DevOps references include:
 
 All code samples shown here are from projects manged by the [Ed-Fi
 Alliance](https://www.ed-fi.org), and are used under the terms of the [Apache
-License, version 2.0](https://github.com/Ed-Fi-Alliance-OSS/LMS-Toolkit/blob/main/LICENSE).
+License, version 2.0](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-Implementation/blob/v7.3/LICENSE.txt).

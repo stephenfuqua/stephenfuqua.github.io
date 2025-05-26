@@ -29,8 +29,9 @@ Control](http://cruisecontrol.sourceforge.net/) helped cure me of that).
 
 <!-- truncate -->
 
-{: .float-right }
+<div class="image">
 ![Screenshot of CLI-based hacking in The Matrix](/img/matrix-shell.png)
+</div>
 
 Many developers eventually learn the command line options, and the level of
 comfort probably varies greatly depending on the language. This article is
@@ -39,31 +40,37 @@ different languages. It is also dedicated to IT workers who are approaching
 DevOps from the Ops perspective, which is to say with less familiarity with the
 developer's basic toolkit.
 
-<br>
+:::tip
 
-{: .alert .alert-primary .mt-2 }
-TIP: an IDE is simply a GUI that "integrates" the source code text editor with
+An IDE is simply a GUI that "integrates" the source code text editor with
 menus for various commands and various panels to help you see many different
 types of additional project information all on one screen.
+
+:::
 
 ## The Command Line Interface
 
 To be clear, this article is about _typing_ commands rather than clicking
 on them. It is the difference between pulling up a menu in the IDE:
 
-{: .center-block}
+<div class="image">
 ![Screenshot of Visual Studio showing the build solution command](/img/vs2019-build-solution-menu.png)
+</div>
 
 and knowing how to do this with just the keyboard in your favorite shell:
 
-{: .center-block}
+<div class="image">
 ![Screenshot of dotnet build](/img/powershell-dotnet-build.png)
+</div>
 
-{: .alert .alert-primary }
+:::tip
+
 ASIDE: what do I mean by shell? That's just the name of the command line
 interpreter in an operating system. Windows has cmd.exe (based on the venerable
 MS-DOS) and PowerShell. Linux and Unix systems have a proliferation of shells,
 most famously Bash.
+
+:::
 
 Why would you want to use the shell when there is an easier way by clicking
 in the IDE?
@@ -124,6 +131,7 @@ essentially exists for the specific purpose of compiling that code so that it
 becomes executable, whereas CLI's for interpreted code are there for the purpose
 of execution. Everything else they do is just convenience.
 
+<!-- markdownlint-disable MD033 -->
 <table class="table table-striped table-bordered">
   <tr>
     <th></th>
@@ -137,18 +145,21 @@ of execution. Everything else they do is just convenience.
   </tr>
   <tr>
     <th>Source Code</th>
-      <td> <pre>print("hello world")</pre> </td>
+      <td> ```python
+print("hello world")``` </td>
     <td>
-        <pre>#include &lt;iostream&gt;
-int main() { std::cout &lt;&lt; "Hello World!\n"; }
-        </pre>
+        ```cpp
+#include &lt;iostream&gt;
+int main() { std::cout << "Hello World!\n"; }
+        ```
     </td>
   </tr>
   <tr>
     <th>Project File</th>
     <td><em>not applicable</em></td>
     <td>
-        <pre> &lt;Project DefaultTargets="Build" ToolsVersion="16.0"
+        ```xml
+&lt;Project DefaultTargets="Build" ToolsVersion="16.0"
   xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
   &lt;ItemGroup&gt;
     &lt;ProjectConfiguration Include="Debug|Win32"&gt;
@@ -170,43 +181,41 @@ int main() { std::cout &lt;&lt; "Hello World!\n"; }
     &lt;Compile Include="main.cpp" /&gt;
   &lt;/ItemGroup&gt;
   &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" /&gt;
-&lt;/Project&gt;    </pre>
+&lt;/Project&gt;
+```
     </td>
    </tr>
    <tr>
     <th>Compile Command</th>
     <td> <em>not applicable</em> </td>
-    <td> <pre>msbuild example.vcxproj</pre> </td>
+    <td> ```shell
+msbuild example.vcxproj``` </td>
    </tr>
    <tr>
      <th>Run Command</th>
-     <td> <pre>python main.py</pre> </td>
-    <td> <pre>.\debug\example.exe</pre> </td>
+     <td> ```shell
+python main.py``` </td>
+    <td> ```shell
+.\debug\example.exe``` </td>
    </tr>
 </table>
+<!-- markdownlint-restore -->
 
 Here are some sample build commands using various tools for compiled languages:
 
 ```shell
-> # Java - simplest example
-> javac myfile.java
+# Java - simplest example
+javac myfile.java
 
-> # Java and related languages - using Maven
-> mvn compile
+# Java and related languages - using Maven
+mvn compile
 
-> # DotNet Core / .NET Framework 5+
-> dotnet build
+# DotNet Core / .NET Framework 5+
+dotnet build
 
-> # C and C++, old school
-> make
+# C and C++, old school
+make
 ```
-
-{: .alert .alert-primary }
-TIPS: Every shell has a _prompt_ indicating that it
-is ready for you to type input after the prompt character; `>` and `$` are two
-common prompt characters. Thus when retyping the command, you would type "make" instead of
-typing the literal text "&gt; make". The `#` symbol is commonly used to indicate
-that this is a comment, and the command line interpreter will ignore that line.
 
 ### Package Management
 
@@ -281,22 +290,22 @@ Many of these tools are standalone executable CLI's. Here are some example
 commands for various tasks and languages:
 
 ```shell
-> # Run NUnit style automated tests in .NET Framework code
-> nunit3-console.exe someProjectName.dll
+# Run NUnit style automated tests in .NET Framework code
+nunit3-console.exe someProjectName.dll
 
-> # In a DotNet Core / .NET Framework 5+ project, can run these with tests
-> dotnet test
+# In a DotNet Core / .NET Framework 5+ project, can run these with tests
+dotnet test
 
-> # Python has a concept called a "virtual environment". If you are
-> # "in the virtual environment" you can run:
-> pytest
+# Python has a concept called a "virtual environment". If you are
+# "in the virtual environment" you can run:
+pytest
 
-> # Or if you use the Poetry tool, it will prepare the virtual environment
-> # on your behalf. Longer command, but it does simplify things over all.
-> poetry run pytest
+# Or if you use the Poetry tool, it will prepare the virtual environment
+# on your behalf. Longer command, but it does simplify things over all.
+poetry run pytest
 
-> # And here's a Python lint program that checks the quality of the code:
-> poetry run flake8
+# And here's a Python lint program that checks the quality of the code:
+poetry run flake8
 ```
 
 ## Project Files
@@ -350,7 +359,6 @@ We've already seen arguments in several examples above. Here are some more:
 | `tsc index.ts` | 1 | "index.ts" |
 | `npm run start` | 2 | "run", "start" |
 | `dotnet nuget push -k abcd12345` | 4 | "nuget", "push", "-k", "abcd12345" |
-{: .table .table-striped}
 
 The last example introduces something new: command line options. An argument
 that begins with `-`, `--`, or sometimes `/` signals that an "optional argument"
@@ -376,7 +384,7 @@ To find more documentation, you can usually do a web search like "[mvn
 cli](https://www.google.com/search?q=mvn+cli)". Or, most tools have help
 available through a `help` command or an option:
 
-```bash
+```shell
 sometool help
 sometool -h
 sometool --help

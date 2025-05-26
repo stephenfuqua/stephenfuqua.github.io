@@ -50,7 +50,7 @@ today and those yet to be born.
 
 A passage of beautiful prose from pages 1-2 of _The Home Place_, to give you a
 taste of what is in store. After describing his ethno-racial heritage &mdash;
-primarily African American with an admixture of European , American Indian,
+primarily African American with an admixture of European, American Indian,
 Asian, "and Neanderthal tossed in" &mdash; he remarks,
 
 > "But that's only a part of the whole: There is also the red of miry clay,
@@ -64,44 +64,45 @@ Asian, "and Neanderthal tossed in" &mdash; he remarks,
 ---
 
 Birds seen at the "backyard" feeder this morning while reading. Photos are a few
-weeks old but all of these species were observed today. &copy; Tania Homayoun, [some rights
-](http://creativecommons.org/licenses/by-nc-nd/4.0/) ![Creative Commons:
+weeks old but all of these species were observed today.
+
+&copy; Tania Homayoun, [some rights](http://creativecommons.org/licenses/by-nc-nd/4.0/) ![Creative Commons:
 by-nc-nd](https://www.inaturalist.org/assets/CC-BY-NC-ND_small-787c524b357a0c9dbf58ddcb4a2acb64.png)
 
-{: .center-block}
-![Black-Crested Titmouse](/img/suet-birds/bcti.jpg)<br>
-<small>Black-Crested Titmouse</small>
+<div class="image">
+![Black-Crested Titmouse](/img/suet-birds/bcti.jpg)
 
----
+Black-Crested Titmouse
+</div>
 
-{: .center-block}
-![Carolina Wren](/img/suet-birds/cawr.jpg)<br>
-<small>Carolina Wren</small>
+<div class="image">
+![Carolina Wren](/img/suet-birds/cawr.jpg)
 
----
+Carolina Wren
+</div>
 
-{: .center-block}
-![Hermit Thrush](/img/suet-birds/heth.jpg)<br>
-<small>Hermit Thrush</small>
+<div class="image">
+![Hermit Thrush](/img/suet-birds/heth.jpg)
 
----
+Hermit Thrush
+</div>
 
-{: .center-block}
-![Orange-crowned Warbler](/img/suet-birds/ocwa.jpg)<br>
-<small>Orange-crowned Warbler</small>
+<div class="image">
+![Orange-crowned Warbler](/img/suet-birds/ocwa.jpg)
 
----
+Orange-crowned Warbler
+</div>
 
-{: .center-block}
-![Ruby-crowned Kinglet](/img/suet-birds/rcki.jpg)<br>
-<small>Ruby-crowned Kinglet</small>
+<div class="image">
+![Ruby-crowned Kinglet](/img/suet-birds/rcki.jpg)
 
----
+Ruby-crowned Kinglet
+</div>
 
-{: .center-block}
-![Yellow-rumped Warbler](/img/suet-birds/yrwa.jpg)<br>
-<small>Yellow-rumped Warbler</small>
+<div class="image">
+![Yellow-rumped Warbler](/img/suet-birds/yrwa.jpg)
 
----
+Yellow-rumped Warbler
+</div>
 
 Also seen: Northern Cardinal, American Robin, Bewick's Wren.
