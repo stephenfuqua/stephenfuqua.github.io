@@ -1,7 +1,6 @@
 ---
 title: Tools for Engineering New Managers
 date: 2024-12-31
-
 tags:
 - books
 - meta
@@ -16,12 +15,11 @@ for the value of gaining experience and reflecting on it; here are a few
 resources that I have found useful in my journey so far, giving me new ideas to
 play with and questions to aid my reflection.
 
-<div class="text--center">
-![Sharp-shinned Hawk, by Stephen A. Fuqua](/img/sharp-shinned-hawk.webp)<!-- {: .img-fluid .border .rounded } -->
-</div>
+<div class="image">
+![Sharp-shinned Hawk, by Stephen A. Fuqua](/img/sharp-shinned-hawk.webp)
 
-{: .figure .figure-caption}
 Sharp-shinned Hawk at Resaca de la Palma State Park, by Stephen A. Fuqua (2024).
+</div>
 
 <!-- truncate -->
 

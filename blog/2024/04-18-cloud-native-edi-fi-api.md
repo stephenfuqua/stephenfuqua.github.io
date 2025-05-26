@@ -26,7 +26,7 @@ bird-related project name in my tenure with the Ed-Fi Alliance
 ([Roadrunner](/archive/2019/06/04/postgresql-for-the-ods/),
 [Meadowlark](/archive/2022/06/03/exploring-next-generation-meadowlark/)).
 
-<div class="text--center">
-![Scarlet Tanager, by Adam Jackson, no rights
+<div class="image">
+![Scarlet Tanager, by Adam Jackson, no rights reserved](/img/scarlet-tanager_by_adam-jackson_no-rights-reserved_square-256.png)
 </div>
-reserved](/img/scarlet-tanager_by_adam-jackson_no-rights-reserved_square-256.png)
+<!-- truncate -->

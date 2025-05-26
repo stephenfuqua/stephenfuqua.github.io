@@ -28,16 +28,14 @@ God, who is recognized through all the natural wonders:
 > potency of Thy might, and of Thy sovereignty and Thy grandeur. And at whatever
 > time I contemplate the mountains, I am led to discover the ensigns of Thy
 > victory and the standards of Thine omnipotence.&rdquo;
+>
+> Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_, [CLXXVI](www.bahai.org/r/129964059)
 
-{: .text-sm-right }
-Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_, [CLXXVI](www.bahai.org/r/129964059).
+<div class="image">
+![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen A. Fuqua](/img/Enchanged-Rock-Flowers-2024-03-20.jpg)
 
-<div class="text--center">
-![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen A. Fuqua](/img/Enchanged-Rock-Flowers-2024-03-20.jpg){: .img-fluid  .border .rounded }
-</div>
-
-{: .figure .figure-caption}
 Wildflowers on Naw Ruz at Enchanted Rock State Natural Area, by Stephen A. Fuqua (2024).
+</div>
 
 <!-- truncate -->
 
@@ -86,9 +84,8 @@ importance of "moderation" many times. A favorite and germane example:
 > evil upon men. Thus warneth you He Who is the All-Knowing. If carried to
 > excess, civilization will prove as prolific a source of evil as it had been of
 > goodness when kept within the restraints of moderation.&rdquo;
-
-{: .text-sm-right }
-Bahá'u'lláh, _Gleanings from the Writings of Bahá'u'lláh_, [CLXIV](https://www.bahai.org/r/042388414).
+>
+> Bahá'u'lláh, _Gleanings from the Writings of Bahá'u'lláh_, [CLXIV](https://www.bahai.org/r/042388414)
 
 We noted that fundamental concepts of personal spirituality naturally moderate
 our desires for physical gratification and consumption. The book _Reflections on
@@ -103,11 +100,10 @@ Surely these are ameliorating influences to counter "civilization" "carried to
 excess."
 
 <div class="text--center">
-![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/img/hill-country-sunset.jpg)<!-- {: .img-fluid .border .rounded } -->
-</div>
+![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/img/hill-country-sunset.jpg)
 
-{: .figure .figure-caption}
 Central Texas Hill Country sunset, by Stephen A. Fuqua (2024).
+</div>
 
 Another fundamental concept in the Faith, not listed in the principles above, is
 the idea of
@@ -117,9 +113,8 @@ the idea of
 > the two luminaries of consultation and compassion. Take ye counsel together in
 > all matters, inasmuch as consultation is the lamp of guidance which leadeth
 > the way, and is the bestower of understanding.&rdquo;
-
-{: .text-sm-right }
-Bahá'u'lláh, _Tablets of Bahá'u'lláh_, [Lawḥ-i-Maqṣúd](https://www.bahai.org/r/545364905)
+>
+> Bahá'u'lláh, _Tablets of Bahá'u'lláh_, [Lawḥ-i-Maqṣúd](https://www.bahai.org/r/545364905)
 
 This spiritual consultation is the idea of a group of people engaged in a frank
 and cordial search for the truth. It is a cornerstone of family, community, and

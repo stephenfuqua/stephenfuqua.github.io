@@ -3,7 +3,6 @@ title: Delivering Value as a Software Engineering Manager
 date: 2024-02-11
 tags:
 - programming
-
 ---
 
 In [Unpopular Opinion: It’s harder than ever to be a good software
@@ -45,11 +44,10 @@ done - the opportunity cost? This is a critical lesson for this first-time
 manager to learn: think twice (or more) before jumping into the code. Get better
 at empowering than (hands-on) solving.
 
-<div class="text--center">
-![Alexander the Great, cutting the Gordian Knot](https://blog.safnet.com/img/gordian-knot.png)<!-- {: .img-fluid .border .rounded } -->
-</div>
+<div class="image">
+![Alexander the Great, cutting the Gordian Knot](https://blog.safnet.com/img/gordian-knot.png)
 
-{: .figure .figure-caption}
 Maturino da Firenze. [Alexander Cutting the Gordian
 Knot](https://www.artic.edu/artworks/7441/alexander-cutting-the-gordian-knot),
 1510-1527. The Art Institute of Chicago.
+</div>

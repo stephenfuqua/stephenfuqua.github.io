@@ -28,3 +28,4 @@ design documents that were always at least slightly wrong, and frequently very
 difficult to change. It helped us embrace the uncertainty of software
 development, empowering us to find our way out of that wrongness more quickly
 and productively.
+<!-- truncate -->
