@@ -17,6 +17,7 @@ little gist has my final script. For reasons of my own I didn't feel like
 running the chocolatey install, so I don't know if it has this permission
 problem.
 
+<!-- TODO: import this? -->
 <script src="https://gist.github.com/stephenfuqua/46332c46741d94dc216e1332b437012c.js"></script>
 
 <!-- truncate -->

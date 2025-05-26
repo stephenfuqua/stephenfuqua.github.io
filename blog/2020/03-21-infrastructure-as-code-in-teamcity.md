@@ -277,14 +277,14 @@ typically use the package provided by Adopt OpenJDK - but not version 16, as
 [there is a bug](https://youtrack.jetbrains.com/issue/KT-44624) when trying to
 compile Kotlin.
 
-```shell
-> choco install -y adoptopenjdk12
+```powershell
+choco install -y adoptopenjdk12
 ```
 
 Now you can install Maven:
 
-```shell
-> choco install -y maven
+```powershell
+choco install -y maven
 ```
 
 Before running Maven... if you are on a corporate network that has a custom root
@@ -294,17 +294,22 @@ security certificate, then you will need to install that into the Java keystore.
 2. Check to see if the `JAVA_HOME` variable is already setup: does it display
    anything when you type `$env:JAVA_HOME` in PowerShell? If not, then...
 
-   ```shell
-   > $env:JAVA_HOME = "C:\Program Files\AdoptOpenJDK\jdk-12.0.2+10"
+   ```powershell
+   $env:JAVA_HOME = "C:\Program Files\AdoptOpenJDK\jdk-12.0.2+10"
    ```
 
 3. Run Java's `keytool` command with the following command. It will prompt you
    for a password; the default keystore password is `changeit`. If you don't
    know what that is, then it probably hasn't been changed from that default
-   value :-D.
+   value 😆.
 
-   ```shell
-   > keytool -import -trustcacerts -alias root `
+   ```powershell
+   keytool -import -trustcacerts -alias root `
      -file C:\yourfile.cer -keystore $env:JAVA_HOME/lib/security/cacerts `
      -storepass changeit
    ```
+
+## Splitting Large Projects Into Separate Files
+
+This moved to a separate article, [Splitting TeamCity Kotlin Into Multiple
+Files](./03-22-splitting-teamcity-kotlin-into-multiple-files.md).
