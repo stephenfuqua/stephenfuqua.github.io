@@ -425,7 +425,7 @@ contains at least two build types: Branch and Pull Request. These respectively
 utilize the appropriate template. The parameters are defined on the sub-project,
 making the build types extremely small:
 
-#### BranchAPIBuild
+### BranchAPIBuild
 
 ```kotlin
 package api.buildTypes
@@ -439,7 +439,7 @@ object BranchAPIBuild : BuildType ({
 })
 ```
 
-#### PullRequestAPIBuild
+### PullRequestAPIBuild
 
 ```kotlin
 package api.buildTypes
@@ -452,7 +452,7 @@ object PullRequestAPIBuild : BuildType ({
 })
 ```
 
-#### API Project
+### API Project
 
 Of the parameters shown below, only `project.directory` and `vcs.checkout.rules`
 will be familiar from the text above. The Octopus parameters are used in an

@@ -6,6 +6,8 @@ tags: [dotnet, architecture, testing]
 
 Continuing from [Upgrading safnet-directory, part 1](/archive/2018/07/15/upgrading-safnet-directory/), it is time to improve the solution's unit testing. At the outset, the controllers cannot be unit tested effectively due to their direct dependence on Entity Framework and ASP.NET Identity Framework classes. With application of an in-memory database, they could be _integration tested_, but not _unit tested_ as I understand and apply the term.
 
+<!-- truncate -->
+
 ## Interfaces and Dependency Injection
 
 The data access needs to be pulled from the controllers, and the classes need to be  refactored for inversion of control / dependency injection. In a larger application I would create three layers with distinct responsibilities:
@@ -18,8 +20,8 @@ Given that there is no significant business logic in this application, new code 
 
 For dependency injection, I know that ASP.NET Core (coming in a future article) has its own good system. I have heard kind words spoken about Simple Injector but never tried it out before.
 
-```PowerShell
-PM> Install-Package SimpleInjector.Integration.WebApi
+```powershell
+Install-Package SimpleInjector.Integration.WebApi
 ```
 
 I'll configure registrations with Scoped lifestyle so that objects are tracked and disposed of properly. In anticipation of future async work, I'll setup [async scoped](https://simpleinjector.readthedocs.io/en/latest/lifetimes.html#asyncscoped) as a default. Along with Simple Injector, I will create an interface for the existing `ApplicationDbContext` class, and call it `IDbContext`. Adding this method to my `Startup` class:
@@ -44,11 +46,11 @@ On the MVC-side of the house, I was using Owin as a cheap dependency manager for
 
 The members of the `IDbContext` were easy to identify, based on how the Controllers were using `ApplicationDbContext`. One of those members returns an `IQueryable`. For unit testing, I need to be able to mock it. [MockQueryable](https://github.com/romantitov/MockQueryable) will do nicely. It seems that it is also time to Install my [preferred unit testing tools](/archive/2018/07/04/dotnet-testing-tools/), [NUnit 3](http://nunit.org/) and [FluentAssertions](https://fluentassertions.com/).
 
-```PowerShell
-> Install-package MockQueryable.Moq
-> Install-Package NUnit
-> Install-Package NUnit3TestAdapter
-> Install-Package FluentAssertions
+```powershell
+Install-package MockQueryable.Moq
+Install-Package NUnit
+Install-Package NUnit3TestAdapter
+Install-Package FluentAssertions
 ```
 
 ## From Visual Studio Testing to NUnit
@@ -58,15 +60,14 @@ First, manually remove the reference to `Microsoft.VisualStudio.QualityTools.Uni
 | Old | New |
 |-----|-----|
 | using Microsoft.VisualStudio.TestTools.UnitTesting; | using NUnit.Framework; |
-| \[TestClass] | \[TestFixture] |
-| \[TestInitialize] | \[SetUp] |
-| \[TestCleanup] | \[TearDown] |
-| \[TestMethod] | \[Test] |
-{: .table .table-striped}
+| `[TestClass]` | `[TestFixture]` |
+| `[TestInitialize]` | `[SetUp]` |
+| `[TestCleanup]` | `[TearDown]` |
+| `[TestMethod]` | `[Test]` |
 
 Here is a PowerShell script to fix these up:
 
-```PowerShell
+```powershell
 $replacements = @{
     "using Microsoft.VisualStudio.TestTools.UnitTesting" = "using NUnit.Framework";
     "[TestClass]" = "[TestFixture]";
@@ -115,11 +116,15 @@ public void SetUp()
 
 At last it is possible to fully unit test this class: the database connection has been mocked and the tests can control the user's claimset. What about the other classes? There are some that will never be tested - e.g. the database migration classes and the data context class; these should be decorated with `[ExcludeFromCodeCoverage]`. It would be nice to find out what my code coverage is. Without Visual Studio Enterprise or DotCover we need to turn to OpenCover. Let's try [AxoCover](https://github.com/axodox/AxoCover) for integrating OpenCover into Visual Studio.
 
+<div class="image">
 ![Axo Cover Results in Visual Studio](/img/axo-cover-1.png)
+</div>
 
 Not bad. The display that is. Coverage isn't very good; 35.8% of lines. However note that it did not ignore the Migrations. I forgot that OpenCover does not automatically ignore classes / methods decorated with either `[GeneratedCode]` or `[ExcludeFromCodeCoverage]`. Is there a setting in Axo? Yes. And in fact it did ignore `ExcludeFromCodeCoverage`. I just need to add `GeneratedCode` to the list: `;*GeneratedCodeAttribute`
 
+<div class="image">
 ![Axo Cover Settings](/img/axo-cover-2.png)
+</div>
 
 Now we have a full 36.7% of lines! Before trying to fill in the missing unit tests, perhaps there is some more cleanup in order:
 

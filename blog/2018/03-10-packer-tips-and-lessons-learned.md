@@ -11,6 +11,8 @@ tags: [tech, devops, Windows]
     * _in other words, you can test your virtual machine creation process locally_
 1. Helps you maintain a strategy of infrastructure-as-code, which can be version-conrolled.
 
+<!-- truncate -->
+
 While Packer can be combined with many other useful tools, at its heart it is a simple json template file that starts up a virtual machine, provisions it with files, and runs scripts on it. For a primarily-Windows shop, this means running Powershell scripts.
 
 [In search of a light weight Windows vagrant box](http://www.hurryupandwait.io/blog/in-search-of-a-light-weight-windows-vagrant-box) by Matt Wrock has many interesting optimizations. Evaluate each option carefully to decide if it is right for you, and to decide which options should be used with which builders. For example, if building for a corporate IT environment, running standard Windows Update might not be appropriate - you may need to run a group policy to install only approved updates. Mr. Wrock has many great [templates for creating vagrant boxes](https://github.com/mwrock/packer-templates) that leverage Packer; studying them can be of great benefit when learning how to employ Packer in your own environment. Another great collection to use or study: [boxcutter's Packer Templates for Windows](https://github.com/boxcutter/windows).

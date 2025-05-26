@@ -6,6 +6,7 @@ tags: [testing, dotnet]
 
 It is 2018, and I have only just learned about the fantastic [FluentAssertions](https://fluentassertions.com/) framework. Seems like a nice time for a quick review of unit testing tools for .NET. Personal preferences: NUnit, FluentAssertions, Moq.
 
+<!-- truncate -->
 ## Test Framework
 
 [MSTest](https://en.wikipedia.org/wiki/Visual_Studio_Unit_Testing_Framework), [NUnit](http://nunit.org/), [XUnit](https://xunit.github.io/) - they are all useful. They are all well-integrated into Visual Studio now. I would not make a strong argument against any choice for a team that already knows the tool. For new development, I would unhesitatingly choose NUnit.
