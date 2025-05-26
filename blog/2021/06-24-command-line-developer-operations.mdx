@@ -131,75 +131,79 @@ essentially exists for the specific purpose of compiling that code so that it
 becomes executable, whereas CLI's for interpreted code are there for the purpose
 of execution. Everything else they do is just convenience.
 
-<!-- markdownlint-disable MD033 -->
-<table class="table table-striped table-bordered">
-  <tr>
-    <th></th>
-    <th>Interpreted Example</th>
-    <th>Compiled Example</th>
-  </tr>
-  <tr>
-    <th>Language</th>
-    <td>Python</td>
-    <td>Visual C++</td>
-  </tr>
-  <tr>
-    <th>Source Code</th>
-      <td> ```python
-print("hello world")``` </td>
-    <td>
-        ```cpp
-#include &lt;iostream&gt;
-int main() { std::cout << "Hello World!\n"; }
-        ```
-    </td>
-  </tr>
-  <tr>
-    <th>Project File</th>
-    <td><em>not applicable</em></td>
-    <td>
-        ```xml
-&lt;Project DefaultTargets="Build" ToolsVersion="16.0"
-  xmlns="http://schemas.microsoft.com/developer/msbuild/2003"&gt;
-  &lt;ItemGroup&gt;
-    &lt;ProjectConfiguration Include="Debug|Win32"&gt;
-        &lt;Configuration&gt;Debug&lt;/Configuration&gt;
-        &lt;Platform&gt;Win32&lt;/Platform&gt;
-    &lt;/ProjectConfiguration&gt;
-    &lt;ProjectConfiguration Include="Release|Win32"&gt;
-        &lt;Configuration&gt;Release&lt;/Configuration&gt;
-        &lt;Platform&gt;Win32&lt;/Platform&gt;
-    &lt;/ProjectConfiguration&gt;
-  &lt;/ItemGroup&gt;
-  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" /&gt;
-  &lt;PropertyGroup&gt;
-    &lt;ConfigurationType&gt;Application&lt;/ConfigurationType&gt;
-    &lt;PlatformToolset&gt;v142&lt;/PlatformToolset&gt;
-  &lt;/PropertyGroup&gt;
-  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" /&gt;
-  &lt;ItemGroup&gt;
-    &lt;Compile Include="main.cpp" /&gt;
-  &lt;/ItemGroup&gt;
-  &lt;Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" /&gt;
-&lt;/Project&gt;
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="Interpreted" label="Interpreted Example" default>
+    "Hello world" in Python:
+
+```python
+print("hello world")
 ```
-    </td>
-   </tr>
-   <tr>
-    <th>Compile Command</th>
-    <td> <em>not applicable</em> </td>
-    <td> ```shell
-msbuild example.vcxproj``` </td>
-   </tr>
-   <tr>
-     <th>Run Command</th>
-     <td> ```shell
-python main.py``` </td>
-    <td> ```shell
-.\debug\example.exe``` </td>
-   </tr>
-</table>
-<!-- markdownlint-restore -->
+
+    Project File: not applicable
+
+    Compilation: not applicable
+
+    Run command:
+
+```shell
+python main.py
+```
+
+  </TabItem>
+  <TabItem value="Compiled" label="Compiled Example">
+    "Hello world" in Visual C++
+
+```cpp
+#include <iostream>
+int main() { std::cout << "Hello World!\n"; }
+```
+
+    Project file:
+
+
+```xml
+<Project DefaultTargets="Build" ToolsVersion="16.0"
+  xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ProjectConfiguration Include="Debug|Win32">
+        <Configuration>Debug</Configuration>
+        <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+        <Configuration>Release</Configuration>
+        <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.default.props" />
+  <PropertyGroup>
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ItemGroup>
+    <Compile Include="main.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Targets" />
+</Project>
+```
+
+    Compilation:
+
+```shell
+msbuild example.vcxproj
+```
+
+    Run command:
+
+```shell
+.\debug\example.exe
+```
+
+  </TabItem>
+</Tabs>
 
 Here are some sample build commands using various tools for compiled languages:
 
