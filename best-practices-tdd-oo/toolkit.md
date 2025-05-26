@@ -301,6 +301,8 @@ Roy Osherove has several interesting articles on Moq, FakeItEasy, and NSubstitut
 * [FakeItEasy or NSubstitute? Which should I use for samples in art of unit testing 2nd edition?](https://osherove.com/blog/2012/6/26/fakeiteasy-or-nsubstitute-which-should-i-use-for-samples-in.html)
 * [What's new and Changed in the Art of Unit Testing 2nd Edition](https://osherove.com/blog/2014/10/25/whats-new-and-changed-in-the-art-of-unit-testing-2nd-edition.html) reveals the answer: he used NSubstitute.
 
+<!--
+
 ### Using MoQ
 
 placeholder
@@ -321,7 +323,7 @@ placeholder
 
 ## FluentAssertions
 
-placeholder
+placeholder -->
 
 ------------------------------
 

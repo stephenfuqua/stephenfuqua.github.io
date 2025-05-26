@@ -1,3 +1,5 @@
+# GitHub CoPilot Instructions
+
 When opening a new terminal, initialize NodeJs with the following
 command: `nvs use node/20.18.1/x64`.
 

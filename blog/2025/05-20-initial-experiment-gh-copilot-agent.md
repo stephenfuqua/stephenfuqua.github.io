@@ -108,6 +108,7 @@ better prompt for me 😁.
 
 While testing the log response, I noticed a Warning that occurs on startup. Hey GitHub CoPilot...
 
+<!-- markdownlint-disable-next-line MD048 -->
 ~~~none
 My application logs the following warning at runtime. Can you help me solve it?
 
