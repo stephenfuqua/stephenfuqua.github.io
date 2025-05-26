@@ -4,7 +4,7 @@ date: 2019-02-08
 tags: [testing, dotnet, programming]
 ---
 
-In [Making a Mockery of Extension Methods](http://tech.safnet.com/archive/2014/04/10/making-a-mockery-of-extension-methods/) - way back in 2014 - I wrote about a technique for a code workaround that would facilitate replacing extension methods (global static methods) with mock objects for unit testing. Over the years I've used this technique a few times and found two major problems:
+In [Making a Mockery of Extension Methods](../2014/04-10-making-a-mockery-of-extension-methods.md) - way back in 2014 - I wrote about a technique for a code workaround that would facilitate replacing extension methods (global static methods) with mock objects for unit testing. Over the years I've used this technique a few times and found two major problems:
 
 1. The technique of static delegate substitution is simply strange and requires too much thinking / analysis for good maintenance.
 2. The unit tests are brittle, often failing on the first try due to multiple tests interacting with each other as they replace the static delegate.
@@ -16,6 +16,8 @@ At last I grew tired of the technique and decided it would be better to simply r
 1. For a large set of extension methods over unmockable code - for example extension methods around database interaction - best to go ahead and create a thin adapter layer with an interface and constructor injection.
 2. For a small static method over unmockable code, consider a small class with optional interface for either constructor or property injection.
 3. If tempted to introduce a global static for any reason, consider instead using of these two techniques.
+
+<!-- truncate -->
 
 In my original article, I was wrapping extension methods from the micro ORM [OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite):
 

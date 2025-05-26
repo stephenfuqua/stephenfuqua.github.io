@@ -8,7 +8,9 @@ Entity Framework Core has a few changes that impact unit testing, particularly w
 
 ## Background
 
-IdentityServer4 has a [`ConfigurationDbContext`](https://github.com/IdentityServer/IdentityServer4/blob/master/src/EntityFramework.Storage/src/DbContexts/ConfigurationDbContext.cs) that provides access for managing `Client` entities, along with an interface `IConfigurationDbContext`. While IdentityServer4's infrastructure handles all of the OAuth processing, CRUD operations for clients is left up to us. Therefore I created a `ClientsController` and a `ClientRepository`, and injected the interface into the repository.
+IdentityServer4 has a [`ConfigurationDbContext`](https://github.com/DuendeArchive/IdentityServer4/blob/archive/src/EntityFramework.Storage/src/DbContexts/ConfigurationDbContext.cs) that provides access for managing `Client` entities, along with an interface `IConfigurationDbContext`. While IdentityServer4's infrastructure handles all of the OAuth processing, CRUD operations for clients is left up to us. Therefore I created a `ClientsController` and a `ClientRepository`, and injected the interface into the repository.
+
+<!-- truncate -->
 
 ```csharp
 public class ClientsController : ControllerBase
