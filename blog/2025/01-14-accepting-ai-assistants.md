@@ -1,7 +1,6 @@
 ---
 title: Grudgingly Accepting AI Coding Assistants
 date: 2025-01-14
-
 tags:
 - programming
 - tech

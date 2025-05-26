@@ -29,7 +29,7 @@ Chernobyl was probably the first environmental disaster I knew about as a child,
 and the news coverage brought me a measure of awareness of energy issues. But it
 was the Valdez that traumatised me with the full realization of how destructive
 of nature humanity can be. That was a pivotal occurrence in this young
-environmentalist's development, fed by stories in *USA Today*, *Newsweek*, and
+environmentalist's development, fed by stories in _USA Today_, _Newsweek_, and
 [National
 Geographic](http://ngm.nationalgeographic.com/1990/01/alaska-oil-spill/hodgson-text).
 
@@ -37,7 +37,7 @@ It was also around that time that I first learned about climate change. Somehow
 I had come across the discredited idea from the 70's, that we were heading for
 an [ice age](http://www.skepticalscience.com/ice-age-predictions-in-1970s.htm).
 Wanting to know what happened, I went to the public library. Instead of heading
-straight for the *Choose Your Own Adventure* collection, I found my way over to
+straight for the _Choose Your Own Adventure_ collection, I found my way over to
 the adult nonfiction, and picked up [Ice Ages: Solving the
 Mystery](https://books.google.com/books/about/Ice_Ages.html?id=GIxRp9fRDGwC&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false).
 
@@ -67,6 +67,6 @@ that switch and power on. My long wait for solar is just about over. Apologies
 for the navel-gazing - but I just had to share my excitement.
 
 <div class="text--center">
-![solar panel photo 3](/img/solar3.jpg)<!-- {: .img-fluid .border .rounded } --><br>
+![solar panel photo 3](/img/solar3.jpg)<br>
 </div>
 One of four banks of panels arrayed across the house.

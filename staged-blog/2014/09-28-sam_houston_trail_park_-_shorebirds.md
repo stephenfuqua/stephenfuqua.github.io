@@ -8,8 +8,7 @@ tags:
 ---
 
 {: .center-block}
-![shorebirds at Sam Houston park](/img/shorebirdsSamHouston.JPG)<!-- {: .img-fluid .border .rounded } -->
-
+![shorebirds at Sam Houston park](/img/shorebirdsSamHouston.JPG)
 
 Thanks to recent mowing, I was able to access the west-side of the pond at Sam
 Houston Trail Park in Irving, TX this morning. The pond is drying up &mdash;

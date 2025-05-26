@@ -25,7 +25,7 @@ behalf all people, most particularly her fellow African Americans and especially
 women of color.
 
 <div class="text--center">
-![Mary Mcleod Bethune](https://blog.safnet.com/img/mary-mcleod-bethune.jpg)<!-- {: .img-fluid .border .rounded } -->
+![Mary Mcleod Bethune](https://blog.safnet.com/img/mary-mcleod-bethune.jpg)
 </div>
 
 <!-- truncate -->
@@ -89,7 +89,7 @@ society and to the social and economic development of the community, raising up
 the voices of women.
 
 <div class="text--center">
-![Advertisement from 1929](/img/mmb-bahai-center.jpg)<!-- {: .img-fluid .border .rounded } -->
+![Advertisement from 1929](/img/mmb-bahai-center.jpg)
 </div>
 
 ---
@@ -124,8 +124,7 @@ Other works consulted:
   23 July 1952. pp. 851-52.
 * Richards, Emma. "Historic first as Mary McLeod Bethune statue installed at the
   U.S. Capitol", University of Florida News. July 13, 2022.
-  https://news.ufl.edu/2022/07/mary-mcleod-bethune/, accessed July 16, 2022.
+  <https://news.ufl.edu/2022/07/mary-mcleod-bethune/>, accessed July 16, 2022.
 * Michals, Debra. "Mary McLeod Bethune",  National Women's History Museum. 2015.
-  www.womenshistory.org/education-resources/biographies/mary-mcleod-bethune,
+  <www.womenshistory.org/education-resources/biographies/mary-mcleod-bethune>,
   accessed July 16, 2022.
-

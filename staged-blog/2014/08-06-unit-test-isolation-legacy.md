@@ -14,10 +14,10 @@ new unit tests for legacy .Net code? Well, that depends... and I have a flow
 chart and brief notes to help you figure it out.
 
 <div class="text--center">
-![Test toolkit flow chart](/img/testIsolationLegacyCode.png)<!-- {: .img-fluid .border .rounded } -->
+![Test toolkit flow chart](/img/testIsolationLegacyCode.png)
 </div>
 
-## Stubs, Mocks, Etc.
+## Stubs, Mocks, Etc
 
 [Moq](https://github.com/moq/moq4) is my favorite framework because it is free
 and is relatively easy to understand (if you are comfortable with lambda

@@ -15,7 +15,7 @@ graphics toolkit is currently limited, my diagram for FlightNode has boxes
 instead of concentric onion-looking circles...
 
 <div class="text--center">
-![onion architecture](/img/flightnode.onion.png)<!-- {: .img-fluid .border .rounded } -->
+![onion architecture](/img/flightnode.onion.png)
 </div>
 
 One key takeaway is the direction of dependencies: all of the solid line

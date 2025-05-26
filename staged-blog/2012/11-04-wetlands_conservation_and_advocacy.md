@@ -19,7 +19,7 @@ relying on massive levies, seawalls, and the like, we need to support public and
 private endeavors to restore vital natural systems.
 
 <div class="text--center">
-![egret](/img/IMG_0075.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![egret](/img/IMG_0075.JPG)<br>
 </div>
 <small>White-morph Reddish Egret, doing the Reddish Egret dance, in a wetland on Texas's Mustang
 Island</small>
@@ -73,7 +73,7 @@ Dallas, we saw none. But we did see a tremendous flock, estimated at around
 season, feeding in these wetlands and our local lakes.
 
 <div class="text--center">
-![downtown Dallas](/img/IMG_0448.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![downtown Dallas](/img/IMG_0448.JPG)<br>
 </div>
 <small>Downtown Dallas over Wetland Cell F</small>
 
@@ -91,6 +91,6 @@ local neighborhoods, and in encouraging local citizens to responsibly enjoy
 them.
 
 <div class="text--center">
-![looking north](/img/IMG_0451.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![looking north](/img/IMG_0451.JPG)<br>
 </div>
 <small>Looking due north, across an old landfill and into the Great Trinity Forest</small>

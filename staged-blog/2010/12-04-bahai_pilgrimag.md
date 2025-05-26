@@ -18,7 +18,7 @@ memorable experience that I hope I can use to galvanize myself to further
 personal development.
 
 {: .center-block}
-![terrace 19](http://lh6.ggpht.com/_mZAPo8ePwc4/TPqvNRxyJOI/AAAAAAAAAoo/YlsxXQQeG7s/s400/IMG_2299.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![terrace 19](http://lh6.ggpht.com/_mZAPo8ePwc4/TPqvNRxyJOI/AAAAAAAAAoo/YlsxXQQeG7s/s400/IMG_2299.JPG)<br>
 Terrace 19 on Mt. Carmel
 
 This post will be the first in a series of posts and photos about my experience.

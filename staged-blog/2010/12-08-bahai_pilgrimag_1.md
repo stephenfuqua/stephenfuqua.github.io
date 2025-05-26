@@ -44,47 +44,47 @@ related grounds, and suspected Yellow-Browed Warbler and Tawny Pipit and a few
 other unknowns. And of course the ubiquitous Rock Pigeon.
 
 <div class="text--center">
-![observation platform](http://lh5.ggpht.com/_mZAPo8ePwc4/TQBIDCdgRWI/AAAAAAAAApA/cQSirLJxAVk/s400/IMG_2294.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![observation platform](http://lh5.ggpht.com/_mZAPo8ePwc4/TQBIDCdgRWI/AAAAAAAAApA/cQSirLJxAVk/s400/IMG_2294.JPG)<br>
 </div>
 From an observation platform to the west of the terrace 18 you can get a sense of the gradient from manicured grasses to native vegetation.
 
 <div class="text--center">
-![untamed slopes](http://lh4.ggpht.com/_mZAPo8ePwc4/TQBLreOCGCI/AAAAAAAAApU/-QTomDUw7ls/s400/IMG_2441.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![untamed slopes](http://lh4.ggpht.com/_mZAPo8ePwc4/TQBLreOCGCI/AAAAAAAAApU/-QTomDUw7ls/s400/IMG_2441.JPG)<br>
 </div>
 View of the "untamed" slopes above the Seat of the Universal House of Justice (left) and the Center for the Study of the Texts (center)
 
 <div class="text--center">
-![seat of the universal house of justice](http://lh6.ggpht.com/_mZAPo8ePwc4/TQBL-YSgE_I/AAAAAAAAApY/WtlPsn2Zn6s/s400/IMG_2439.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![seat of the universal house of justice](http://lh6.ggpht.com/_mZAPo8ePwc4/TQBL-YSgE_I/AAAAAAAAApY/WtlPsn2Zn6s/s400/IMG_2439.JPG)<br>
 </div>
 Seat of the Universal House of Justice. The lands behind it, to the barely-seen railing below the hotel, are part of the Bah&aacute;'&iacute; properties.
 
 <div class="text--center">
-![succulents](http://lh4.ggpht.com/_mZAPo8ePwc4/TQwvgAZTi-I/AAAAAAAAAqQ/tky44-sTDMw/s400/IMG_2287.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![succulents](http://lh4.ggpht.com/_mZAPo8ePwc4/TQwvgAZTi-I/AAAAAAAAAqQ/tky44-sTDMw/s400/IMG_2287.JPG)<br>
 </div>
 Succulents on the Terraces
 
 <div class="text--center">
-![international archives](http://lh5.ggpht.com/_mZAPo8ePwc4/TQwvOjv-atI/AAAAAAAAAqM/v-3EijdAZE0/s400/IMG_2271.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![international archives](http://lh5.ggpht.com/_mZAPo8ePwc4/TQwvOjv-atI/AAAAAAAAAqM/v-3EijdAZE0/s400/IMG_2271.JPG)<br>
 </div>
 International Archives building
 
 <div class="text--center">
-![international archives building](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwyZjy8rLI/AAAAAAAAAqk/GHv6FnQGC5s/s400/IMG_2246.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![international archives building](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwyZjy8rLI/AAAAAAAAAqk/GHv6FnQGC5s/s400/IMG_2246.JPG)<br>
 </div>
 View of the International Archives Building from the 12th Terrace
 
 <div class="text--center">
-![bird house](http://lh6.ggpht.com/_mZAPo8ePwc4/TQwyxAQZ4HI/AAAAAAAAAqo/sWnUTrZNxr0/s400/IMG_2232.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![bird house](http://lh6.ggpht.com/_mZAPo8ePwc4/TQwyxAQZ4HI/AAAAAAAAAqo/sWnUTrZNxr0/s400/IMG_2232.JPG)<br>
 </div>
 A bird house on the edge of the terraces
 
 <div class="text--center">
-![water](http://lh4.ggpht.com/_mZAPo8ePwc4/TQwzRbr25vI/AAAAAAAAAqs/423_pNV15DQ/s400/IMG_2218.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![water](http://lh4.ggpht.com/_mZAPo8ePwc4/TQwzRbr25vI/AAAAAAAAAqs/423_pNV15DQ/s400/IMG_2218.JPG)<br>
 </div>
 Pulsing water next to the steps - note the crest of water five steps up
 
 <div class="text--center">
-![olive grove](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwzyxe7kFI/AAAAAAAAAqw/5JQy9xIIXQw/s400/IMG_2238.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![olive grove](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwzyxe7kFI/AAAAAAAAAqw/5JQy9xIIXQw/s400/IMG_2238.JPG)<br>
 </div>
 Olive grove next to the Shrine of the B&aacute;b
 

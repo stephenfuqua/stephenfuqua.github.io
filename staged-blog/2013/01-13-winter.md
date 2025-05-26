@@ -16,7 +16,7 @@ a delicate coating of the white stuff). Fractals and birds started changing me
 some years ago. This winter has only confirmed that.
 
 <div class="text--center">
-![hawk](/img/IMG_0682.JPG)<!-- {: .img-fluid .border .rounded } --><br><small>Red-tailed
+![hawk](/img/IMG_0682.JPG)<br><small>Red-tailed
 </div>
 Hawk, in a pecan tree outside my patio, today.</small>
 
@@ -34,7 +34,7 @@ winter as a time to appreciate the structural beauty of my surroundings, without
 the distraction of bright colors and extraneous fluff.
 
 <div class="text--center">
-![animals](/img/IMG_0679.JPG)<!-- {: .img-fluid .border .rounded } --><br><small>A
+![animals](/img/IMG_0679.JPG)<br><small>A
 </div>
 Great-blue Heron in Florence Branch creek ... and a beaver!</small>
 
@@ -48,7 +48,7 @@ followed by the crisp feeling of autumn (when we have one - a drawback of
 Texas), but winter now stands shoulder-to-shoulder  with the others in my heart.
 
 <div class="text--center">
-![coyote](/img/IMG_0664.JPG)<!-- {: .img-fluid .border .rounded } --><br><small>So
+![coyote](/img/IMG_0664.JPG)<br><small>So
 </div>
 its not a bird, but this coyote on Boxing Day excited me.</small>
 
@@ -64,7 +64,7 @@ meet folks on organized birding trips in the city (currently all within Dallas).
 Ignore the old dates - the calendar itself is up-to-date.
 
 <div class="text--center">
-![field sparrow](/img/IMG_0671.JPG)<!-- {: .img-fluid .border .rounded } --><br><small>This
+![field sparrow](/img/IMG_0671.JPG)<br><small>This
 </div>
 little Field Sparrow, at the Cedar Hill Rec Center, was particularly photogenic after
 a small speaker was hung in a tree, playing their chirps.</small>

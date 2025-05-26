@@ -9,7 +9,7 @@ tags:
 
 
 <div class="text--center">
-![Screenshot of today's InterfaithNews.Net](https://blog.safnet.com/img/inn-restored.jpg)<!-- {: .img-fluid .border .rounded } -->
+![Screenshot of today's InterfaithNews.Net](https://blog.safnet.com/img/inn-restored.jpg)
 </div>
 
 > "Reacting to religious fanaticism and the challenges of advancing and
@@ -72,11 +72,11 @@ At last, in time for 2022, the memorial is complete:
 <div class="text--center">
 Original design
 </div>
-![Original Design](/img/inn-version1.jpg)<!-- {: .img-fluid .border .rounded } -->
+![Original Design](/img/inn-version1.jpg)
 
 <div class="text--center">
 Second design
 </div>
-![Second Design](/img/inn-version2.jpg)<!-- {: .img-fluid .border .rounded } -->
+![Second Design](/img/inn-version2.jpg)
 
 The third design looked much like the current memorial design at the top of the page.

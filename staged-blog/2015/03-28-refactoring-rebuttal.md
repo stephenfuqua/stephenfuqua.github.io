@@ -12,7 +12,7 @@ don't buy it &mdash; why the research is fundamentally flawed and real software 
 should ignore it.
 
 <div class="text--center">
-![We don't need your wheels](/img/lego-refactoring.jpg)<!-- {: .img-fluid .border .rounded } -->
+![We don't need your wheels](/img/lego-refactoring.jpg)
 </div>
 
 The study's aim was to evaluate the use of refactoring techniques to improve

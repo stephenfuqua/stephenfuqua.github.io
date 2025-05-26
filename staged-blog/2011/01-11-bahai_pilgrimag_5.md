@@ -32,13 +32,13 @@ satellite image showing "Tell Akko" (Napoleon Hill / old city), and just below
 it, past the apartments, you can see the trees of the Ridv&aacute;n Garden site.
 
 {: .center-block}
-![ridvan entrance](/img/IMG_2401.JPG)<!-- {: .img-fluid .border .rounded } -->
+![ridvan entrance](/img/IMG_2401.JPG)
 
 Standing on the "mainland", with the rocks in the foreground being the other
 side of the near channel, the benches mark the far side of the small island.
 
 {: .center-block}
-![ridvan 2](/img/IMG_2402.JPG)<!-- {: .img-fluid .border .rounded } -->
+![ridvan 2](/img/IMG_2402.JPG)
 
 At the very back the island, the small brick structure is the former
 donkey-driven pump for the fountain. The channel seen here was recreated in the
@@ -46,44 +46,44 @@ last few years, after the British had drained the area in the early 20th
 century.
 
 {: .center-block}
-![channel](/img/IMG_2405.JPG)<!-- {: .img-fluid .border .rounded } -->
+![channel](/img/IMG_2405.JPG)
 
 The "verdant isle" of the Ridv&aacute;n Garden, with a young citrus grove and
 the 100+ year old palm (the skinny one).
 
 {: .center-block}
-![grove and palm](/img/IMG_2407.JPG)<!-- {: .img-fluid .border .rounded } -->
+![grove and palm](/img/IMG_2407.JPG)
 
 The small house where Bah&aacute;'u'll&aacute;h would sleep when visiting the
 Ridv&aacute;n Garden.
 
 {: .center-block}
-![house](/img/IMG_2398.JPG)<!-- {: .img-fluid .border .rounded } -->
+![house](/img/IMG_2398.JPG)
 
 Restored fountain.
 
 {: .center-block}
-![fountain](/img/IMG_2392.JPG)<!-- {: .img-fluid .border .rounded } -->
+![fountain](/img/IMG_2392.JPG)
 
 Restored buildings at the site of ancient grain mills, behind the small house.
 
 {: .center-block}
-![mill building](/img/IMG_2384.JPG)<!-- {: .img-fluid .border .rounded } -->
+![mill building](/img/IMG_2384.JPG)
 
 This mulberry tree was witness to Bah&aacute;'u'll&aacute;h's visits to the
 island in the 1880s.
 
 {: .center-block}
-![mulberry tree](/img/IMG_2383.JPG)<!-- {: .img-fluid .border .rounded } -->
+![mulberry tree](/img/IMG_2383.JPG)
 
 On a windy day, I marvelled at the longevity of this skinny date palm, which was
 alive during the time of Bah&aacute;'u'll&aacute;h's visits to the island.
 
 {: .center-block}
-![skinny palm tree](/img/IMG_2379.JPG)<!-- {: .img-fluid .border .rounded } -->
+![skinny palm tree](/img/IMG_2379.JPG)
 
 (Reconstructed) seat where Bah&aacute;'u'll&aacute;h' would sit when picnicking
 at the Ridv&aacute;n Garden.
 
 {: .center-block}
-![bench](/img/IMG_2393.JPG)<!-- {: .img-fluid .border .rounded } -->
+![bench](/img/IMG_2393.JPG)

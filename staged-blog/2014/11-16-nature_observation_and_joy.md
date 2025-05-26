@@ -21,7 +21,7 @@ and a joy that is so great that it often cannot be contained. This joy is reason
 enough to share with friends and family.
 
 <div class="text--center">
-![photo of bluebonnets and mesquite tree](/img/bluebonnetsAndMesquite.JPG)<!-- {: .img-fluid .border .rounded } -->
+![photo of bluebonnets and mesquite tree](/img/bluebonnetsAndMesquite.JPG)
 </div>
 
 <!-- truncate -->

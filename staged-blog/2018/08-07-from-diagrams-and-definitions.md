@@ -17,5 +17,5 @@ average math grade during a grading period, is not a trivial exercise.
 ed-fi.org...](https://www.ed-fi.org/blog/2018/08/diagrams-definitions-solving-analytics-reporting-gap/)
 
 <div class="text--center">
-![Ed-Fi Analytics Middle Tier](https://www.ed-fi.org/assets/2018/08/Analytics-Middle-Tier.png)<!-- {: .img-fluid .border .rounded } -->
+![Ed-Fi Analytics Middle Tier](https://www.ed-fi.org/assets/2018/08/Analytics-Middle-Tier.png)
 </div>

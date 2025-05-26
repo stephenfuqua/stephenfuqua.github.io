@@ -29,7 +29,7 @@ or so. Pulled up dozens of rocks and loosened the soil for a whole 12 feet. Now
 I'm waiting for the group photo to show up on the [Volunteers for Outdoor Missouri](http://www.vfom.org) website.
 
 <div class="text--center">
-![Lake Springfield](http://lh6.ggpht.com/_mZAPo8ePwc4/TMD21trfJLI/AAAAAAAAAk4/5o0bMaUlkZ0/s640/381A0026.jpg)<!-- {: .img-fluid .border .rounded } --><br>
+![Lake Springfield](http://lh6.ggpht.com/_mZAPo8ePwc4/TMD21trfJLI/AAAAAAAAAk4/5o0bMaUlkZ0/s640/381A0026.jpg)<br>
 </div>
 <small>Lake Springfield from the Bluff.</small>
 

@@ -14,13 +14,13 @@ tags: [dotnet, testing]
 For this demonstration, I'll create a new Entity Framework "ADO.NET Data Model" with a couple of tables and two stored procedure calls. This is a quick-and-dirty demonstration, so I'm not trying to setup Entity Framework and my procedure calls in an ideal fashion; it will be "just enough" for the demo.
 
 <div class="text--center">
-![EDMX model](/img/efDIP_1.png)<!-- {: .img-fluid .border .rounded } -->
+![EDMX model](/img/efDIP_1.png)
 </div>
 
 Now open the auto-generated class file for the model. Right click and choose Refactor > Extract Interface. Select the operations that you want to include in the interface. Typically, I like to expose the entire table collection and the methods.
 
 <div class="text--center">
-![Extract interface](/img/efDIP_2.png)<!-- {: .img-fluid .border .rounded } -->
+![Extract interface](/img/efDIP_2.png)
 </div>
 
  This action just updated the auto-generated file; you will lose that change next time you update the model from the database. Here's where the partial class comes in. Copy the class declaration line (`public partial class IbaUnitTestEntities: ObjectContext, ClassLibrary1.IIbaUnitTestEntities`). Create a new file with the same name as the model class, and paste that line in. Remove the implementation of `ObjectContext`. Result:

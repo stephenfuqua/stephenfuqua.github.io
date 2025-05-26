@@ -177,13 +177,13 @@ same tests in each framework and ran them many times. The results below are
 representative of the typical results in repeated executions:
 
 <div class="text--center">
-![Overall execution times](/img/execution-times-summary.png)<!-- {: .img-fluid .border .rounded } -->
+![Overall execution times](/img/execution-times-summary.png)
 </div>
 
 Yikes! What's going on here? Let's drill into the results a bit...
 
 <div class="text--center">
-![Detailed execution times](/img/execution-times-fa-detail.png)<!-- {: .img-fluid .border .rounded } -->
+![Detailed execution times](/img/execution-times-fa-detail.png)
 </div>
 
 There is one test that makes up nearly 80% of execution time. And it is a

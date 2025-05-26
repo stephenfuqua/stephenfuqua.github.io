@@ -16,7 +16,7 @@ awakening me in the early hours &mdash; that caused my mild disdain. So how did
 I arrive at this point where birding brings me such joy?
 
 <div class="text--center">
-![photo of birds](/img/WhiteRockPelicans.JPG)<!-- {: .img-fluid .border .rounded } --><br>
+![photo of birds](/img/WhiteRockPelicans.JPG)<br>
 </div>
 <small><i>American White Pelicans, Double Crested Cormorants, and domestic goose. White Rock Lake, Dallas, TX. January 2014.</i></small>
 

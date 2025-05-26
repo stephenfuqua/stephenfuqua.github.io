@@ -9,7 +9,7 @@ tags:
 ---
 
 _Also see: [Op-Ed: Preserve
-Local Parks Grants ](/archive/2013/03/17/op-ed_preserve_local_parks_grants/)_, adapted from this essay
+Local Parks Grants](/archive/2013/03/17/op-ed_preserve_local_parks_grants/)_, adapted from this essay
 
 Like many in my parents' generation, my Gen-X childhood was spent outside
 whenever possible, with the freedom to roam the neighborhood and explore the
@@ -22,7 +22,7 @@ still had bits of barb wire encased in their bark. The trees sheltered squirrels
 and chipmunks, birds and bats.
 
 {: .center-block}
-![rock ledge outcrop](/img/springLedgeSpringfieldLarge.png)<!-- {: .img-fluid .border .rounded } --><br>
+![rock ledge outcrop](/img/springLedgeSpringfieldLarge.png)<br>
 <small>Small ledge and spring, along a minor brook emptying into Lake
 Springfield, Missouri</small>
 
@@ -52,7 +52,7 @@ was Spring Creek that captured my heart. Soon, however, it was time for college.
 <div class="text--center">
 [
 </div>
-![flowers](/img/5744731155_a011fe670b_z.jpg)<!-- {: .img-fluid .border .rounded } -->
+![flowers](/img/5744731155_a011fe670b_z.jpg)
 ](http://www.flickr.com/photos/46183897@N00/5744731155/sizes/l/in/photostream/) <small> Gaillardia  flowers at Spring Creek Forest Preserve in Richardson
 and Garland.<br>[Some rights
 reserved](https://creativecommons.org/licenses/by/2.0/) by
@@ -79,7 +79,7 @@ are other common destinations. Plano, too, has grown up over the years: Arbor
 Hills now provides an excellent western counterpart to Bob Woodruff.
 
 <div class="text--center">
-![Joe Pool lake](/img/dcacJoePoolLarge.png)<!-- {: .img-fluid .border .rounded } --><br>
+![Joe Pool lake](/img/dcacJoePoolLarge.png)<br>
 </div>
 <small>Joe Pool Overlook, Dogwood Canyon Audubon Center at Cedar Hill</small>
 
@@ -98,7 +98,7 @@ defined&dagger;. Without these spaces, I could not bear to remain in Texas
 &mdash; it would not be the land I love, but just another Sprawl.
 
 <div class="text--center">
-![chain of wetlands](/img/wetlands.png)<!-- {: .img-fluid .border .rounded } --><br>
+![chain of wetlands](/img/wetlands.png)<br>
 </div>
 <small>Wetlands southeast of downtown Dallas.</small>
 

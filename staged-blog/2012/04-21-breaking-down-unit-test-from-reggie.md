@@ -9,7 +9,7 @@ Test driven development is hard. Perhaps it would not be if we were taught to th
 First, some context. I’m working on adding persistence to the application: ability to save and re-open session data. I have a [ViewModel](http://en.wikipedia.org/wiki/Model_View_ViewModel), called `ReggieBasicViewModel`, which initially contains the data to persist and which binds the View to my business logic. The ViewModel is being instantiated with a factory object, which allows the ViewModel to build concrete instances of various dependencies. This illustrates the [Abstract Factory pattern](https://www.oodesign.com/abstract-factory-pattern.html), and the [Open-Closed Principle](https://docs.microsoft.com/en-us/archive/msdn-magazine/2008/june/patterns-in-practice-the-open-closed-principle), but arguably violates Single Responsibility Principle [same link as OCP] by grouping un-related functionality into the factory. The proper factory object is configured in the application’s bootstrapper class, or or it is setup in a unit test using an alternate factory implementation.
 
 {: .center-block}
-![Class model diagram](/img/diggingIntoTests1.png)<!-- {: .img-fluid .border .rounded } -->
+![Class model diagram](/img/diggingIntoTests1.png)
 
 ![ISessionPersistence](/img/diggingIntoTests2.png){: .float-right .border .rounded }
 
@@ -60,7 +60,7 @@ Mock<IReggieSession> mockSession = m_mockFactory.Create<IReggieSession>();
 Use MoQ to create a mockup of an `IReggieSession`. I forgot to mention this: it is a small interface for holding the Sample Text and Regular Expression Pattern that will be saved.
 
 <div class="text--center">
-![IReggieSession interface](/img/diggingIntoTests3.png)<!-- {: .img-fluid .border .rounded } -->
+![IReggieSession interface](/img/diggingIntoTests3.png)
 </div>
 
 ```csharp

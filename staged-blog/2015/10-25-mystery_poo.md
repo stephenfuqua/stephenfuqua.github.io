@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="text--center">
-![photo of caterpillar poop](/img/hornworm1.jpg)<!-- {: .img-fluid .border .rounded } -->
+![photo of caterpillar poop](/img/hornworm1.jpg)
 </div>
 
 Who did this? Who would leave such mighty poo below my bell pepper? Our fence is too tight for rabbits...
@@ -16,12 +16,12 @@ Who did this? Who would leave such mighty poo below my bell pepper? Our fence is
 <!-- truncate -->
 
 {: .center-block}
-![photo of tobacco hornworm](/img/hornworm2.jpg)<!-- {: .img-fluid .border .rounded } -->
+![photo of tobacco hornworm](/img/hornworm2.jpg)
 
 It is a tobacco hornworm!
 
 {: .center-block}
-![photo of tobacco hornworm, 2](/img/hornworm3.jpg)<!-- {: .img-fluid .border .rounded } -->
+![photo of tobacco hornworm, 2](/img/hornworm3.jpg)
 
 And another!
 
