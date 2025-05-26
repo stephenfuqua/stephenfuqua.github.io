@@ -9,7 +9,9 @@ tags:
 
 ---
 
-![QUnit + SinonJS logos](/img/qunitPlusSinonJs.png){: .float-right}
+<div class="image">
+![QUnit + SinonJS logos](/img/qunitPlusSinonJs.png)
+</div>
 
 Basic was the first language I learned. Well, partially, in 8th grade. On Apple
 IIe at school and a Packard Bell 386 PC at home. A few years later, JavaScript
@@ -38,8 +40,8 @@ better ([comparison](https://jqueryuivskendoui.com/)). So, with those
 tools chosen, let's demonstrate a simple unit test on a function that opens a
 dialog box using [Kendo Window](https://demos.telerik.com/kendo-ui/window/index).
 
-Confession: this is not proper <acronym title="Test Driven
-Development">TDD</acronym>. I don't know the frameworks well enough to work in a
+Confession: this is not proper <abbr title="Test Driven
+Development">TDD</abbr>. I don't know the frameworks well enough to work in a
 TDD mode. I had to start with understanding Kendo before I could write a test.
 Here's a function for converting a div with ID "message" into a Kendo Window:
 
@@ -153,7 +155,8 @@ test("displayMessage opens a Kendo window and replaces the inner contents", func
 
 Put it all together and load it into JSFiddle&hellip;
 
-{: .text-center}
+<!-- todo -->
+
 <iframe width="100%" height="300" src="http://jsfiddle.net/sfuqua/F3Uw4/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 Was it worth it? Maybe not in this specific example, but at work I had a more

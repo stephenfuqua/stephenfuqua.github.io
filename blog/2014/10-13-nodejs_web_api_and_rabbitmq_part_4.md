@@ -7,10 +7,11 @@ tags:
 - programming
 - javascript
 - dotnet
-
 ---
 
-![a passing test](/img/nodeToRabbitGreen.png){: .float-right }
+<div class="image">
+![a passing test](/img/nodeToRabbitGreen.png)
+</div>
 
 _Desiring to learn about both Node.js (particularly as an API server) and
 ASP.Net Web API, I decided to throw one more technology in the mix and see which

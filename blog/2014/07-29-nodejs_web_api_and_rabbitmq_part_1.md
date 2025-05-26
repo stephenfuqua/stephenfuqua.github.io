@@ -20,15 +20,15 @@ Thus the challenge is this: accept a string message via POST, forward it to the
 service bus, and return HTTP Status Code 202 (Accepted) along with an
 acknowledgment that repeats the original message. Both REST services should be
 self-hosted; free from additional cruft like error-handling*; and should utilize
-an url like http://localhost:port/Message/mymessage, where "mymessage" is the
+an url like `http://localhost:port/Message/mymessage`, where "mymessage" is the
 string to be sent across the bus.
 
 <!-- truncate -->
 
 > "Simplicity &mdash; the art of maximizing the amount of work not done &mdash;
-> is essential," to quote the <a
-> href="http://agilemanifesto.org/principles.html">Principles behind the Agile
-> Manifesto.</a> This is just demo code!
+> is essential," to quote the [Principles behind the Agile
+> Manifesto](https://agilemanifesto.org/principles.html). This is just demo
+> code!
 
 In test-driven fashion, I decided to start with an automated test harness that
 would run each API, send a message to the bus, and consume the message in order

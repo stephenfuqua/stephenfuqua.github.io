@@ -13,8 +13,8 @@ generous enough to invite us along to The Ranch. Now, The Ranch has a more
 formal name, but its legend and personal history are best distinguished by
 turning the general, specific.
 
-<div class="text--center">
-![scanned photo of the ranch](/img/Landscape_1.jpg){: .border .rounded }
+<div class="image">
+![scanned photo of the ranch](/img/Landscape_1.jpg)
 </div>
 
 <!-- truncate -->
@@ -32,8 +32,9 @@ outside, one came to a two-story building - or perhaps two of them? - with guest
 rooms. After hearing that the other adults had found a large scorpion in their
 room, I had mixed feelings at finding nothing but a walking stick in mine*.
 
-{: .float-right }
-![photo Above the Medina river](/img/Above%20the%20Medina.jpg){: .border .rounded }
+<div class="image">
+![photo Above the Medina river](/img/Above%20the%20Medina.jpg)
+</div>
 
 There was a lawn out back, which sloped gently and then precipitously down to
 the river, with a rock wall delineating the danger zone. In the evening, we
@@ -61,8 +62,9 @@ milieu, I wonder: do we have it in our collective capacity to find ways to make
 even a semblance of this experience more accessible, especially for kids in the
 city?
 
-{: .float-left }
-![looking along the river](/img/Down%20the%20river.jpg){: .border .rounded }
+<div class="image">
+![looking along the river](/img/Down%20the%20river.jpg)
+</div>
 
 ---
 

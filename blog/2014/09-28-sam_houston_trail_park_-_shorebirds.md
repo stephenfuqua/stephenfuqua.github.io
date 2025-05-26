@@ -7,8 +7,9 @@ tags:
 - birds
 ---
 
-{: .center-block}
+<div class="image">
 ![shorebirds at Sam Houston park](/img/shorebirdsSamHouston.JPG)
+</div>
 
 Thanks to recent mowing, I was able to access the west-side of the pond at Sam
 Houston Trail Park in Irving, TX this morning. The pond is drying up &mdash;
@@ -25,3 +26,5 @@ to eat. These photos are as good as I can do. Positively identified:
 
 I encountered a few more common birds, and just as I was leaving ran into a
 group of three Lark Sparrows to cap off the muddy morning.
+
+<!-- truncate -->

@@ -24,12 +24,13 @@ those with the capacity to serve, there is no room for choosing to become a
 leader: either you live into your God-given potential, or you hold yourself back
 artificially.
 
-{: .center-block}
-\***
+---
 
-{: .float-right }
-![photo of tree with pink flowers](/img/IMG_1689.JPG){: .border .rounded }<br>
-<small>Cassia grandis, Crooked Tree<br>Wildlife Sanctuary, Belize</small>
+<div class="image">
+![photo of tree with pink flowers](/img/IMG_1689.JPG)
+
+Cassia grandis, Crooked Tree Wildlife Sanctuary, Belize
+</div>
 
 I did not grow up in the Bah&aacute;'&iacute;­ Faith, having adopted it as a
 teenager in 1994. Though there were local role models in those early years, my
@@ -55,8 +56,7 @@ that my effectiveness was hampered by lack of community-based experience.
 Combined with increasing service opportunities within my own Faith, it was time
 for a change. I stepped back from the URI in order to go local.
 
-{: .center-block}
-\***
+---
 
 In my childhood, concern for the environment came before concern about
 spirituality. In college I strayed into the abstract and slowly came back to
@@ -90,12 +90,13 @@ a servant-leader, it is my hope that the GreenFaith Fellowship will strengthen
 my ability to engage in dialogue and action with people from diverse religious
 and social backgrounds.
 
-{: .center-block}
-![pelican photo](/img/IMG_2069.JPG){: .border .rounded .img-fluid }<br>
-<small>Brown Pelican, precariously perched, on a small caye off the coast of Belize (Hopkins area)</small>
+<div class="image">
+![pelican photo](/img/IMG_2069.JPG)
 
-{: .center-block}
-\***
+Brown Pelican, precariously perched, on a small caye off the coast of Belize (Hopkins area).
+</div>
+
+---
 
 The folks in the URI were, for me, the first public face of true service. Within
 my own community I began to notice the private side of service. One man's quite

@@ -16,8 +16,9 @@ barefoot children. And of course there was the St. Augustine grass. This was all
 conducive to much play outside. But the best part was behind the fence: The
 Ditch.
 
-{: .center-block}
+<div class="image">
 ![satellite view](/img/theDitch.png)
+</div>
 
 <!-- truncate -->
 

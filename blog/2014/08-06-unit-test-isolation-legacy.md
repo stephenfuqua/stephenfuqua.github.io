@@ -13,19 +13,20 @@ call external resources, such as a database, filesystem, or heavy-duty component
 new unit tests for legacy .Net code? Well, that depends... and I have a flow
 chart and brief notes to help you figure it out.
 
-<div class="text--center">
+<div class="image">
 ![Test toolkit flow chart](/img/testIsolationLegacyCode.png)
 </div>
 
+<!-- truncate -->
 ## Stubs, Mocks, Etc
 
 [Moq](https://github.com/moq/moq4) is my favorite framework because it is free
 and is relatively easy to understand (if you are comfortable with lambda
 expressions). No doubt
-[RhinoMock](http://www.hibernatingrhinos.com/oss/rhino-mocks), [TypeMock
-(Isolator Basic)](http://www.typemock.com/), the Nmocks, and many other unnamed
+[RhinoMock](https://www.hibernatingrhinos.com/oss/rhino-mocks), [TypeMock
+(Isolator Basic)](https://www.typemock.com/), the Nmocks, and many other unnamed
 frameworks have their uses. [Microsoft's
-Fakes](http://msdn.microsoft.com/en-us/library/hh549175.aspx) framework can work
+Fakes](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/test/isolating-code-under-test-with-microsoft-fakes) framework can work
 for you – if you have an MSDN Premium or Ultimate license and you are confident
 that you won't downgrade at any point. My other problem with Fakes is listed as
 a virtue elsewhere in this post – it can easily be misused to substitute for
@@ -40,8 +41,7 @@ stubs](https://martinfowler.com/articles/mocksArentStubs.html).
 
 At first glance it might seem that calls to static and extension methods are
 going to be a big thorn in your side. Thankfully Static Delegate Injection can
-easily solve that problem for you. I wrote about this in [Making Mockery of
-Extension Methods](/archive/2014/04/10/making-a-mockery-of-extension-methods/).
+easily solve that problem for you. I wrote about this in [Making Mockery of Extension Methods](./04-10-making-a-mockery-of-extension-methods.md).
 
 ## Sprout or Wrap
 
@@ -59,12 +59,13 @@ On the other hand, perhaps it will make sense to take the ADO.Net or ORM-related
 code out of your class, moving it to an Adapter class with a separated
 interface. Now you can take full advantage of mocking. This is Wrapping.
 
-\* For a bit more from Feathers without reading the whole book, [here is a
-2-chapter extract
-(PDF)](http://ptgmedia.pearsoncmg.com/img/9780131177055/samplepages/0131177052.pdf).
+:::tip
+
 Phil Haack wrote about test-specific subclasses from a .Net perspective: [Test
 Specific Subclasses vs Partial
-Mocks](http://haacked.com/archive/2007/12/06/test-specific-subclasses-vs-partial-mocks.aspx).
+Mocks](https://haacked.com/archive/2007/12/06/test-specific-subclasses-vs-partial-mocks.aspx).
+
+:::
 
 ## Last Resort
 
@@ -79,4 +80,4 @@ the job done.
 
 Microsoft article on "shims" technology: [Using shims to isolate your
 application from other assemblies for unit
-testing](http://msdn.microsoft.com/en-us/library/hh549176.aspx).
+testing](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/test/using-shims-to-isolate-your-application-from-other-assemblies-for-unit-testing).

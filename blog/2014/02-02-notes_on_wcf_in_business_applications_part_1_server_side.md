@@ -41,19 +41,22 @@ and inject that into a
 [ServiceHost](https://learn.microsoft.com/en-us/dotnet/api/system.servicemodel.servicehost).
 The following code assumes that the service's [endpoint (URL), binding, and
 behavior](https://learn.microsoft.com/en-us/dotnet/framework/wcf/configuring-services-using-configuration-files)
-are setup in the application's config file (<a href="#noteConfig" class=
-"noteLink">note</a>).
+are setup in the application's config file.
 
-{: .card .bg-light .card-bare}
-<a id="noteConfig"></a>If you used the Windows Service template when creating
+:::tip
+
+If you used the Windows Service template when creating
 the project in Visual Studio, then you'll need to manually add the endpoint,
 binding, and behavior to the application's config file, whereas they will be
 present by default if you used the WCF template. Alternately, you can right
 click the app.config file in Solution Explorer, and choose **Edit WCF
 Configuration**. This will load the config file into a helpful editor.
 
-{: .text-center}
+:::
+
+<div class="image">
 ![UML Diagram](/img/wcfUml.png)
+</div>
 
   ```csharp
 public partial class MyService : ServiceBase
@@ -182,18 +185,21 @@ an MSI allows you to
   Framework path for InstallUtil.exe;
 * Prompt the installer to enter a service account name and password, instead of
   making them open the Service Manager and manually enter those values as an
-  additional step ([note](#noteService))
+  additional step.
 * Perhaps provide options, such as installing with a Test-environment config
   file instead of the default config file geared toward the Production
   environment.
 
-{: .card .bg-light .card-bare}
-<a id="noteService"></a>By default, the service would
-otherwise install using the "LOCAL SERVICE" account, which is built into Windows. But
-this does not provide a satisfactory level of control for a service that needs to access
-resources, such as files or a database. In that case, it is best to create a dedicated domain
-account. Grant that account permission to access necessary files and to execute stored procedures
-or perform CRUD operations directly on tables.
+:::tip
+
+By default, the service would otherwise install using the "LOCAL SERVICE"
+account, which is built into Windows. But this does not provide a satisfactory
+level of control for a service that needs to access resources, such as files or
+a database. In that case, it is best to create a dedicated domain account. Grant
+that account permission to access necessary files and to execute stored
+procedures or perform CRUD operations directly on tables.
+
+:::
 
 None of these advantages are strictly necessary; you could do them all manually.
 But manual steps are prone to error and frustration. So building an MSI package
@@ -264,4 +270,3 @@ In two follow-ups to this note, I plan to discuss:
    * Channel Caching
    * Using Statement
    * General References
-

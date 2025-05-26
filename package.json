@@ -63,7 +63,8 @@
           "br",
           "iframe",
           "sup",
-          "abbr"
+          "abbr",
+          "sub"
         ]
       },
       "emphasis-style": {

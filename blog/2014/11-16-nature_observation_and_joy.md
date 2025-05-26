@@ -20,7 +20,7 @@ please do return the favor). There is a wonder about the natural world, a wonder
 and a joy that is so great that it often cannot be contained. This joy is reason
 enough to share with friends and family.
 
-<div class="text--center">
+<div class="image">
 ![photo of bluebonnets and mesquite tree](/img/bluebonnetsAndMesquite.JPG)
 </div>
 
@@ -47,8 +47,9 @@ clearly anymore, nearly thirty years later &mdash; but that is the story I told
 when the memory remained: that glasses had opened up a whole new world for me.
 What I do know is that I have been looking up, down, and around ever since.
 
-{: .float-right}
-![bluebird photo](/img/bluebird-thumb-250x313-72.jpg){: .border .rounded }
+<div class="image">
+![bluebird photo](/img/bluebird-thumb-250x313-72.jpg)
+</div>
 
 Observing, identifying, breathing hearing tasting nature. This is the joy of the
 divine. All of the small details of life, and the broad scenes they co-create,
@@ -56,7 +57,7 @@ are aspects of a continuous revelation. Every frog, fossil, frond, and fawn is a
 microcosm, pregnant with transcendence. Truly, "[t]his is an existence which
 knoweth no decay," as Bah&aacute;'u'll&aacute;h tells us in His Tablet of Wisdom, "and
 Nature itself is lost in bewilderment before its revelations, its compelling
-evidences and its effulgent glory which have encompassed the universe." ([http://reference.bahai.org/en/t/b/TB/tb-10.html](http://reference.bahai.org/en/t/b/TB/tb-10.html))
+evidences and its effulgent glory which have encompassed the universe." ([https://reference.bahai.org/en/t/b/TB/tb-10.html](http://reference.bahai.org/en/t/b/TB/tb-10.html))
 
 _* Thank you, Dad, for my early lessons in computing._
 

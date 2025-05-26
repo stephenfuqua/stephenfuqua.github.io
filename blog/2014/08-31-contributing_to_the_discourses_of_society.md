@@ -25,5 +25,6 @@ The August event was the first in the series, and the concept itself was the
 subject of the evening's presentation...
 
 <!-- truncate -->
+<!-- todo -->
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/38525963" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> ** <a href="//www.slideshare.net/StephenFuqua/constructive-social-discourse" title="Contributing to the Discourses of Society" target="_blank">Contributing to the Discourses of Society</a> ** from **<a href="//www.slideshare.net/StephenFuqua" target="_blank">Stephen Fuqua</a>** </div>

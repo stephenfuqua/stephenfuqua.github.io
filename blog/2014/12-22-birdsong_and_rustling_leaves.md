@@ -15,10 +15,11 @@ hindsight, I think it was the call of the Northern Cardinal &mdash; possibly
 awakening me in the early hours &mdash; that caused my mild disdain. So how did
 I arrive at this point where birding brings me such joy?
 
-<div class="text--center">
-![photo of birds](/img/WhiteRockPelicans.JPG)<br>
+<div class="image">
+![photo of birds](/img/WhiteRockPelicans.JPG)
+
+American White Pelicans, Double Crested Cormorants, and domestic goose. White Rock Lake, Dallas, TX. January 2014.
 </div>
-<small><i>American White Pelicans, Double Crested Cormorants, and domestic goose. White Rock Lake, Dallas, TX. January 2014.</i></small>
 
 <!-- truncate -->
 
@@ -59,7 +60,8 @@ only live while one is intoxicated with life," wrote Tolstoy in his famous
 Confession. Birdsong and rustling leaves: these are the most potent of spiritual
 wines.
 
-<div class="text--center">
-![photo of egrets](/img/WhiteRockEgrets.JPG)<br>
+<div class="image">
+![photo of egrets](/img/WhiteRockEgrets.JPG)
+
+Great Egrets, American Coots, and a Mallard. White Rock Lake, Dallas, TX. January 2014.
 </div>
-<small><i>Great Egrets, American Coots, and a Mallard. White Rock Lake, Dallas, TX. January 2014.</i></small>

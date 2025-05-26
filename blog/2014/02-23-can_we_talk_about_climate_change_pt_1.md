@@ -25,9 +25,11 @@ blog posts reflecting on the conversations.
 
 <!-- truncate -->
 
-{: .float-right }
-![Stephen talking](/img/sf_Presenting_2014_02_16.jpg){: .border .rounded }<br>
-Photo by [Jay Braden](https://www.jaybraden.net/)
+<div class="image">
+![Stephen talking](/img/sf_Presenting_2014_02_16.jpg)
+
+Photo by Jay Braden
+</div>
 
 _Summary of "Moral Imperatives for Climate Action" presentation:_
 
@@ -45,7 +47,7 @@ My own presentation was nothing ground-breaking. Nevertheless it felt incredibly
 meaningful to hone my own ability to express the importance of acting on climate
 change before it acts on us. I would **encourage as many people as possible** to
 do their own research and **find their own voice** on this critical topic. You
-can download a PDF version of the slide deck at [greenbahai.com](http://www.greenbahai.com), beneath the "resources" tab
+can download a PDF version of the slide deck at [greenbahai.com](https://www.greenbahai.com), beneath the "resources" tab
 (quick summary in the sidebar here).
 
 Although the presentation ran longer than I hoped (about 40 minutes), I think
@@ -54,7 +56,7 @@ presentation tried to make clear that real harms face people and ecosystems
 around the world, it needed at least one more slide: one that presents **climate
 change as a clear and present danger, a danger that requires action NOW**. We
 cannot wait for today's children to solve the problem. Some say we have but [16
-years to radically change our ways](http://www.theguardian.com/environment/earth-insight/2013/jul/10/james-hansen-fossil-fuels-runaway-global-warming). Maybe that is a doomsday prediction, but
+years to radically change our ways](https://www.theguardian.com/environment/earth-insight/2013/jul/10/james-hansen-fossil-fuels-runaway-global-warming). Maybe that is a doomsday prediction, but
 we must take it seriously.
 
 The presentation was followed by conversation around an **ecological footprint
@@ -74,43 +76,26 @@ egoistically I was wrapped up in my own thinking and didn't pay close enough
 attention. The answer I came up with the next day was probably subconsciously
 influenced by the responses from others. Hypothetical conversation:
 
-<style type="text/css">
-.maryam { padding-left: 60px; background-image: url('/img/woman.png'); background-position: top left; background-repeat: no-repeat; min-height: 50px;}
-.thomas { padding-right: 60px; background-image: url('/img/strawMan.png'); background-position: top right; background-repeat: no-repeat; min-height: 50px; }
-</style>
-
-{: .maryam }
 **Maryam:** &hellip; we must act on climate change now&hellip;
 
-{: .thomas }
 **Thomas:** But what can we do? It is caused by solar activity and other natural factors - not human activity. It is just a ridiculous ploy. Look at the good that natural gas has brought to the U.S. economy in the last five years! Just look at the boom from oil in North Dakota! They have the lowest unemployment in the nation. Disrupting that economic activity will hurt real people.
 
-{: .maryam }
 **Maryam:** On the contrary, most of the world's climate scientists agree that human activity is actually the main force. But I suspect we're not going to agree on that right now. Let's look a different perspective: pollution.
 
-{: .thomas }
 **Thomas:** Ok, pollution, what about it? Climate change is supposedly about carbon dioxide, which occurs naturally.
 
-{: .maryam }
 **Maryam:** Can we agree on the basic fact that burning fossil fuels causes smog and pollution?
 
-{: .thomas }
 **Thomas:** Well, there are other sources too, but yeah I guess it is no coincidence that Houston and LA have horrible traffic and horrible smog.
 
-{: .maryam }
 **Maryam:** And can we agree that smog is bad for our health?
 
-{: .thomas }
 **Thomas:** Um, sure. I think I've heard that there are more heart attacks and asthma.
 
-{: .maryam }
 **Maryam:** Then maybe we can agree that we should shift away from burning fossil fuels, which cause most of that air pollution?
 
-{: .thomas }
 **Thomas**: OK.
 
-{: .maryam }
 **Maryam:** I'm not going to lie &mdash; that is the primary answer to climate change. But it is also the answer to air pollution. Can we agree on doing something about that?
 
-{: .thomas }
 **Thomas:** let me think about it. It is a different perspective. I might be able to agree that we should act on air pollution in its own right, without thinking about the supposed link to climate change.

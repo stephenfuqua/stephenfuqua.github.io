@@ -14,15 +14,15 @@ _Desiring to learn about both Node.js (particularly as an API server) and
 ASP.Net Web API, I decided to throw one more technology in the mix and see which
 one is faster at relaying messages to a service bus, namely, RabbitMQ._
 
-* [Part 1: Test Runner](/archive/2014/07/29/nodejs_web_api_and_rabbitmq_part_1/)
-* [Part 2: Initial Node.js Code](/archive/2014/08/03/nodejs_web_api_and_rabbitmq_part_2/)
-* Part 3: Web API Code<
-* Part 4: Enhanced Node.js code
+* [Part 1: Test Runner](./07-29-nodejs_web_api_and_rabbitmq_part_1.md)
+* [Part 2: Initial Node.js Code](./08-03-nodejs_web_api_and_rabbitmq_part_2.md)
+* Part 3: Web API Code
+* [Part 4: Enhanced Node.js code](./10-13-nodejs_web_api_and_rabbitmq_part_4.md)
 
 And now, I finally get back to blogging about the ASP.Net Web API code that I
 wrote for this head-to-head comparison of REST service and message bus
-integration. The [official tutorials](http://www.asp.net/web-api)
-were my guide for Web API, and as with the test runner in part 1, I used [MassTransit](http://masstransit-project.com/) as a convenient library
+integration. The [official tutorials](https://www.asp.net/web-api)
+were my guide for Web API, and as with the test runner in part 1, I used [MassTransit](https://masstransit-project.com/) as a convenient library
 for publishing from .Net code to RabbitMQ. Owin was my solution for self-hosting
 the web application.
 
@@ -76,9 +76,9 @@ that `Startup` class, shall we?
 In summary, this class configures Web API with:
 
 1. attribute routing
-1. Unity as my dependency injector of choice
-1. `text/html` as the supported mime type for content transfers
-1. Open a connection to the Rabbit service bus and inject it into Unity for use in the API service method
+2. Unity as my dependency injector of choice
+3. `text/html` as the supported mime type for content transfers
+4. Open a connection to the Rabbit service bus and inject it into Unity for use in the API service method
 
 But you could probably read and figure that out. The key thing here is getting
 the service bus setup in the dependency injector. When a call is made to the
@@ -115,7 +115,7 @@ public class MessageController : ApiController
 ```
 
 As with the Node.js service, you can see that the service accepts messages
-routed to http://baseAddress/Message/{message} or /Message/:message as Node has
+routed to `http://baseAddress/Message/{message}` or `/Message/:message` as Node has
 it. Same concept here. Because .Net is my bread and butter, I didn't scatter
 debug statements throughout this code, as I did in the Node version. In a real
 world application, I would certainly include error and trace logging here.
@@ -132,13 +132,17 @@ and can be consumed by the MassTransit-based test helper class, documented in
 part 1. Let's look at this in action: open a browser window, type a
 message-formatted URL, and watch it show up in the message queue:
 
-![composite screenshot](/img/webApi_RabbitMQ.png){: .text-center}
+<div class="image">
+![composite screenshot](/img/webApi_RabbitMQ.png)
+</div>
 
 And here is the message in the queue. Note that it is in the
 **apitest_webapi_error** queue, with **_error** appended. This is because I have
 a MassTransit-based subscription to this queue, but I don't have any consumer
 running for this message type. The result is that the message is pulled from the
 queue by MassTransit, but then pushed right back to Rabbit in this error queue.
+
+<!-- todo -->
 
 <table>
 <tr>
@@ -155,7 +159,7 @@ queue by MassTransit, but then pushed right back to Rabbit in this error queue.
   </tr>
   <tr>
     <th align="left" >Properties</th>
-    <td><table class="mini"><tbody><tr><th>message_id:</th><td><acronym class="type" title="string">db190000-2f82-40f0-69d4-08d1b37f1e1e</acronym></td></tr><tr><th>delivery_mode:</th><td><acronym class="type" title="number">2</acronym></td></tr><tr><th>headers:</th><td><table class="mini"><tbody><tr><th>Content-Type:</th><td><acronym class="type" title="string">application/vnd.masstransit+json</acronym></td></tr></tbody></table></td></tr></tbody></table></td>
+    <td><table class="mini"><tbody><tr><th>message_id:</th><td><abbr class="type" title="string">db190000-2f82-40f0-69d4-08d1b37f1e1e</abbr></td></tr><tr><th>delivery_mode:</th><td><abbr class="type" title="number">2</abbr></td></tr><tr><th>headers:</th><td><table class="mini"><tbody><tr><th>Content-Type:</th><td><abbr class="type" title="string">application/vnd.masstransit+json</abbr></td></tr></tbody></table></td></tr></tbody></table></td>
   </tr>
   <tr>
     <th align="left" >
@@ -164,7 +168,8 @@ queue by MassTransit, but then pushed right back to Rabbit in this error queue.
       <sub>Encoding: string</sub>
     </th>
     <td>
-      {
+      ```json
+  {
   "destinationAddress": "rabbitmq://localhost:5672/RabbitMQ.WebApi:SimpleMessage",
   "headers": {},
   "message": {
@@ -175,7 +180,7 @@ queue by MassTransit, but then pushed right back to Rabbit in this error queue.
   ],
   "sourceAddress": "rabbitmq://localhost:5672/apitest_webapi"
 }
+```
 </td>
 </tr>
 </table>
-

@@ -14,7 +14,7 @@ _Desiring to learn about both Node.js (particularly as an API server) and
 ASP.Net Web API, I decided to throw one more technology in the mix and see which
 one is faster at relaying messages to a service bus, namely, RabbitMQ._
 
-_This is part two in a series. [Part 1](/archive/2014/07/29/nodejs_web_api_and_rabbitmq_part_1/)._
+_This is part two in a series. [Part 1](./07-29-nodejs_web_api_and_rabbitmq_part_1.md)._
 
 Let's start with Node.js. I already let you in on the fact that formatting a
 message for .Net to pick it up is tricky, and I won't get into the detail of
@@ -26,7 +26,7 @@ with RabbitMQ. We'll get the finer points of interacting with .Net later.
 So this is my first project in Node.js. I'm not going to claim any expertise or
 try to explain the framework. I first learned it in an HTML 5 meetup meeting
 with Eric Sowell, who also claims not to be a Node.js expert, but he certainly
-did a great job of clearing the path. His blog post [Enough Node.js](http://ericsowell.com/blog/2014/6/16/enough-node)
+did a great job of clearing the path. His blog post [Enough Node.js](https://ericsowell.com/blog/2014/6/16/enough-node)
 brings those pieces together in written form and I recommend heading over there
 my post is diving in too deep right away.
 
@@ -34,17 +34,18 @@ Although Eric's a .Net guy, he seems to like the Mac and SublimeText in his
 avocational capacity. But for me, I wanted to stick to Visual Studio. So the
 first thing I did was install the [Node.js Tools for Visual Studio](https://nodejstools.codeplex.com/).
 I'm happy to say it is a very functional and useful add-in. Back to Eric's lead,
-I decided to use [express](http://expressjs.com/) as my node web
+I decided to use [express](https://expressjs.com/) as my node web
 server. I decided to go with [node-amqp](https://github.com/postwait/node-amqp) for interacting with
 RabbitMQ. There were other options, but the documentation and age of this
-project convinced me to give it a shot. [CloudAMQP](http://www.cloudamqp.com/docs/nodejs.html) has additional
+project convinced me to give it a shot. [CloudAMQP](https://www.cloudamqp.com/docs/nodejs.html) has additional
 documentation and samples that were quite helpful in pulling this together. As
 you'll see, the code was quite simple in the end. But, being my first foray into
 JSON and closures, a lot more learning went into this than is readily apparent.
 
 Enough talk. Code. Setup the dependencies and the shell of the web server. [Part
-1](/archive/2014/07/29/nodejs_web_api_and_rabbitmq_part_1/) describes the expected functionality and the RESTful format. This lets us
-use `http://localhost:10025/Message/helloWorld`.
+1](./07-29-nodejs_web_api_and_rabbitmq_part_1.md) describes the expected
+functionality and the RESTful format. This lets us use
+`http://localhost:10025/Message/helloWorld`.
 
 ```javascript
 /**
@@ -156,42 +157,13 @@ connection.on('ready', function() {
 And here's the message that is sitting in the **apitest_webapi_simple** queue in
 RabbitMQ:
 
-<table>
-  <tr>
-    <th align="left" width="150">Exchange</th>
-    <td>RabbitMQ_web_api_testing</td>
-  </tr>
-  <tr>
-    <th align="left">Routing Key</th>
-    <td>apitest_webapi_simple</td>
-  </tr>
-  <tr>
-    <th align="left">Redelivered</th>
-    <td>&SmallCircle;</td>
-  </tr>
-  <tr>
-    <th align="left">Properties</th>
-    <td>
-      <table class="mini">
-        <tbody>
-          <tr>
-            <th>content_type:</th>
-            <td>application/json</td>
-          </tr>
-        </tbody>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <th align="left">Payload
-    <sub>38 bytes</sub>
-    <sub>Encoding: string</sub></th>
-    <td>
-      <pre>
-{"body":"one+small+step+for+a+man..."}
-    </td>
-  </tr>
-</table>
+| Property       | Value                          |
+|----------------|--------------------------------|
+| **Exchange**   | RabbitMQ_web_api_testing       |
+| **Routing Key**| apitest_webapi_simple          |
+| **Redelivered**| ○                              |
+| **Properties** | content_type: application/json |
+| **Payload**    | `{"body":"one+small+step+for+a+man..."}` |
 
 My automated test fails, but at least I've established communication with the
 bus. The next post will look at the equivalent code for Web API.

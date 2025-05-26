@@ -19,13 +19,13 @@ the senses are not so overwhelmed in these daily moments, as the ordinary passes
 beyond rationality. These peek experiences do exist however, and as I sift
 through the shoebox of memory, two stand out at very different scales.
 
-<div class="text--center">
-![Colorado river in Arizona](/img/arizonaNasa.jpg)<br>
-</div>
-<small>Page, Arizona, along the Colorado River. [Courtesy
-of Nasa](http://www.dvidshub.net/image/855668/page-arizona-image-day#.VHEMwMkXJx1).</small>
+<div class="image">
+![Colorado river in Arizona](/img/arizonaNasa.jpg)
 
+Page, Arizona, along the Colorado River. [Courtesy
+of Nasa](https://www.dvidshub.net/image/855668/page-arizona-image-day#.VHEMwMkXJx1).
 </div>
+
 <!-- truncate -->
 
 In 1998, I flew from Austin, Texas to San Francisco, California, to attend the
@@ -48,10 +48,14 @@ We flew over this all, yet behind us this landscape remained unconquered. Yes, a
 mighty dam. Yes, inappropriate fairways enabled by that dam. They were blips,
 minor marks barely worth noticing on our vast Earth Mother.
 
-<div class="text--center">
-![baby owls](/img/barred-owl-chicks4-069.jpg)<br>
+<div class="image">
+![baby owls](/img/barred-owl-chicks4-069.jpg)
+
+Copyright © 2011, [Karen
+Gallagher](https://morningjoy.wordpress.com/2011/02/23/owl-babies/). Used by
+permission under the Creative Commons  [Attribution-NonCommercial-NoDerivs 3.0
+Unported](http://creativecommons.org/licenses/by-nc-nd/3.0/) license.
 </div>
-<small>Copyright © 2011, [Karen Gallagher](http://morningjoy.wordpress.com/2011/02/23/owl-babies/). Used by permission under the Creative Commons  [Attribution-NonCommercial-NoDerivs 3.0 Unported](http://creativecommons.org/licenses/by-nc-nd/3.0/) license.</small>
 
 The second scene occurred in 2010 in a well-wooded park above the Mississippi
 River in St. Paul, Minnesota. We were out performing points counts of the
@@ -72,9 +76,7 @@ animal response of nurture, that human non-rational-yet-deeply-intrinsic feeling
 of unbearable cuteness,  for lack of a better or manly term. The Unbearable
 Cuteness of Being.
 
-<div class="text--center">
-***
-</div>
+---
 
 Although so vastly different in scale, these were two moments that turned the
 everyday into the divine cathedral. Each created a sacred space in uniting time
