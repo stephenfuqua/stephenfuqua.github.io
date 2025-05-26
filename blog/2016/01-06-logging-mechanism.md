@@ -21,8 +21,10 @@ would like. They don't have the interface I would prefer. But they work. It
 turns out NLog has basically the same interface, and the same tedious
 configuration.
 
+<!-- truncate -->
+
 Setting aside the logging provider for a moment, I have been deferring a
-decision on *what to do* with the output logs. Write a file? Send e-mail? Save
+decision on _what to do_ with the output logs. Write a file? Send e-mail? Save
 to database? With files and database, I would still want an easy way to view the
 logs. With e-mail, I would have to configure an e-mail provider and might end up
 accidentally flooding an inbox.

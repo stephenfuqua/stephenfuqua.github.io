@@ -14,9 +14,11 @@ concept. Follow that link for a full description of the concept. Because my
 graphics toolkit is currently limited, my diagram for FlightNode has boxes
 instead of concentric onion-looking circles...
 
-<div class="text--center">
+<div class="image">
 ![onion architecture](/img/flightnode.onion.png)
 </div>
+
+<!-- truncate -->
 
 One key takeaway is the direction of dependencies: all of the solid line
 dependencies in this chart move from left to right. The Domain Entities are at

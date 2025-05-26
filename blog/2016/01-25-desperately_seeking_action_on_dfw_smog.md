@@ -13,14 +13,16 @@ Back in the '90s, I remember my parents saying that it was less expensive to
 inspect their cars in Plano, in Collin County, than a few miles further south in
 Dallas County - because of the additional emissions inspections required in the
 latter. I never would have imagined that 20 years later, [ten DFW
-counties](https://www.tceq.texas.gov/airquality/sip/dfw/dfw-status) are now in non-attainment for smog-producing ozone pollution - *and
-we still have no plan to solve the problem*.
+counties](https://www.tceq.texas.gov/airquality/sip/dfw/dfw-status) are now in non-attainment for smog-producing ozone pollution - _and
+we still have no plan to solve the problem_.
 
 Just looking at the smog, we all know it can't be good for any of us. The
 American Lung Association has a good article on the [health
 effects of ozone pollution.](http://www.stateoftheair.org/2015/health-risks/health-risks-ozone.html) Moreover, [studies
 have shown](http://www.environmentalhealthnews.org/ehs/news/2012/unequal-exposures) that air pollution in general has a disproportionate impact on
 Latino and African-American communities.
+
+<!-- truncate -->
 
 Last week, I attended my first public hearing of any kind: an opportunity for
 the general public to speak to representatives of the Texas Commission on

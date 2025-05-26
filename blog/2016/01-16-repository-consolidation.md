@@ -8,13 +8,15 @@ tags:
 - FlightNode
 ---
 
-The .NET projects for FlightNode were created in several different Git repositories, thus giving us several small, well-contained, and re-usable projects. These small projects would be installed into the *Service* project as NuGet packages, which also makes for a faster compile in each discrete solution:
+The .NET projects for FlightNode were created in several different Git repositories, thus giving us several small, well-contained, and re-usable projects. These small projects would be installed into the _Service_ project as NuGet packages, which also makes for a faster compile in each discrete solution:
 
 1. FlightNode.Common
 1. FlightNode.DataCollection
 1. FlightNode.Identity
 
 But&hellip; this has approach has caused problems.
+
+<!-- truncate -->
 
 1. Each developer has to clone four different repositories.
 1. Debugging a solution where core business logic is in a NuGet package is a huge pain.

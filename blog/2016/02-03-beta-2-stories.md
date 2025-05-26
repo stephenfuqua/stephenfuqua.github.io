@@ -12,10 +12,11 @@ This release candidate nearly wraps up the user management and volunteer work
 tracking functionality. There are a small few "should have" features that will
 be added in a future release. So what's new?
 
+<!-- truncate -->
 ## Self Registration
 
-*As a Volunteer, I want to register as a site user, so that I can submit data to
-the project.*
+_As a Volunteer, I want to register as a site user, so that I can submit data to
+the project._
 
 Naturally, they can't take an existing user name, as seen in the following
 screenshot. All new users will be created under the Reporter role, though of
@@ -33,8 +34,8 @@ What's missing? E-mail notifications.
 
 ## Approve Registrations
 
-*As a Project Coordinator, I want to approve volunteer user registrations, so
-that access to the site’s data collection is strictly limited.*
+_As a Project Coordinator, I want to approve volunteer user registrations, so
+that access to the site’s data collection is strictly limited._
 
 New users cannot immediately login; they must instead be approved by and admin.
 Administrators have a new option under the Manage menu: Pending Users.
@@ -57,8 +58,8 @@ What's missing: e-mail alerts. Delete registrations that should not be approved
 
 ## My Account
 
-*As a Volunteer, I want to maintain my contact information, so that project
-staff will be able to contact me at need.*
+_As a Volunteer, I want to maintain my contact information, so that project
+staff will be able to contact me at need._
 
 In a prior screenshot showing the menus, you can see the new "My Account" link,
 which is available to all signed-in users. The account form looks familiar. Note
@@ -70,8 +71,8 @@ What's missing? Nothing.
 
 ## Account Deactivation
 
-*As an Project Coordinator, I want to de-activate volunteers who are no longer
-working with the project, so that they can no longer submit data to the site.*
+_As an Project Coordinator, I want to de-activate volunteers who are no longer
+working with the project, so that they can no longer submit data to the site._
 
 ![De-activation](/img/rc2_7.png)
 

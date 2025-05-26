@@ -7,17 +7,17 @@ tags:
 - inclusion
 ---
 
-<img src="http://www.startrek.com/uploads/assets/articles/Beyond1.jpg">{: .float-right}
-
-Great stories moves us. No, they do not move us: rather, they instill the desire
-to move. But it is we, the reader or audience, who choose where to go, and what
-to do.
+Great stories moves us. They do not only move us: indded, they instill the
+_desire to move_. But it is we, the reader or audience, who choose where to go,
+and what to do.
 
 Moving stories comes in so many packages, though one man's great may be another
 woman's banal. Tonight I watched an episode of Star Trek: Deep Space Nine that
 fulfilled all of the promise of social commentary through science fiction. This
 was in your face; the banal was banished; my comfort and ease were disturbed;
 and yet I was left with hope by the end.
+
+<!-- truncate -->
 
 It was the story of a story, _Far Beyond the Stars_: our good Captain is sent
 visions of himself as a writer, in New York, in 1953. And we are given no

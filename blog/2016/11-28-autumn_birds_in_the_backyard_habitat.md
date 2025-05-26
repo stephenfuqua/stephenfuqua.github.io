@@ -17,9 +17,13 @@ I hadn't seen a Bewick's Wren in quite some time. Thus I was delighted to see
 this guy a few days ago. The light isn't very good, and the window is a bit
 dirty, but the ID is clear.
 
-{: .text-center }
-![Bewick's Wren in crapemyrtle](/img/bewicksWrenCrapemyrtle.jpg)<br>
+<div class="image">
+![Bewick's Wren in crapemyrtle](/img/bewicksWrenCrapemyrtle.jpg)
+
 Bewick's Wren foraging in a crapemyrtle
+</div>
+
+<!-- truncate -->
 
 All of these birds are coming around because we've provided habitat for them:
 water, food, shelter. While native plants provide the most diverse and
@@ -37,10 +41,12 @@ hearing the Bewick's Wren and Ruby-crowned Kinglets, who also frequently dine on
 crapemyrtle pests, so for me those little clumps of web and leaf are no less
 attractive than any store-bought feeder.
 
-{: .text-center }
-![photo of a Dark-eyed Junco](/img/darkEyedJunco.jpg)<br>
+<div class="image">
+![photo of a Dark-eyed Junco](/img/darkEyedJunco.jpg)
+
 Dark-eyed Junco on the patio
 
-{: .text-center }
-![photo of a Yellow-rumped Warbler bathing](/img/yellowRumpedWarblerBathing.jpg)<br>
+![photo of a Yellow-rumped Warbler bathing](/img/yellowRumpedWarblerBathing.jpg)
+
 Yellow-rumped Warbler Bathing
+</div>
