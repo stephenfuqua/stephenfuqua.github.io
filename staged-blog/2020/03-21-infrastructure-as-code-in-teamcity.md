@@ -81,12 +81,12 @@ examples.
 Viewing an individual build configuration:
 
 {: .center-block}
-![screenshot: view build configuration as code](/img/tc-view-build-configuration-as-code.png){: .img-fluid .border .rounded}
+![screenshot: view build configuration as code](/img/tc-view-build-configuration-as-code.png)
 
 Viewing a new build feature as code:
 
 {: .center-block}
-![screenshot: view new build feature as code](/img/tc-view-new-build-feature.png){: .img-fluid .border .rounded}
+![screenshot: view new build feature as code](/img/tc-view-new-build-feature.png)
 
 ### Export an Entire Project
 
@@ -96,7 +96,7 @@ preferably a relatively simple one without dependencies in other projects - and
 export it to Kotlin. Now you have a detailed example to study.
 
 {: .center-block}
-![screenshot: downloading entire project in kotlin](/img/tc-download-project-settings-in-kotlin.png){: .img-fluid .border .rounded}
+![screenshot: downloading entire project in kotlin](/img/tc-download-project-settings-in-kotlin.png)
 
 ### Internal Setting for Creating Smaller Files
 
@@ -134,7 +134,7 @@ For this, the Maven build tool is quite handy. If you're not a Java developer
 you might not be familiar with maven. Thanks to a few random encounters with
 Maven over the years, I recognized the pom.xml file that was included when I
 exported a project. This file is similar to package.json or a csproj file. To
-compile it, install Maven* and then run ` mvn teamcity-configs:generate` in the
+compile it, install Maven* and then run `mvn teamcity-configs:generate` in the
 directory containing the pom file. Read the debug output carefully and you'll be
 on your way to fixing up most problems before you ever got to the UI.
 
@@ -282,7 +282,7 @@ Now you can install Maven:
 Before running Maven... if you are on a corporate network that has a custom root
 security certificate, then you will need to install that into the Java keystore.
 
-1. Open a *new* PowerShell prompt *AS ADMINISTRATOR*.
+1. Open a _new_ PowerShell prompt _AS ADMINISTRATOR_.
 2. Check to see if the `JAVA_HOME` variable is already setup: does it display
    anything when you type `$env:JAVA_HOME` in PowerShell? If not, then...
 

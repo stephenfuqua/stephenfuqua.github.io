@@ -15,11 +15,12 @@ Ubuntu on Windows was relatively easy, though I did run into a couple of little
 problems with running poetry. Bigger challenge: running graphical user
 interfaces (GUIs) from WSL. Here are some quick notes from my experience.
 
-<div class="text--center">
+<div class="image">
 ![Screenshot showing a small program displaying the operating system name](/img/python-xwindows-gui.jpg)
+
+Screenshot shows that I'm running Windows 10, and shows a small GUI window opened
+from both Powershell and from Bash using the same Python script.
 </div>
-_Screenshot shows that I'm running Windows 10, and shows a small GUI window opened
-from both Powershell and from Bash using the same Python script._
 
 <!-- truncate -->
 
@@ -96,10 +97,14 @@ command, run from PowerShell in administrative mode:
 New-NetFirewallRule -DisplayName "WSL" -Direction Inbound  -InterfaceAlias
 "vEthernet (WSL)" -Action Allow
 ```
-{: .alert .alert-warning }
-\* I have not been in the business of writing firewall rules since the early
+
+:::warning
+
+I have not been in the business of writing firewall rules since the early
 2000's, so while _I think_ this is correct, I might be mistaken. Please think
 through your security posture carefully before following this path.
+
+:::
 
 Finally, back at the Bash prompt, you need to set the `DISPLAY` environment
 variable so that the X-Windows commands will be redirected to Windows. This

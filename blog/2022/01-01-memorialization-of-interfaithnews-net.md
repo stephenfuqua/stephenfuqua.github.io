@@ -8,7 +8,7 @@ tags:
 ---
 
 
-<div class="text--center">
+<div class="image">
 ![Screenshot of today's InterfaithNews.Net](https://blog.safnet.com/img/inn-restored.jpg)
 </div>
 
@@ -52,7 +52,7 @@ than animosity and division.
 By the summer of 2006 my responsibilities in the local Bah&aacute;&#39;&iacute;
 community had increased and my time for interfaith work consequently diminished.
 Thus the October, 2006 electronic newsletter was the last. There was one more
-article in 2007, and then &helllip; a regrettable mistake: I cancelled the
+article in 2007, and then &hellip; a regrettable mistake: I cancelled the
 Internet hosting and lost my backups. Like so many other web sites over the
 years, it was lost to the world.
 
@@ -69,14 +69,16 @@ At last, in time for 2022, the memorial is complete:
 
 ---
 
-<div class="text--center">
-Original design
-</div>
+<div class="image">
 ![Original Design](/img/inn-version1.jpg)
 
-<div class="text--center">
+Original design
+</div>
+
+<div class="image">
+![Second Design](/img/inn-version2.jpg)
+
 Second design
 </div>
-![Second Design](/img/inn-version2.jpg)
 
 The third design looked much like the current memorial design at the top of the page.

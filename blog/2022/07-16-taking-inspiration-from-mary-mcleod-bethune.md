@@ -24,8 +24,10 @@ read,&rdquo; she went on to live an exceptional life of courage and action on
 behalf all people, most particularly her fellow African Americans and especially
 women of color.
 
-<div class="text--center">
+<div class="image">
 ![Mary Mcleod Bethune](https://blog.safnet.com/img/mary-mcleod-bethune.jpg)
+
+Mary Mcleod Bethune
 </div>
 
 <!-- truncate -->
@@ -88,7 +90,7 @@ cause of the oneness of humanity,  contributing to the prevalent discourses of
 society and to the social and economic development of the community, raising up
 the voices of women.
 
-<div class="text--center">
+<div class="image">
 ![Advertisement from 1929](/img/mmb-bahai-center.jpg)
 </div>
 
@@ -96,6 +98,7 @@ the voices of women.
 
 ## Citations
 
+<!-- markdownlint-disable MD033 -->
 1. <a name="f1"></a>Bethune, Mary McLeod. "We, Too, Are Americans!", _Pittsburgh
    Courier_, January 17, 1941. p. 8.
 2. <a name="f2"></a>Bethune, Mary McLeod. "Mary McLeod Bethune", _American
@@ -106,6 +109,7 @@ the voices of women.
 4. <a name="f4"></a> Bah&aacute;'u'll&aacute;h. _Gleanings From the Writings of
    Bah&aacute;'u'll&aacute;h. (US Bah&aacute;'&iacute; Publishing Trust, 1990
    pocket-size edition). p 346.
+<!-- markdownlint-restore -->
 
 Photo by Addison Scurlock. Courtesy of Smithsonian Institution, National Museum
 of American History, Archives Center. Accessed courtesy of
@@ -124,7 +128,7 @@ Other works consulted:
   23 July 1952. pp. 851-52.
 * Richards, Emma. "Historic first as Mary McLeod Bethune statue installed at the
   U.S. Capitol", University of Florida News. July 13, 2022.
-  <https://news.ufl.edu/2022/07/mary-mcleod-bethune/>, accessed July 16, 2022.
+  [news.ufl.edu/2022/07/mary-mcleod-bethune](https://news.ufl.edu/2022/07/mary-mcleod-bethune/), accessed July 16, 2022.
 * Michals, Debra. "Mary McLeod Bethune",  National Women's History Museum. 2015.
-  <www.womenshistory.org/education-resources/biographies/mary-mcleod-bethune>,
+  [www.womenshistory.org/education-resources/biographies/mary-mcleod-bethune](https://www.womenshistory.org/education-resources/biographies/mary-mcleod-bethune),
   accessed July 16, 2022.

@@ -22,4 +22,4 @@ practical, and transformative ways?
 _[Continue reading on wwww.ed-fi.org](https://www.ed-fi.org/blog/2021/05/opening-up-whats-been-happening-since-ed-fi-went-open-source/)..._
 
 {: .center-block}
-![Elephant and dog](/img/elephant-and-dog.jpg){: .img-fluid .border .rounded}
+![Elephant and dog](/img/elephant-and-dog.jpg)

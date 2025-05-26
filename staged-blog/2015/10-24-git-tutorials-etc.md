@@ -25,8 +25,8 @@ help. They are organized from basic to more advanced.
 * [Forking
   Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow),
   which was used in the FlightNode project for which this tutorial was
-  originally written, with *GitFlow*-like branching structure at the core.
-  * In your local clones, create a new *remote* called *upstream**, pointing to the
+  originally written, with _GitFlow_-like branching structure at the core.
+  * In your local clones, create a new _remote_ called _upstream_*, pointing to the
     main repository: <br> `git remote add upstream https://github.com/FlightNode/FlightNode.xyz`
   * When you want to get the latest code from the shared repository, you'll now
     be able to use <br> `git pull upstream <somebranch>`.
@@ -34,8 +34,8 @@ help. They are organized from basic to more advanced.
     although typically I am now working on a branch directly in the "origin"
     repository and don't need to take this step._
 * [Pull Request Tutorial](https://github.com/yangsu/pull-request-tutorial),
-  with many nice screenshots and some advanced functionality, such as *squash*,
-  *rebase*, and *cherry-pick*.
+  with many nice screenshots and some advanced functionality, such as _squash_,
+  _rebase_, and _cherry-pick_.
 * [Pro Git](https://git-scm.com/book/en/v2), the entire book, is available online for free.
 
 ## Typical Workflow
@@ -86,7 +86,7 @@ Perhaps the best thing about VSCode's integration: it makes the cumbersome proce
 of un-staging and/or reverting your code changes very easy.
 
 {: .center-block}
-![Git in Visual Studio Code](/img/git-vs-code.jpg){: .img-fluid .border .rounded}
+![Git in Visual Studio Code](/img/git-vs-code.jpg)
 
 In this example:
 
@@ -119,4 +119,4 @@ in VS2013 in many months, I feel like the 2015 experience is somehow a little
 better and a little more powerful than its predecessor.
 
 {: .center-block}
-![Git in Visual Studio 2015](http://flightnode.github.io/img/vs2015Git.png){: .img-fluid .border .rounded}
+![Git in Visual Studio 2015](http://flightnode.github.io/img/vs2015Git.png)

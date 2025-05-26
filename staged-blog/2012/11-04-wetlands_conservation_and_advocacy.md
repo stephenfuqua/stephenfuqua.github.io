@@ -54,7 +54,7 @@ providing for substantial carbon
 sequestration.
 
 <div class="text--center">
-![cormorants flying](/img/IMG_0439.JPG){: .img-fluid .border .rounded}<br>
+![cormorants flying](/img/IMG_0439.JPG)<br>
 </div>
 <small>Double-Crested Cormorants</small>
 

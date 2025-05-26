@@ -98,7 +98,7 @@ How do you avoid vendor lock-in? "Universalize" &mdash; create a process that ca
 transported to any tool with ease. This likely means writing imperative scripts.
 
 {: .center-block}
-![Image of NUnit configuration with caption "how do i run this locally?"](/img/iac-how-do-i-run-this-locally.jpg){: .img-fluid .border .rounded}
+![Image of NUnit configuration with caption "how do i run this locally?"](/img/iac-how-do-i-run-this-locally.jpg)
 
 The screenshot above is from TeamCity, showing a build runner step for running
 NUnit on a project. A developer who does not know how to run NUnit at the
@@ -145,11 +145,11 @@ Command line examples using [Ed-Fi ODS AdminApp's build.ps1
 script](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-ODS-AdminApp/blob/main/build.ps1):
 
 ```powershell
-$ ./build.ps1 build -BuildConfiguration release -Version "2.0.0" -BuildCounter 45
-$ ./build.ps1 unittest
-$ ./build.ps1 integrationtest
-$ ./build.ps1 package -Version "2.0.0" -BuildCounter 45
-$ ./build.ps1 push -NuGetApiKey $env:nuget_key
+./build.ps1 build -BuildConfiguration release -Version "2.0.0" -BuildCounter 45
+./build.ps1 unittest
+./build.ps1 integrationtest
+./build.ps1 package -Version "2.0.0" -BuildCounter 45
+./build.ps1 push -NuGetApiKey $env:nuget_key
 ```
 
 Any of those commands can easily be run in any build automation tool. What are
@@ -202,10 +202,10 @@ Command line examples using [LMS-Toolkit's
 build.py](https://github.com/Ed-Fi-Alliance-OSS/LMS-Toolkit/blob/main/eng/build.py):
 
 ```bash
-$ python ./build.py install schoology-extractor
-$ python ./build.py test schoology-extractor
-$ python ./build.py coverage schoology-extractor
-$ python ./build.py coverage:html schoology-extractor
+python ./build.py install schoology-extractor
+python ./build.py test schoology-extractor
+python ./build.py coverage schoology-extractor
+python ./build.py coverage:html schoology-extractor
 ```
 
 As the project in question (LMS Toolkit) is a set of Python scripts, and because
@@ -288,10 +288,10 @@ Buzz](https://github.com/Ed-Fi-Exchange-OSS/EdFi-Project-Buzz), you can run
 commands like the following:
 
 ```powershell
-$ npm install
-$ npm run build
-$ npm run test
-$ npm run test:ci
+npm install
+npm run build
+npm run test
+npm run test:ci
 ```
 
 The `npm run XYZ` commands are invoking scripts defined in the package.json file:

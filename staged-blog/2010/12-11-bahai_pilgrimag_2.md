@@ -16,7 +16,7 @@ imprisonmnet. The lowest point was His imprisonment in the [citadel of
 fetid ruins of the Cruisader capital of St. Jean de Acre.
 
 {: .center-block}
-![ancient citadel](http://lh3.ggpht.com/_mZAPo8ePwc4/TQPiiCB3eSI/AAAAAAAAApc/UovtgBRN0eU/s400/IMG_2148.JPG){: .img-fluid .border .rounded}<br>
+![ancient citadel](http://lh3.ggpht.com/_mZAPo8ePwc4/TQPiiCB3eSI/AAAAAAAAApc/UovtgBRN0eU/s400/IMG_2148.JPG)<br>
 The Citadel of 'Akk&aacute;
 
 <!-- truncate -->
@@ -33,7 +33,7 @@ rooms, one of which has a magnificent balcony looking out over the
 Mediterranean.
 
 {: .center-block}
-![balcony](http://lh5.ggpht.com/_mZAPo8ePwc4/TQPiz8U-75I/AAAAAAAAApg/KdqmLoruXnQ/s400/IMG_2172.JPG){: .img-fluid .border .rounded}<br>
+![balcony](http://lh5.ggpht.com/_mZAPo8ePwc4/TQPiz8U-75I/AAAAAAAAApg/KdqmLoruXnQ/s400/IMG_2172.JPG)<br>
 Balcony of the House of Abbud
 
 {: .center-block} While He was never released by the Ottoman Sultan, sympathetic
@@ -45,7 +45,7 @@ closing in the courtyard and adding two large rooms to the front. In this house
 He lived for two years.
 
 {: .center-block}
-![back garden](http://lh4.ggpht.com/_mZAPo8ePwc4/TQPlMmleNVI/AAAAAAAAApk/P1gCdddXWwc/s400/IMG_2185.JPG){: .img-fluid .border .rounded}<br>
+![back garden](http://lh4.ggpht.com/_mZAPo8ePwc4/TQPlMmleNVI/AAAAAAAAApk/P1gCdddXWwc/s400/IMG_2185.JPG)<br>
 The back garden at Mazra'ih; the pool was fed by an aqueduct running through the grounds, from near modern Lebanon to the city of 'Akk&aacute;.
 
 Finally, in 1879 a [large house](http://www.bahaullah.org/bahji/recognition-grows) became
@@ -62,5 +62,5 @@ His life. That is the sense of peace that I felt &mdash; the sense of a small
 measure of just deserts and karma in these successive abodes.
 
 {: .center-block}
-![mansion](http://lh5.ggpht.com/_mZAPo8ePwc4/TQPliw2qZ1I/AAAAAAAAApo/MoNsYOshhRE/s400/IMG_2365.JPG){: .img-fluid .border .rounded}<br>
+![mansion](http://lh5.ggpht.com/_mZAPo8ePwc4/TQPliw2qZ1I/AAAAAAAAApo/MoNsYOshhRE/s400/IMG_2365.JPG)<br>
 The Mansion of Bahj&iacute; (left) and the Shrine of Bah&aacute;'u'll&aacute;h.

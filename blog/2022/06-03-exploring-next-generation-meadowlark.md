@@ -12,5 +12,7 @@ natural to ask: what should an ideal Ed-Fi installation look like in the cloud?
 
 _[Continue reading on wwww.ed-fi.org](https://www.ed-fi.org/blog/2022/06/exploring-next-generation-technologies-with-project-meadowlark/)..._
 
-{: .center-block}
-![Diagram of Meadowlark software components](/img/meadowlark.png){: .img-fluid .border .rounded}
+<div class="image">
+![Diagram of Meadowlark software components](/img/meadowlark.png)
+</div>
+<!-- truncate -->

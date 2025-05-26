@@ -9,7 +9,7 @@ tags:
 ---
 
 {: .float-right }
-![memorial garden](http://lh6.ggpht.com/_mZAPo8ePwc4/TRLG2C8LpyI/AAAAAAAAArE/No21om-L3Lg/s400/IMG_2422.JPG){: .img-fluid .border .rounded}
+![memorial garden](http://lh6.ggpht.com/_mZAPo8ePwc4/TRLG2C8LpyI/AAAAAAAAArE/No21om-L3Lg/s400/IMG_2422.JPG)
 
 Four members of the "Holy Family" are buried in the second major development of
 the Bah&aacute;'&iacute; World Centre (the prior being the mausoleum of the [B&aacute;b](http://en.wikipedia.org/wiki/B%C3%A1b)): [&Aacute;s&iacute;yih

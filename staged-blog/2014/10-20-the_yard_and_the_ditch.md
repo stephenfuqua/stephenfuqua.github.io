@@ -17,7 +17,7 @@ conducive to much play outside. But the best part was behind the fence: The
 Ditch.
 
 {: .center-block}
-![satellite view](/img/theDitch.png){: .img-fluid .border .rounded}
+![satellite view](/img/theDitch.png)
 
 <!-- truncate -->
 

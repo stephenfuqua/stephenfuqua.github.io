@@ -17,7 +17,7 @@ when we set out our feeder a few weeks ago. Thus far, it is has been entirely
 Black-Chinned.
 
 <div class="text--center">
-![black chinned hummmer photo montage](/img/blackChinFemale-thumb-350x237-48.png){: .img-fluid .border .rounded}
+![black chinned hummmer photo montage](/img/blackChinFemale-thumb-350x237-48.png)
 </div>
 
 <!-- truncate -->

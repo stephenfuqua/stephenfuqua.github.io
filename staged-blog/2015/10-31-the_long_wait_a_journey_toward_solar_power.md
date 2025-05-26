@@ -17,7 +17,7 @@ Well, almost. The panels are on the roof, but now I have 4-6 weeks to wait until
 the electric grid company (Oncor) comes out to inspect.
 
 <div class="text--center">
-![solar panel photo 1](/img/solar1.jpg){: .img-fluid .border .rounded}
+![solar panel photo 1](/img/solar1.jpg)
 </div>
 
 <!-- truncate -->

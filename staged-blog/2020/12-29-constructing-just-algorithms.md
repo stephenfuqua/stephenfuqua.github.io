@@ -46,7 +46,7 @@ perhaps we can find ways to achieve the scalability/impartiality goals of
 algorithms while upholding true equity and justice.
 
 {: .center-block}
-![equality, equity, justice graphic](/img/equality_equity_justice.jpg){: .img-fluid .border .rounded}<br>
+![equality, equity, justice graphic](/img/equality_equity_justice.jpg)<br>
 <small>Justice: changing conditions, removing the barriers. Could not find the original
 source to credit, so I drew my own version of this thought-provoking graphic. I
 leave the sport being played behind the fence up to your imagination.</small>

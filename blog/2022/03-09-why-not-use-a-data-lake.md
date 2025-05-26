@@ -16,5 +16,7 @@ at last I can give a reasonable reply.
 
 _[Continue reading on wwww.ed-fi.org](https://www.ed-fi.org/blog/2022/03/why-not-just-use-a-data-lake-considerations-for-educational-data-in-the-ed-fi-ecosystem/)..._
 
-{: .center-block}
-![Diagram of extract from Ed-Fi API to Data Lake](/img/data-lake-768x400.webp){: .img-fluid .border .rounded}
+<div class="image">
+![Diagram of extract from Ed-Fi API to Data Lake](/img/data-lake-768x400.webp)
+</div>
+<!-- truncate -->
