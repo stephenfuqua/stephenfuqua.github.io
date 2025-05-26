@@ -49,7 +49,6 @@ consider a team with the following data:
 | Five | 23 |
 | Six | 24 |
 | Statistics| &mu; = 23, &sigma; = 2 |
-{: .table .table-striped .table-bordered}
 
 The backlog for the next release has been estimated at 83 points. How many
 sprints is that?

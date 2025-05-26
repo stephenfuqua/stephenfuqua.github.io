@@ -43,7 +43,6 @@ values, those below can serve as guiding lights for the principles that follow.
 | truthfulness | transparency, honesty, truth-seeking               |
 | justice      | equity, independence, consensus                    |
 | nobility     | human dignity, recognition of aspirations, privacy |
-{: .table .table-striped .table-bordered}
 
 ## Guiding Principles
 

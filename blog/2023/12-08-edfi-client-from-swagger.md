@@ -39,11 +39,14 @@ will walk through generating a client library with help from Docker (no local
 install of the JDK required) and demonstrate basic usage of a simple
 `TokenManager` class for handling authentication.
 
+:::tip
+
 See
 [Ed-Fi-API-Client-Python](https://github.com/stephenfuqua/Ed-Fi-API-Client-Python)
 for a source code repository containing the `TokenManager` class listed below,
 which might receive updates after this post has been published.
-{: .alert .alert-primary }
+
+:::
 
 ## Generating an Ed-Fi Client Package
 
@@ -65,7 +68,7 @@ instructions, not a full-blown client. If you fork this repository and want to
 create your own package, then you may wish to remove that line from `.gitignore`
 so that you can keep your custom client code in your forked repository.
 
-```shell
+```powershell
 $url = "https://api.ed-fi.org/v7.1/api/metadata/data/v3/resources/swagger.json"
 $outputDir = "./edfi-client"
 New-Item -Path $outputDir -Type Directory -Force | out-null
@@ -76,7 +79,7 @@ docker run --rm -v "$($outputDir):/local" swaggerapi/swagger-codegen-cli generat
 
 On my machine, this took about a minute to run. Here's what we get as output:
 
-```shell
+```powershell
 > ls edfi-client
 
     Directory: C:\source\Ed-Fi-API-Client-Python\edfi-client
@@ -151,7 +154,7 @@ portions of the client library itself. The ODS/API supports the OAuth 2.0 client
 credentials flow, which generates an bearer-style access token. A basic HTTP
 request for authentication looks like this:
 
-```shell
+```http
 POST /v7.1/api/oauth/token HTTP/1.1
 Host: api.ed-fi.org
 Content-Type: application/x-www-form-urlencoded

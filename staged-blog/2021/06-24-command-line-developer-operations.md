@@ -224,17 +224,17 @@ distributed with the source code").
 Sample commands:
 
 ```bash
-$ # .NET Framework 2 through 4.8
-$ nuget restore
+# .NET Framework 2 through 4.8
+nuget restore
 
-$ # DotNet Core and .NET Framework 5+
-$ dotnet restore
+# DotNet Core and .NET Framework 5+
+dotnet restore
 
-$ # Node.js
-$ npm install
+# Node.js
+npm install
 
-$ # Python
-$ pip install -r requirements.txt
+# Python
+pip install -r requirements.txt
 ```
 
 The package definitions themselves are a sort of source code, and the
@@ -259,7 +259,6 @@ popular programming languages. Note that some languages / frameworks have multip
 | Node.js (JavaScript, TypeScript) | NPM | `package.json` |
 | Node.js (JavaScript, TypeScript) | Yarn | `package.json` |
 | Ruby | Gems | `*.gemspec` |
-{: .table .table-striped .table-bordered}
 
 ... and I've left out more for Ruby, PHP, and other languages for brevity.
 
@@ -378,10 +377,10 @@ cli](https://www.google.com/search?q=mvn+cli)". Or, most tools have help
 available through a `help` command or an option:
 
 ```bash
-$ sometool help
-$ sometool -h
-$ sometool --help
-$ sometool /h
+sometool help
+sometool -h
+sometool --help
+sometool /h
 ```
 
 Just try those with the tool you are trying to learn about and see what happens.

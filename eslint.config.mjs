@@ -1,4 +1,4 @@
-import * as mdx from 'eslint-plugin-mdx';
+import * as mdx from "eslint-plugin-mdx";
 
 export default [
   {
@@ -16,12 +16,12 @@ export default [
     rules: {
       ...mdx.flatCodeBlocks.rules,
       // if you want to override some rules for code blocks
-      'no-var': 'error',
-      'prefer-const': 'error',
-      'react/jsx-curly-brace-presence': 'error',
-      'react/jsx-sort-props': 'error',
-      'react/self-closing-comp': 'error',
-      'react/no-unescaped-entities': 'warn',
+      "no-var": "error",
+      "prefer-const": "error",
+      "react/jsx-curly-brace-presence": "error",
+      "react/jsx-sort-props": "error",
+      "react/self-closing-comp": "error",
+      "react/no-unescaped-entities": "warn",
     },
   },
 ];
