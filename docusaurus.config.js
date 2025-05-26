@@ -112,6 +112,10 @@ const config = {
             },
             footer: {
                 style: "dark",
+                logo: {
+                    alt: "Stephen A. Fuqua Logo",
+                    src: "img/BHCU-logo-safnet-small-darktheme.webp",
+                },
                 links: [
                     {
                         title: "Blog",
