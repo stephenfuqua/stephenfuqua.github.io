@@ -5,7 +5,6 @@ tags:
   - devops
   - tech
   - programming
-
 ---
 
 Author Neal Stephenson, in his essay "In the Beginning... Was the Command Line,"
@@ -17,20 +16,21 @@ is lost in the transition from the command line interface to the <abbr
 title="Graphical User Interface">GUI</abbr>. (p52)
 
 With new programmers whose experience has been entirely mediated through an
-<abbr title="Integrated Development Environment">IDE</abbr> like Visual
-Studio or Eclipse, I have sometimes wondered if they are understanding the
-"buried assumptions" and suffering from "muddled thinking" due to their lack of
+
+<abbr title="Integrated Development Environment">IDE</abbr> like Visual Studio
+or Eclipse, I have sometimes wondered if they are understanding the "buried
+assumptions" and suffering from "muddled thinking" due to their lack of
 understanding of the basic command line operations that underlie the automation
 provided in the IDE. I still recall when I was that young developer, who had
 started with nothing but the command line, and realized that Visual Studio had
 crippled my ability to know how to build and test .NET Framework solutions
-(setting up an automated  build process in [Cruise
+(setting up an automated build process in [Cruise
 Control](http://cruisecontrol.sourceforge.net/) helped cure me of that).
 
 <!-- truncate -->
 
 <div class="image">
-![Screenshot of CLI-based hacking in The Matrix](/img/matrix-shell.png)
+  ![Screenshot of CLI-based hacking in The Matrix](/img/matrix-shell.png)
 </div>
 
 Many developers eventually learn the command line options, and the level of
@@ -54,13 +54,14 @@ To be clear, this article is about _typing_ commands rather than clicking
 on them. It is the difference between pulling up a menu in the IDE:
 
 <div class="image">
-![Screenshot of Visual Studio showing the build solution command](/img/vs2019-build-solution-menu.png)
+  ![Screenshot of Visual Studio showing the build solution
+  command](/img/vs2019-build-solution-menu.png)
 </div>
 
 and knowing how to do this with just the keyboard in your favorite shell:
 
 <div class="image">
-![Screenshot of dotnet build](/img/powershell-dotnet-build.png)
+  ![Screenshot of dotnet build](/img/powershell-dotnet-build.png)
 </div>
 
 :::tip
@@ -102,9 +103,10 @@ Thankfully I didn't have the same impression of smoking!
 
 So the shell is a command line interface. And when we build specialized programs
 that are run from the shell, we often call them "command line interfaces" (or
-<abbr title="Command Line Interface">CLI</abbr> for short) as
-distinguished from "graphical user interfaces". In the screenshots above,
-we see the `dotnet` CLI compared to the Visual Studio GUI.
+
+<abbr title="Command Line Interface">CLI</abbr> for short) as distinguished from
+"graphical user interfaces". In the screenshots above, we see the `dotnet` CLI
+compared to the Visual Studio GUI.
 
 ## Common Software Build Operations
 
@@ -131,8 +133,8 @@ essentially exists for the specific purpose of compiling that code so that it
 becomes executable, whereas CLI's for interpreted code are there for the purpose
 of execution. Everything else they do is just convenience.
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
 
 <Tabs>
   <TabItem value="Interpreted" label="Interpreted Example" default>
@@ -162,7 +164,6 @@ int main() { std::cout << "Hello World!\n"; }
 ```
 
     Project file:
-
 
 ```xml
 <Project DefaultTargets="Build" ToolsVersion="16.0"
@@ -261,17 +262,17 @@ The following table lists out some of the common _dependency management_ tools a
 a description of the file containing the dependency list for some of the most
 popular programming languages. Note that some languages / frameworks have multiple options.
 
-| Language or Framework | Management Tool | File |
-| -- | -- | -- |
-| .NET Framework (C#, F#, VB) 1 through 4.8 | NuGet | `packages.config` \* |
-| DotNet Core / .NET Framework 5+ (C#, F#, VB) | NuGet | `*.csproj` |
-| Java, Go, Groovy, Kotlin, Scala | Maven | `pom.xml` |
-| Java, Groovy, Kotlin, Scala | Gradle | `build.gradle`, or `build.gradle.kts` etc. |
-| Python | PIP | `requirements.txt` \* |
-| Python | Poetry | `pyproject.toml` |
-| Node.js (JavaScript, TypeScript) | NPM | `package.json` |
-| Node.js (JavaScript, TypeScript) | Yarn | `package.json` |
-| Ruby | Gems | `*.gemspec` |
+| Language or Framework                        | Management Tool | File                                       |
+| -------------------------------------------- | --------------- | ------------------------------------------ |
+| .NET Framework (C#, F#, VB) 1 through 4.8    | NuGet           | `packages.config` \*                       |
+| DotNet Core / .NET Framework 5+ (C#, F#, VB) | NuGet           | `*.csproj`                                 |
+| Java, Go, Groovy, Kotlin, Scala              | Maven           | `pom.xml`                                  |
+| Java, Groovy, Kotlin, Scala                  | Gradle          | `build.gradle`, or `build.gradle.kts` etc. |
+| Python                                       | PIP             | `requirements.txt` \*                      |
+| Python                                       | Poetry          | `pyproject.toml`                           |
+| Node.js (JavaScript, TypeScript)             | NPM             | `package.json`                             |
+| Node.js (JavaScript, TypeScript)             | Yarn            | `package.json`                             |
+| Ruby                                         | Gems            | `*.gemspec`                                |
 
 ... and I've left out more for Ruby, PHP, and other languages for brevity.
 
@@ -318,11 +319,11 @@ Earlier I mentioned project files. These are always used with compiled code, and
 used with some interpreted languages as well in order to help manage and create
 packages. These project files provide information include:
 
-* Name of the software
-* Version number
-* The project's dependencies
-* Compiler options
-* Configuration for how to bundle the application into a package
+- Name of the software
+- Version number
+- The project's dependencies
+- Compiler options
+- Configuration for how to bundle the application into a package
 
 Many of these project files allow you to build additional commands, sometimes
 very sophisticated ones. A simple example is the set of scripts in a Node.js
@@ -334,7 +335,7 @@ very sophisticated ones. A simple example is the set of scripts in a Node.js
     "prebuild": "rimraf dist",
     "build": "nest build && copyfiles src/**/*.graphql dist",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
-    "start": "yarn build && nest start",
+    "start": "yarn build && nest start"
   }
 }
 ```
@@ -358,11 +359,11 @@ or "targets" that can be run from the command line.
 
 We've already seen arguments in several examples above. Here are some more:
 
-| Command | Number of Arguments | Argument list |
-| -- | -- | -- |
-| `tsc index.ts` | 1 | "index.ts" |
-| `npm run start` | 2 | "run", "start" |
-| `dotnet nuget push -k abcd12345` | 4 | "nuget", "push", "-k", "abcd12345" |
+| Command                          | Number of Arguments | Argument list                      |
+| -------------------------------- | ------------------- | ---------------------------------- |
+| `tsc index.ts`                   | 1                   | "index.ts"                         |
+| `npm run start`                  | 2                   | "run", "start"                     |
+| `dotnet nuget push -k abcd12345` | 4                   | "nuget", "push", "-k", "abcd12345" |
 
 The last example introduces something new: command line options. An argument
 that begins with `-`, `--`, or sometimes `/` signals that an "optional argument"
