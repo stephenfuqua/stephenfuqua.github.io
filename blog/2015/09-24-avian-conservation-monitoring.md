@@ -8,9 +8,11 @@ tags:
 - birds
 ---
 
-{: .float-right }
-![Tropical Mockingbird](/img/tropical-mockingbird.png){: .border .rounded }<br>
-<small>Tropical Mockingbird, Hopkins, Belize.<br>2014, Stephen A. Fuqua.</small>
+<div class="image">
+![Tropical Mockingbird](/img/tropical-mockingbird.png)
+
+Tropical Mockingbird, Hopkins, Belize. 2014, Stephen A. Fuqua.
+</div>
 
 The general problem, succinctly stated:
 
@@ -28,12 +30,14 @@ work grows ever more pressing for those who recognize the value
 of maintaining diverse and vibrant ecosystems, especially in light
 of climate change \[[2](#2)\].
 
+<!-- truncate -->
+
 Many people use a popular, and frankly excellent, application called
 [eBird](http://www.ebird.org) for collecting bird population data
 from citizen-scientists. However, that application is is geared toward
 a very general sort of data collection, which is well-suited for
 your work-a-day birder who wants to record what s/he has seen. But
-it is *not* well-suited for more rigorous scientific protocols.
+it is _not_ well-suited for more rigorous scientific protocols.
 
 Organizations and researchers cannot rely on eBird alone for many
 of their data collection and reporting needs. Their projects often
@@ -50,10 +54,12 @@ cost and burden of implementing an online management tool.
 
 ---
 
-<a name="1">1.</a> Dr. Tania Z. Homayoun, *Program Background*,
+<!-- markdownlint-disable-next-line MD033 -->
+<a name="1">1.</a> Dr. Tania Z. Homayoun, _Program Background_,
 [IbaMonitoring.org](http://www.ibamonitoring.org/about/Default.aspx),
 2010.
 
+<!-- markdownlint-disable-next-line MD033 -->
 <a name="2">2.</a> To understand the potential impacts of climate
 change on North American birds, see [Audubon's Birds and Climate Change
 Report](http://climate.audubon.org/), published earlier this year.

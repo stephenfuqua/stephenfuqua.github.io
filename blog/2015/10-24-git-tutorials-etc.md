@@ -10,11 +10,17 @@ tags:
 
 ## Tutorials
 
-_Updated 2021-05-25_
+:::info
+
+Updated 2021-05-25
+
+:::
 
 Git is a fabulous tool for source control management. While incredibly powerful,
 it can be a little daunting to learn at first. The following tutorials will
 help. They are organized from basic to more advanced.
+
+<!-- truncate -->
 
 * **[Learn Git Branching](https://learngitbranching.js.org/), an interactive
   tutorial** is a very cool way to get your feet wet without having to download
@@ -27,9 +33,9 @@ help. They are organized from basic to more advanced.
   which was used in the FlightNode project for which this tutorial was
   originally written, with _GitFlow_-like branching structure at the core.
   * In your local clones, create a new _remote_ called _upstream_*, pointing to the
-    main repository: <br> `git remote add upstream https://github.com/FlightNode/FlightNode.xyz`
+    main repository: `git remote add upstream https://github.com/FlightNode/FlightNode.xyz`
   * When you want to get the latest code from the shared repository, you'll now
-    be able to use <br> `git pull upstream <somebranch>`.
+    be able to use `git pull upstream <somebranch>`.
   * _2021 update: this is still my preferred approach when working with a fork,
     although typically I am now working on a branch directly in the "origin"
     repository and don't need to take this step._
@@ -43,23 +49,23 @@ help. They are organized from basic to more advanced.
 Once you've created your forks on GitHub, and your clones on your workstation,
 a typical day might look like this:
 
-1. Open Git-bash and cd to a workspace: <br> `cd /c/workspaces/FlightNode/FlightNode.Identity`
+1. Open Git-bash and cd to a workspace:  `cd /c/workspaces/FlightNode/FlightNode.Identity`
 1. Planning on working on Issue #10 today... so create a feature branch:
-   <br> `git checkout -b feature/10`
+    `git checkout -b feature/10`
 1. You don't want to get out-of-date, or you may start running into major merge
-   difficulties. Therefore: <br> `git pull upstream develop`
+   difficulties. Therefore:  `git pull upstream develop`
 1. Work on some code in your editor of choice.
 1. Stage your code:
-   1. New file:<br> `git add full/path/to/new/file.cs`
-   1. All existing files:<br> `git add -u :/`
-   1. All existing files in a particular directory:<br> `git add -u :full/path`
+   1. New file:  `git add full/path/to/new/file.cs`
+   1. All existing files:  `git add -u :/`
+   1. All existing files in a particular directory:  `git add -u :full/path`
 1. Do some more work, stage some more work.
-1. Commit your changes: <br> `git commit -m "10 - brief description"`
-   <br> (for longer description, enter a brief description on first line,
+1. Commit your changes:  `git commit -m "10 - brief description"`
+    (for longer description, enter a brief description on first line,
    then hit enter to  type the longer description starting on the next line.
    Finish with ").
 1. Done for the day? Want to backup your code? Push to your fork:
-   <br> `git push origin feature/10`
+    `git push origin feature/10`
 1. Is the feature ready for other people to use? Then create a pull request
    in GitHub. In the pull request, add comments directly in the file
    if you want to explain something about your work. And invite others to
@@ -85,8 +91,9 @@ line for complex things.
 Perhaps the best thing about VSCode's integration: it makes the cumbersome process
 of un-staging and/or reverting your code changes very easy.
 
-{: .center-block}
+<div class="image">
 ![Git in Visual Studio Code](/img/git-vs-code.jpg)
+</div>
 
 In this example:
 
@@ -118,5 +125,6 @@ most people that's probably not a bad thing. And while I haven't used it
 in VS2013 in many months, I feel like the 2015 experience is somehow a little
 better and a little more powerful than its predecessor.
 
-{: .center-block}
+<div class="image">
 ![Git in Visual Studio 2015](http://flightnode.github.io/img/vs2015Git.png)
+</div>

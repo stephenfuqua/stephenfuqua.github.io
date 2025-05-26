@@ -9,9 +9,11 @@ Recently I was talking with a friend and extolling the virtues of using NuGet pa
 
 But the most important piece is this: you don't have to bundle your dependencies with your installer package. You just need to "wire" them up properly in the .nuspec specification file, and make them available. Now, let's talk about managing those packages.
 
-<div class="text--center">
+<div class="image">
 ![diagram](/img/packaging.png)
 </div>
+
+<!-- truncate -->
 
 ## Teasing Apart the Dependencies
 
@@ -34,7 +36,7 @@ Each user will need to provide username and password in Visual Studio - every si
 But you can avoid this at the command line, through nuget.exe's `sources` command:
 
 ```powershell
-PS> nuget.exe sources `
+nuget.exe sources `
     -Name <Your NuGet Repo> `
     -source <URL to your NuGet feed> `
     -user <username> `
@@ -46,13 +48,13 @@ PS> nuget.exe sources `
 For publish/deploy operations, your repository might use a different address. For example, NexusOSS provides different feeds for publishing and consuming. Therefore those developers who have publishing permissions would want to setup both feeds, e.g.
 
 ```powershell
-PS> nuget.exe sources add `
+nuget.exe sources add `
     -Name "Your Nexus Deploy Feed" `
     -source https://server.example.com/nexus/service/local/nuget/your-feed-id/ `
     -user username `
     -pass somethingcomplex
 
-PS> nuget.exe sources add `
+nuget.exe sources add `
     -Name "Your Nexus Consume Feed" `
     -source https://server.example.com/nexus/service/local/nuget/your-feed-id/ `
     -user username `
@@ -64,14 +66,14 @@ Now that the feeds are setup, and you've determined how you'll want to group you
 Publishing the package(s) you just created requires an API key, whether or not you have username/password security turned on. You should cache that key:
 
 ```powershell
-PS> nuget.exe setapikey <YourAPIKey> `
+nuget.exe setapikey <YourAPIKey> `
     -source https://server.example.com/nexus/service/local/nuget/your-repository-id/
 ```
 
 Finally, the payoff:
 
 ```powershell
-PS> nuget.exe push <YourPackage>.nupkg `
+nuget.exe push <YourPackage>.nupkg `
     -source https://server.example.com/nexus/service/local/nuget/your-repository-id/ `
     -NonInteractive
 ```
@@ -81,5 +83,5 @@ When automating this, you need to manually issue the `sources add` and `setapike
 One last tip. Some artifact repositories, including NexusOSS, can act as proxies for the open repositories on the Internet. When you configure and use a proxy, it will cache the libraries that you frequently use. And, you can disable the public feed on your workstations - thus preventing accidental pushes out to the public feed:
 
 ```powershell
-PS> nuget source remove -Name https://www.nuget.org/api/v2/
+nuget source remove -Name https://www.nuget.org/api/v2/
 ```

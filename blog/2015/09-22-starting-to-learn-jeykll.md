@@ -5,9 +5,11 @@ slug: learning_jeykll
 tags: [meta, FlightNode]
 ---
 
-Recently I ran across and old article from Phil Haack, about moving his blog to [Jekyll using GitHub](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). And I realized that this is (or might be?) a perfect solution for managing content *about* the FlightNode project (though it will not be part of the platform itself).
+Recently I ran across and old article from Phil Haack, about moving his blog to [Jekyll using GitHub](http://haacked.com/archive/2013/12/02/dr-jekyll-and-mr-haack/). And I realized that this is (or might be?) a perfect solution for managing content _about_ the FlightNode project (though it will not be part of the platform itself).
 
 There is a lot of work to do in terms of getting content up and getting it formatted. This is just the start of getting the framework going, so  that I can get all the text and pictures out of my head and into documentation that other team members can use.
+
+<!-- truncate -->
 
 ## Startup References
 

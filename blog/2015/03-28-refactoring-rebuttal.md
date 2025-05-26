@@ -11,9 +11,11 @@ Code quality does not improve. It isn't worth the time and effort. Here's why I
 don't buy it &mdash; why the research is fundamentally flawed and real software groups
 should ignore it.
 
-<div class="text--center">
+<div class="image">
 ![We don't need your wheels](/img/lego-refactoring.jpg)
 </div>
+
+<!-- truncate -->
 
 The study's aim was to evaluate the use of refactoring techniques to improve
 code quality and maintenance. In brief, they conclude that "there is no quality
@@ -108,13 +110,13 @@ bullet" promises with a grain of salt, but don't allow a well-intentioned but
 poorly-constructed study to dissuade you from good engineering practices.
 
 The paper:
-[http://arxiv.org/ftp/arxiv/papers/1502/1502.03526.pdf](http://arxiv.org/ftp/arxiv/papers/1502/1502.03526.pdf)
+[https://arxiv.org/ftp/arxiv/papers/1502/1502.03526.pdf](https://arxiv.org/ftp/arxiv/papers/1502/1502.03526.pdf)
 
 ## Comments
 
 _Comments imported from old blog_
 
-> author: dougbelkofer<br>
+> author: dougbelkofer
 > date: '2015-03-31 21:42:51 -0500'
 >
 > This is good stuff Stephen. I believe that you can probably find research to

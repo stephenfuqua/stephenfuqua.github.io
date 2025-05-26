@@ -7,10 +7,11 @@ tags:
 - nature
 ---
 
-{: .float-right}
-<a href="https://www.flickr.com/photos/mbeo52/3276997568/in/photolist-5Zztd5-9wBV4g-2crwN-4PdrRb-pGsnhV-9PjFwY-9aXpaS-mSDByV-7HAYLQ-m8aMEc-jAAwuC-8eu4XU-5LhE7L-83MGRE-grEcNh-nvipJh-7Ai73n-7j8mC-E1B66-8oCwRk-7GgSE2-7Hx3NP-35W7U1-4ZH2fp-7DgEjU-5fgY1N-794oZA-77ioG2-78ZB8n-54VSQQ-78Zpm2-q2PtYc-2PoQq-7v9miT-8QWen6-7jRtgt-ksNbHZ-wvqtH-2RN1dJ-7AKMsJ-nZKUs9-8kDCq6-78ZpS8-7mupFc-27TWfq-4wGTeG-8zbZgS-ow5ig-4TXrDX-6o63KT/">![walls of plastic ready for recycling](/img/plasticWalls.jpg)<br>
-&copy; Marco Beltrametti 2009,<br>some rights reserved (
-[CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/) ).
+<div class="image">
+[![walls of plastic ready for recycling](/img/plasticWalls.jpg)](https://flic.kr/p/5Zztd5)
+
+&copy; Marco Beltrametti 2009, some rights reserved ([CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/))
+</div>
 
 A social media challenge was posed, [#PlasticFreeJuly](https://twitter.com/search?q=%23PlasticFreeJuly&src=typd):
 try to avoid plastic in the month of July. Taken literally, many of us would be
@@ -71,6 +72,8 @@ plastics
 [
 [Polymers](http://marinedebris.info/sites/default/files/literature/Plastic%20Degradation%20and%20Its%20Environmental%20Implications%20with%20Special%20Reference%20to%20Poly%28ethylene%20terephthalate%29.pdf) 2013, 5].
 
+<!-- TODO -->
+
 <div
 class='visually_embed' style="margin: 0 auto 0 auto">
 <img class='visually_embed_infographic' src='' alt='92% of plastic goes to landfill in the USA' />
@@ -96,9 +99,11 @@ cf [The
 Scary New Evidence on BPA-Free Plastics&hellip; And the Big Tobacco-style
 campaign to bury it](http://www.motherjones.com/environment/2014/03/tritan-certichem-eastman-bpa-free-plastic-safe), by Mariah Blake, _Mother Jones_, March/April 2014.
 
-{: .float-right }
-<a href="https://www.flickr.com/photos/29069717@N02/13543488693/in/photolist-mCMVkK-7usXr9-4EjGoh-enYX3N-28jFN6-bpsiMq-bxdkUM-ce4kAy-tYnCPH-ceL4wu-ceL3jE-ceL48S-4s3WXA-ceL3M9-cNYPtq-5seVp-2SSnxo-ai7pAx-ceL4tu-ceL4r1-bXoyY6-5GNkq-bXoz5v-bXozeB-ceL4DG-ceL4jY-bnTfGY-5tiUQ2-ceL3fW-4w36hs-8vgBsP-9veAqQ-ceL4nG-bXoxMH-bXoz26-bXoz8g-7yLTk3-6v3Dwy-aCyE7N-p6456k-4EfrZr-k5f2sa-4cNVuq-bsFKcK-dzVBcB-7hZWNf-75Mwqs-nWAefT-6rjzZ2-7yH71a">![Old ad for bouillon cubes in plastic container](/img/plasticBouillon.jpg){: .border .rounded}<br>
-By "Classic Film", 2014,<br>Some rights reserved (CC-BY-NC).
+<div class="image">
+![Old ad for bouillon cubes in plastic container](/img/plasticBouillon.jpg)
+
+By "Classic Film", 2014, Some rights reserved (CC-BY-NC).
+</div>
 
 ### Risk and Reward
 
@@ -127,16 +132,20 @@ morning I threw away a small plastic inner cap from a milk carton.
 
 ## More Interesting Reading
 
-<a href="https://www.audubon.org/news/how-much-plastic-marooned-sea#9">How Much
-Plastic Is Marooned at Sea?</a>, by Emma Bryce, Feburary 2015, _Audubon
-Magazine_.
+[How Much Plastic Is Marooned at
+Sea?](https://www.audubon.org/news/how-much-plastic-marooned-sea), by Emma
+Bryce, Feburary 2015, _Audubon Magazine_.
 
 [Environmental
-Justice Advocates Question Houston's Recycling Plan](http://www.texastribune.org/2014/08/25/environmental-justice-advocates-question-houstons-/), by Neena Satija, _The
+Justice Advocates Question Houston's Recycling Plan](https://www.texastribune.org/2014/08/25/environmental-justice-advocates-question-houstons-/), by Neena Satija, _The
 Texas Tribune_, Aug. 25, 2014.
 
-<a href="
-http://journalistsresource.org/studies/environment/pollution-environment/plastics-environmental-health-literature-review">Plastics, human health and environmental impacts: The road ahead</a>, by Rachael Stephens and Leighton Walter Kille, October 9, 2014,
-_Journalit's Resource_
+[Plastics, human health and environmental impacts: The road
+ahead](https://journalistsresource.org/studies/environment/pollution-environment/plastics-environmental-health-literature-review),
+by Rachael Stephens and Leighton Walter Kille, October 9, 2014, _Journalit's
+Resource_
 
-[What Happens to All That Plastic?](http://blogs.ei.columbia.edu/2012/01/31/what-happens-to-all-that-plastic/), by Renee Cho, January 31, 2012, _State of the Planet_ blog from Columbia University.
+[What Happens to All That
+Plastic?](http://blogs.ei.columbia.edu/2012/01/31/what-happens-to-all-that-plastic/),
+by Renee Cho, January 31, 2012, _State of the Planet_ blog from Columbia
+University.

@@ -8,11 +8,11 @@ tags:
 - nature
 ---
 
-{: .float-right }
-![photo of a stream](/img/ridvanWater.png){: .border .rounded}<br>
-Stream at the restored<br>
-[Ridv&aacute;n Garden](http://www.bahaullah.org/ridvan/)<br>
-near Acre, Israel
+<div class="image">
+![photo of a stream](/img/ridvanWater.png)
+
+Stream at the restored [Ridv&aacute;n Garden](http://www.bahaullah.org/ridvan/) near Acre, Israel
+</div>
 
 "Fragmentation" often describes our personal lives. Through accident or design,
 we carve out separate spheres of being: family, work, school, sport, public
@@ -30,6 +30,7 @@ and equality (seeking climate justice, for example).
 
 <!-- truncate -->
 
+<!-- TODO -->
 In a <a href="/archive/2014/12/22/birdsong_and_rustling_leaves">prior blog
 post</a>, I wrote about birdwatching helping me to overcome a sense of being
 cutoff from the natural world. That is a fragmentation. Prompted by an
@@ -43,8 +44,8 @@ science and religion in my  "eco-spiritual" awareness.
 > This unity can never be achieved so long as the counsels which the Pen of the
 > Most High hath revealed are suffered to pass unheeded.&rdquo;
 >
-> <a href="http://reference.bahai.org/en/t/b/GWB/gwb-131.html">Gleanings From
-> the Writings of Bah&aacute;&rsquo;u&rsquo;ll&aacute;h</a>
+> [Gleanings From the Writings of
+> Bah&aacute;&rsquo;u&rsquo;ll&aacute;h](https://reference.bahai.org/en/t/b/GWB/gwb-131.html)
 
 What does it mean for unity to be a precursor to "peace and security", and by
 implication to the "betterment of the world and tranquility of its peoples?"
@@ -62,10 +63,9 @@ movement.
 > and is its expression in and through the contingent world. It is a
 > dispensation of Providence ordained by the Ordainer, the All-Wise.&rdquo;
 >
-> Tablet of Wisdom, <a
-> href="http://reference.bahai.org/en/t/b/TB/tb-10.html">Tablets of
-> Bah&aacute;&rsquo;u&rsquo;ll&aacute;h Revealed After the
-> Kit&aacute;b-i-Aqdas</a>
+> Tablet of Wisdom, [Tablets of Bah&aacute;&rsquo;u&rsquo;ll&aacute;h Revealed
+> After the
+> Kit&aacute;b-i-Aqdas](https://reference.bahai.org/en/t/b/TB/tb-10.html)
 
 As a scientist, this passage helps me bridge the gap between intellectual study
 and the mystic experience of nature. Moreover, it points me toward a word for
@@ -87,8 +87,8 @@ analysis of composition and mechanics.
 > will devour the cities, when the Tongue of Grandeur will proclaim: &lsquo;The
 > Kingdom is God&rsquo;s, the Almighty, the All-Praised!&rsquo;&rdquo;
 >
-> <a href="http://reference.bahai.org/en/t/b/GWB/gwb-164.html">Gleanings from
-> the Writings of Bah&aacute;&rsquo;u&rsquo;ll&aacute;h</a>
+> [Gleanings from the Writings of
+> Bah&aacute;&rsquo;u&rsquo;ll&aacute;h](https://reference.bahai.org/en/t/b/GWB/gwb-164.html)
 
 This is no less than the Prophet&rsquo;s own warning about the danger of
 materialism. While 20th century readers may have pondered nuclear disaster, the

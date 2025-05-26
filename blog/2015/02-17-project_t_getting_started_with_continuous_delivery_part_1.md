@@ -19,7 +19,9 @@ NuGet, Bower, Grunt, MSDeploy, and SoapUI. The result is this: as soon as I
 commit code to the version control system, it starts an automated chain reaction
 that ends with a complete install on my integration test servers.
 
-![deployment pipeline image](/img/deploymentPipeline.png){: .text-center }
+<div class="image">
+![deployment pipeline image](/img/deploymentPipeline.png)
+</div>
 
 <!-- truncate -->
 
@@ -39,7 +41,9 @@ useful to the client) stored in a SQL solution, which could be Microsoft SQL
 Server or MySQL. If push notifications are required, then I will likely stick
 with Microsoft's SignalR hosted on the API server.
 
-![architecture diagram](/img/architecture.png){: .text-center }
+<div class="image">
+![architecture diagram](/img/architecture.png)
+</div>
 
 ## Push Button Deploy
 
@@ -68,89 +72,67 @@ Thus far it has cost me about $1 of credit per day.
 Once the server was up-and-running, I had to install the tools of the trade.
 This is a bare-bones server, after all.
 
-<div class="striped">
-<table>
-<tr>
-<th width="15%">Program</th>
-<th width="50%">Purpose</th>
-<th width="35%">Installation Method</th>
-</tr>
-<tr>
-<td>TeamCity</td>
-<td>Continuous Integration/Delivery (task runner)</td>
-<td>msi download from [JetBrains](https://www.jetbrains.com/teamcity/)</td>
-</tr>
-<tr>
-<td>Chocolatey</td>
-<td>Windows application package manager, for installing Windows apps (makes installs very convenient and command-line driven.</td>
-<td>Run the powershell script at [chocolatey.org](https://chocolatey.org/).
-</td>
-</tr>
-<tr>
-<td>Visual Studio 2013 Community Edition</td>
-<td>Provides msbuild.exe and mstest.exe, critical for .NET compilation and testing.</td>
-<td>[Microsoft Web Platform Installer](http://www.microsoft.com/web/downloads/)</td>
-</tr>
-<tr>
-<td>Web Deploy 3.5</td>
-<td>For pushing web site files out to remote servers through a command line interface.</td>
-<td>[Microsoft Web Platform Installer](http://www.microsoft.com/web/downloads/)</td>
-</tr>
-<tr>
-<td>NuGet</td>
-<td>I had already installed NuGet for third party .NET package downloads before realizing that I needed Visual Studio 2013 for mstest.exe, so this was probably unneccesary as a stand-alone install.</td>
-<td>
-```bash
-> choco install nuget.commandline
-```
-</td>
-</tr>
-<tr>
-<td>NotePad++</td>
-<td>Because at some point you'll want a text editor that is better than notepad, and this one is my long-time favorite freeware replacement.</td>
-<td>
-`> choco install notepadplusplus`
-</td>
-</tr>
-<tr>
-<td>Node.js</td>
-<td>In this case, my real aim is to get the Node Package Manager (NPM), which will be useful for the web site content, as you'll see below.</td>
-<td>
-`> choco install nodejs`
-</td>
-</tr>
-<tr>
-<td>Grunt</td>
-<td>JavaScript task runner, for automating tasks such as concatenating and minifying JavaScript (JS) and Cascading Style Sheet (CSS) files.
-</td>
-<td>
-`> npm install grunt`<br>
-`> npm install grunt-cli`
-</td>
-</tr>
-<tr>
-<td>Bower</td>
-<td>Yet another package manager, this time for JavaScript packages. Similar to NuGet or NPM, but targeted specifically to retrieving client-side JavaScript libraries.</td>
-<td>
-`> npm install bower`<br>
-`> npm install grunt-bower-install`
-</td>
-</tr>
-</table>
-</div>
+* **TeamCity**
+  * Continuous Integration/Delivery (task runner)
+  * msi download from [JetBrains](https://www.jetbrains.com/teamcity/)
+* **Chocolatey**
+  * Windows application package manager, for installing Windows apps (makes installs very convenient and command-line driven.)
+  * Run the powershell script at [chocolatey.org](https://chocolatey.org/).
+* **Visual Studio 2013 Community Edition**
+  * Provides msbuild.exe and mstest.exe, critical for .NET compilation and testing.
+  * [Microsoft Web Platform Installer](https://www.microsoft.com/web/downloads/)
+* **Web Deploy 3.5**
+  * For pushing web site files out to remote servers through a command line interface.
+  * [Microsoft Web Platform Installer](http://www.microsoft.com/web/downloads/)
+* **NuGet**
+  * I had already installed NuGet for third party .NET package downloads before realizing that I needed Visual Studio 2013 for mstest.exe, so this was probably unneccesary as a stand-alone install.
 
-* for Grunt and Bower, the install needs to be both global and in the website's
-  working directory. Thus issue the command once with the -g flag for global.
-  Find TeamCity's working directory for the website project, and open the
-  command prompt there. Run the commands as shown above, without -g, to install
-  locally. All other bower packages that I used on my development computer are
-  downloaded as needed by grunt-bower-install. I also had to manually run the
-  following once in the working directory, before getting Grunt working in
-  TeamCity:
+    ```powershell
+    choco install nuget.commandline
+    ```
+
+* **NotePad++
+  * Because at some point you'll want a text editor that is better than notepad, and this one is my long-time favorite freeware replacement.
+
+    ```powershell
+    choco install notepadplusplus
+    ```
+
+* **Node.js**
+  * In this case, my real aim is to get the Node Package Manager (NPM), which will be useful for the web site content, as you'll see below.
+
+    ```powershell
+    choco install nodejs
+    ```
+
+* **Grunt**
+  * JavaScript task runner, for automating tasks such as concatenating and minifying JavaScript (JS) and Cascading Style Sheet (CSS) file.
+
+    ```powershell
+    npm install grunt
+    npm install grunt-cli
+    ```
+
+* **Bower**
+  * Yet another package manager, this time for JavaScript packages. Similar to NuGet or NPM, but targeted specifically to retrieving client-side JavaScript libraries.
+
+   ```powershell
+   npm install bower
+   npm install grunt-bower-install
+   ```
+
+For Grunt and Bower, the install needs to be both global and in the website's
+working directory. Thus issue the command once with the -g flag for global.
+Find TeamCity's working directory for the website project, and open the
+command prompt there. Run the commands as shown above, without -g, to install
+locally. All other bower packages that I used on my development computer are
+downloaded as needed by grunt-bower-install. I also had to manually run the
+following once in the working directory, before getting Grunt working in
+TeamCity:
 
 ```bash
-> npm install
-> grunt
+npm install
+grunt
 ```
 
 Time is in short supply, so this has been hastily written. More project

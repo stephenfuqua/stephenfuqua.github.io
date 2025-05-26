@@ -9,7 +9,9 @@ tags:
 - inclusion
 ---
 
-![photo from EarthDayTX booth](/img/dallasIPL_EDTX2015.jpg){: .float-right .border .rounded }
+<div class="image">
+![photo from EarthDayTX booth](/img/dallasIPL_EDTX2015.jpg)
+</div>
 
 A disturbing thing happened at Earth Day Texas - racists and nativists showed up
 masquerading as environmentalists. A tweet from the Southern Poverty Law Center
@@ -73,21 +75,18 @@ seriously about over-population. Let us not deny the legitimate discussion.
 What I really want to urge is that we turn this conversation around. Rather than
 talk about how &ldquo;those people&rdquo; need to stop having so many children,
 can we talk about the factors such as
-[education](http://www.earth-policy.org/data_highlights/2011/highlights13),
-[economics](http://www.sciencedaily.com/releases/2013/04/130430161940.htm), and
-[functional
-governance](http://econ.worldbank.org/external/default/main?pagePK=64165259&theSitePK=469372&piPK=64165421&menuPK=64166093&entityID=000094946_99061105341073),
-that just so happen to influence fertility rates? And while we&rsquo;re doing
-so, can we talk about the massive over consumption and materialism of the
-industrialized world &mdash; the issue that is really at the root of climate
-change?
+[education](https://wayback.archive-it.org/22906/20240418081615/https://www.earth-policy.org/data_highlights/2011/highlights13),
+[economics](https://www.sciencedaily.com/releases/2013/04/130430161940.htm), and
+functional governance (dead link), that just so happen to influence fertility
+rates? And while we&rsquo;re doing so, can we talk about the massive over
+consumption and materialism of the industrialized world &mdash; the issue that
+is really at the root of climate change?
 
 ---
 
 Footprint analysis based on [data from the Global Footprint
-Network](http://www.footprintnetwork.org/en/index.php/GFN/page/public_data_package).
-These data are &copy; Global Footprint Network 2016.  National Footprint
-Accounts, 2016 Edition.  Licensed and provided solely for non-commercial
-informational purposes.  Contact Global Footprint Network at
-[www.footprintnetwork.org](www.footprintnetwork.org) to obtain more information
-or obtain rights to use this and/or other data.
+Network](https://www.footprintnetwork.org/). These data are &copy; Global
+Footprint Network 2016.  National Footprint Accounts, 2016 Edition.  Licensed
+and provided solely for non-commercial informational purposes.  Contact Global
+Footprint Network at to obtain more information or obtain rights to use this
+and/or other data.

@@ -6,10 +6,9 @@ tags:
 - tech
 - programming
 - dotnet
-
 ---
 
-I've been misunderstanding .NET's List<T> for years.
+I've been misunderstanding .NET's `List<T>` for years.
 
 Two incidents this week have driven home the value of being able to study the
 source code of frameworks I code with. One the one hand, I was using [NServiceKit.OrmLite](https://github.com/NServiceKit/NServiceKit.OrmLite)
@@ -31,8 +30,8 @@ behavior on data stored in a `List`. The data did not come out in the order I
 expected, causing a visible bug. Reading in the [MSDN
 documentation](https://msdn.microsoft.com/en-us/library/6sh2ey19%28v=vs.110%29.aspx), I found that:
 
-> The List<T> is not guaranteed to be sorted. You must sort the List<T> before
-> performing operations (such as BinarySearch) that require the List<T> to be
+> The `List<T>` is not guaranteed to be sorted. You must sort the `List<T>` before
+> performing operations (such as BinarySearch) that require the `List<T>` to be
 > sorted.
 
 With the evidence in front of my eyes, I understood this to mean that the input
@@ -60,8 +59,8 @@ dequeuing/popping).
 
 ---
 
-* I should submit a pull request to the maintainers. The powerful <a
-  href="https://github.com/NServiceKit/NServiceKit.OrmLite/blob/master/src/NServiceKit.OrmLite/Expressions/ExpressionVisitor.cs">ExpressionVisitor</a>
+* I should submit a pull request to the maintainers. The powerful
+  [`ExpressionVisitor`](https://github.com/NServiceKit/NServiceKit.OrmLite/blob/master/src/NServiceKit.OrmLite/Expressions/ExpressionVisitor.cs)
   has an utterly unnecessary `upper` in its wildcard handling:
 
 ```csharp
@@ -84,15 +83,15 @@ property on this class.
 
 ## Comments
 
-_Comments imported from old blog_
+Comments imported from old blog:
 
-> author: ravinder.trx<br>
+> author: ravinder.trx
 > date: '2015-02-04 21:00:16 -0600'
 >
 > Stephen,
 >
 > I was also under the impression and I have also gone through articles from
-> Microsoft.So I was using Queue instead of List<T> For keeping ordered items.
+> Microsoft.So I was using Queue instead of `List<T>` For keeping ordered items.
 >
 > Thanks for keeping this in notice.
 >

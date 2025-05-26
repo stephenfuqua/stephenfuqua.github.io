@@ -7,10 +7,13 @@ tags:
 - nature
 ---
 
-![photo of the moon over water](/img/MoonOverGulf.JPG){: .float-right .border .rounded }
+<div class="image">
+![photo of the moon over water](/img/MoonOverGulf.JPG)
+</div>
 
-Last night we turned off the lights early for [Earth Hour](http://www.earthhour.org/), and went outside for a good
-long walk through the neighborhood and on the nearby CampiÃ³n Trail.
+Last night we turned off the lights early for [Earth
+Hour](http://www.earthhour.org/), and went outside for a good long walk through
+the neighborhood and on the nearby Campion Trail.
 
 The photo at right is nearly three years old, and represents one of the last
 good long night walks I had taken - that time at the beach in Port Aransas.
@@ -40,5 +43,5 @@ Elm Fork of the Trinity River.
 
 Still, it was a delight to be out on a warm spring evening, enjoying a light
 breeze and the moonlight. Even the tragedy of human folly could not take that
-away. If only I had time to advocate for a [dark skies program](http://texasida.org/LocalOrdinances.htm) in
+away. If only I had time to advocate for a [dark skies program](https://darkskytexas.org/) in
 Irving...

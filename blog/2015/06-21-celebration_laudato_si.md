@@ -8,14 +8,14 @@ tags:
 - religion
 ---
 
-I've spent the weekend preparing a presentation on the <a
-href="http://www.dallasinterfaith.org/d/faithful_call_action>Faithful Call to
-Action on Climate Change</a>, which I'll be giving at the [Bah&aacute;'&iacute; Center of Irving](http://www.irvingbahai.org) on
-this coming Friday evening.
+I've spent the weekend preparing a presentation on the [Call to Action on
+Climate Change](./06-28-faithful_call_to_actonclimate_change_-_recap.md), which
+I'll be giving at the [Bah&aacute;'&iacute; Center of
+Irving](https://www.irvingbahai.org) on this coming Friday evening.
 
 Joining so many others in the worldwide faith communities, I am overjoyed at the
 Pope's encyclical [_Laudato
-Si_](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html), which came out officially just a few days ago. Although I will not be
+Si_](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html), which came out officially just a few days ago. Although I will not be
 saying much about it, it is a large part of the inspiration for the up-coming
 presentation. And I would like to share the heart-achingly beautiful second
 paragraph:
@@ -30,3 +30,5 @@ paragraph:
 > "groans in travail" (Rom 8:22). We have forgotten that we ourselves are dust
 > of the earth (cf. Gen 2:7); our very bodies are made up of her elements, we
 > breathe her air and we receive life and refreshment from her waters.
+
+<!-- truncate -->

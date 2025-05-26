@@ -19,7 +19,7 @@ or software).
 
 I look forward to re-reading it in the near future. For now, I will satisfy
 myself by re-collecting and re-pondering a few of those notes, starting with the
-topics of **Knowledge **and **Diversity **(from Ch 4 - The
+topics of **Knowledge** and **Diversity** (from Ch 4 - The
 Information-Innovation System)
 
 <!-- truncate -->

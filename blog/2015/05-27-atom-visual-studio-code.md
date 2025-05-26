@@ -9,6 +9,8 @@ Does [Visual Studio Code](https://code.visualstudio.com/) measure up to its clos
 
 A friend asked me what I thought of Code. When I installed it a few weeks ago, my first reaction was: this is nice, if you're not used to Atom already. Never satisfied with a simple gut reaction, I thought for a moment, and realized that I had not looked closely at Microsoft's additions – particularly, debugging.
 
+<!-- truncate -->
+
 ## Overall Impressions
 
 Both are beautiful text editors. There is something about the presentation that makes me simply enjoy working with text files more than when I open them in Notepad++. Aesthetics are worth something. That said, Notepad++ is still a great tool and I will not be rid of it any time soon (especially for large files).
@@ -21,13 +23,14 @@ Code changes the keybindings, but I can't let that dissuade me. Code does not ha
 
 In Atom, I have [autocomplete-plus](https://atom.io/packages/autocomplete-plus) and it does a reasonable job of helping me finish my thoughts. But it is not a substitute for powerful IntelliSense. While there are language-specific autocomplete packages for many dialects, oddly enough I cannot find anything for JavaScript. Code, on the other hand, has some impressive auto completion, which applies equally for built-in JavaScript functionality and command-completion for local variables.
 
-**Code**
-
+<div class="image">
 ![codeAtom_1](/img/codeAtom_1.png)
 
-**Atom**
+VS Code
 
 ![codeAtom_2](/img/codeAtom_2.png)
+Atom
+</div>
 
 ## File Explorer / Tree View
 
@@ -41,25 +44,29 @@ Of course, Atom also has packages such [atom-cli-diff](https://atom.io/packages/
 
 Overall, I find the two different but equally useful.
 
-**Code**
-
+<div class="image">
 ![codeAtom_3](/img/codeAtom_3.png)
 
-**Atom**
+VS Code
 
 ![codeAtom_4](/img/codeAtom_4.png)
 
-# Search
+Atom
+</div>
+
+## Search
 
 When you've opened a folder, this will search every file in the folder. And it is fast. But so is Atom's Find in Project. Code just makes it more visible through the menu bar. Both have regular expression support, and my early impression is that they are pretty well matched. That said, I do like Atom's display of the line number next to the match.
 
-**Code**
-
+<div class="image">
 ![codeAtom_5](/img/codeAtom_5.png)
 
-**Atom**
+VS Code
 
 ![codeAtom_6](/img/codeAtom_6.png)
+
+Atom
+</div>
 
 ## Git
 
@@ -69,13 +76,13 @@ Remember that file compare? Now we see it shine: Code gives you quick access to 
 
 Overall, the Code interface to Git is better, except for one flaw (for now): Commit messages are one-line only. And if you push that Enter key trying to add a line break, then you've just finished your commit. Commit messages often need to be multi-lined, so I hope that Microsoft changes this.
 
-**Code**
-
+<div class="image">
 ![codeAtom_7](/img/codeAtom_7.png)
 
-**Atom**
+VS Code
 
 ![codeAtom_8](/img/codeAtom_8.png)
+</div>
 
 ## Debug
 
@@ -83,7 +90,11 @@ There are some quirks, but this is promising. As you can see in this screenshot,
 
 That said, there is a [node debugger](https://atom.io/packages/node-debugger) project for Atom. The pictures look promising, but even the maintainer admits it is buggy. I cannot get it to work at all - opening the debugger palette, you are presented with an opportunity to fill in a few paths. But the fields, at least in my install, are not enabled.
 
+<div class="image">
 ![codeAtom_9](/img/codeAtom_9.png)
+
+Atom
+</div>
 
 ## Conclusion
 
