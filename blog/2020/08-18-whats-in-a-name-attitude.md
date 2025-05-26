@@ -86,11 +86,11 @@ useless reminder of a cruel past.
 
 Steps taken to change this blog's source code repository:
 
-1. Create the main branch<br>
+1. Create the main branch\
    ![Screenshot showing creation of main branch](/img/main-create-branch.png)
-2. Switch the default from `master` to `main`<br>
+2. Switch the default from `master` to `main`\
    ![Screenshot showing change of default branch](/img/main-switch-default-branch.png)
-3. Change the branch used by GitHub Pages<br>
+3. Change the branch used by GitHub Pages\
    ![Screenshot showing change to the GitHub Pages branch](/img/main-change-gh-pages.png)
-4. Finally, delete the old branch<br>
+4. Finally, delete the old branch\
    ![Screenshot showing deletion of old branch](/img/main-delete-old.png)

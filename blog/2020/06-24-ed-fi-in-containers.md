@@ -19,4 +19,6 @@ us.
 
 _Continue reading on [ed-fi.org](https://www.ed-fi.org/blog/2020/06/call-for-community-expertise-and-input-ed-fi-in-containers/)&hellip;_
 
-![Potential Docker Architecture](images/edfi-docker-vision.png)
+![Potential Docker Architecture](/img/edfi-docker-vision.png)
+
+<!-- truncate -->

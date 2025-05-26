@@ -7,26 +7,6 @@ tags:
 - justice
 - inclusion
 - data-and-analytics
-excerpt: '<p>
-Are algorithms doomed to be racist and harmful, or is there a legitimate
-role for them in a just and equitable society?
-</p>
-<p>
-Algorithms have been causing disproportionate harm to low- and middle-income
-individuals, especially people of color, since long before this current age of
-machine learning and artificial intelligence. Two cases in point: neighborhood
-redlining and credit scores. While residential redlining was a deliberately
-racist anti-black practice, FICO-based credit scoring does not appear to
-have been created from a racist motive. By amplifying and codifying existing
-inequities, however, the credit score can easily become another tool for racial
-oppression.
-</p>
-<p>
-Still, with appropriate measures in place, and a bit of pragmatic optimism,
-perhaps we can find ways to achieve the scalability/impartiality goals of
-algorithms while upholding true equity and justice.
-</p>
-'
 ---
 
 Are algorithms doomed to be racist and harmful, or is there a legitimate role
@@ -45,13 +25,15 @@ Still, with appropriate measures in place, and a bit of pragmatic optimism,
 perhaps we can find ways to achieve the scalability/impartiality goals of
 algorithms while upholding true equity and justice.
 
-{: .center-block}
-![equality, equity, justice graphic](/img/equality_equity_justice.jpg)<br>
-<small>Justice: changing conditions, removing the barriers. Could not find the original
-source to credit, so I drew my own version of this thought-provoking graphic. I
-leave the sport being played behind the fence up to your imagination.</small>
+<div class="image">
+![equality, equity, justice graphic](/img/equality_equity_justice.jpg)
 
----
+Justice: changing conditions, removing the barriers. Could not find the original
+source to credit, so I drew my own version of this thought-provoking graphic. I
+leave the sport being played behind the fence up to your imagination.
+</div>
+
+<!-- truncate -->
 
 Fresh out of college I served as an AmeriCorps*VISTA at a non-profit dedicated
 to supporting small business development for women and minorities. There I began
@@ -89,8 +71,9 @@ of model fitness / goodness beyond the simple question: does this model include
 more of our pool of successful loan applicants than all other models? Admittedly
 this was an eyeball test, not a rigorous and statistically valid experiment.
 
-{: .float-right}
-![create model, test, tweak, validate, evaluate](/img/create-test-tweak-validate-evaluate.jpg){: .border .rounded }
+<div style={{ float: "right" }}>
+![create model, test, tweak, validate, evaluate](/img/create-test-tweak-validate-evaluate.jpg)
+</div>
 
 Machine learning is the automated process of creating models, testing them
 against a sample, and seeing which yields the best predictions. Then (if you are

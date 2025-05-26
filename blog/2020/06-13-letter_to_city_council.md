@@ -35,3 +35,5 @@ police, and the heavy-handed tactics employed against peaceful protestors.
 >
 > Sincerely,
 > Stephen A. Fuqua
+
+<!-- truncate -->

@@ -27,6 +27,8 @@ settings. These will include:
 1. Managing secure data
 1. Connecting to forks
 
+<!-- truncate -->
+
 ## What is Kotlin?
 
 Kotlin is a language developed by JetBrains, maker of TeamCity. Originally
@@ -80,13 +82,15 @@ examples.
 
 Viewing an individual build configuration:
 
-{: .center-block}
+<div class="image">
 ![screenshot: view build configuration as code](/img/tc-view-build-configuration-as-code.png)
+</div>
 
 Viewing a new build feature as code:
 
-{: .center-block}
+<div class="image">
 ![screenshot: view new build feature as code](/img/tc-view-new-build-feature.png)
+</div>
 
 ### Export an Entire Project
 
@@ -95,8 +99,9 @@ instead of having to figure everything out from scratch. Take a project -
 preferably a relatively simple one without dependencies in other projects - and
 export it to Kotlin. Now you have a detailed example to study.
 
-{: .center-block}
+<div class="image">
 ![screenshot: downloading entire project in kotlin](/img/tc-download-project-settings-in-kotlin.png)
+</div>
 
 ### Internal Setting for Creating Smaller Files
 
@@ -138,8 +143,11 @@ compile it, install Maven* and then run `mvn teamcity-configs:generate` in the
 directory containing the pom file. Read the debug output carefully and you'll be
 on your way to fixing up most problems before you ever got to the UI.
 
-{: .alert .alert-primary .mt-2 }
+:::tip
+
 Windows users: see the appendix for notes on installing and configuring Maven.
+
+:::
 
 Here's a sample error message, after I deliberately entered a typo in
 the project name for the main `settings.kts` file:

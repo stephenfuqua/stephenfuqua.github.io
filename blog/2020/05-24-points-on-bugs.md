@@ -17,6 +17,7 @@ remainder of the release backlog.
 Possible solution: track the ratio of story to non-story points and use that to
 pad out the release projection estimate.
 
+<!-- truncate -->
 ----
 
 Story point estimation has proven to be an effective tool for providing a

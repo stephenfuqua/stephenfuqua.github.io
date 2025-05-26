@@ -21,7 +21,9 @@ potential for positive use weighed against potential for misuse.
 
 <!-- truncate -->
 
-![Coded Bias film poster](/img/CODED_Instagram_Post_1080px.jpg){: .float-right}
+<div style={{ float: "right" }}>
+![Coded Bias film poster](/img/CODED_Instagram_Post_1080px.jpg)
+</div>
 
 The films [Coded Bias](https://www.codedbias.com/) (now in virtual theaters) and
 [The Social Dilemma](https://www.thesocialdilemma.com/) (Netflix) probe these
@@ -73,10 +75,10 @@ prominently in _Coded Bias_, and their website provides many resources for
 exploring this topic in more detail.
 
 These works send a clear message that data and the algorithms that exploit them
-are causing and will continue to cause harm unless reined in and reconceptualized.
-This is the techno-bureaucratic side of #BlackLivesMatter, calling for
-#InclusiveTech and #ResponsibleAI. As with so many other issues of equity and
-justice, we all need to stand up, take notice, and act.
+are causing and will continue to cause harm unless reined in and
+reconceptualized. This is the techno-bureaucratic side of #BlackLivesMatter,
+calling for #InclusiveTech and #ResponsibleAI. As with so many other issues of
+equity and justice, we all need to stand up, take notice, and act.
 
 1. Think twice before choosing to use AI/ML. Then get an outside review.
 2. Vet your data sets carefully and clearly describe their origin and use for
@@ -87,6 +89,8 @@ justice, we all need to stand up, take notice, and act.
    representative audience.
 5. Keep listening. Keep learning.
 
-{: .text-center}
-![Slack - choosing skin tone](/img/choose_skin_tone.png)<br>
-_Something positive: choosing an emoji skin tone_
+<div class="image">
+![Slack - choosing skin tone](/img/choose_skin_tone.png)
+
+Something positive: choosing an emoji skin tone
+</div>

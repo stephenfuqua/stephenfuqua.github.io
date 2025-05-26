@@ -32,6 +32,8 @@ history without a uuid. Since I also have server backups, I'm not too worried.
 And in all of my experiments I've not been able to find any problems with this
 approach so far.
 
+<!-- truncate -->
+
 ## Starting Point
 
 The official help page has the following sample `settings.kts` file:
