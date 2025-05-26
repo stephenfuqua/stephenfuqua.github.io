@@ -1,74 +1,74 @@
 {
-    "name": "docusaurus-site",
-    "version": "0.0.0",
-    "private": true,
-    "scripts": {
-        "docusaurus": "docusaurus",
-        "start": "docusaurus start",
-        "build": "docusaurus build",
-        "swizzle": "docusaurus swizzle",
-        "deploy": "docusaurus deploy",
-        "clear": "docusaurus clear",
-        "serve": "docusaurus serve",
-        "write-translations": "docusaurus write-translations",
-        "write-heading-ids": "docusaurus write-heading-ids",
-        "format": "npx prettier . --write",
-        "lint": "markdownlint-cli2 **/*.md #node_modules && eslint **/*.mdx",
-        "lint:fix": "markdownlint-cli2 **/*.md #node_modules --fix"
-    },
-    "dependencies": {
-        "@docusaurus/core": "3.7.0",
-        "@docusaurus/preset-classic": "3.7.0",
-        "@docusaurus/theme-mermaid": "^3.7.0",
-        "@mdx-js/react": "^3.0.0",
-        "clsx": "^2.0.0",
-        "prism-react-renderer": "^2.3.0",
-        "react": "^19.0.0",
-        "react-dom": "^19.0.0"
-    },
-    "devDependencies": {
-        "@docusaurus/module-type-aliases": "3.7.0",
-        "@docusaurus/types": "3.7.0",
-        "markdownlint-cli2": "^0.18.1",
-        "prettier": "^3.5.3"
-    },
-    "browserslist": {
-        "production": [
-            ">0.5%",
-            "not dead",
-            "not op_mini all"
-        ],
-        "development": [
-            "last 3 chrome version",
-            "last 3 firefox version",
-            "last 5 safari version"
+  "name": "docusaurus-site",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "format": "npx prettier . --write",
+    "lint": "markdownlint-cli2 **/*.md #node_modules && eslint **/*.mdx",
+    "lint:fix": "markdownlint-cli2 **/*.md #node_modules --fix"
+  },
+  "dependencies": {
+    "@docusaurus/core": "3.7.0",
+    "@docusaurus/preset-classic": "3.7.0",
+    "@docusaurus/theme-mermaid": "^3.7.0",
+    "@mdx-js/react": "^3.0.0",
+    "clsx": "^2.0.0",
+    "prism-react-renderer": "^2.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@docusaurus/module-type-aliases": "3.7.0",
+    "@docusaurus/types": "3.7.0",
+    "markdownlint-cli2": "^0.18.1",
+    "prettier": "^3.5.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome version",
+      "last 3 firefox version",
+      "last 5 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=18.0"
+  },
+  "markdownlint-cli2": {
+    "config": {
+      "default": true,
+      "line-length": false,
+      "no-inline-html": {
+        "allowed_elements": [
+          "div",
+          "kbd",
+          "DocCardList",
+          "details",
+          "summary",
+          "br",
+          "iframe",
+          "sup"
         ]
-    },
-    "engines": {
-        "node": ">=18.0"
-    },
-    "markdownlint-cli2": {
-        "config": {
-            "default": true,
-            "line-length": false,
-            "no-inline-html": {
-                "allowed_elements": [
-                    "div",
-                    "kbd",
-                    "DocCardList",
-                    "details",
-                    "summary",
-                    "br",
-                    "iframe",
-                    "sup"
-                ]
-            },
-            "emphasis-style": {
-                "style": "underscore"
-            },
-            "ul-style": {
-                "style": "asterisk"
-            }
-        }
+      },
+      "emphasis-style": {
+        "style": "underscore"
+      },
+      "ul-style": {
+        "style": "asterisk"
+      }
     }
+  }
 }

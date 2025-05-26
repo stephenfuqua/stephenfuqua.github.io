@@ -1,10 +1,10 @@
 {
-    "[markdown]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnPaste": true,
-        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
-    },
-    "editor.codeActionsOnSave": {
-        "source.fixAll.markdownlint": "explicit"
-    }
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": "explicit"
+  }
 }
