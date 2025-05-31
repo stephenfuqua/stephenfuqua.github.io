@@ -9,7 +9,7 @@ tags:
 ---
 
 In preparation for Earth Day next weekend, I was reading a bit of [Love
-God, Heal Earth](http://www.barnesandnoble.com/w/love-god-heal-earth-sally-g-bingham/1015960006) this morning. I was reminded of the passage about "love thy
+God, Heal Earth](https://www.barnesandnoble.com/w/love-god-heal-earth-sally-g-bingham/1125043148?ean=9780980028836) this morning. I was reminded of the passage about "love thy
 neighbor as thyself", and its implications for the ethics of sustainability. Who
 is your neighbor? Does it include someone a state away? In another country?
 Continent? What about the people of the future? This famous passage can be
@@ -23,3 +23,4 @@ verses 36 - 39 (NIV)
 > your soul and with all your mind.&rsquo; This is the first and greatest
 > commandment. And the second is like it: &lsquo;Love your neighbor as
 > yourself.&rsquo;"
+<!-- truncate -->

@@ -11,7 +11,7 @@ tags:
 Vanderbilt University, a large private school in Tennessee, is enforcing rules
 that require all student groups receiving on campus funds to open up membership
 to anyone - including officer positions ([story
-on NPR](http://www.npr.org/2012/03/22/149141095/vanderbilt-rule-rankles-faith-based-student-groups)). Naturally, this is of great concern to Faith-based organizations in
+on NPR](https://www.npr.org/2012/03/22/149141095/vanderbilt-rule-rankles-faith-based-student-groups)). Naturally, this is of great concern to Faith-based organizations in
 particular: one can easily imagine a group of atheists gate-crashing a meeting
 and electing their own leader to be the President/Chair/Grand Poobah of the _
 &lt;insert religion&gt; Association_.
@@ -29,7 +29,7 @@ members would quit, move on, and take their cause up under another name.
 
 The notion of judging and discriminating based on beliefs then, be they
 religious, political, or whatever, becomes problematic. That is the inherent
-nature of a [club](http://en.wikipedia.org/wiki/Club). The inability
+nature of a [club](https://en.wikipedia.org/wiki/Club). The inability
 to do so calls into question the very notion of having an organization of
 like-_minded_ individuals, such as a religious organization, working together on
 campus. And yet, practically speaking, what prevents this from being a problem

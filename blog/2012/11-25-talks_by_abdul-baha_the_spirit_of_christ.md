@@ -50,14 +50,10 @@ and imagine if our academic discourse were devoted to building on itself rather 
 trying to tear each other apart. It would be a different and far more pleasant society, if we
 could learn from the Master.
 
-<div class="text--center">
-\***
-</div>
+---
 
-Review of <a href=
-"http://www.bahaibookstore.com/productdetails.cfm?PC=8619#.ULLY2oawVxc">Talks by
-'Abdu'l-Bah&aacute;: The Spirit of Christ</a>. Published in 2012 by <a href=
-"http://www.bahaibookstore.com/">Bah&aacute;&#8217;&iacute;­ Publishing</a>, 415 Linden Ave, Wilmette, IL
+Review of [Talks by
+'Abdu'l-Bah&aacute;: The Spirit of Christ](https://www.bahaibookstore.com/Talks-by-Abdul-Baha-The-Spirit-of-Christ-P6817). Published in 2012 by Bah&aacute;&#8217;&iacute;­ Publishing, 415 Linden Ave, Wilmette, IL
 60091.
 
 _Disclosure of Material Connection: I received this book free from the
@@ -66,4 +62,4 @@ review program. I was not required to write a positive review. The opinions I
 have expressed are my own. I am disclosing this in accordance with the Federal
 Trade Commission's 16 CFR, Part 255: "Guides Concerning the Use of Endorsements
 and Testimonials in Advertising."
-(http://ftc.gov/os/2009/10/091005revisedendorsementguides.pdf)_
+[http://ftc.gov/os/2009/10/091005revisedendorsementguides.pdf](http://ftc.gov/os/2009/10/091005revisedendorsementguides.pdf)_

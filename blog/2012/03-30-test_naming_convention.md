@@ -13,7 +13,7 @@ tags:
 Historically I've advocated naming test methods after the method under test, in
 order to help find the tests when you need to modify them. [Growing
 Object-Oriented Software, Guided by
-Tests](http://www.growing-object-oriented-software.com) has shown me that this
+Tests](https://www.pearson.com/en-us/subject-catalog/p/growing-object-oriented-software-guided-by-tests/P200000009298/9780321503626) has shown me that this
 is a relic of a code-first mentality rather than good application of test driven
 development, primarily in the section "Test Names Describe Features" (ch 21).
 "Test driven" development implies that we do not know the name of the method
@@ -23,8 +23,7 @@ example:
 
 <!-- truncate -->
 
-From a [previous
-post](/archive/2012/02/15/a_recipe_for_setting_up_automated_test_projects/): a
+From a [previous post](./02-15-a_recipe_for_setting_up_automated_test_projects.md): a
 positive test for Reggie's `TryIt` method is simply named `t_TryIT`:
 
 ```csharp
@@ -71,4 +70,3 @@ features need to be split between different Test Fixtures, that probably implies
 that they should also be split into different classes in order to maintain
 simplicity and coherence (cf [Single Responsibility
 Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)).
-

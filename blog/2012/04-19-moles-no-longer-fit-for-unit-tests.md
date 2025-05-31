@@ -8,7 +8,9 @@ tags:
 - testing
 ---
 
-![No moles](/img/noMoles.png){: .float-right }
+<div class="rightImage">
+![No moles](/img/noMoles.png)
+</div>
 
 Moles is a powerful and useful framework for unit testing. Or was. But even
 then, it was overused (at least by me). But no more!
@@ -22,6 +24,7 @@ assemblies correctly on my machine, rebuild many times, and fool around with
 manually removing some assemblies. It got confusing and messy. I suppose that's
 why MS still labeled this version as < 1.0.
 
+<!-- truncate -->
 Next: _Growing Object-Oriented Software, Guided by Tests_ showed me how I was
 letting design guide tests far too much – and here I thought I was practicing
 test driven development (TDD) just by writing unit tests. No. Moles was a
@@ -49,5 +52,5 @@ Manual_ (v0.91, p4):
 Finally: Microsoft [has
 announced](https://www.microsoft.com/en-us/research/project/moles-isolation-framework-for-net/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fmoles%2F)
 the end-of-the-line for Moles. In Visual Studio, the framework [will be
-replaced](http://www.peterprovost.org/blog/2012/04/15/visual-studio-11-fakes-part-1/)
+replaced](https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2015/test/isolating-code-under-test-with-microsoft-fakes?view=vs-2015&redirectedfrom=MSDN)
 with one called Fakes.

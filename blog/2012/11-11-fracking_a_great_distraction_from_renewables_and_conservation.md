@@ -7,10 +7,11 @@ tags:
 - climate
 ---
 
-{: .float-right }
+<div class="rightImage">
 ![lighting tap water on fire](/img/Gasland_5Full.png)
+</div>
 
-[The Sky Is Pink](http://www.gaslandthemovie.com/), from the director
+[The Sky Is Pink](https://vimeo.com/44367635), from the director
 of _Gasland_, makes a potent argument that we need to resist ANY gas drilling,
 but particularly fracking with its permanently toxic benzene, toluene, etc. In
 middle school I recall writing a paper for science class, about sources of
@@ -23,11 +24,10 @@ wells that pollute our water supplies.
 <!-- truncate -->
 
 The United States' levels of greenhouse gas emissions have gone down
-dramatically, thanks to fracking (<a href=
-"http://news.discovery.com/earth/co2-pollution-down-to-1992-levels-in-the-us-120821.html">Discovery
-News</a>). Fracking produces cheap natural gas, and thereby supplants coal. The
-coal industry executives that are lashing out at President Obama in recent days
-are blaming him for their woes, when the root causes are competition and a poor
+dramatically, thanks to fracking (dead link removed; SF 2025).
+Fracking produces cheap natural gas, and thereby supplants coal. The coal
+industry executives that are lashing out at President Obama in recent days are
+blaming him for their woes, when the root causes are competition and a poor
 track record in basic mine safety. But, as both _The Sky is Pink_ and this
 _Discovery_ article point out, the low cost of natural gas also undermines the
 market for further development of renewable energy sources.

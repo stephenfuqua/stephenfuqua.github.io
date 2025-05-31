@@ -5,7 +5,9 @@ date: 2012-04-16
 tags: [dotnet, testing]
 ---
 
-![jester](/img/johnny_automatic_jester.png){: .float-right }
+<div class="rightImage">
+![jester](/img/johnny_automatic_jester.png)
+</div>
 
 For several years now, I have been relying on Microsoft’s Moles for isolating one method from another in my unit tests. Recently I’ve begun to understand that this was not the best approach. I’ll dig into that more in a future post. Having come to this conclusion, I need to start ripping out Moles. Based on the user feedback across the web, and the powerful Lambda expression syntax I’ve grown used to, I’ve chosen MoQ as my replacement. Now for an exercise&hellip;
 

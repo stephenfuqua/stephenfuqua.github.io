@@ -9,8 +9,9 @@ tags:
 - nature
 ---
 
-{: .float-right }
-![book cover](http://photo.goodreads.com/books/1328763842m/4863759.jpg)
+<div class="rightImage">
+![book cover](https://photo.goodreads.com/books/1328763842m/4863759.jpg)
+</div>
 
 _Love God Heal Earth_ is a compilation of essays, from leaders of 11 religions
 and denominations, that delve into the religious call for a transition to a
@@ -62,12 +63,10 @@ realism, but also of hope.
 > kindness, and walking humbly _with_ our God. Let us humbly _invite_ our
 > neighbor and walk _humbly_ to the future together.
 
-<div class="text--center">
-\***
-</div>
+---
 
 Review of [Love God
 Heal Earth: 21 Leading Religious Voices Speak Out on Our Sacred Duty to Protect
-the Environment](http://www.goodreads.com/book/show/4863759-love-god-heal-earth), by Rev. Canon Sally G. Bingham et al. Published in 2009 by
-[St. Lynn's Press](http://www.stlynnspress.com), Pittsburgh, PA. No
+the Environment](https://www.goodreads.com/book/show/4863759-love-god-heal-earth), by Rev. Canon Sally G. Bingham et al. Published in 2009 by
+[St. Lynn's Press](https://www.stlynnspress.com), Pittsburgh, PA. No
 goods or services were received in return for this review.

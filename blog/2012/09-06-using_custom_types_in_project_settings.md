@@ -10,7 +10,7 @@ tags:
 ---
 
 **Problem:** using [Application
-Settings](http://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx) in a .Net project, you find that there are so many entries that
+Settings](https://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx) in a .Net project, you find that there are so many entries that
 some organization is needed.
 
 **Solution:** create custom, serializable data types for logical groups of
@@ -20,7 +20,7 @@ settings.
 
 ## 1. Custom Types
 
-Create one or more <acronym title="Plain Old C(sharp) Object">POCO</acronym> for
+Create one or more <abbr title="Plain Old C(sharp) Object">POCO</abbr> for
 logical groupings of your settings. Add the `[Serializable]` attribute from the
 `System.Xml` namespace because the object data need to be stored as XML in the
 settings file. It may be convenient to put a few other properties or methods
@@ -56,18 +56,18 @@ using System.IO;
 [TestMethod]
 public void WriteSettingsXml()
 {
-	var settings = new MySettingsType
-	{
-		SettingInt = 4345,
-		SettingBool = true,
-		SettingStringArray = new string[] { "a", "b"}
-	};
+ var settings = new MySettingsType
+ {
+  SettingInt = 4345,
+  SettingBool = true,
+  SettingStringArray = new string[] { "a", "b"}
+ };
 
-	var serializer = new XmlSerializer(typeof(MySettingsType));
-	using (var writer = new StreamWriter(@"c:\temp\settings.xml"))
-	{
-		serializer.Serialize(writer, settings);
-	}
+ var serializer = new XmlSerializer(typeof(MySettingsType));
+ using (var writer = new StreamWriter(@"c:\temp\settings.xml"))
+ {
+  serializer.Serialize(writer, settings);
+ }
 }
 ```
 

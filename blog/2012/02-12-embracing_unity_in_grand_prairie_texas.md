@@ -63,8 +63,7 @@ unity on this fabulous foundation. Setting aside my editorial, it was a
 well-executed piece that, like all great works of art, challenges the viewer in
 unexpected ways.
 
-{: .text-center}
-\***
+---
 
 Grand Prairie is a demographically diverse city situated on the southern-half of
 the western border of Dallas. As with the rest of the Dallas-Ft. Worth
@@ -76,4 +75,4 @@ language at home, though only 20% are immigrants. Education is below the
 state-wide average, but median household income is slightly higher than average
 and the percentage below the poverty level lower than the state as a whole. (All
 statistics courtesy of the [US Census
-Bureau](http://quickfacts.census.gov/qfd/states/48/4830464.html)).
+Bureau](https://www.census.gov/quickfacts/fact/table/grandprairiecitytexas/PST045224)).

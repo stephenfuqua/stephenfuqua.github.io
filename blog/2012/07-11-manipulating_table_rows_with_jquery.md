@@ -14,12 +14,13 @@ HTML page.
 
 **Solution:** careful use of jQuery. There are probably many different solutions
 already out there, but I wanted to learn how to write one for myself. Key
-functions: [closest](http://api.jquery.com/closest/), [detach](http://api.jquery.com/detach/), [append](http://api.jquery.com/append/), [prev](http://api.jquery.com/prev/), [next](http://api.jquery.com/next/), [before](http://api.jquery.com/before/), and [after](http://api.jquery.com/after/).
+functions: [closest](https://api.jquery.com/closest/), [detach](https://api.jquery.com/detach/), [append](https://api.jquery.com/append/), [prev](https://api.jquery.com/prev/), [next](https://api.jquery.com/next/), [before](https://api.jquery.com/before/), and [after](https://api.jquery.com/after/).
 
 <!-- truncate -->
 
 ## Demonstration
 
+<!-- markdownlint-disable MD033 -->
 <table id="table1" style="background-color: Lime" class="displayTable">
     <caption>Table 1</caption>
     <thead>
@@ -71,6 +72,7 @@ functions: [closest](http://api.jquery.com/closest/), [detach](http://api.jquery
     <tbody>
     </tbody>
 </table>
+<!-- markdownlint-restore -->
 
 ## Table Source Code
 
@@ -189,7 +191,9 @@ $(".rowUp").click(function () {
 });
 ```
 
-<script type="text/javascript">
+<!-- TODO -->
+<!-- markdownlint-disable MD033 -->
+<!-- <script type="text/javascript">
     $(document).ready(function () {
         // Setup the "Move Me" links
         $(".rowLink").click(function () {
@@ -254,4 +258,5 @@ $(".rowUp").click(function () {
             // else - already at the bottom
         });
     });
-</script>
+</script> -->
+<!-- markdownlint-restore -->

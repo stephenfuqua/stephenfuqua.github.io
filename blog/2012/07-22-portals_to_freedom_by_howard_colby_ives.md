@@ -8,8 +8,9 @@ tags:
 - Bahai
 ---
 
-{: .float-right}
-![book cover](http://photo.goodreads.com/books/1343011021l/15712182.jpg)
+<div class="rightImage">
+![book cover](https://photo.goodreads.com/books/1343011021l/15712182.jpg)
+</div>
 
 More than merely a memoir, _Portals to Freedom_ by Howard Colby Ives is both a
 loving portrait of a "holy man" and a deeply personal exploration of the slow
@@ -84,12 +85,10 @@ cynicism, or to reconcile the western intellectual tradition with a religious
 worldview, would do well to follow Ives&rsquo; transformation, and to ponder and
 then put into action the meaning of the stories he relates.
 
-<div class="text--center">
-\***
-</div>
+---
 
 Review of [Portals to
-Freedom](http://www.bahaibookstore.com/productdetails.cfm?sku=PTFT), by Howard Colby Ives. Published in 2012 by [Bah&aacute;&rsquo;&iacute; Publishing](http://www.bahaibookstore.com/),
+Freedom](https://www.bahaibookstore.com/Portals-to-Freedom-P6794), by Howard Colby Ives. Published in 2012 by [Bah&aacute;&rsquo;&iacute; Publishing](https://www.bahaibookstore.com/),
 415 Linden Ave, Wilmette, IL 60091.
 
 _Disclosure of Material Connection: I received this book free from the
@@ -98,4 +97,4 @@ review program. I was not required to write a positive review. The opinions I
 have expressed are my own. I am disclosing this in accordance with the Federal
 Trade Commission's 16 CFR, Part 255: "Guides Concerning the Use of Endorsements
 and Testimonials in Advertising."
-(http://ftc.gov/os/2009/10/091005revisedendorsementguides.pdf)_
+[http://ftc.gov/os/2009/10/091005revisedendorsementguides.pdf](http://ftc.gov/os/2009/10/091005revisedendorsementguides.pdf)_

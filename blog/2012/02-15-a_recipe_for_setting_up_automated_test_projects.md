@@ -17,7 +17,7 @@ language agnostic, though my examples will be in C#.
 
 <!-- truncate -->
 
-### Separate Projects
+## Separate Projects
 
 First, to maximize the benefit of unit testing, let's make a clear (and
 industry standard) delineation between _unit_ and _integration_
@@ -37,7 +37,7 @@ Thus it is best to put these into separate test projects. Run all of the unit
 tests very frequently, and run the integration test as often as is reasonable.
 The same principle applies to any automated UI or performance tests.
 
-### Project Setup
+## Project Setup
 
 Each class should have its own test file, and each namespace its own folder -
 just as you would do for non-test code. If a class has many methods, or some
@@ -45,7 +45,7 @@ methods require many different tests, it may be helpful to create multiple test
 files for a class. For example, you might have "MyClassTest_MethodA.cs" and
 "MyClassTest_MethodB.cs".
 
-### Helper Classes
+## Helper Classes
 
 It is often useful to put some code into a static class for re-use across
 multiple tests. For example, if you use Guids frequently, then create a static
@@ -75,7 +75,7 @@ public static RegExTest BuildStandardTest()
 }
 ```
 
-### Test Template
+## Test Template
 
 The basic art of testing is to know your inputs and your expected outputs. At
 the code level this applies to methods / procedures; at the system level it

@@ -11,7 +11,7 @@ tags:
 
 ---
 
-[_Growing Object-Oriented Software, Guided by Tests_](http://www.growing-object-oriented-software.com/)
+[_Growing Object-Oriented Software, Guided by Tests_](https://www.pearson.com/en-us/subject-catalog/p/growing-object-oriented-software-guided-by-tests/P200000009298/9780321503626)
 by Steve Freeman and Nat Pryce
 
 I did not realize how much I still have to learn about writing good
@@ -35,8 +35,8 @@ tests, about where to put/move a piece code. The authors did well in steering
 away from anything too Java-centric, that the book would remain accessible to
 those of us who are not deep in that language.
 
-There is no need for me to recount the contents &mdash; perusal of the [table of
-contents](http://www.growing-object-oriented-software.com/toc.html) should be
+There is no need for me to recount the contents &mdash; perusal of the table of
+contents should be
 sufficient. Some of the advice about testing overlaps that found in _XUnit Test
 Patterns_, but the overlaps is small enough to warrant reading both. Naturally,
 some of the advice will reinforce what any good and self-reflective programmer
@@ -54,8 +54,6 @@ A few particular highlights for me:
   just to prove that the framework _can be_ deployed.
 * Readability applies to test code as well. I already believed that, but this
   presentation will help me explain that better to doubters.
-* Test names can be [extremely
-  descriptive](/archive/2012/03/30/test_naming_convention/) (prior post)
-* Realizing that [I have been
-  over-reliant](/archive/2012/04/19/moles-no-longer-fit-for-unit-test/)  on
+* Test names can be [extremely descriptive](./03-30-test_naming_convention.md) (prior post)
+* Realizing that [I have been over-reliant](./04-19-moles-no-longer-fit-for-unit-tests.md)  on
   Microsoft's Moles (prior post)

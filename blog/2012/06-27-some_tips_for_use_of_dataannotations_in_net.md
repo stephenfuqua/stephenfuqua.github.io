@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Wherein I record a few tips on the use of [System.ComponentModel.DataAnnotations](http://rachelappel.com/asp-net-mvc/how-data-annotations-for-asp-net-mvc-validation-work/),
+Wherein I record a few tips on the use of [System.ComponentModel.DataAnnotations](https://rachelappel.com/2015/03/15/asp-net-mvchow-data-annotations-for-asp-net-mvc-validation-work/),
 which I am likely to forget if I do not need to think about them again for some
 months&hellip;
 
@@ -18,17 +18,17 @@ months&hellip;
 ## Unit Testing for Validation Attributes
 
 In your unit tests, do not test the validation &mdash; but rather test to see if
-the validation attributes have been applied. See Brad Wilson's blog post, [DataAnnotations
-and ASP.NET MVC](http://bradwilson.typepad.com/blog/2009/04/dataannotations-and-aspnet-mvc.html), for details.
+the validation attributes have been applied. See Brad Wilson's blog post, DataAnnotations
+and ASP.NET MVC (original link dead, try [this one](https://odetocode.com/blogs/scott/archive/2009/04/27/6-tips-for-asp-net-mvc-model-binding.aspx)), for details.
 
 ## Manual Validation
 
 If you do manually validate, in a unit test or production code, using
 `Validator.TryValidateObject` (or other methods in the Validator class), then be
 sure to set the `validateAllProperties = true`. By default it is false and that
-means that only `Required` properties will be validated. <editorial>Why in
+means that only `Required` properties will be validated. &lt;editorial>Why in
 the world is this false by default? The obvious and expected behavior is that
-all properties would be validated</editorial>.
+all properties would be validated&lt;/editorial>.
 `Validator.TryValidateObject(someObject, new ValidationContext(someObject, null,
 null), resultList, true)`.
 

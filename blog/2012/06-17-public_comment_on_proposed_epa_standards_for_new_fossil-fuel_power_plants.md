@@ -12,14 +12,13 @@ will be constructed in the future, that will help ensure a lower carbon future
 and hopefully spur innovation in the electric industry. They are accepting
 public comments through June 25<sup>th</sup>.  There are a number of
 organizations that will help you provide comments directly to the EPA, such as
-the [National
-Council of Churches](http://salsa.democracyinaction.org/o/1845/p/dia/action/public/?action_KEY=10600) or the [Union
-of Concerned Scientists](http://www.ucsusa.org/global_warming/what_you_can_do/power-plant-standards.html). My letter, with extra citations, is below.
+the National
+Council of Churches (dead link removed; SF 2025) or the Union
+of Concerned Scientists (dead link removed; SF 2025). My letter, with extra citations, is below.
 
 <!-- truncate -->
 
-{: .text-center }
-\***
+---
 
 Dear Administrator Jackson,
 
@@ -53,41 +52,37 @@ variation.
 
 Sincerely,
 
-Stephen A. Fuqua<br>
+Stephen A. Fuqua \
 Grand Prairie, TX
 
-{: .text-center }
-\***
+---
 
-1. <a
-   href="http://epa.gov/carbonpollutionstandard/pdfs/20120327factsheet.pdf">EPA
-   FACT SHEET: Proposed Carbon Pollution Standard for New Power Plants</a> (EPA)
-1. <a href="http://epa.gov/climatechange/endangerment.html">Endangerment and
-   Cause or Contribute Findings for Greenhouse Gases under Section 202(a) of the
-   Clean Air Act</a> (EPA)
-1. <a
-   href="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/ch9s9-4-1-5.html">The
-   Influence of Other Anthropogenic and Natural Forcings</a> (IPCC)
-1. <a href="http://www.nature.com/news/2011/110216/full/470316a.html">Increased
-   flood risk linked to global warming</a> (_Nature_)
-1. <a
-   href="http://www.scientificamerican.com/article.cfm?id=human-pollution-tipping-scaled-toward-more-weather-extremes">Human
-   Pollution Tipping Scales toward More Weather Extremes</a> (_Scientific
-   American_)
-1. <a
-   href="http://www.gfdl.noaa.gov/bibliography/related_files/wjg0801.pdf">Causes
-   of Observed Changes in Extremes and Projections of Future Changes</a>
-   (multi-institutional
-report)
-1. <a
-   href="http://www.innovationexcellence.com/blog/2012/02/10/when-regulations-promote-innovation/">When
-   Regulations Promote Innovation</a> (_Innovation Excellence _blog)
-1. <a
-   href="http://www.rff.org/Events/Pages/The-Porter-Hypothesis-After-20-Years-How-Can-Environmental-Regulation-Enhance-Innovation-and-Competitiveness.aspx">The
+1. [FACT SHEET: Proposed Carbon Pollution Standard for New Power
+   Plants](https://archive.epa.gov/epa/sites/production/files/2013-09/documents/20120327factsheet.pdf)
+   (PDF; from the EPA)
+2. [Endangerment and Cause or Contribute Findings for Greenhouse Gases under
+   Section 202(a) of the Clean Air
+   Act](https://www.epa.gov/climate-change/endangerment-and-cause-or-contribute-findings-greenhouse-gases-under-section-202a)
+   (EPA)
+3. [The Influence of Other Anthropogenic and Natural
+   Forcings](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/ch9s9-4-1-5.html)
+   (IPCC)
+4. [Increased flood risk linked to global
+   warming](https://www.nature.com/articles/470316a) (_Nature_)
+5. [Human Pollution Tipping Scales toward More Weather
+   Extremes](https://www.scientificamerican.com/article/human-pollution-tipping-scaled-toward-more-weather-extremes/)
+   (_Scientific American_)
+6. [Causes of Observed Changes in Extremes and Projections of Future
+   Changes](https://www.gfdl.noaa.gov/bibliography/related_files/wjg0801.pdf)
+(PDF; multi-institutional report)
+7. When Regulations Promote Innovation (_Innovation Excellence_blog) (dead link
+   removed; SF 2025)
+8. [The-Porter-Hypothesis-After-20-Years-How-Can-Environmental-Regulation-Enhance-Innovation-and-Competitiveness.aspx">The
    Porter Hypothesis After 20 Years: How Can Environmental Regulation Enhance
-   Innovation and Competitiveness?</a> (talks delivered at a Resources for the
-   Future conference)
-1. <a
-   href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2012/06/06/BA1T1OT26G.DTL">Warming
-   nears point of no return, scientists say</a> (_San Francisco Chronicle_,
-   reporting about a new peer-reviewed article in _Nature_)
+   Innovation and
+   Competitiveness?](https://www.journals.uchicago.edu/doi/10.1093/reep/res016)
+   (talks delivered at a Resources for the Future conference)
+9. [Warming nears point of no return, scientists
+   say](https://www.sfgate.com/science/article/warming-nears-point-of-no-return-scientists-say-3615965.php)
+   (_San Francisco Chronicle_, reporting about a new peer-reviewed article in
+   _Nature_)

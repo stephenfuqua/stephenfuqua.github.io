@@ -23,7 +23,7 @@ remembered, it would be simple enough to overlook or accidentally type
 <!-- truncate -->
 
 A Windows Server can be configured with [a name
-alias](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc776292(v=ws.10))
+alias](https://superuser.com/questions/1669701/two-address-name-for-same-server)
 (CNAME) that preserves the naming convention used by infrastructure, but helps
 the development team avoid confusion and accidents. Assuming that there is a
 good separation between servers &mdash; say, development, test, and production

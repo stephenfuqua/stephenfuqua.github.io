@@ -11,8 +11,9 @@ tags:
 - Bahai
 ---
 
-{: .float-right }
+<div class="rightImage">
 ![book cover](/img/advancementOfWomen.jpg)
+</div>
 
 In this scholarly work, Janet and Peter Khan present the theological grounding,
 social context, historical action, and modern implementation of the concept of
@@ -57,8 +58,7 @@ wishing to better understand the Bah&aacute;'&iacute; Faith, and even more so to
 those who seek a critical, action-oriented, and yet deeply spiritual assessment
 of the role of women in society.
 
-{: .text-center }
-\***
+---
 
 Review of [Advancement of
 Women: A Bah&aacute;'&iacute; Perspective](http://www.bahaibookstore.com/productdetails.cfm?PC=7347), by Janet A. Khan and Peter J.

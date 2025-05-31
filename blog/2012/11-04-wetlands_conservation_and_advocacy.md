@@ -13,30 +13,31 @@ did not heed from Hurricane Katrina will perhaps take hold with Hurricane Sandy
 impacting the nation's commercial heart: in addition to supporting relief
 efforts now, it is important for us to consider long-term mitigation against the
 impact of future large storms, which are likely to be more powerful and more
-frequent (dead link remove) than in centuries past. Instead of, [or in addition
+frequent (dead link removed; SF 2025 removed; SF 2025) than in centuries past. Instead of, [or in addition
 to](https://www.nytimes.com/2012/11/04/nyregion/protecting-new-york-city-before-next-time.html),
 relying on massive levies, seawalls, and the like, we need to support public and
 private endeavors to restore vital natural systems.
 
-<div class="text--center">
-![egret](/img/IMG_0075.JPG)<br>
+<div class="image">
+![egret](/img/IMG_0075.JPG)
+
+White-morph Reddish Egret, doing the Reddish Egret dance, in a wetland on Texas's Mustang
+Island
 </div>
-<small>White-morph Reddish Egret, doing the Reddish Egret dance, in a wetland on Texas's Mustang
-Island</small>
 
 <!-- truncate -->
 
 Wetlands are nature's
-defence (wetlands) (dead link removed) against storm surges, and they are her filters for clean water. They
+defence (wetlands) (dead link removed; SF 2025 removed; SF 2025) against storm surges, and they are her filters for clean water. They
 provide crucial habitat for life from across the "kingdoms" &mdash; distinct
 varieties of plants, funguses, invertebrates, mollusks, birds, mammals, and so
 on. And this diversity is beautiful, from a purely aesthetic standpoint. Trails,
 boardwalks, and observation decks can easily provide human access to appreciate
 and meditate on the beauty of life, helping reverse the trend of nature deficit
-disorder (dead link removed).
+disorder (dead link removed; SF 2025 removed; SF 2025).
 
 These natural systems are not just for the coasts; they are also vital to the
-interior. Yesterday morning, participating in the Trinity Bird Count (dead link
+interior. Yesterday morning, participating in the Trinity Bird Count (dead link removed; SF 2025
 removed), I toured the [lower chain of
 wetlands](https://trinityrivercorridor.com/floodcontrols/Pages/Chain-of-Wetlands.aspx)
 that was constructed along the Trinity River in the past 10 years, just
@@ -53,10 +54,11 @@ acres of wetlands are joined by over 1,000 acres of the "Great Trinity Forest",
 providing for substantial carbon
 sequestration.
 
-<div class="text--center">
-![cormorants flying](/img/IMG_0439.JPG)<br>
+<div class="image">
+![cormorants flying](/img/IMG_0439.JPG)
+
+Double-Crested Cormorants
 </div>
-<small>Double-Crested Cormorants</small>
 
 The City of Dallas is working on a recreation plan that will provide access and
 trails through this greenspace, suitable for hikers, bird-watchers, and even
@@ -72,17 +74,18 @@ Dallas, we saw none. But we did see a tremendous flock, estimated at around
 1,000 individuals, of Double Crested Cormorants who have come down for the
 season, feeding in these wetlands and our local lakes.
 
-<div class="text--center">
-![downtown Dallas](/img/IMG_0448.JPG)<br>
+<div class="image">
+![downtown Dallas](/img/IMG_0448.JPG)
+
+Downtown Dallas over Wetland Cell F
 </div>
-<small>Downtown Dallas over Wetland Cell F</small>
 
 Historically, our coastal areas and rivers like the Trinity contained
 naturally-formed wetlands. These have been drained for agricultural, commercial,
 and sometimes health, reasons. But the unintended consequences come back to
 haunt us with increased flooding, loss of biodiversity, and further artificial
 separation of "man" from nature. Local organizations dedicated to sustainable
-living and stewardship, such as the new Dallas Interfaith Power &amp; Light (dead link removed), can
+living and stewardship, such as the new Dallas Interfaith Power &amp; Light (dead link removed; SF 2025 removed; SF 2025), can
 play a supportive role in mitigating against the unintended consequences of past
 policies and economic activity. Reaching out beyond our narrow self interests,
 we can express the group's mission of "love, justice, and care for creation" by
@@ -90,7 +93,8 @@ advocating for development projects that restore natural systems and protect
 local neighborhoods, and in encouraging local citizens to responsibly enjoy
 them.
 
-<div class="text--center">
-![looking north](/img/IMG_0451.JPG)<br>
+<div class="image">
+![looking north](/img/IMG_0451.JPG)
+
+Looking due north, across an old landfill and into the Great Trinity Forest
 </div>
-<small>Looking due north, across an old landfill and into the Great Trinity Forest</small>
