@@ -254,8 +254,7 @@ with a code coverage report:
 
 ```python
 def _run_coverage():
-    _run_command([
-        "poetry",
+    _run_command([        "poetry",
         "run",
         "coverage",
         "run",
@@ -263,8 +262,7 @@ def _run_coverage():
         "pytest",
         "tests",
     ], exit_immediately=False)
-    _run_command([
-        "poetry",
+    _run_command([        "poetry",
         "run",
         "coverage",
         "report",

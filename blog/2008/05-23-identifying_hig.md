@@ -20,16 +20,6 @@ slowing things down. Is there a way to pre-emptively find and fix these?
 
 <!-- truncate -->
 
-## Problem
-
-SQL Server 2005 queries that used to be fast are now rather slow.
-You've already tuned the query with good indexes and optimized structures.
-You've checked the running jobs with Activity Monitor and don't see anything
-that should be slowing down the server. Likewise you've checked the memory and
-CPU utilization and they don't seem out of line. Did you check the indexes
-fragmentation? Ah, there's the problem &mdash; a highly fragmented index was
-slowing things down. Is there a way to pre-emptively find and fix these?
-
 ## Solution
 
 SQL Server MVP Lara Rubbelke has addressed procedures for

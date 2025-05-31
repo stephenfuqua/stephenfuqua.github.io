@@ -110,8 +110,7 @@ fs.readFile(campaign.addressFile, function (err, data) {
                 to: '"' + name + '" &lt;' + email + '&gt;',
                 subject: campaign.subject,
                 attachment:
-                [
-                    // my template only has a single placeholder - "[person]"
+                [                    // my template only has a single placeholder - "[person]"
                     { data: template.replace('[person]', name), alternative: true }
                 ]
             };

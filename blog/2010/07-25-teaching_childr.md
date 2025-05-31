@@ -9,11 +9,11 @@ tags:
 ---
 
 I've done my alloted time now: taught a [Bah&aacute;'&iacute; children's
-class](http://www.bahai.us/bahai-children) at a St. Paul public housing community center two weeks running, with
-around 10 children each time. None of whom are Bah&aacute;'&iacute;s, and
-neither are their parents. We learned about service and truthfulness. Well, I
-learned, and I hope they did too. And they taught me about karma. Perhaps I'll
-go back and help out some more.
+class](https://www.bahai.us/bahai-children) at a St. Paul public housing
+community center two weeks running, with around 10 children each time. None of
+whom are Bah&aacute;'&iacute;s, and neither are their parents. We learned about
+service and truthfulness. Well, I learned, and I hope they did too. And they
+taught me about karma. Perhaps I'll go back and help out some more.
 
 <!-- truncate -->
 
@@ -42,8 +42,8 @@ snacks.
 
 The two lessons I co/taught were on service and honesty. In the first one, we
 worked on learning "That one indeed is a man who, today, dedicateth  himself to
-the service of the entire human race" [[1](#one)] and in the second,
-"Truthfulness is the foundation of all human virtues" [[2](#two)]. We
+the service of the entire human race" (1) and in the second,
+"Truthfulness is the foundation of all human virtues" (2). We
 did this by repeating the quotation several times, learning the meaning of
 specific words, and then illustrating with several concrete examples. Finally we
 finished with a story that would further demonstrate the intent of the lesson.
@@ -79,13 +79,11 @@ world-over, a key element of what we are doing to fulfill that grand idea of
 "building God's kingdom on Earth." Having experienced a glimmer of that, those
 words are now more fully transformed into meaning in my own mind.
 
-1. <a name="one"></a>Bah&aacute;'u'll&aacute;h, _Gleanings from the Writings of
-   Bah&aacute;'u'll&aacute;h_, <a
-   href="http://reference.bahai.org/en/t/b/GWB/gwb-117.html">p 250</a>. The
+1. Bah&aacute;'u'll&aacute;h, _Gleanings from the Writings of
+   Bah&aacute;'u'll&aacute;h_, [p 250](https://reference.bahai.org/en/t/b/GWB/gwb-117.html). The
    passage whence this quotation comes is breathtaking, heralding a day when
    governments would agree on the means of peace, when peoples will have adopted
    a common language and currency, and all see themselves as members of the same
    human race.
-1. <a name="two"></a>'Abdu'l-Bah&aacute;, cited in Shoghi Effendi, _The Advent
-   of Divine Justice_, <a
-   href="http://reference.bahai.org/en/t/se/ADJ/adj-2.html">p 26</a>.
+2. Abdu'l-Bah&aacute;, cited in Shoghi Effendi, _The Advent
+   of Divine Justice_, [p 26](https://reference.bahai.org/en/t/se/ADJ/adj-2.html).

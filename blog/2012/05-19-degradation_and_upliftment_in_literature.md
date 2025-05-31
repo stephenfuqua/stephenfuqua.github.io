@@ -64,18 +64,16 @@ now.
    rather than a hero. For us, the heroes were Kitty and Levin, whose
    relationship is so very pure, without becoming sappy. Their simple story is
    one of the greatest love stories ever put to paper.
-
-The Ne(i|a)ls ("kneels") are tied:
-
-3. the beauty of family carries Neil Gaiman's _Anansi Boys_ into this list. Part
-   of the family is not exactly human &mdash; and yet in their deification they
-   are extraordinarily, and endearingly, human.
-4. The world of _Anathem_ by Neal Stephenson is populated by aliens with the
-   same human spirit. That they are technically aliens allows for subtle shifts
-   in history and culture, building a society that values knowledge so much that
-   it sets scholars apart in quasi-religious orders. In the real world, scholars
-   shouldn't separate themselves. But the extreme allows us to delve into the
-   (presumable) uniqueness of human curiosity and powers of investigation
+3. The Ne(i|a)ls ("kneels") are tied:
+   * the beauty of family carries Neil Gaiman's _Anansi Boys_ into this list. Part
+     of the family is not exactly human &mdash; and yet in their deification they
+     are extraordinarily, and endearingly, human.
+   * The world of _Anathem_ by Neal Stephenson is populated by aliens with the
+     same human spirit. That they are technically aliens allows for subtle shifts
+     in history and culture, building a society that values knowledge so much that
+     it sets scholars apart in quasi-religious orders. In the real world, scholars
+     shouldn't separate themselves. But the extreme allows us to delve into the
+     (presumable) uniqueness of human curiosity and powers of investigation
 
 Honorable mention: _Speaker for the Dead_ by Orson Scott Card (disqualified
 because only one of us has read it). Certain themes in the works of Charles

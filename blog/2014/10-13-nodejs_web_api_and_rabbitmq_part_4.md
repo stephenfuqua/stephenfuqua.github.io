@@ -70,8 +70,7 @@ var publishMessage = {
     "message": {
         "content": message
     },
-    "messageType": [
-        "urn:message:RabbitMQ.WebApi:SimpleMessage"
+    "messageType": [        "urn:message:RabbitMQ.WebApi:SimpleMessage"
     ],
 };
 var publishOptions = {
@@ -159,8 +158,7 @@ app.get('/Message/:message', function(request, response) {
         'message': {
             'content': message
         },
-        'messageType': [
-            'urn:message:RabbitMQ.WebApi:SimpleMessage'
+        'messageType': [            'urn:message:RabbitMQ.WebApi:SimpleMessage'
         ],
     };
 

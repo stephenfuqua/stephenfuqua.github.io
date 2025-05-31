@@ -175,8 +175,7 @@ queue by MassTransit, but then pushed right back to Rabbit in this error queue.
   "message": {
     "content": "Hi+mom"
   },
-  "messageType": [
-    "urn:message:RabbitMQ.WebApi:SimpleMessage"
+  "messageType": [    "urn:message:RabbitMQ.WebApi:SimpleMessage"
   ],
   "sourceAddress": "rabbitmq://localhost:5672/apitest_webapi"
 }

@@ -24,8 +24,7 @@ obviously, this situation occurred with your humble blogger. I had
 a few different things going on, but once it was solved, how sweet it was.
 
 First thing is, what's happening? Anything? I couldn't see any sign that
-anything was occurring. The SQLTeam blog [pointed out
-](https://www.sqlteam.com/article/how-to-troubleshoot-service-broker-problems)that
+anything was occurring. The SQLTeam blog [pointed out](https://www.sqlteam.com/article/how-to-troubleshoot-service-broker-problems)that
 there are a number of events that can be monitored in the SQL Profiler. Thanks
 to the Profiler, I could see this error: `Could not obtain information about
 Windows NT group/user...`. Working from home, and apparently it was trying to

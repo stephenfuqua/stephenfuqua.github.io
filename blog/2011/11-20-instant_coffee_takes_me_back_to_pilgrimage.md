@@ -11,8 +11,7 @@ tags:
 <!-- todo -->
 
 We ran out of regular coffee, hence drinking instant this morning (Pampa brand
-from Mexico). The smell of this brand takes me back to Haifa, where I went on [
-Pilgrimage a year
+from Mexico). The smell of this brand takes me back to Haifa, where I went on [Pilgrimage a year
 ago](http://www.safnet.com/fcgi-bin/mt/mt-search.cgi?IncludeBlogs=2&amp;tag=pilgrimage&amp;limit=20).
 The B&amp;B we stayed in had an electric kettle and kept us well-stocked with
 packages of instant coffee. On mornings where we had to get moving before the

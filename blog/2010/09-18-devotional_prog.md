@@ -45,6 +45,8 @@ music were, well, heavenly :-).
 >
 > _Gleanings from the Writings of Bah&aacute;'u'll&aacute;h_, p 276
 
+---
+
 > ... It is good and comely for one to eat and drink, and to enjoy the good of
 > all his labour that he taketh under the sun all the days of his life, which
 > God giveth him: for it is his portion. Every man also to whom God hath given
@@ -52,6 +54,8 @@ music were, well, heavenly :-).
 > portion, and to rejoice in his labor; this is the gift of God.
 >
 > _The Torah_, Kesuvim, Koheles (Ecclesiastes) 5:18-19
+
+---
 
 > Blessed is the rich man whom earthly possessions have been powerless to hinder
 > turning unto God, the Lord of all names. Verily he is accounted among the most
@@ -67,6 +71,8 @@ music were, well, heavenly :-).
 >
 > Bah&aacute;'u'll&aacute;h: _Compilation on Huq&uacute;qu'll&aacute;h_, p. 4
 
+---
+
 > And he lifted us his eyes on his disciples, and said, Blessed be ye poor: for
 > yours is the kingdom of God. Blessed are ye that hunger now: for ye shall be
 > filled... Rejoice ye in that day, and leap for joy: for, behold, your reward
@@ -74,11 +80,15 @@ music were, well, heavenly :-).
 >
 > _The Bible_, Luke 2-23
 
+---
+
 > Great is the blessedness awaiting the poor that endure patiently and conceal
 > their sufferings, and well is it with the rich who bestow their riches on the
 > needy and prefer them before themselves.
 >
 > _Gleanings from the Writings of Bah&aacute;'u'll&aacute;h_, p 202
+
+---
 
 > Please God, the poor may exert themselves and strive to earn the means of
 > livelihood. This is a duty which, in this most great Revelation, hath been
@@ -100,10 +110,14 @@ music were, well, heavenly :-).
 >
 > _Tablets of Bah&aacute;'u'll&aacute;h_, p 35
 
+---
+
 > All that which ye potentially possess can, however, be manifested only as a
 > result of your own volition.
 >
 > _Gleanings from the Writings of Bah&aacute;'u'll&aacute;h_, p 149
+
+---
 
 > O SON OF MAN!
 >
@@ -112,10 +126,14 @@ music were, well, heavenly :-).
 >
 > Bah&aacute;'u'll&aacute;h: _The Arabic Hidden Words_, #52
 
+---
+
 > Health is the supreme possession. Contentment is the supreme wealth. A
 > trustworthy friend is the supreme relation.
 >
 > _Dhammapada - Sayings of the Buddha I_, s. 14
+
+---
 
 > It is God who created you and then provided for you; and then will make you
 > die, and then will quicken you again; is there any of your partners who can do
@@ -123,6 +141,8 @@ music were, well, heavenly :-).
 > associate with Him!
 >
 > _The Qur'an_, 30:1
+
+---
 
 > We have enjoined upon all to become engaged in some trade or profession, and
 > have accounted such occupation to be an act of worship. Before all else,
@@ -135,11 +155,15 @@ music were, well, heavenly :-).
 >
 > Bah&aacute;'u'll&aacute;h: _The Compilation of Compilations vol II_, p 335
 
+---
+
 > O my God! I ask Thee, by Thy most glorious Name, to aid me in that which will
 > cause the affairs of Thy servants to prosper, and Thy cities to flourish.
 > thou, indeed, hast power over all Things!
 >
 > Bah&aacute;'u'll&aacute;h: _Epistle to the Son of the Wolf_, p 61
+
+---
 
 > O Lord! Unto Thee I repair for refuge, and toward all Thy signs I set my
 > heart.

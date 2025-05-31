@@ -37,8 +37,7 @@ and [stringstream](https://cplusplus.com/reference/sstream/stringstream/).
 The ODBC driver does not always provide a helpful message, so I threw together a
 few methods for testing whether or not I could create a file (for writing the
 BCP output and BCP error files) or whether or not a file exists already (for the
-BCP format file), using the [
-CreateFile](https://msdn.microsoft.com/en-us/library/windows/desktop/aa363858%2528v=vs.85%2529.aspx)
+BCP format file), using the [CreateFile](https://msdn.microsoft.com/en-us/library/windows/desktop/aa363858%2528v=vs.85%2529.aspx)
 function for both.
 
 Next I decided to re-learn how try/catch works in the C++ world, and chose to do

@@ -33,8 +33,8 @@ and personal theism, without recourse to philosophical language (the best
 > time I contemplate the mountains, I am led to discover the ensigns of Thy
 > victory and the standards of Thine omnipotence.
 >
-> ~ Bah&aacute;'u'll&aacute;h, _Prayers and Meditations_, <a
-> href="https://reference.bahai.org/en/t/b/PM/pm-176.html.utf8">p271-2</a>
+> ~ Bah&aacute;'u'll&aacute;h, _Prayers and Meditations_,
+> [p271-2](https://reference.bahai.org/en/t/b/PM/pm-176.html.utf8)
 
 Now, this particular paragraph could lead one to assume that
 Bah&aacute;'u'll&aacute;h is positing a pantheistic viewpoint of God. Other
@@ -53,8 +53,8 @@ elswhere we are warned about literal reliance on anthropomorphism:
 > above the knowledge of the knowing! The way is barred and to seek it is
 > impiety; His proof is His signs; His being is His evidence.
 >
-> ~ Bah&aacute;'u'll&aacute;h, _The Seven Valleys and the Four Valleys_, <a
-> href="https://reference.bahai.org/en/t/b/SVFV/svfv-4.html">p22-3</a>
+> ~ Bah&aacute;'u'll&aacute;h, _The Seven Valleys and the Four Valleys_,
+> [p22-3](https://reference.bahai.org/en/t/b/SVFV/svfv-4.html)
 
 The reason for the anthropomorphic-seeming statements is not stated; I can only
 assume that the terminology is used as a metaphorical device that helps us puny

@@ -10,22 +10,20 @@ tags:
 The word "confirmation" is used by some in a spiritual sense, something akin to
 signs and portents: an experience that validates, proves, or explains a previous
 feeling, decision, or action i.e. "... ask for you all divine guidance and
-confirmation in the very important work you are directing" [
-[1](http://reference.bahai.org/en/t/se/MC/mc-38.html?query=confirmation&amp;action=highlight#gr1)]. It is natural to ask, "what is the agent of this confirmation?" To the
+confirmation in the very important work you are directing" [[1](https://reference.bahai.org/en/t/se/MC/mc-38.html?query=confirmation&amp;action=highlight#gr1)]. It is natural to ask, "what is the agent of this confirmation?" To the
 traditionally theistic, that answer is obvious: God. To the athiest, the answer
 is probably something along the lines of "Whoso seeketh out a thing with zeal
-shall find it." [[2](http://reference.bahai.org/en/t/b/SVFV/svfv-1.html#fn12)]
+shall find it." [[2](https://reference.bahai.org/en/t/b/SVFV/svfv-1.html#fn12)]
 (self-fulfilling). Truthfully, my attitude towards the concept has traditionally
 been dismissive.
 
 <!-- truncate -->
 
-It was while studying _ [
-Raising up Animators of Junior Youth Groups](http://www.ruhiresources.org/book-5/raising-up-animators-of-junior-youth-groups/)_ last year that I started fully
+It was while studying _[Raising up Animators of Junior Youth Groups](https://www.ruhi.org/en/walking-a-path-of-service/#JY1)_ last year that I started fully
 thinking about my attitude toward this concept. In several ways, the junior
 youth group program encourages its participants to think about, and act on, this
 notion. In particular, I recall lessons that encouraged these young people to
-look for _ confirmation_ of their paths in life: in some instances, the sign of
+look for _confirmation_ of their paths in life: in some instances, the sign of
 confirmation is something abstract (a bird started singing beautifully while I
 was thinking about ....), and in others more concrete (I've long thought about
 being a nurse; recently I helped take care of my ill grandmother, and while I
@@ -34,9 +32,8 @@ provide that service to her). (not exact examples from the book).
 
 This sense of confirmation is also used by activist groups, on the left and the
 right, when moralizing about a particular position. Left: overcrowded chickens
-lead to [
-salmonella](http://www.stltoday.com/news/local/metro/article_2e05d659-1f25-5ec3-91fa-8a6bca558f21.html) in eggs! That's your punishment for keeping chickens in-humanely
-cooped up! Right: gay sex accounts for [64%](http://www.avert.org/usa-transmission-gender.htm) of new HIV cases
+lead to [salmonella](https://www.stltoday.com/news/local/metro/article_2e05d659-1f25-5ec3-91fa-8a6bca558f21.html) in eggs! That's your punishment for keeping chickens in-humanely
+cooped up! Right: gay sex accounts for [64%](https://www.beintheknow.org/understanding-hiv-epidemic/data) of new HIV cases
 in the U.S. We told you that homosexuality is wrong and God would take revenge!
 Frankly, social-moralizing _confirmations_ better have strong _scientific_
 cause-and-effect, must be clearly linked to a _real_ social ill, and should seek

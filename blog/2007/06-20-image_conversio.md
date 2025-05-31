@@ -22,12 +22,11 @@ Steps:
 1. Add System.Drawing and System.Drawing.Imaging to the namespaces list in the
    class you're editing (System.Drawing may be added automatically by step 1).
 1. If you have a byte stream (i.e. from a web service or a database query
-   result), then you'll need to save it as a file temporarily. Use <a
-   href="https://msdn2.microsoft.com/en-us/library/system.io.filestream(vs.80).aspx">System.IO.FileStream</a>
+   result), then you'll need to save it as a file temporarily. Use [System.IO.FileStream](https://msdn2.microsoft.com/en-us/library/system.io.filestream(vs.80).aspx)
    to write the data out.
-1. Open your input file (I'm converting from a JPG): `Image input =
+2. Open your input file (I'm converting from a JPG): `Image input =
    Image.FromFile(filePathAndName + ".jpg");`
-1. Save the file with the proper format, i.e. as a TIFF:
+3. Save the file with the proper format, i.e. as a TIFF:
    `input.Save(filePath + ".tif", ImageFormat.Tiff);`
 
 And it's really that simple.

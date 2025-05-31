@@ -21,9 +21,9 @@ does not include the namespace or action for the FaultContract, e.g.
 [WCF::ServiceContract(Namespace = "http://mynamespace", Name = "MyServiceContract", SessionMode = WCF::SessionMode.Allowed, ProtectionLevel = ProtectionLevel.None )]
 public partial interface IMyServiceContract
 {
-	[WCF::FaultContract(typeof(MyFaultContract))]
-	[WCF::OperationContract(IsTerminating = false, IsInitiating = true, IsOneWay = false, AsyncPattern = false, Action = "http://mynamespace/Contract/GetSomething", ProtectionLevel = ProtectionLevel.None)]
-	PcaFocus.MessageContracts.GetSomethingResponse GetSomething(GetSomethingRequest request);
+ [WCF::FaultContract(typeof(MyFaultContract))]
+ [WCF::OperationContract(IsTerminating = false, IsInitiating = true, IsOneWay = false, AsyncPattern = false, Action = "http://mynamespace/Contract/GetSomething", ProtectionLevel = ProtectionLevel.None)]
+ PcaFocus.MessageContracts.GetSomethingResponse GetSomething(GetSomethingRequest request);
 ```
 
 Whereas I expected the FaultContract attribute to be something like:
@@ -33,7 +33,7 @@ Whereas I expected the FaultContract attribute to be something like:
 ```
 
 The effect is that the different Fault types [are
-not recognized ](https://connect.microsoft.com/VisualStudio/feedback/details/437564/faultexception-t-doesn-t-work-right-with-multiple-fault-contract-detail-types-that-are-related-derived-from-each-other-and-when-using-basichttpbinding?wa=wsignin1.0) because of a de-serialization problem. That has the effect
+not recognized](https://connect.microsoft.com/VisualStudio/feedback/details/437564/faultexception-t-doesn-t-work-right-with-multiple-fault-contract-detail-types-that-are-related-derived-from-each-other-and-when-using-basichttpbinding?wa=wsignin1.0) because of a de-serialization problem. That has the effect
 that I cannot catch specific faults with
 
 ```csharp

@@ -46,8 +46,8 @@ believe in."
 > power, such faculties would be more than humankind can bear, wherefore no word
 > of Him can come to them.
 >
-> _Selections from the Writings of 'Abdu'l-Bah&aacute;_, <a
-> href="https://reference.bahai.org/en/t/ab/SAB/sab-25.html">number 24</a>
+> _Selections from the Writings of 'Abdu'l-Bah&aacute;_, [number
+> 24](https://reference.bahai.org/en/t/ab/SAB/sab-25.html)
 
 The futility of trying to understand God &mdash; leaving one "despairing, ...
 hopes in ruin" &mdash; reminds me of the Buddha's [parable

@@ -35,18 +35,18 @@ society, and that is what I was seeking in April 2012, when I searched for
 "dallas interfaith earth day."
 
 My timing was fortuitous. An ecumenical group of Christians, concerned about
-"care for creation," had reached out to <a href="http://txipl.org/">Texas
-Interfaith Power &amp; Light</a> in an attempt to broaden their perspectives and
+"care for creation," had reached out to [Texas
+Interfaith Power &amp; Light](https://txipl.org/) in an attempt to broaden their perspectives and
 find help channeling their spiritual energy into sustainable action and
 reflection. I joined them, along with Jewish, Muslim, and Pagan practitioners,
 for an Earth Day potluck and dialog (prior meetings had also included Hindu and
 Jain participants). Two more [beautiful
 interfaith encounters](
-http://texasinterfaithcenter.org/content/caring-creation-non-christians-my-journey-interfaith-work)  followed, engaging us in deep dialogues on our
+https://texasinterfaithcenter.org/content/caring-creation-non-christians-my-journey-interfaith-work)  followed, engaging us in deep dialogues on our
 spiritual experiences in nature. This culminated in a July retreat, where
 several of us committed to continuing the journey together, in the context of a
-local affiliate: thus was born <a href="http://www.dallasinterfaith.org">Dallas
-Interfaith Power &amp; Light</a>.
+local affiliate: thus was born Dallas
+Interfaith Power &amp; Light.
 
 However, even while adopting the Interfaith Power &amp; Light name, and agreeing
 to work as a subsidiary of the state chapter, we wanted to express a sense of
@@ -62,13 +62,13 @@ from all walks of life.
 Since that July retreat, we have continued with monthly meetings, with
 attendance ranging from just a handful to 50 or so. We've had presenters,
 round-table discussions, a walk in an downtown park, and conversation around a
-[Nova documentary](http://video.pbs.org/video/1873639434/). Our most
-recent gathering was organized by the [Keep Texas Parks Open](http://www.keeptexasparksopen.com/) campaign,
+Nova documentary. Our most
+recent gathering was organized by the Keep Texas Parks Open campaign,
 who gave us the opportunity to learn about the state of funding for, and the
 economics of, state and local parks. That was far more enlightening than it
 might sound, thanks to a slate of knowledgeable and passionate speakers. This
 month's meeting will be on the [Living
-Building Challenge](http://living-future.org/lbc). Beyond that, our meetings will likely continue to
+Building Challenge](https://living-future.org/lbc/). Beyond that, our meetings will likely continue to
 address both practical concerns &mdash; such as green teams, community
 gardening, and xeriscaping &mdash; and big picture ideas, such as environmental
 justice and the call for stewardship from different faith perspectives.
@@ -106,25 +106,19 @@ _Dallas Interfaith Power &amp; Light's mission is extended by this statement of 
 > and share our own perspectives, building bridges with others who are equally
 > passionate about seeking God and protecting creation.
 
-<div class="image">
-\***
-</div>
+---
 
-1. Wilson, E.O. _<a
-  href="http://www.safnet.com/archives/2009/10/review-the-crea.html">The
-  Creation: An Appeal to Save Life on Earth</a>_. See page 168 for these
+1. Wilson, E.O. [_The Creation: An Appeal to Save Life on Earth_](about:todo). See page 168 for these
   particular words.
 1. for Bah&aacute;'&iacute;s such as myself, this constructive process is carried
-  out through a <a href="http://www.bahai.us/community-life/">set of
-  community-building activities</a> centered on worship, education, and
+  out through a [set of
+  community-building activities](https://www.bahai.us/community-life/) centered on worship, education, and
   empowerment.
 1. "The shining spark of truth, cometh forth only after the clash of differing
-  opinions."  'Abdu'l-Bah&aacute;, quoted by Shoghi Effendi, _<a
-  href="http://reference.bahai.org/en/t/se/UD/ud-2.html">Unfolding Destiny</a>_,
-  p6.
-1. I feel blessed to be working with [Anna
-  Clark](http://www.annamclark.com/), [Genny Rowley](http://www.gennyrowley.com/) (co-chair),
-  Glen Suhren (treasurer), and Jinen Adenwala. I serve as co-chair at this time.
+  opinions."  'Abdu'l-Bah&aacute;, quoted by Shoghi Effendi, [_Unfolding
+  Destiny_](https://reference.bahai.org/en/t/se/UD/ud-2.html), p6.
+1. I feel blessed to be working with Anna Clark, Genny Rowley, Glen Suhren, and
+  Jinen Adenwala. I serve as co-chair at this time.
 1. Texas Interfaith Power &amp; Light is a program of the Interfaith Center; they
   also support local groups in various stages of development in Austin, Ft.
   Worth, Houston, and San Antonio. This notion of local "IPL" affiliates is, to

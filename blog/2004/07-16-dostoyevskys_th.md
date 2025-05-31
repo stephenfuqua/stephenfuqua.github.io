@@ -44,7 +44,6 @@ About the novel Dostoyevsky continues:
 > that of civilized Europe, is still far from having been worked out. There
 > is only one positively good man in the world&mdash;Christ.&rdquo;
 
-
 Myshkin is certainly not perfect, but I
 do believe Dostoyevsky has made the most &ldquo;positively good&rdquo; man
 of society that anyone could envision. Thus I was forced to keep turning the

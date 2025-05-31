@@ -69,8 +69,7 @@ There are all kinds of environmental justice issues related to landfills, which
 are frequently sited in minority communities. Landfills take up real estate that
 could be put to better use, and various toxic chemicals can leach out of the
 plastics
-[
-[Polymers](http://marinedebris.info/sites/default/files/literature/Plastic%20Degradation%20and%20Its%20Environmental%20Implications%20with%20Special%20Reference%20to%20Poly%28ethylene%20terephthalate%29.pdf) 2013, 5].
+[[Polymers](http://marinedebris.info/sites/default/files/literature/Plastic%20Degradation%20and%20Its%20Environmental%20Implications%20with%20Special%20Reference%20to%20Poly%28ethylene%20terephthalate%29.pdf) 2013, 5].
 
 <!-- TODO -->
 
