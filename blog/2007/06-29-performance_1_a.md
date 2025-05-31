@@ -6,8 +6,7 @@ tags: [tech, dotnet, performance]
 
 ---
 
-_This article is part of the series [An Exercise in Performance Tuning
-in C#.Net](/archive/2007/06/25/an_exercise_in/)_.
+_This article is part of the series [An Exercise in Performance Tuning in C#.Net](./06-25-an_exercise_in.md)_.
 
 The application I was working on makes a number of calls to a remote server to
 perform operations. These calls are made through a proprietary API implemented

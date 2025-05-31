@@ -6,11 +6,15 @@ tags: [tech, database, sql-server]
 
 ---
 
-**Problem:** You've transferred or run a bunch of stored procedure scripts, but
+## Problem
+
+You've transferred or run a bunch of stored procedure scripts, but
 you can't execute them. Reason - execute permission denied. You forgot to put a
 grant statement in your script.
 
-**Solution:** The trivial solution is, of course, `GRANT EXECUTE ON {your proc
+## Solution
+
+The trivial solution is, of course, `GRANT EXECUTE ON {your proc
 name} TO PUBLIC`. Slightly less trivial is to grant to a specific role, but most
 people needing this tip will only be using PUBLIC.
 

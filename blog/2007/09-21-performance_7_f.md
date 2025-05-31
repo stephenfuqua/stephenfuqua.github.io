@@ -6,8 +6,7 @@ tags: [tech, dotnet, performance]
 
 ---
 
-_This article is part of the series [An Exercise in Performance Tuning in
-C#.Net](/archive/2007/06/25/an_exercise_in/)_.
+_This article is part of the series [An Exercise in Performance Tuning in C#.Net](./06-25-an_exercise_in.md)_.
 
 After a month-long hiatus &mdash; too much work, too fast and furious for
 posting &mdash; I'm back to the last posts in the series on real-world

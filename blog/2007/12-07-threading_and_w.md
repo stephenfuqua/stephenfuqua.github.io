@@ -21,8 +21,8 @@ a manner either too simplistic for what I wanted or at cross purposes. For
 instance, they look pretty static in terms of the number of threads spawned, or
 don't deal at all with waiting until the threads have finished, or just don't
 explain themselves very well. But at last I've found the final piece I needed,
-in <a href="http://www.codeguru.com/columns/experts/article.php/c4767/">Working
-with Delegates Made Easier with C# 2.0</a>.
+in [Working with Delegates Made Easier with C#
+2.0](https://www.codeguru.com/csharp/working-with-delegates-made-easier-with-c-2-0/).
 
 I tried creating an array of `WaitHandle` objects, but somewhere got something
 wrong. I'm sure they're perfectly usable. But then the article above showed me

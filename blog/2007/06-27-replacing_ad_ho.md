@@ -12,13 +12,17 @@ today. (Treat this as a non-negotiable requirement for now). Within that
 WHERE clause there might be a query against a field, call it myField. This field
 is a varchar and wildcards are not used. Platform: SQL Server 2005.
 
-**Problem:** myField has been changed to a varbinary field and holds an
+## Problem
+
+myField has been changed to a varbinary field and holds an
 encrypted value &mdash; thus can no longer query directly against it. How do we
 make this work?
 
 <!-- truncate -->
 
-**Solution:** First a tangent &mdash; querying against a hash value. Right now
+## Solution
+
+First a tangent &mdash; querying against a hash value. Right now
 we'd have to decrypt every single value of myField, compare it to the `WHERE`
 clause, and  see if we had a match. Yuk. Big drawback of encryption. Thankfully,
 there's another way &mdash; save a unique and irreversible hash of the encrypted
@@ -68,7 +72,7 @@ variables.
 DECLARE @before as varchar(1000), @after as varchar(1000), @criteria as varchar(1000), @pos_myField as INT, @pos_APOS_1 as INT, @pos_APOS_2 as INT
 ```
 
-Find `myField = `, assuming there are spaces around `=`. And since we'll be
+Find `myField =`, assuming there are spaces around `=`. And since we'll be
 replacing `myField` with `myFieldHash`, make sure to capture the space and equal
 after `myField` so as to not accidentally match `myFieldHash`.
 
@@ -183,7 +187,7 @@ exec (@stmt)
 ```
 
 Now we have our solution. It could be done in a more robust fashion using
-regular expressions (i.e. would be able to handle `myField = ` as well as
+regular expressions (i.e. would be able to handle `myField =` as well as
 `myField=`), but that would require CLR integration and I'm just not ready to go
 to that extreme.
 

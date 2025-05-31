@@ -6,9 +6,13 @@ tags: [tech, dotnet]
 
 ---
 
-**Problem:** Need to convert an image from one format to another using .Net.
+## Problem
 
-**Solution:** Microsoft has really made this easy. The key is the [System.Drawing.Image](http://msdn2.microsoft.com/en-us/library/system.drawing.image(vs.80).aspx) class, combined with the [System.Drawing.Imaging.ImageFormat](http://msdn2.microsoft.com/en-us/library/system.drawing.imaging.imageformat_members(vs.80).aspx) class.
+Need to convert an image from one format to another using .Net.
+
+## Solution
+
+Microsoft has really made this easy. The key is the [System.Drawing.Image](https://msdn2.microsoft.com/en-us/library/system.drawing.image(vs.80).aspx) class, combined with the [System.Drawing.Imaging.ImageFormat](https://msdn2.microsoft.com/en-us/library/system.drawing.imaging.imageformat_members(vs.80).aspx) class.
 
 Steps:
 
@@ -19,7 +23,7 @@ Steps:
    class you're editing (System.Drawing may be added automatically by step 1).
 1. If you have a byte stream (i.e. from a web service or a database query
    result), then you'll need to save it as a file temporarily. Use <a
-   href="http://msdn2.microsoft.com/en-us/library/system.io.filestream(vs.80).aspx">System.IO.FileStream</a>
+   href="https://msdn2.microsoft.com/en-us/library/system.io.filestream(vs.80).aspx">System.IO.FileStream</a>
    to write the data out.
 1. Open your input file (I'm converting from a JPG): `Image input =
    Image.FromFile(filePathAndName + ".jpg");`

@@ -3,22 +3,14 @@ title: 'Performance #4: Consolidate Object Creation from Database'
 date: '2007-07-14 15:01:21 -0500'
 slug: performance_4_c
 tags: [tech, dotnet, performance]
-
 ---
 
-_This article is part of the series <a href="/archive/2007/06/25/an_exercise_in/">
-An Exercise in Performance Tuning in C#.Net</a>_.
+_This article is part of the series [An Exercise in Performance Tuning in C#.Net](./06-25-an_exercise_in.md)_.
 
 At this point I did not re-run the profiler but continued investigating memory allocation.
 Here's an interesting looking result:
 
-<p class="center">{Image file no longer available}</p>
-<!--
-<p style="text-align: center">
-<a href="http://www.safnet.com/writing/tech/calc1.jpg">
-<img alt="calc1.jpg" src="http://www.safnet.com/writing/tech/calc1-thumb.jpg" width="450"
-    height="125" border="1" /></a>
--->
+(removed link to missing image file)
 
 <!-- truncate -->
 

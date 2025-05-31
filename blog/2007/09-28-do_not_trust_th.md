@@ -26,7 +26,7 @@ remember if vectors (in the STL) behave this way, but it seems like a pretty
 natural assumption that the generic `List` would behave like arrays, with a
 First-In-First-Out (FIFO) type approach.
 
-Better read the [documentation](http://msdn2.microsoft.com/en-us/library/6sh2ey19(vs.80).aspx)
+Better read the [documentation](https://msdn2.microsoft.com/en-us/library/6sh2ey19(vs.80).aspx)
 carefully though: "The List is not guaranteed to be sorted. You must sort the
 List before performing operations (such as BinarySearch) that require the List
 to be sorted."
@@ -34,7 +34,7 @@ to be sorted."
 I was not a computer science major. I only took a few programming classes, so I
 don't always have a strong intuitive sense for memory allocation and usage. But
 now that I think about it, this makes perfect sense. `List<T>` is the
-generic implementation of an `ArrayList`. And as we [know](http://msdn2.microsoft.com/en-us/library/system.collections.arraylist(VS.80).aspx),
+generic implementation of an `ArrayList`. And as we [know](https://msdn2.microsoft.com/en-us/library/system.collections.arraylist(VS.80).aspx),
 `ArrayList` "Implements the IList interface using an array whose size is
 dynamically increased as required."
 
@@ -56,9 +56,9 @@ So what should I do? There should be two answers:
 1. find another generic that stores its info in a queue instead.
 
 A quick search through the
-[System.Collections.Generic](http://msdn2.microsoft.com/en-us/library/system.collections.generic.aspx)
+[System.Collections.Generic](https://msdn2.microsoft.com/en-us/library/system.collections.generic.aspx)
 namespace reveals that there is indeed a generic
-[Queue&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/7977ey2c.aspx), which
+[Queue&lt;T&gt;](https://msdn2.microsoft.com/en-us/library/7977ey2c.aspx), which
 "Represents a first-in, first-out collection of objects." So there you go: if
 you care about the order in which you added the entries into your collection,
 then use a `Queue` instead of a `List`.

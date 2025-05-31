@@ -9,19 +9,14 @@ tags:
 
 ---
 
-_This article is part of the series [An Exercise in Performance Tuning
-in C#.Net](/archive/2007/06/25/an_exercise_in/)_.
+_This article is part of the series [An Exercise in Performance Tuning in C#.Net](./06-25-an_exercise_in.md)_.
 
 It's time to stop ignoring the 800 pound gorilla in the room: `System.String`.
 Scrolling all the way over in the Allocation Graph, it is clear that strings
 take up most of the memory, and it seems logical that most of that comes from
 the input file.
 
-<p class="center">{Image file no longer available}</p>
-<!--
-<p style="text-align: center">
-<img alt="filebuffer1.jpg" src="http://www.safnet.com/writing/tech/filebuffer1.jpg" width="214" height="56" />
--->
+(removed link to missing image file)
 
 <!-- truncate -->
 

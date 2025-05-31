@@ -6,14 +6,19 @@ tags: [tech, dotnet]
 
 ---
 
-**Problem**: In a .Net 2.0 Windows Forms application, user action causes a new
+## Problem
+
+In a .Net 2.0 Windows Forms application, user action causes a new
+
 row to be added to a DataGridView control. When the viewport fills up, causing
 the vertical scrollbar to appear, the most recent entry is hidden "below the
 fold" &mdash; off the screen. Users want to see the latest entry at all times.
 
 <!-- truncate -->
 
-**Solution**: turns out to be relatively easy.  But first, it is important to
+## Solution
+
+turns out to be relatively easy.  But first, it is important to
 know what control you're dealing with. Because I don't program in Windows Forms
 very often, I forgot that I'm now using a DataGridView control instead of a
 DataGrid control. So that stymied me for a bit.
@@ -21,10 +26,10 @@ DataGrid control. So that stymied me for a bit.
 First thing I needed was to recognize that the latest entry is now off the
 screen &mdash; in other words, I had to recognize that the scrollbar is showing.
 Found a very helpful [newsgroup
-posting](http://groups.google.com/group/microsoft.public.dotnet.framework.windowsforms.controls/browse_thread/thread/54f69a9aec43d913/087328404ccdf5ac?lnk=st&q=ScrollLastRowIntoView&rnum=1#087328404ccdf5ac) for that.
+posting](https://groups.google.com/group/microsoft.public.dotnet.framework.windowsforms.controls/browse_thread/thread/54f69a9aec43d913/087328404ccdf5ac?lnk=st&q=ScrollLastRowIntoView&rnum=1#087328404ccdf5ac) for that.
 
 That posting actually describes moving the scrollbar independently of the grid.
-Not exactly what I want. After a bit more searching, I found that the [FirstDisplayedScrollingRowIndex](http://msdn2.microsoft.com/en-us/library/system.windows.forms.datagridview.firstdisplayedscrollingrowindex.aspx)
+Not exactly what I want. After a bit more searching, I found that the [FirstDisplayedScrollingRowIndex](https://msdn2.microsoft.com/en-us/library/system.windows.forms.datagridview.firstdisplayedscrollingrowindex.aspx)
 property. That does it. I have my solution:
 
 ```csharp
@@ -47,22 +52,3 @@ private void autoScroll()
      }
 }
 ```
-
-## Comments
-
-_imported from old Movable Type blog_
-
-> author: obisunk<br>
-> date: '2007-09-29 03:42:29 -0500'
->
-> Works like a charm =)
->
-> Thanks for sharing.
-
----
-
-> author: Praveen<br>
-> date: '2008-03-19 18:07:31 -0500'\
-> url: http://praveensg.com
->
-> Beautiful.

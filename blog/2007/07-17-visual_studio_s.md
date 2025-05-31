@@ -6,11 +6,15 @@ tags: [tech, dotnet]
 
 ---
 
-**Problem:** "Failed to create component" error pops up when dragging a custom
+## Problem
+
+"Failed to create component" error pops up when dragging a custom
 Windows Forms control from the Toolbox onto a form. Offending line: `foreach
 (Attribute att in Assembly.GetEntryAssembly().GetCustomAttributes(true))`.
 
-**Background:** I have started building a custom DLL containing items for re-use
+## Background
+
+ I have started building a custom DLL containing items for re-use
 between different Windows Forms projects. An obvious candidate is an About
 window. I created this as a custom control in the DLL project; the control
 contains a textbox, which I want to fill with the application name, the version,
@@ -34,15 +38,13 @@ string txt = Application.ProductName + "\n"
 + Application.CompanyName;
 ```
 
-**Solution:** First, I comment out the `foreach` block to see if I can now drop
+## Solution
+
+First, I comment out the `foreach` block to see if I can now drop
 the user control into the form. Rebuild dll, re-drop user control&hellip;
 vo&iacute;la! But this is interesting looking&hellip;
 
-<p class="center">{Image file no longer available}</p>
-<!--
-<p style="text-align: center;">
-<img alt="about1.jpg" src="http://www.safnet.com/writing/tech/about1.jpg" width="304" height="149" />
--->
+(removed link to image file that no longer exists; SF 2025)
 
 Apparently the Reflection works even in Visual Studio rather well ;-) &mdash;
 but the assembly doesn't have embedded custom attributes. So now that I have

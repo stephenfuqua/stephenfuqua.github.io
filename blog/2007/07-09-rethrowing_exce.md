@@ -6,12 +6,16 @@ tags: [tech, dotnet]
 
 ---
 
-**Problem**: in Visual Studio's debugger, you've landed on an Exception
+## Problem
+
+in Visual Studio's debugger, you've landed on an Exception
 statement. You look at the stack trace but it just points back to a custom
 exception class you've created. But you know that code is good, it can't be
 throwing the error. What's going on here?
 
-**Solution**: this is an easy mistake to make. I've run it across it in code
+## Solution
+
+this is an easy mistake to make. I've run it across it in code
 from a number of people, and recall making the mistake myself at one point. The
 problem is most likely due to nested throws to a new custom exception.
 
@@ -60,7 +64,7 @@ from `libraryFunction()`, the stack trace will report that the error came from
 came from line _x_ in `innerFunction()`. Thankfully there are several ways that
 we can and should clean up this code.
 
-**1. Do we really need `try` in `innerFunction()`?**
+### 1. Do we really need `try` in `innerFunction()`?
 
 That is, is there really any point to catching the exception within
 `innerFunction()`? There very well could be some good point, but often times it
@@ -69,7 +73,7 @@ directly through to `libraryFunction()`. Throwing exceptions is expensive, in
 terms of performance. You should do so only when circumstances clearly justify
 it.
 
-**2. Use inner exception**
+### 2. Use inner exception
 
 One way to avoid losing the stack trace is to use the `InnerException` property.
 You might want to add a constructor in `CustomError` that takes the exception
@@ -86,7 +90,7 @@ public CustomError(Exception inner, string message)
 Now you have both the original stack trace and the possibility to customize your
 error message.
 
-**3. Rethrow without new**
+### 3. Rethrow without new
 
 If for some reason you really need to throw `CustomError` in `innerFunction()`,
 then you'll have better performance &#8212; and no loss of information &#8212;
@@ -108,7 +112,7 @@ private void libraryFunction()
 }
 ```
 
-Now, if I had fully read the [Exception
-Management Architecture Guide](http://msdn2.microsoft.com/en-us/library/ms954599.aspx), I'm sure I could have explained this all in
-more technically precise language. Then again, maybe (hopefully) its more
-intelligible in this form =).
+Now, if I had fully read the [Exception Management Architecture
+Guide](https://msdn2.microsoft.com/en-us/library/ms954599.aspx), I'm sure I
+could have explained this all in more technically precise language. Then again,
+maybe (hopefully) its more intelligible in this form =).

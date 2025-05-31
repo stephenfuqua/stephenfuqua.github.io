@@ -6,7 +6,9 @@ tags: [tech, dotnet]
 
 ---
 
-**Problem:** Your application is slow. Horribly slow. And that just isn't
+## Problem
+
+Your application is slow. Horribly slow. And that just isn't
 acceptable.
 
 <!-- truncate -->
@@ -23,10 +25,9 @@ Result: down to 5.5 minutes. Still not quite there, but to say "substantial
 improvement" is quite the understatement. I'll be posting a series of articles
 on the resources and methods used to achieve this huge jump.
 
-
-1. [Performance #1 and #2: Clean Client / Server Interaction](/archive/2007/06/29/performance_1_a/)
-1. [Performance #3: CLR Profiler](/archive/2007/07/05/performance_3_c/)
-1. [Performance #4: Consolidate Object Creation from Database](/archive/2007/07/14/performance_4_c/)
-1. [Performance #5: File Buffering](/archive/2007/07/19/performance_5_f/)
-1. [Performance #6: Reading Directly Into the Parser](/archive/2007/07/23/performance_5_r/)
-1. [Performance #7: An (unsafe) Dead End](/archive/2007/09/21/performance_7_f/)
+1. [Performance #1 and #2: Clean Client / Server Interaction](./06-29-performance_1_a.md)
+2. [Performance #3: CLR Profiler](./07-05-performance_3_c.md)
+3. [Performance #4: Consolidate Object Creation from Database](./07-14-performance_4_c.md)
+4. [Performance #5: File Buffering](./07-19-performance_5_f.md)
+5. [Performance #6: Reading Directly Into the Parser](./07-23-performance_5_r.md)
+6. [Performance #7: An (unsafe) Dead End](./09-21-performance_7_f.md)
