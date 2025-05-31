@@ -1,7 +1,7 @@
 ---
 title: 'Baha''i Pilgrimage, pt 5: More Birds, Plants, and a Bee'
 date: 2011-01-01
-slug: bahai_pilgrimage_4
+slug: bahai_pilgrimage_5
 tags:
 - living
 - religion
