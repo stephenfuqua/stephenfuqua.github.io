@@ -19,21 +19,21 @@ energy consumption, and Americans should be equally concerned about ecological
 impacts of oil production / transport outside the United States &mdash; I am now
 firmly opposed to the construction of this pipeline, and have signed onto
 [Interfaith Power &amp; Light's](http://www.interfaithpowerandlight.org) [letter-writing
-campaign against the pipeline](http://action.interfaithpowerandlight.org/siteapps/advocacy/ActionItem.aspx?c=dmJUKgOZJiI8G&b=8627517&aid=519509)  (dead link).
+campaign against the pipeline](http://action.interfaithpowerandlight.org/siteapps/advocacy/ActionItem.aspx?c=dmJUKgOZJiI8G&b=8627517&aid=519509)  (dead link removed; SF 2025).
 
 <!-- truncate -->
 
 (A) Previous thought: the alternative to piping through the US is piping through
 Canada or trucking, so the NIMBY principle would just push the transport into
 Canada. Well, [that
-doesn't look so clear](http://switchboard.nrdc.org/blogs/ddroitsch/just_the_facts_climate_impacts_1.html) (dead link), as there is considerable opposition to a pipeline in
+doesn't look so clear](http://switchboard.nrdc.org/blogs/ddroitsch/just_the_facts_climate_impacts_1.html) (dead link removed; SF 2025), as there is considerable opposition to a pipeline in
 Canada. It is being reported that other forms of transport are looking less
 viable, so it appears to be the case that the Keystone XL Pipeline is the key to
 unlocking, or bottling up, Canadian tar sands oil production.
 
 (B) The cost of a spill in the middle of the nation would be huge, though just
 what that really means is debatable. [Last
-week's spill in Arkansas](http://www.alternet.org/environment/6-things-you-need-know-about-arkansas-oil-spill) (dead link) helps drive that home. Previously I argued that we
+week's spill in Arkansas](http://www.alternet.org/environment/6-things-you-need-know-about-arkansas-oil-spill) (dead link removed; SF 2025) helps drive that home. Previously I argued that we
 should accept that risk if we're willing to accept it elsewhere. Now I prefer to
 say we simply must not accept such a high risk, where risk = probability times
 cost &rarr; low prob of spill times very high cost equals high risk.

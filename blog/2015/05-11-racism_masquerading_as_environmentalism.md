@@ -77,7 +77,7 @@ talk about how &ldquo;those people&rdquo; need to stop having so many children,
 can we talk about the factors such as
 [education](https://wayback.archive-it.org/22906/20240418081615/https://www.earth-policy.org/data_highlights/2011/highlights13),
 [economics](https://www.sciencedaily.com/releases/2013/04/130430161940.htm), and
-functional governance (dead link), that just so happen to influence fertility
+functional governance (dead link removed; SF 2025), that just so happen to influence fertility
 rates? And while we&rsquo;re doing so, can we talk about the massive over
 consumption and materialism of the industrialized world &mdash; the issue that
 is really at the root of climate change?

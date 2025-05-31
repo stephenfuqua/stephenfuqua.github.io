@@ -22,5 +22,5 @@ us, from slightly different perspectives,  are concerned about the damage we are
 doing to our selves and each other from continued pollution of substances such
 as mercury, CO, organic compounds, and CO<sub>2</sub>.
 
-Continue reading at dallasinterfaith.org (dead link) <!-- http://www.dallasinterfaith.org/d/news/JanuaryMeeting -->
+Continue reading at dallasinterfaith.org (dead link removed; SF 2025) <!-- http://www.dallasinterfaith.org/d/news/JanuaryMeeting -->
 <!-- truncate -->

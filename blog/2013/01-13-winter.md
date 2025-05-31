@@ -62,7 +62,7 @@ was a tremendous success.   Personally, I saw 58 different species in one day
 volunteer group, based out of [Dogwood
 Canyon Audubon Center](http://dogwoodcanyon.audubon.org), saw more than 100 species in the area, including
 several surprising Bald Eagle sightings. Joining up with some experienced
-birders is the best way to learn; for those in the Dallas area, the Trinity Bird Count (dead link) is a great way to
+birders is the best way to learn; for those in the Dallas area, the Trinity Bird Count (dead link removed; SF 2025 removed; SF 2025) is a great way to
 meet folks on organized birding trips in the city (currently all within Dallas).
 Ignore the old dates - the calendar itself is up-to-date.
 

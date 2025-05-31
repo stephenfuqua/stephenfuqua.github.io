@@ -164,9 +164,9 @@ complex situation, combining a couple of different Kendo widgets. **And the test
 actually exposed a bug. Win.** It took embarrassingly long to come up with this
 simple test, due to my long detour through trying to use SinonJS mocks. I think
 I'll stay aware from them. As a next step, I might try out the suggestions in [Using
-QUnit and Require.js to build modular unit tests](https://www.nathandavison.com/article/17/using-qunit-and-requirejs-to-build-modular-unit-tests) (dead link). In addition to the QUnit
+QUnit and Require.js to build modular unit tests](https://www.nathandavison.com/article/17/using-qunit-and-requirejs-to-build-modular-unit-tests) (dead link removed; SF 2025). In addition to the QUnit
 and SinonJS documentation linked above, I want to give a shout-out to these
 articles:
 
-* [Unit Test Like a Secret Agent with Sinon JS](https://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/) (dead link)
-* [Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step](https://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx) (dead link)
+* [Unit Test Like a Secret Agent with Sinon JS](https://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/) (dead link removed; SF 2025)
+* [Unit Testing JavaScript/JQuery in ASP.Net MVC Project using QUnit Step by Step](https://blogs.msdn.com/b/pranab/archive/2013/06/20/unit-testing-javascript-jquery-in-asp-net-mvc-project-using-qunit.aspx) (dead link removed; SF 2025)

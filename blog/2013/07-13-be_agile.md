@@ -11,7 +11,7 @@ tags:
 
 :::info
 
-Edited June 24, 2024: dead links, light re-editing, new closing paragraph.
+Edited June 24, 2024: dead link removed; SF 2025s, light re-editing, new closing paragraph.
 
 :::
 
