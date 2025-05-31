@@ -8,7 +8,7 @@ tags: [tech, Linux]
 
 Okay, so this is a slight tangent from my intentions with this site, but I must
 share the following quote from Neal Stephenson's _Cryptonomicon_, neatly
-summarizing (with only slight exagerration to reality) my experience as a
+summarizing (with only slight exaggeration to reality) my experience as a
 graduate student in physics.
 
 <!-- truncate -->

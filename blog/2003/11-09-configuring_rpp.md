@@ -60,7 +60,7 @@ So the thing that did it was changing both the `PPPOE_TIMEOUT` and the
 `LCP_TIMEOUT`. Here's (most of) the end-product in my
 `ifcfg-ppp0`:
 
-```
+```env
 USERCTL=no
 BOOTPROTO=dialup
 NAME=DSLppp0

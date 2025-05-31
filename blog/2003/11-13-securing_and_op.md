@@ -6,7 +6,7 @@ tags: [tech, Linux]
 
 ---
 
-I find that Red Hat Linux ([now defunct](http://www.redhat.com/solutions/migration/rhl/)) is fairly
+I find that Red Hat Linux (dead link removed; SF 2025) is fairly
 secure by default, but could use a bit of tweaking. This is the first of a
 series of notes on optimizing and improving security in Linux. Some items may be
 specific to Red Hat, but most of these notes will be applicable to all systems.
@@ -36,8 +36,8 @@ to 6. Each of these corresponds to a _run level_:
 * `5` - startup in X-Windows
 * `6` - reboot
 
-Within each directory are a number of <acronym title="also called shortcuts,
-created with ln -s command">soft links</acronym> to the scripts in `init.d`.
+Within each directory are a number of <abbr title="also called shortcuts,
+created with ln -s command">soft links</abbr> to the scripts in `init.d`.
 Each item begins with a letter _K_ or _S_, basically for "kill" or
 "start", and a number. Scripts are run in alphabetic order, so the
 lower the number, the earlier the script is run. If the first character is
@@ -50,7 +50,7 @@ partitions. Everything that you don't need is taking up a little bit of memory
 and/or processor and, if it turns out to have a security flaw of any kind, may
 be opening you up to a lot of problems. So figure out what each one does (using
 the `man`; command and possibly the [Linux Documentation
-Project](http://www.tldp.org) if need be), and delete those which you don't
+Project](https://www.tldp.org) if need be), and delete those which you don't
 need.
 
 In particular keep a look out for unnecessary network protocols, such as NFS,
