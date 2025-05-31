@@ -22,6 +22,8 @@ the Iranian Baha'is -- unable to administer their affairs, to attend the
 official schools, to gather in communal worship of that same God to whom most of
 the world's peoples turn in prayer -- is unjust and unworthy of any nation?
 
+<!-- truncate -->
+
 The documentation is evident, widespread, and objective. There is a plain
 agenda, at the highest levels of government, to eradicate the supposed heresy of
 "Bahaism" in its homeland. The United States government has been a friend to the

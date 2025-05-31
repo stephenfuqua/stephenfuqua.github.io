@@ -8,7 +8,7 @@ tags:
 ---
 
 This afternoon I heard an interview with Thich Nhat Hanh, from the public radio
-[Humankind](http://www.humanmedia.org/catalog/program.php?cPath=56&products_id=86)
+[Humankind](https://www.humanmedia.org/product/thich-nhat-hanh/)
 program, that is helping me frame a response I've been thinking about over the
 last few days. On Facebook, I posted: "Over-preparation only guarantees that you
 don't have time to live in the moment. That you don't have time to make a better

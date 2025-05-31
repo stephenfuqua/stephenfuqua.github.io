@@ -8,16 +8,21 @@ tags:
 - Bahai
 ---
 
+<!-- todo -->
+
 We ran out of regular coffee, hence drinking instant this morning (Pampa brand
 from Mexico). The smell of this brand takes me back to Haifa, where I went on [
-Pilgrimage a year ago](http://www.safnet.com/fcgi-bin/mt/mt-search.cgi?IncludeBlogs=2&amp;tag=pilgrimage&amp;limit=20). The B&amp;B we stayed in had an electric kettle and
-kept us well-stocked with packages of instant coffee. On mornings where we had
-to get moving before the cafe downstairs opened, that was my wake-up.
+Pilgrimage a year
+ago](http://www.safnet.com/fcgi-bin/mt/mt-search.cgi?IncludeBlogs=2&amp;tag=pilgrimage&amp;limit=20).
+The B&amp;B we stayed in had an electric kettle and kept us well-stocked with
+packages of instant coffee. On mornings where we had to get moving before the
+cafe downstairs opened, that was my wake-up.
 
-<div class="text--center">
-![Templar's Boutique Balcony](/img/balconyView.JPG)<br>
+<div class="image">
+![Templar's Boutique Balcony](/img/balconyView.JPG)
+
+View of the cafe from our balcony, November 22, 2010.
 </div>
-<small>View of the cafe from our balcony, November 22, 2010.</small>
 
 <!-- truncate -->
 
@@ -26,10 +31,11 @@ encountered a beauty and serenity unlike anything I've ever seen or felt before.
 On many occasions since, I have let that sense be an anchor, bringing calm to my
 mind and helping me withstand tests and challenges.
 
-<div class="text--center">
-![Gardens at Bahji](/img/bahjiCactus.JPG)<br>
+<div class="image">
+![Gardens at Bahji](/img/bahjiCactus.JPG)
+
+Cactus and rose in the gardens at Bahji.
 </div>
-<small>Cactus and rose in the gardens at Bahji.</small>
 
 The Bah&aacute;'&iacute; Holy Places are of historic significance to the
 Bah&aacute;'&iacute;s, linking us to the pivotal moments that shaped the
@@ -55,9 +61,8 @@ order-from-chaos that the religion is intended to establish amongst humanity.
 > harmonizing the divergent thoughts, sentiments, ideas and convictions of the
 > children of men."
 >
-> ~ 'Abdu'l-Bah&aacute;, _<a
-> href="http://reference.bahai.org/en/t/ab/TDP/tdp-14.html">Tablets of the
-> Divine Plan</a>_, p103)
+> ~ 'Abdu'l-Bah&aacute;, _[Tablets of the Divine
+> Plan](https://reference.bahai.org/en/t/ab/TDP/tdp-14.html)_, p103)
 
 There is no getting around it; Israel is a conflict-laden land. It is also a
 bustling, thriving, highly urbanized nation. To experience Pilgrimage is to get
@@ -69,18 +74,20 @@ another take-way. And, it offered a glimpse into how we can, even in an
 over-crowded world, both restore and create anew a sense of place that nourishes
 our body, mind, and soul.
 
-<div class="text--center">
-![Terraces on Mt. Carmel](/img/terraceAndHaifa.JPG)<br>
+<div class="image">
+![Terraces on Mt. Carmel](/img/terraceAndHaifa.JPG)
+
+View of the "German colony" and the Port of Haifa, from one of the Terraces
+below the Shrine of the B&aacute;b.
 </div>
-<small>View of the "German colony" and the Port of Haifa, from one of the Terraces
-below the Shrine of the B&aacute;b.</small>
 
 I believe that the reverence, awe, serenity, and wonder of Pilgrimage will hold
 throughout my life, and though the motivating spirit be unknown, in the small
 works that one day I will have left behind.
 
-<div class="text--center">
-![Cypress in Mazra'ih](/img/mazriehCypress.JPG)<br>
+<div class="image">
+![Cypress in Mazra'ih](/img/mazriehCypress.JPG)
+
+Ancient cypresses in Mazra'ih, enjoyed by Bah&aacute;'u'll&aacute;h in the 1870s,
+delighting many generations since and those to come.
 </div>
-<small>Ancient cypresses in Mazra'ih, enjoyed by Bah&aacute;'u'll&aacute;h in the 1870s,
-delighting many generations since and those to come.</small></small>

@@ -37,8 +37,7 @@ dialogue, in discourse, in contrasting experiences, the book makes a serious
 contribution to understanding the mythos without destroying it
 
 _Down and Out_ exudes love, joy, _reverence_ for the cultural icon and the
-experience of Disney. And more importantly &mdash; <span
-style="background-color: silver">for the condition of being human</span>. The
+experience of Disney. And more importantly &mdash; for the condition of being human. The
 characters are not paragons of virtue; they are human; no, they are
 more-than-human: immortal, altered, freed of many of today's physical and social
 constraints. But still they are human: petty, ambitious, caring, loving. For all
@@ -49,4 +48,4 @@ The book is only 208 pages, so give it a shot. See the present and the future in
 a different light. Consider the implications of technology for humanity while
 having a heck of a ride. Stands shoulder-to-shoulder with the best Sci Fi
 around. Buy it, check it out at a library, or [download _Down and Out in the
-Magic Kingdom_ for free](http://craphound.com/down/download.php).
+Magic Kingdom_ for free](https://craphound.com/down/download/).

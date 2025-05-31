@@ -86,7 +86,7 @@ than a physical reality:
 > is evil and unsound; no more darksome pit nor loathsome torment than to show
 > forth qualities which deserve to be condemned."
 >
-> _Selections from the Writings of 'Abdu'l-Bah&aacute;_, Sec. 111)
+> _Selections from the Writings of 'Abdu'l-Bah&aacute;_, Sec. 111
 
 Yes, the Bah&aacute;'&iacute;s hold to a concept of the Fear of God, but it is
 not rooted in eternal torment and Divine Retribution. Further, anecdotally

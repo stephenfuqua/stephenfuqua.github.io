@@ -7,14 +7,14 @@ tags:
 - dotnet
 - programming
 - devops
-
 ---
 
 Recently I began carving out some time for using CruiseControl.Net in earnest.
-The book <a href="http://www.manning.com/kawalerowicz/">Continuous Integration
-in .Net</a> was, and I'm sure will continue to be, of great help. Nevertheless,
-I think it will behoove my own memory, and perhaps help a few others, to record
-some notes on a few practical details.
+The book [Continuous Integration in
+.Net](https://www.manning.com/books/continuous-integration-in-dot-net) was, and
+I'm sure will continue to be, of great help. Nevertheless, I think it will
+behoove my own memory, and perhaps help a few others, to record some notes on a
+few practical details.
 
 <!-- truncate -->
 

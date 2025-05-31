@@ -6,10 +6,12 @@ tags:
 - tech
 - dotnet
 - programming
-
 ---
 
-I've started a new project on CodePlex, called [Reggie](http://reggie.codeplex.com/), and posted the initial working
+I've started a new project on CodePlex, called
+[Reggie](https://github.com/stephenfuqua/reggie), and posted the initial working
 source code. Reggie's goal is to be a simple developer tool for writing and
 testing Regular Expressions. It is inspired by the venerable Regulator tool and
 will be created in WPF using the MVVM pattern.
+
+<!-- truncate -->

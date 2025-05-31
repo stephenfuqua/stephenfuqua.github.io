@@ -16,7 +16,9 @@ understanding of "God". This passage might seem a bit paradoxical to that
 viewpoint, at first glance. The paradox is because of my  inability to precisely
 describe the nuance of a belief that lies somewhere between the poles of atheism
 and personal theism, without recourse to philosophical language (the best
-"school of thought" to describe my own core belief has always been [panentheism](http://en.wikipedia.org/wiki/Panentheism)).
+"school of thought" to describe my own core belief has always been [panentheism](https://en.wikipedia.org/wiki/Panentheism)).
+
+<!-- truncate -->
 
 > I am well aware, O my Lord, that I have been so carried away by the clear
 > tokens of Thy loving-kindness, and so completely inebriated with the wine of
@@ -32,13 +34,12 @@ and personal theism, without recourse to philosophical language (the best
 > victory and the standards of Thine omnipotence.
 >
 > ~ Bah&aacute;'u'll&aacute;h, _Prayers and Meditations_, <a
-> href="http://reference.bahai.org/en/t/b/PM/pm-176.html.utf8">p271-2</a>
+> href="https://reference.bahai.org/en/t/b/PM/pm-176.html.utf8">p271-2</a>
 
 Now, this particular paragraph could lead one to assume that
-Bah&aacute;'u'll&aacute;h is positing a <a href="">pantheistic</a> viewpoint of
-God. Other parts of the meditation offer a more personal/anthropomorphic
-approach. However,  elswhere we are warned about literal reliance on
-anthropomorphism:
+Bah&aacute;'u'll&aacute;h is positing a pantheistic viewpoint of God. Other
+parts of the meditation offer a more personal/anthropomorphic approach. However,
+elswhere we are warned about literal reliance on anthropomorphism:
 
 > However, let none construe these utterances to be anthropomorphism, nor see in
 > them the descent of the worlds of God into the grades of the creatures; nor
@@ -53,19 +54,20 @@ anthropomorphism:
 > impiety; His proof is His signs; His being is His evidence.
 >
 > ~ Bah&aacute;'u'll&aacute;h, _The Seven Valleys and the Four Valleys_, <a
-> href="http://reference.bahai.org/en/t/b/SVFV/svfv-4.html">p22-3</a>
+> href="https://reference.bahai.org/en/t/b/SVFV/svfv-4.html">p22-3</a>
 
 The reason for the anthropomorphic-seeming statements is not stated; I can only
 assume that the terminology is used as a metaphorical device that helps us puny
 humans connect to this inscrutable force-Being. But of pantheism itself,
 'Abdu'l-Bah&aacute; makes clear that this concept is too limiting of God in His
-Father's theology (_Some Answered Questions_, [p290-6](http://reference.bahai.org/en/t/ab/SAQ/saq-83.html); the
+Father's theology (_Some Answered Questions_, [p290-6](https://reference.bahai.org/en/t/ab/SAQ/saq-83.html); the
 discussion of this concept is too philosophical, and wrapped around particular
 S&uacute;f&iacute; beliefs, for quoting any particular part here).
 
 From these passages, and others yet to be quoted, I find space in the
-Bah&aacute;'&iacute; Faith for my demi-belief, my panentheism that admits of an
-impersonal "divinity" that is both immanent and transcendant. It would be
+Bah&aacute;'&iacute; Faith for my demi-belief, my
+[panentheism](https://en.wikipedia.org/wiki/Panentheism) that admits of an
+impersonal "divinity" that is both immanent and transcendent. It would be
 arrogant in the extreme to assume my belief is the correct one; rather, it is
 simply my way of getting by, and helping me to focus on becoming a better person
 and  creating a better civilization. It doesn't matter to me if it is ultimately

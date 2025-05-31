@@ -16,6 +16,8 @@ particular passage that prompted this change; the "Bah&aacute;'&iacute; Faith"
 quote service on Facebook has brought that long-sought quotation back to me
 today:
 
+<!-- truncate -->
+
 > "The fruits that best befit the tree of human life are trustworthiness and
 > godliness, truthfulness and sincerity; but greater than all, after recognition
 > of the unity of God, praised and glorified be He, is regard for the rights
@@ -27,7 +29,7 @@ today:
 > one&#8217;s parents hath been linked to recognition of the one true God!"
 >
 > ~ Bah&aacute;'u'll&aacute;h, The Kit&aacute;b-i-Aqdas, <a
-> href="http://reference.bahai.org/en/t/b/KA/ka-15.html.utf8?query=loving-kindness|parents&action=highlight#gr209">paragraph
+> href="https://reference.bahai.org/en/t/b/KA/ka-15.html.utf8?query=loving-kindness|parents&action=highlight#gr209">paragraph
 > 106</a>.
 
 How did this change manifest itself? The only particular act I can remember is

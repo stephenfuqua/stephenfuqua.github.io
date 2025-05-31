@@ -76,4 +76,3 @@ of moving beyond good intentions, actively striving to create true unity in our
 midst. We would do well to study from the history of race unity efforts in
 America, learning from the mistakes but also standing on the shoulder of its
 giants &mdash; of whom none can raise us higher than Louis G. Gregory.
-

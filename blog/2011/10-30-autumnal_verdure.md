@@ -48,8 +48,8 @@ Mr. Lorax would be saddened by our suburban sprawl, but I think he would be
 heartened a little by this greenbelt out back, and by that trail with its 10-20
 year old hackberry woods. Ecologically speaking, the world today is
 significantly impoverished compared to even 30 years ago. The Texas drought is
-<a href="http://www.noaanews.noaa.gov/stories2011/20110908_lanina.html">linked
-to La Ni&ntilde;a</a>, the severity of which may or may not be linked to global
-climate change. But the overall climate variability, and increased temperatures,
-due to climate change are surely worsening the drought's impact. Still &mdash;
-just look at those trees. There is some hope for us yet.
+linked to La Ni&ntilde;a (dead link removed; SF 2025), the severity of which may
+or may not be linked to global climate change. But the overall climate
+variability, and increased temperatures, due to climate change are surely
+worsening the drought's impact. Still &mdash; just look at those trees. There is
+some hope for us yet.

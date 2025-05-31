@@ -9,13 +9,17 @@ tags:
 
 ---
 
+:::info
+
 Part three in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
- [1](/archive/2011/11/10/review_and_reflection_on_the_mythical_man-month_by_frederick_p_brooks_jr/),
- [2](/archive/2011/11/20/mythical_man-month_conceptual_integrity/),
- [3](/archive/2011/11/26/the_mythical_man-month_wiki_and_customer_service/),
- [4](/archive/2011/12/11/mythical_man-month_planning_for_change/),
- [5](/archive/2012/01/08/mythical_man-month_code_reuse_and_discoverability/)
-{: .card .bg-light .card-bare }
+
+ [1](./11-09-review_and_reflection_on_the_mythical_man-month_by_frederick_p_brooks_jr.md),
+ [2](./11-20-mythical_man-month_conceptual_integrity.md),
+ 3 (this piece),
+ [4](./12-11-mythical_man-month_planning_for_change.md),
+ [5](../2012/01-07-mythical_man-month_code_reuse_and_discoverability.md)
+
+:::
 
 Many of the recommendations Dr. Brooks makes in this work can seem outdated at
 first glance; however, it does not take much to bring them into today's software

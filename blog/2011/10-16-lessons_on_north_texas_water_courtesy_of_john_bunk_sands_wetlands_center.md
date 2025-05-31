@@ -8,7 +8,7 @@ tags:
 ---
 
 This [year's
-drought](http://www.google.com/search?q=texas+drought&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a) has brought the stark reality of water availability front-and-center
+drought](https://news.utexas.edu/2021/10/06/record-breaking-texas-drought-more-severe-than-previously-thought/) (new link; SF 2025) has brought the stark reality of water availability front-and-center
 in Texas. The state has faced droughts before &mdash; but by all accounts, this
 is one of the most severe, and the population continues to expand rapidly. Water
 is not entirely taken for granted in this state, especially in central and west
@@ -16,12 +16,12 @@ Texas, but this year's experience seems to have struck home for people in a
 profound way. Even as we have begun to get some sporadic rain, the talk of stage
 4 water rationing continues. And yet there are also stories of people flouting
 the rules, watering away in their yards. I wish I could accompany those folks on
-a visit out to <a href="http://www.wetlandcenter.com/">John Bunker Sands
-Wetlands Center</a>.
+a visit out to [John Bunker Sands
+Wetlands Center](https://www.wetlandcenter.com/).
 
 <!-- truncate -->
 
-[Alex Steffen](http://www.alexsteffen.com/), introducing the water
+[Alex Steffen](https://www.alexsteffen.com/), introducing the water
 segment of _World Changing, A User's Guide to the 21<sup>st</sup> Century_,
 describes our attitudes well when he writes that "&hellip; the need to measure
 and plan and remain constantly aware of our water use is real. Although we know
@@ -43,7 +43,7 @@ where one can learn about water-loving plants up close, watch for any of
 hundreds of species of birds, perhaps run into a river otter (or nutria), and
 one day, hopefully, American alligators.
 
-I had the pleasure of tagging along with the [Indian Trails Master Naturalist](http://txmn.org/indiantrail/about/)
+I had the pleasure of tagging along with the [Indian Trails Master Naturalist](https://txmn.org/indiantrail/about/)
 group today, as the Center Director John DeFillipo gave a talk about the
 Wetlands Project. I already do what I can to conserve water, but it is out of an
 arms-length sense of civic duty more than a deep understanding of how North
@@ -53,9 +53,8 @@ grew up with, and for the diverse flora and fauna of North Texas. For instance:
 * As a kid in the northern Dallas area, I knew that we drank lake water &mdash;
   but I didn't know which lake (Lavon), and I didn't know that _the lake is
   partially filled by transporting water from Lake Texoma, in Oklahoma_ &mdash;
-  that is, until <a
-  href="http://www.wfaa.com/news/local/Water-district-decision-could-bring-unwanted-guest-to-Lake-Lavon-111408749.html">zebra
-  mussels were found</a> in Texoma. I always assumed that lake water would come
+  that is, until zebra
+  mussels were found (dead link removed; SF 2025) in Texoma. I always assumed that lake water would come
   only from the watershed that drains into it, without being pumped from
   elsewhere.
 * While I've read about the severe competition for water in Colorado, I had
@@ -67,11 +66,9 @@ grew up with, and for the diverse flora and fauna of North Texas. For instance:
   treatment centers. It must then use those measurements to calibrate the flow
   from the river into the wetlands, maintaining  a reasonable flow of water
   south of the river.
-* I had no idea that <a
-  href="http://www.tpwd.state.tx.us/newsmedia/releases/?req=20100209a">river
-  otters</a> and <a
-  href="http://www.tpwd.state.tx.us/huntwild/wild/species/americanalligator/">American
-  alligator</a> lived in the Dallas area. Beaver also visit the wetlands; I knew
+* I had no idea that [river
+  otters](https://www.tpwd.state.tx.us/newsmedia/releases/?req=20100209a) and [American
+  alligator](https://www.tpwd.state.tx.us/huntwild/wild/species/americanalligator) lived in the Dallas area. Beaver also visit the wetlands; I knew
   about them thanks to a story in the mid-90s when one made the papers after
   being trapped in a parking garage in northwestern Plano. One of the
   participants actually saw an otter playfully chasing ducks.
@@ -87,9 +84,6 @@ This site teaches us that, given enough time and/or ingenuity, we can conserve
 our resources, restore the land, and live more sustainably &mdash; if we have
 the will to do so.
 
-<div class="text--center">
-\***
-</div>
+---
 
-I've just confirmed &mdash; my local water comes from [Joe Pool Lake](http://www.trinityra.org/default.asp?contentID=113).
-
+I've just confirmed &mdash; my local water comes from [Joe Pool Lake](https://www.trinityra.org/default.asp?contentID=113).

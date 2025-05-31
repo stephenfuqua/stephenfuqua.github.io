@@ -9,8 +9,9 @@ tags:
 - Bahai
 ---
 
-{: .float-right }
-![book cover](http://photo.goodreads.com/books/1178904270m/851669.jpg)
+<div class="rightImage">
+![book cover](https://photo.goodreads.com/books/1178904270m/851669.jpg)
+</div>
 
 There are now many worthy biographies of Bah&aacute;'u'll&aacute;h available to
 both the casual and serious student. Choosing from among them can be difficult;

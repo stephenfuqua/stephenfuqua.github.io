@@ -18,15 +18,14 @@ research present compelling additional facts behind American society's &mdash;
 and by extension, increasingly the world's &mdash; over-reliance on technology
 without consideration of the long term effects:
 
+<!-- truncate -->
+
 1. Over-use of anti-biotics in children have been linked to increases in asthma,
    obestity, and various diseases; in response, we simply need to be much more
    careful about our use of anti-biotics, which are frequently employed as a
-   placebo in viral cases. <a
-   href="http://articles.latimes.com/2011/aug/24/news/la-heb-antibiotic-resistant-obesity-asthma-diabetes-20110824">LA
-   Times covarge</a>, full essay is in _Nature_, whose <a
-   href="http://www.nature.com/nature/podcast/archive.html">August 25th</a>
+   placebo in viral cases. [LA
+   Times coverage](https://articles.latimes.com/2011/aug/24/news/la-heb-antibiotic-resistant-obesity-asthma-diabetes-20110824), full essay is in _Nature_, whose August 25th (no longer available; SF 2025s)
    podcast has a good briefing.
 1. Consumption of pesticide-tainted foods has now been found to be a risk-factor
-   in development of ADHD; the clear response is to consume organic foods. <a
-   href="http://www.msnbc.msn.com/id/44260583/ns/health-childrens_health/">MSNBC
-   coverage</a>
+   in development of ADHD; the clear response is to consume organic foods. (dead
+   link to MSNBC removed; SF 2025)

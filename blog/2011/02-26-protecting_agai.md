@@ -10,7 +10,7 @@ tags:
 ---
 
 Microsoft's Books Online article on [SQL
-Injection](http://msdn.microsoft.com/en-us/library/ms161953%28v=SQL.90%29.aspx) does a great job of reviewing the possible attacks against dynamic
+Injection](https://msdn.microsoft.com/en-us/library/ms161953%28v=SQL.90%29.aspx) does a great job of reviewing the possible attacks against dynamic
 SQL statements (using `EXEC` or `sp_executesql`). I won't re-hash their discussion
 and suggestions. What I offer below is a sample remediation effort for this set
 of statements (the `@Fields` and `@Values` variables are actually stored procedure

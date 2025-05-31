@@ -17,7 +17,7 @@ Backyard_, and is typically a reference to well-off individuals and
 communities decrying the building of some unwanted facility "in their backyards"
 &mdash; that is, just down the street or in the general vicinity. For example, in St.
 Paul, MN there has been an outcry over plans for an
-electricity-generating incinerator (dead link removed) on the edge of the neighborhood in which
+electricity-generating incinerator (dead link removed; SF 2025 removed) on the edge of the neighborhood in which
 I used to live. Now, that is a blue collar neighborhood, not particularly
 well-off. A classic NIMBY situation is where the well-funded are able to
 fend-off development, pushing it to some location where the project's opposition
@@ -49,8 +49,8 @@ Many Americans are rightly afraid of the environmental impact of a potential
 pipeline break. But are they just as worried about the impact of recent spills
 in those two countries, for example? Current headlines: Brazil Oil Regulator
 Fines Chevron for Third Time for Spill; Shell says Nigeria oil spill contained
-(dead links removed). Let us evaluate the alternatives, and let's ask ourselves:
-is the attempt to shut down the Keystone Pipeline project _ just_, given our
+(dead link removed; SF 2025s removed). Let us evaluate the alternatives, and let's ask ourselves:
+is the attempt to shut down the Keystone Pipeline project _just_, given our
 continued use of oil products in the United States? Or is it in fact a
 large-scale example of an eco-injustice NIMBY hue-and-cry?
 

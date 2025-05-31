@@ -19,3 +19,4 @@ build-up a thorough set of documentation in a SharePoint Wiki. Most of that
 content is proprietary, and would not be useful outside the company anyway. But
 I do hope to start posting comments here again soon, starting with a few
 entries after recently reading the classic _The Mythical Man-Month_.
+<!-- truncate -->

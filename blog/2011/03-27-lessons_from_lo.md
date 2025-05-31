@@ -11,9 +11,9 @@ tags:
 
 A particular comment in Louis Gregory's biography struck me as illustrating the
 combination of personal responsibility and material detachment in Reinhold
-Niebuhr <a href="http://en.wikipedia.org/wiki/Serenity_Prayer">famous
-prayer</a>, "God, grant me the serenity to accept the things I cannot change,
-Courage to change the things I can, And wisdom to know the difference."
+Niebuhr [famous prayer](https://en.wikipedia.org/wiki/Serenity_Prayer), "God,
+grant me the serenity to accept the things I cannot change, Courage to change
+the things I can, And wisdom to know the difference."
 
 <!-- truncate -->
 

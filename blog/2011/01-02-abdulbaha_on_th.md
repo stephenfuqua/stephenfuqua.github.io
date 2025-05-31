@@ -16,6 +16,8 @@ completely justifies what a fellow Bah&aacute;'&iacute; once said to an
 atheistically-inclined friend: "I don't believe in the same God you don't
 believe in."
 
+<!-- truncate -->
+
 > This people, all of them, have pictured a god in the realm of the mind, and
 > worship that image which they have made for themselves. And yet that image is
 > comprehended, the human mind being the comprehender thereof, and certainly the
@@ -45,11 +47,11 @@ believe in."
 > of Him can come to them.
 >
 > _Selections from the Writings of 'Abdu'l-Bah&aacute;_, <a
-> href="http://reference.bahai.org/en/t/ab/SAB/sab-25.html">number 24</a>
+> href="https://reference.bahai.org/en/t/ab/SAB/sab-25.html">number 24</a>
 
 The futility of trying to understand God &mdash; leaving one "despairing, ...
 hopes in ruin" &mdash; reminds me of the Buddha's [parable
-of the poisoned arrow](http://wastelandbuddhism.wordpress.com/2010/03/24/the-parable-of-the-arrow-of-time/), which I first encountered in Huston Smith's _World
+of the poisoned arrow](https://encyclopediaofbuddhism.org/wiki/Parable_of_the_poisoned_arrow), which I first encountered in Huston Smith's _World
 Religions_. In it He describes a man who dies of an arrow wound because he is
 insistent on learning everything about the arrow and the person who shot it.
 Rather, he should focus on his actions and suffering in the here and now, not on
