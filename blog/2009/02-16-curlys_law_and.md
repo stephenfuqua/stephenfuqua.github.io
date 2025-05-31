@@ -8,9 +8,9 @@ tags:
 
 ---
 
-[Coding Horror](http://www.codinghorror.com), almost two years back,
+[Coding Horror](https://blog.codinghorror.com/), almost two years back,
 christened a name for the principle variously known as "don't repeat yourself,"
-"once and only once," etc.: [Curly's Law](http://www.codinghorror.com/blog/archives/000805.html).
+"once and only once," etc.: [Curly's Law](https://blog.codinghorror.com/curlys-law-do-one-thing/).
 Excellent formulation of the principle. In sending this to my development team,
 I thought it would be useful to pull this from the abstract to the specific
 through a few questions:

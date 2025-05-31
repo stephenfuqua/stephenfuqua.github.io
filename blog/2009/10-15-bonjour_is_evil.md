@@ -22,3 +22,5 @@ Explorer worked again. And has been good since then. Given that Bonjour messes
 with the networking code, and has a plugin component in IE, I can't help but
 thing this is stronger than correlation. The effect was immediate. I'll take
 this post down if IE begins failing again while Bonjour is not installed.
+
+<!-- truncate -->

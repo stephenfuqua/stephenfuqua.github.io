@@ -6,7 +6,6 @@ tags:
 - tech
 - dotnet
 - testing
-
 ---
 
 **Problem:** you have a method that logs a message using the Microsoft Patterns &amp;
@@ -37,13 +36,13 @@ problem for me? Indeed, they have already created a `MockTraceListener` class.
 As with any other TraceListener, you must specify this MockTracelistener in the NUnit
 project's config file:
 
-* In the <listeners> section add:
+* In the `<listeners>` section add:
 
   ```xml
    <add name="sharedMockListener"  type="Microsoft.Practices.EnterpriseLibrary.Logging.TraceListeners.Tests.MockTraceListener, Microsoft.Practices.EnterpriseLibrary.Logging.Tests" listenerDataType="Microsoft.Practices.EnterpriseLibrary.Logging.Tests.TraceListeners.MockTraceListenerData, Microsoft.Practices.EnterpriseLibrary.Logging.Tests" />
   ```
 
-* In the <specialSources> section, add:
+* In the `<specialSources>` section, add:
 
   ```xml
   <allEvents switchValue="All" name="All Events">

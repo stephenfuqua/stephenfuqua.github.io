@@ -17,13 +17,15 @@ will be open if/when the CATCH statement is reached.
 **Solution:** query the sys.syscursors view to see if the cursor(s) in question
 is still open:
 
+<!-- truncate -->
+
 ```sql
 BEGIN CATCH
      ...
 
      IF EXISTS (SELECT 1 FROM sys.syscursors WHERE cursor_name = 'MyCursor')
      BEGIN
-	DEALLOCATE MyCursor
+ DEALLOCATE MyCursor
      END
 
      ...
@@ -37,7 +39,7 @@ computer. There it was running as a user with restricted access. I received the
 following error:`The SELECT permission was denied on the object 'syscursors',
 database 'mssqlsystemresource', schema 'sys'."`
 
-This was easily remedied when I finally discovered the [CURSOR_STATUS](http://technet.microsoft.com/en-us/library/ms177609.aspx)
+This was easily remedied when I finally discovered the [CURSOR_STATUS](https://technet.microsoft.com/en-us/library/ms177609.aspx)
 function:
 
 ```sql

@@ -20,25 +20,27 @@ to this has been an adventure.
 
 Let's give this as the table structure:
 
-{: .table .table-striped .table-bordered .table-condensed}
-| ADDRESS |
-| -- |
-| ADDRESS_ID INT IDENTITY(1,1) PRIMARY KEY |
-| ADDRESS_LINE_1 VARBINARY(8000) |
-| ADDRESS_LINE_2 VARBINARY(8000) |
-| CITY VARBINARY(8000) |
-| STATE VARBINARY(8000) |
-| ZIP VARBINARY(8000) |
-| COUNTRY_CODE VARBINARY(8000) |
-| ANOTHER_ID INT {a foreign key} |
+```mermaid
+erDiagram
+    ADDRESS {
+        int ADDRESS_ID PK
+        varbinary(8000) ADDRESS_LINE_1
+        varbinary(8000) ADDRESS_LINE_2
+        varbinary(8000) CITY
+        varbinary(8000) STATE
+        varbinary(8000) ZIP
+        varbinary(8000) COUNTRY_CODE
+        int ANOTHER_ID  FK
+    }
+```
 
 ## View with Stored Procedures
 
 The first solution was to create a view that would decrypt the data. In the
 Entity Framework, we need to import the view rather than the table. Then, create
 three stored procedures: ADDRESS_INSERT, ADDRESS_UPDATE, and ADDRESS_DELETE. No
-explanation really needed for these stored procedures. [Map
-the stored procedures](http://blogs.microsoft.co.il/blogs/bursteg/archive/2007/12/17/ado-net-entity-framework-tools-stored-procedures.aspx) to the view. Works beautifully in some cases. But...
+explanation really needed for these stored procedures. Map the stored procedures
+(dead link removed; SF 2025) to the view. Works beautifully in some cases. But...
 
 Because this is a view without a primary key, the Entity Framework needs to
 infer the proper primary key. And sometimes it does not do so correctly. For
@@ -49,21 +51,21 @@ determine a valid ordering for dependent operations." What to do?
 
 Well, you can edit the CSDL to correct the primary key - but as soon as you do a
 Database Update, then it will go back to the incorrectly-inferred primary key.
-So this solution really doesn't work. These issues are discussed in an [
-MSDN forum posting](http://social.msdn.microsoft.com/Forums/en-US/adodotnetentityframework/thread/ea0bf748-bc97-439d-99b0-76180b2161bb/).
+So this solution really doesn't work. These issues are discussed in an MSDN
+forum posting (dead link removed; SF 2025).
 
 ## Independently Mapping the Insert Stored Procedure
 
 Taking a different route, you can define a stand-alone function that will
-execute the stored procedure (see "Map Query Functions" in the [
-stored procedures mapping](http://blogs.microsoft.co.il/blogs/bursteg/archive/2007/12/17/ado-net-entity-framework-tools-stored-procedures.aspx) link). This turns out to be rather simple, but
-figuring this out took me quite a few hours to muddle through, because the [Microsoft
-documentation](http://msdn.microsoft.com/en-us/library/bb399203.aspx) didn't make some of the limitations of the Entity Framework
-clear.
+execute the stored procedure (see "Map Query Functions" in the stored procedures
+mapping (dead link removed; SF 2025)). This turns out to be rather simple, but
+figuring this out took me quite a few hours to muddle through, because the
+Microsoft documentation (dead link removed; SF 2025) didn't make some of the
+limitations of the Entity Framework clear.
 
 Creating the function for the stored procedure was easy - I created a function
 import (InsertAddress linked to ADDRESS_INSERT) that returns an Int, which is
-the new record's ID value (my stored procedure's last step is ` SELECT
+the new record's ID value (my stored procedure's last step is `SELECT
 SCOPE_IDENTITY()`). Accessing the function was the hard part: the MS
 documentation I could find made it look easy, but the function simply wasn't
 available to me. My entity container is called UnitTestEntities. The sample
@@ -82,11 +84,10 @@ rather than an Entity. The solution is that you must hand-code the C#
 representation of the function. You see, when it was added to the model, it was
 just in XML  - there is no link in C#.
 
-## Creating the Custom Function in C#
+## Creating the Custom Function in C\#
 
-Finally I found helpful documentation: How to:
-<a href="http://msdn.microsoft.com/en-us/library/dd296754.aspx">Define Custom
-Functions in the Storage Model</a>.
+Finally I found helpful documentation: How to: Define Custom
+Functions in the Storage Model (dead link removed; SF 2025).
 
 It turns out that the Entity Framework is essentially its own database layer. So
 now you need to write a function that queries the Entity Framework, which will

@@ -10,12 +10,11 @@ tags:
 ---
 
 Lately I've been working with my team to understand and utilize good automated
-unit testing strategies with [NUnit](http://www.nunit.org). A code
-release I was inspecting revealed a couple of good points that seem worth
-expanding on: the importance of testing each layer, and the need to pay
-attention to code coverage. This is a rather facile treatment; for more in-depth
-reasoning and details, I recommend <a href="http://www.xunitpatterns.com">xUnit
-Test Patterns</a>.
+unit testing strategies with [NUnit](https://www.nunit.org). A code release I was
+inspecting revealed a couple of good points that seem worth expanding on: the
+importance of testing each layer, and the need to pay attention to code
+coverage. This is a rather facile treatment; for more in-depth reasoning and
+details, I recommend [xUnit Test Patterns](http://www.xunitpatterns.com).
 
 <!-- truncate -->
 
@@ -71,8 +70,7 @@ that's good. But, the service layer is left out entirely; it has not been
 covered in the code tests, and therefore at this time we have no idea if the
 service layer works as expected.
 
- [NCover](http://sourceforge.net/projects/ncover/) is a useful tool
-for exploring how much of your code is covered by a single test or a suite of
-tests. It is an open source application, like NUnit, therefore free to download
-and use. The Visual Studio Team Test Edition also has a built-in code coverage
-tool.
+[NCover](https://www.ncover.com/) is a useful tool for exploring how much of
+your code is covered by a single test or a suite of tests. It is an open source
+application, like NUnit, therefore free to download and use. The Visual Studio
+Team Test Edition also has a built-in code coverage tool.

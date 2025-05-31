@@ -11,7 +11,7 @@ tags:
 
 One of my team members sent in the following piece of code, which is clearly
 intended to update the `OrderNumber` field for all objects in a
-[`List<T>`](http://msdn.microsoft.com/en-us/library/6sh2ey19.aspx) of
+[`List<T>`](https://msdn.microsoft.com/en-us/library/6sh2ey19.aspx) of
 objects that match a particular `productId`. I took one look at it and thought
 "you can't do that!". But then I let the automated test run to see what
 happens... lo and behold, it worked. And well it should, once I thought about
