@@ -35,16 +35,15 @@ or _hidden_. This latter labeling helps communicate with the business when
 you've listed out something that must happen "behind the scenes", which they
 might not have thought about.
 
-{: .table .table-condensed .table-bordered}
-| Number | Requirement | Category |
-| -- | -- |-- |
-|| **Application - Login** |
-| R1.1 | User must log in to the application with  username | Evident |
-| R1.2 | Log user information in the database for security auditing | Hidden |
-| | **Application - Some functional grouping** |
-| R2.1 | Enter data X, Y, and X | Evident |
-| R2.2 | Validate that value for field X is an integer | Hidden |
-| R2.3 | Record data values in the database | Hidden |
+| Number | Requirement                                                | Category |
+| ------ | ---------------------------------------------------------- | -------- |
+|        | **Application - Login**                                    |          |
+| R1.1   | User must log in to the application with  username         | Evident  |
+| R1.2   | Log user information in the database for security auditing | Hidden   |
+|        | **Application - Some functional grouping**                 |          |
+| R2.1   | Enter data X, Y, and X                                     | Evident  |
+| R2.2   | Validate that value for field X is an integer              | Hidden   |
+| R2.3   | Record data values in the database                         | Hidden   |
 
 With such a simple table, it becomes rather easy to list out all the
 requirements reference numbers in functional requirements, use cases, design,

@@ -63,7 +63,7 @@ with no header or footer, and each column is given a sensible name in the
 DataElementName field. The table itself should be given a good name; I prefer to
 standardize each report's main table with the name `resultSet`
 
-<p class="center">{Image files no longer available}</p>
+(removed some lost images)
 <!--
 <span class="mt-enclosure mt-enclosure-image"><img alt="report designer.jpg" src="http://www.safnet.com/writing/tech/report%20designer.jpg" width="408" height="135" /></span>
 Report Design

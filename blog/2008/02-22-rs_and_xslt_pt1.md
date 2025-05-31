@@ -6,11 +6,10 @@ tags:
 - tech
 - database
 - sql-server
-
 ---
 
 It was driving me nuts &mdash; my transforms just wouldn't apply. I tried
-working with some fake data, from my little-used O'Reilly [XML in a Nutshell](http://www.oreilly.com/catalog/xmlnut3/), and that
+working with some fake data, from my little-used O'Reilly [XML in a Nutshell](https://www.oreilly.com/catalog/xmlnut3/), and that
 worked fine. So why couldn't I transform my Reporting Services output? After
 banging my head against this one for a while, I finally decided to mess around
 with the root `<Report ... />` node, first by removing all the extra

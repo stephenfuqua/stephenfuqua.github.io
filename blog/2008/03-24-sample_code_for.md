@@ -8,12 +8,14 @@ tags:
 - sql-server
 ---
 
+<!-- todo -->
+
 I mentioned using the XML datatype for sparse column support in my recent post
 on some of the [Useful
-Features in SQL Server 2008](://www.safnet.com/writing/tech/archives/2008/03/summary_of_usef.html). Until today I had never had an opportunity to
+Features in SQL Server 2008](https://www.safnet.com/writing/tech/archives/2008/03/summary_of_usef.html). Until today I had never had an opportunity to
 actually use this feature. I was pleasantly surprised at how easy it was to use,
 especially with some help from Itzik Ben-Gan's [Inside SQL Server 2005: T-SQL
-Programming](http://www.sql.co.il/books/insidetsql2005/).
+Programming](https://www.microsoftpressstore.com/store/inside-microsoft-sql-server-2005-t-sql-programming-9780735621978).
 
 **Problem:** I've begun using data-driven subscriptions in SQL Server Reporting
 Services. I want to create one table to house subscription data. Various reports
@@ -50,7 +52,7 @@ insert into #sub (xval) values (N'
 ```
 
 Retrieve the values, separating the `myID` and `recipient` nodes into two
-separate columns using [XPATH](http://www.w3.org/TR/xpath) queries:
+separate columns using [XPATH](https://www.w3.org/TR/xpath) queries:
 
 ```sql
 select id,
@@ -65,7 +67,7 @@ How about searching for a specific record?
 select id, xval from #sub where xval.value('(/subscription/myID)[1]','varchar(9)') = N'12345'
 ```
 
-The performance of that query will be improved with addition of proper [XML indexes](http://msdn2.microsoft.com/en-us/library/ms345121.aspx),
+The performance of that query will be improved with addition of proper [XML indexes](https://msdn2.microsoft.com/en-us/library/ms345121.aspx),
 which require that the table have a primary key:
 
 ```sql

@@ -25,13 +25,13 @@ executeTimeStamp="2008-02-28T14:49:23.7940175"
 textbox2="3"
 xmlns:p1="http://www.w3.org/2001/XMLSchema-instance"
 xmlns="RsXsltDemo">
-	<resultSet>
-		<Detail_Collection>
-			<Detail col1="r1c1" col2="r1c2" col3="r1c3" />
-			<Detail col1="r2c1" col2="r2c2" col3="r2c3" />
-			<Detail col1="r3c1" col2="r3c2" col3="r3c3" />
-		</Detail_Collection>
-	</resultSet>
+ <resultSet>
+  <Detail_Collection>
+   <Detail col1="r1c1" col2="r1c2" col3="r1c3" />
+   <Detail col1="r2c1" col2="r2c2" col3="r2c3" />
+   <Detail col1="r3c1" col2="r3c2" col3="r3c3" />
+  </Detail_Collection>
+ </resultSet>
 </Report>
 ```
 
@@ -73,9 +73,9 @@ elements.
 Taking this line-by-line:
 
 1. Places static header into the output.
-1. Selects the timestamp value from the input and places it into the output.
-1. Line break and carriage return (or is that carriage return and line break?)
-1. Start a loop on all <span class="command">Detail </span>elements in <span class="command">Detail_Collection</span>.
+2. Selects the timestamp value from the input and places it into the output.
+3. Line break and carriage return (or is that carriage return and line break?)
+4. Start a loop on all `Detail` elements in `Detail_Collection`.
 
 ## Format the Detail Lines
 
@@ -89,9 +89,9 @@ Taking this line-by-line:
 ```
 
 1. Insert the pipe character
-1. Value from column named <span style="command">col2</span>
+1. Value from column named `col2`
 1. Pipe character
-1. Value from column named <span style="command">col3</span>
+1. Value from column named `col3`
 1. Carriage return and line break
 
 ## Finish Off the Template

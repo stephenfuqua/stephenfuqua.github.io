@@ -46,10 +46,8 @@ private void cursorDefault()
 }
 ```
 
-Finally, path these method names into `InvokeDelegate` whilst using <a
-class="code"
-href="http://msdn2.microsoft.com/en-us/library/0b1bf3y3.aspx?url=/library/en-us/netframework/aa663324.aspx_con/html/1e8d04dd-b7cf-41e7-8560-54b4381beb0f.asp?frame=true">BeginInvoke(Delegate
-method)</a>:
+Finally, path these method names into `InvokeDelegate` whilst using [`BeginInvoke(Delegate
+method)`](https://learn.microsoft.com/en-us/dotnet/api/system.windows.forms.control.begininvoke):
 
 ```csharp
 private void pbxMain_MouseDown(object sender, MouseEventArgs e)

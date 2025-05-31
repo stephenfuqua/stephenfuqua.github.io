@@ -55,5 +55,5 @@ Finally, you really ought to look at the root cause &mdash; why is the query
 taking so long? Do some performance tuning: create new indexes that eliminate
 table scans, key lookups, and hash matches, for instance.
 
-PS. my suggestion may be a [ticking
-timebomb](http://sqlblogcasts.com/blogs/tonyrogerson/archive/2006/11/16/1345.aspx); also consider SNAPSHOT isolation level.
+PS. my suggestion may be a ticking timebomb (dead link removed; SF 2025); also
+consider SNAPSHOT isolation level.

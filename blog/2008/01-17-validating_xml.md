@@ -12,12 +12,12 @@ tags:
 schema that you want to deploy with your .Net 2.0 assemblies. Issues addressed:
 opening the file and handling the schema validation.
 
-**Solution:** The `XmlSchema` class contains a [Read](http://msdn2.microsoft.com/en-us/library/system.xml.schema.xmlschema.read.aspx)
+**Solution:** The `XmlSchema` class contains a
+[Read](https://msdn2.microsoft.com/en-us/library/system.xml.schema.xmlschema.read.aspx)
 method that takes a stream as a parameter. Nicely matching up to that, you can
-open a stream from an embedded resource ([thank
-you, attilan.com](http://www.attilan.com/2006/08/accessing_embedded_resources_u.php)).So, embed the schema. In Visual Studio's Solution
-Explorer, right-click the schema file and choose properties. Change the Build
-Action to "Embedded Resource".
+open a stream from an embedded resource (dead link removed; SF 2025).So, embed
+the schema. In Visual Studio's Solution Explorer, right-click the schema file
+and choose properties. Change the Build Action to "Embedded Resource".
 
 <!-- truncate -->
 
@@ -32,7 +32,7 @@ called `MySchema.xsd`, then the resource name will be
 `MyCode.Resources.MySchema.xsd`. I think; I haven't found good documentation to
 back that up, but it should be something to that effect.
 
-Now you need to execute [`GetManifestResourceStream(string)`](http://msdn2.microsoft.com/en-us/library/system.reflection.assembly.getmanifestresourcestream.aspx)
+Now you need to execute [`GetManifestResourceStream(string)`](https://msdn2.microsoft.com/en-us/library/system.reflection.assembly.getmanifestresourcestream.aspx)
 on an Assembly. Which Assembly? Assuming it is the same Assembly where your code
 is written, you can use `System.Reflection` to find the "executing" Assembly:
 `myStream =
@@ -45,12 +45,12 @@ new ValidationEventHandler(myDelegateHandler));`. This [ValidationEventHandler](
 handles any validation errors. Simply create a delegate method somewhere with a
 signature of `void myHandler(object sender, ValidationEventArgs e)`. In that
 method you'll have to decide what to do with the validation errors. There are
-two [severities](http://msdn2.microsoft.com/en-us/library/system.xml.schema.xmlseveritytype.aspx)
+two [severities](https://msdn2.microsoft.com/en-us/library/system.xml.schema.xmlseveritytype.aspx)
 (Error and Warning), and the `ValidationEventArgs` contains the detailed
 validation problem. In my case, I threw the problem into a custom exception
 class so that it could be handled downstream.
 
-Finally, you'll need to load the schema into an [XmlDocument](http://msdn2.microsoft.com/en-us/library/system.xml.xmldocument.aspx)
-via [`Shemas.Add(XmlSchema)`](http://msdn2.microsoft.com/en-us/library/system.xml.xmldocument_members.aspx),
+Finally, you'll need to load the schema into an [XmlDocument](https://msdn2.microsoft.com/en-us/library/system.xml.xmldocument.aspx)
+via [`Shemas.Add(XmlSchema)`](https://msdn2.microsoft.com/en-us/library/system.xml.xmldocument_members.aspx),
 and then run the `Validate()` method on that object, again passing the
 validation delegate as an argument.

@@ -18,12 +18,10 @@ that I would have forgotten some basics about Apache.
 I wanted to re-setup a WAMP environment in XP sp3 and had just downloaded
 WAMPServer2. I desired to setup a root folder on the primary port and add two
 more ports so that I could have "virtual directories" without the directory
-(i.e. instead of   `http://localhost/something_`, where the pages in
+(i.e. instead of `http://localhost/something_`, where the pages in
 `/something_` have stylesheet references to `/_`, use   `http://localhost:81_`).
 
-Just set up the `VirtualHost_ section, right? (Like
-<a href="http://www.mikebernat.com/blog/Adding_Virtual_Hosts_to_Apache_&_Wampserver">
-this guy says</a>). Well, that didn't work.
+Just set up the `VirtualHost_ section, right? (dead link removed; SF 2025). Well, that didn't work.
 
 Scrolling through the `httpd.conf_, I found another possibility: apparently now
 (or has it always been this way?) you must explicitly set Apache to listen on

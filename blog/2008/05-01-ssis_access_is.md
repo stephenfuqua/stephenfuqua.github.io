@@ -18,13 +18,12 @@ SSIS Service on machine "MyServer" failed: Access is denied`.
 <!-- truncate -->
 
 **Solution:** Clearly there is something different between the two servers, and
-it is probably an important difference. Kirk Haselden has <a href=
-"http://www.sqljunkies.com/WebLog/knight_reign/archive/2006/01/05/17769.aspx"> a
-few comments</a> about this issue. They're instructive, but didn't solve my
+it is probably an important difference. Kirk Haselden has  a
+few comments (dead link removed; SF 2025) about this issue. They're instructive, but didn't solve my
 problem. I granted my proxy account full access to MsDtsServer, but still I get
 the denial.
 
-A [smart guy](http://blogs.digineer.com/blogs/jasons/) once pointed
+A [smart guy](https://jasonstrate.com/) once pointed
 out that the `dtexec` command line program shows more information about errors
 than the agent does, so in the Agent properties &rarr; my job &rarr; edit &rarr;
 Command Line tab, I copied the command line options. Then I opened up a command

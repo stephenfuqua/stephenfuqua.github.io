@@ -29,18 +29,16 @@ slowing things down. Is there a way to pre-emptively find and fix these?
 **Solution:** SQL Server MVP Lara Rubbelke has addressed procedures for
 scheduling index de-fragmentation in a few places:
 
-* <a href= "http://sqlblog.com/blogs/lara_rubbelke/archive/2007/07/30/smart-index-defragmentation-for-an-online-world.aspx"> Smart Index Defragmentation for an ONLINE World</a>
-* <a href= "http://blogs.digineer.com/blogs/larar/archive/2006/08/16/smart-index-defrag-reindex-for-a-consolidated-sql-server-2005-environment.aspx"> Smart Index Defrag/Reindex for a Consolidated SQL Server 2005 Environment</a>
+* Smart Index Defragmentation for an ONLINE World (dead link removed; SF 2025)
+* Smart Index Defrag/Reindex for a Consolidated SQL Server 2005 Environment (dead link removed; SF 2025)
 
 These solutions are great for automation. But when you're crunched for time,
 implementing and testing automatic solutions might be too much to handle. It
 might pay off to do some quick-hit analysis, identifying the worst fragmentation
-problems and solving those first. Let's start with a look at the <a href=
-"http://msdn.microsoft.com/en-us/library/ms188754.aspx">dynamic management
-view</a> that provides fragmentation statistics: `<a href=
-"http://msdn.microsoft.com/en-us/library/ms188917.aspx">dm_db_index_physical_stats</a>`.
+problems and solving those first. Let's start with a look at the [dynamic management
+view](https://msdn.microsoft.com/en-us/library/ms188754.aspx) that provides fragmentation statistics: [`dm_db_index_physical_stats`](https://msdn.microsoft.com/en-us/library/ms188917.aspx).
 There are five arguments. For this purpose, it is useful to supply the Database
-ID for the specific database in question (don't know it? try:
+ID for the specific database in question. Don't know it? try:
 
 ```sql
   select * from sys.databases

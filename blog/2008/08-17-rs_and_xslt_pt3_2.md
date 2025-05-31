@@ -17,22 +17,19 @@ the data in the SQL query to make sure it doesn't exceed the data width:
 
 <!-- truncate -->
 
-{: .table .table-condensed .table-bordered}
-| Record Type | Static Data | Dynamic Data | Width |
-| -- | -- | -- | -- |
-| Header | 01 |  | 2 |
-|Header |MyReport | |9 |
-|Header |  |Date and Time|10 |
-| Header | 0x0D0x0A | | 2 |
-| | | |
-|Detail |02 | |2 |
-|Detail |  |col1 |9 |
-|Detail | |col2 |10 |
-|Detail |  |col3 |15 |
-| Detail | 0x0D0x0A |  | 2 |
-| | | |
-|Trailer |03 |  |2   |
-|Trailer |  |Row count   |9   |
+| Record Type | Static Data | Dynamic Data  | Width |
+| ----------- | ----------- | ------------- | ----- |
+| Header      | 01          |               | 2     |
+| Header      | MyReport    |               | 9     |
+| Header      |             | Date and Time | 10    |
+| Header      | 0x0D0x0A    |               | 2     |
+| Detail      | 02          |               | 2     |
+| Detail      |             | col1          | 9     |
+| Detail      |             | col2          | 10    |
+| Detail      |             | col3          | 15    |
+| Detail      | 0x0D0x0A    |               | 2     |
+| Trailer     | 03          |               | 2     |
+| Trailer     |             | Row count     | 9     |
 
 New problem for our XSL: need to dynamically pad a column to make sure that
 it reaches the specified width.
@@ -55,12 +52,12 @@ This is a cool function, add it to the template file:
 
 Line-by-line analysis:
 
-1. Create an input parameter/variable <span class="command">called </span> count (think of this like a function's argument)
-1. Branch the template when the <span class="command">count </span>variable has data (is greater than zero)
-1. Add a space character
-1. Call the template again, recursively
-1. Set the input parameter to the current count minus one
-1. Next three lines wrap things up.
+1. Create an input parameter/variable called `count` (think of this like a function's argument)
+2. Branch the template when the `count` variable has data (is greater than zero)
+3. Add a space character
+4. Call the template again, recursively
+5. Set the input parameter to the current `count` minus one
+6. Next three lines wrap things up.
 
 ## Variables for the Column Widths
 
@@ -135,34 +132,3 @@ Analysis:
   </xsl:template>
 </xsl:stylesheet>
 ```
-
-## Comments
-
-_imported from old Movable Type blog_
-
-> author: James Telfer<br>
-> date: '2008-10-28 18:44:11 -0500'<br>
-> url: http://jtnlex.com/blog
->
-> After going through pretty much the same experience as you seem to have with
-> this series of posts, I've come up against something you haven't touched on
-> yet: output escaping.
->
-> I have the output method set to text, which Visual Studio and Xalan honour.
-> But when I hook the template up to SSRS, less/greater than signs etc appear as
-> their entity escaped values. I can avoid this by using the
-> 'disable-output-escaping' attribute on the xsl:text and xsl:value-of elements,
-> but according to the spec this should be ignored when the output type is text.
->
-> Have you come up against this problem?
->
-> Cheers,
-> JT
-
----
-
-> author: Stephen Fuqua<br>
-> date: '2008-10-28 20:15:19 -0500'
->
-> I haven't needed these characters in any of my text reports so hadn't run into
-> it. Thanks for the heads up!

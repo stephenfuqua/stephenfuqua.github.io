@@ -47,7 +47,7 @@ timed out again.
 I suddenly remembered that the difficult query is in reporting services, rather
 than in the application. So why was the application throwing a timeout message
 anyway? The problem lay with Reporting Services, due to [dynamic
-compilation](http://msdn.microsoft.com/en-us/library/ms366723.aspx). I'll let Microsoft describe dynamic compilation of ASP.Net
+compilation](https://msdn.microsoft.com/en-us/library/ms366723.aspx). I'll let Microsoft describe dynamic compilation of ASP.Net
 websites (and web services), which includes Reporting Services:
 
 > By default, ASP.NET Web pages and code files are compiled dynamically when
@@ -82,11 +82,10 @@ finally solved.
 
 ## Comments
 
-_imported from old Movable Type blog_
+Imported from old Movable Type blog:
 
-> author: Mike Fiedler<br>
-> date: '2009-02-10 18:36:56 -0600'<br>
-> url: http://www.miketheman.net
+> author: Mike Fiedler \
+> date: '2009-02-10 18:36:56 -0600'
 >
 > Hi there.
 >

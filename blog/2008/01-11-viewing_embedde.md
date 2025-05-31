@@ -14,9 +14,10 @@ binary data.
 
 **Solution**: pretty simple, you just have to know the terms. This string of
 data is actually Base64 encoded, which means that the binary data has been
-converted to a text string for easy transmission over text protocols. [.Net Developer's Journal](http://dotnet.sys-con.com/read/192527.htm)
-has a good full explanation. All you have to do is convert the string over to a
-byte array using `Convert.FromBase64String`, then save your new `byte[]`.
+converted to a text string for easy transmission over text protocols. .Net
+Developer's Journal (dead link removed; SF 2025) has a good full explanation.
+All you have to do is convert the string over to a byte array using
+`Convert.FromBase64String`, then save your new `byte[]`.
 
 <!-- truncate -->
 

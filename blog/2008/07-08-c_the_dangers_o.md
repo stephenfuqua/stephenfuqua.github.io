@@ -18,19 +18,19 @@ fact, I may swear off its use entirely. Why? Two reasons: (1) performance, and
 
 Iterating through a collection using `foreach` is slower than with `for`. I
 can't remember where I first learned that, perhaps in [Patterns &amp;
-Practices: Improving .Net Application Performance](http://msdn.microsoft.com/en-us/library/ms998547.aspx). Maybe it was from
+Practices: Improving .Net Application Performance](https://msdn.microsoft.com/en-us/library/ms998547.aspx). Maybe it was from
 personal experience. How much slower? Well, I suppose that depends on your
 particular circumstances. Here are a few interesting references:
 
-* <a href="http://www.codeproject.com/KB/cs/foreach.aspx">FOREACH Vs. FOR (C#)</a>: shows the extra IL code created for a `foreach` loop
-* <a href="http://blogs.msdn.com/kevin_ransom/archive/2004/04/19/116072.aspx"> To foreach or not to foreach that is the question</a>: claims it isn't so clear-cut, at least for regular arrays. Not absolutely conclusive.
+* [FOREACH Vs. FOR (C#)](https://www.codeproject.com/KB/cs/foreach.aspx): shows the extra IL code created for a `foreach` loop
+* [To foreach or not to foreach that is the question](https://learn.microsoft.com/en-us/archive/blogs/kevin_ransom/to-foreach-or-not-to-foreach-that-is-the-question): claims it isn't so clear-cut, at least for regular arrays. Not absolutely conclusive.
 
 ## Predictability
 
-I was looking at the C# Reference entry for [foreach](http://msdn.microsoft.com/en-us/library/ttw7t8t6(VS.80).aspx)
+I was looking at the C# Reference entry for [foreach](https://msdn.microsoft.com/en-us/library/ttw7t8t6(VS.80).aspx)
 today and noticed this for the first time (italics added by me):
 
-> The **foreach** statement is used to iterate through the collection to get the
+> The _foreach_ statement is used to iterate through the collection to get the
 > desired information, but should not be used to change the contents of the
 > collection to avoid `unpredictable side effects`.
 
@@ -41,7 +41,7 @@ foreach(MyClass myObj in List<MyClass>)
 ```
 
 Looking deeper into the [C# Language
-Specification](http://msdn.microsoft.com/en-us/library/ms228593(VS.80).aspx)... the iteration variable is supposed to be read-only, though
+Specification](https://msdn.microsoft.com/en-us/library/ms228593(VS.80).aspx)... the iteration variable is supposed to be read-only, though
 apparently that doesn't stop you from updating a property of an object. Thus for
 instance it would be illegal to assign a new value to `myObj`, but not to assign
 a new value to `myObj.MyProperty`.
@@ -63,14 +63,14 @@ altogether.
 
 ## Comments
 
-_imported from old Movable Type blog_
+Imported from old Movable Type blog:
 
-> author: Abel Newland<br>
+> author: Abel Newland \
 > date: '2009-02-11 12:29:51 -0600'
 >
-> You should read "C# 2008 and 2005 Threaded Programming: Beginner's Guide", by Gaston C. Hillar - http://www.packtpub.com/beginners-guide-for-C-sharp-2008-and-2005-threaded-programming/book
+> You should read "C# 2008 and 2005 Threaded Programming: Beginner's Guide", by Gaston C. Hillar - `http://www.packtpub.com/beginners-guide-for-C-sharp-2008-and-2005-threaded-programming/book`
 >
-> Amazon: http://www.amazon.com/2008-2005-Threaded-Programming-Beginners/dp/1847197108
+> Amazon: `http://www.amazon.com/2008-2005-Threaded-Programming-Beginners/dp/1847197108`
 >
 > The book is for beginners who want to exploit multi-core with C# 2005; 2008
 > and future 2010. It includes many topics related to avoiding side-effects
@@ -78,18 +78,17 @@ _imported from old Movable Type blog_
 
 ---
 
-> author: Jon Skeet<br>
-> date: '2009-05-07 15:48:18 -0500'<br>
-> url: http://csharpindepth.com
+> author: Jon Skeet \
+> date: '2009-05-07 15:48:18 -0500'
 >
 > In my experience the performance difference between for and foreach is
-> entirely insignificant unless you're doing *almost nothing* in the loop.
+> entirely insignificant unless you're doing _almost nothing_ in the loop.
 >
-> The readability improvement of using foreach *is* significant, however.
+> The readability improvement of using foreach _is_ significant, however.
 >
-> This sort of micro-optimization is *very* easy to implement later on after
+> This sort of micro-optimization is _very_ easy to implement later on after
 > profiling tells you that it's actually worthwhile - so my conclusion is
-> definitely to use foreach wherever it's convenient, unless I have *evidence*
+> definitely to use foreach wherever it's convenient, unless I have _evidence_
 > that it's impacting performance significantly in that particular situation.
 >
 > As for the "unpredictability" side of things - I think you've misunderstood
@@ -105,7 +104,7 @@ _imported from old Movable Type blog_
 
 ---
 
-> author: Stephen Fuqua<br>
+> author: Stephen Fuqua \
 > date: '2009-05-07 22:18:17 -0500'
 >
 > At this point I think you're definitely right in labeling this

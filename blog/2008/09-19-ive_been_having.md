@@ -23,7 +23,7 @@ add the variable expression it fails. Note: this does not fail in the 64bit
 <!-- truncate -->
 
 I read [KB
-913817](http://support.microsoft.com/default.aspx?scid=kb;en-us;913817) and determined that this was not causing my problem. When I open the
+913817](https://support.microsoft.com/default.aspx?scid=kb;en-us;913817) and determined that this was not causing my problem. When I open the
 package in Business Intelligence Studio on the server itself, I get an error
 when I try to edit the expressions on the ForEach loop (but only when the
 Enumerator is set to File).Poking around the SSIS DLLs, I found `c:\program files
