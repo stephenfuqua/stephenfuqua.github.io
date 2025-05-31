@@ -8,8 +8,8 @@ tags:
 - nature
 ---
 
-_Also see: [Op-Ed: Preserve
-Local Parks Grants](/archive/2013/03/17/op-ed_preserve_local_parks_grants/)_, adapted from this essay
+_Also see: [Op-Ed: Preserve Local Parks
+Grants](./03-17-op-ed_preserve_local_parks_grants.md)_, adapted from this essay
 
 Like many in my parents' generation, my Gen-X childhood was spent outside
 whenever possible, with the freedom to roam the neighborhood and explore the
@@ -21,17 +21,19 @@ neighbors, we had an old farm tree line; some of the larger horse apple trees
 still had bits of barb wire encased in their bark. The trees sheltered squirrels
 and chipmunks, birds and bats.
 
-{: .center-block}
-![rock ledge outcrop](/img/springLedgeSpringfieldLarge.png)<br>
-<small>Small ledge and spring, along a minor brook emptying into Lake
-Springfield, Missouri</small>
+<div class="image">
+![rock ledge outcrop](/img/springLedgeSpringfieldLarge.png)
 
-And then we moved to Plano, in the middle of 7th grade. Again our home was on
-old farmland, but there were no vestiges other than the flatness of tilled
-cropland. White Rock Creek was perhaps a mile away, but there was no access
-without obviously trespassing &mdash; and it wasn't compelling enough to risk
-getting in trouble. I turned inward and focused on my studies; perhaps that was
-for the best. But I felt lost. A part of me was missing.
+Small ledge and spring, along a minor brook emptying into Lake
+Springfield, Missouri
+</div>
+
+And then we moved to the Dallas area, in the middle of 7th grade. Again our home
+was on old farmland, but there were no vestiges other than the flatness of
+tilled cropland. White Rock Creek was perhaps a mile away, but there was no
+access without obviously trespassing &mdash; and it wasn't compelling enough to
+risk getting in trouble. I turned inward and focused on my studies; perhaps that
+was for the best. But I felt lost. A part of me was missing.
 
 <!-- truncate -->
 
@@ -49,14 +51,13 @@ was stunned to find this bit of "wild" just a few miles east of the density of
 North Dallas. Eventually, we also discovered Bob Woodruff Park in Plano, but it
 was Spring Creek that captured my heart. Soon, however, it was time for college.
 
-<div class="text--center">
-[
+<div class="image">
+[![flowers](/img/5744731155_a011fe670b_z.jpg)](http://www.flickr.com/photos/46183897@N00/5744731155/sizes/l/in/photostream/)
+
+Gaillardia  flowers at Spring Creek Forest Preserve in Richardson and Garland.
+[Some rights reserved](https://creativecommons.org/licenses/by/2.0/) by
+[gurdonark](https://www.flickr.com/photos/46183897@N00/)
 </div>
-![flowers](/img/5744731155_a011fe670b_z.jpg)
-](http://www.flickr.com/photos/46183897@N00/5744731155/sizes/l/in/photostream/) <small> Gaillardia  flowers at Spring Creek Forest Preserve in Richardson
-and Garland.<br>[Some rights
-reserved](https://creativecommons.org/licenses/by/2.0/) by
-[gurdonark](https://www.flickr.com/photos/46183897@N00/) </small>
 
 My blood runs orange, and going to Austin felt like going home at last. There, I
 found comfort and respite at the turtle pond north of the Tower, and in staring
@@ -78,10 +79,11 @@ the canyon. Fish Creek Preserve in Grand Prairie and Joppa Preserve in Dallas
 are other common destinations. Plano, too, has grown up over the years: Arbor
 Hills now provides an excellent western counterpart to Bob Woodruff.
 
-<div class="text--center">
-![Joe Pool lake](/img/dcacJoePoolLarge.png)<br>
+<div class="image">
+![Joe Pool lake](/img/dcacJoePoolLarge.png)
+
+Joe Pool Overlook, Dogwood Canyon Audubon Center at Cedar Hill
 </div>
-<small>Joe Pool Overlook, Dogwood Canyon Audubon Center at Cedar Hill</small>
 
 While my personal faith plays an important role in helping keep me from the
 slough of indifference to the ills of society, it is these near and far Texas
@@ -97,15 +99,17 @@ settings that allow proximity to "nature", however that might be
 defined&dagger;. Without these spaces, I could not bear to remain in Texas
 &mdash; it would not be the land I love, but just another Sprawl.
 
-<div class="text--center">
-![chain of wetlands](/img/wetlands.png)<br>
-</div>
-<small>Wetlands southeast of downtown Dallas.</small>
+<div class="image">
+![chain of wetlands](/img/wetlands.png)
 
-&dagger; The book <a href="http://mitpress.mit.edu/books/urban-place">Urban
-Place: Reconnecting with the Natural World</a>, edited by Peggy F. Barlett,
+Wetlands southeast of downtown Dallas.
+</div>
+
+&dagger; The book [_Urban Place: Reconnecting with the Natural
+World_](https://mitpress.mit.edu/books/urban-place), edited by Peggy F. Barlett,
 offers a good review of the science. Richard Louv has written extensively about
 what he calls [nature deficit
-disorder](http://en.wikipedia.org/wiki/Nature_deficit_disorder). Renowned biologist-humanist E.O. Wilson hypothesises a genetic
-basis for the human connection to nature, _biophilia_ ([PBS
-interview 2008](http://www.pbs.org/wgbh/nova/nature/conversation-eo-wilson.html)).
+disorder](https://en.wikipedia.org/wiki/Nature_deficit_disorder). Renowned
+biologist-humanist E.O. Wilson hypothesises a genetic basis for the human
+connection to nature, _biophilia_ ([PBS interview
+2008](http://www.pbs.org/wgbh/nova/nature/conversation-eo-wilson.html)).

@@ -43,6 +43,6 @@ to happen anyway" (development of the tar sands oil) does not mean we, as a
 country, should passively condone and profit it from it. In fact, ethically it
 should mean just the opposite - we must refuse to profit from tar sands oil.
 
-Now, having said all that, it is still absolutely clear that the only_ just_
+Now, having said all that, it is still absolutely clear that the only_just_
 response is for us all take a look in the mirror and ask ourselves how we're
 going to reduce our own use of fossil fuels.

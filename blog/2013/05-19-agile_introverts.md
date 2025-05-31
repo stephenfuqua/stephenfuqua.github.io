@@ -27,9 +27,10 @@ Now jumping over to the Principles, we find two more orange flags:
 <!-- truncate -->
 
 We find this drive for a close interaction in all of the agile methodologies,
-and that can scare some people. In
-[XP](http://www.extremeprogramming.org/rules.html), we even have pair
-programming: sitting not just near, but right alongside, another programmer.
+and that can scare some people. In [Extreme
+Programming](https://martinfowler.com/bliki/ExtremeProgramming.html), we even
+have pair programming: sitting not just near, but right alongside, another
+programmer.
 
 But for the majority of introverts, I suspect that working in an agile
 environment will be no worse, and possibly better than, working in a waterfall

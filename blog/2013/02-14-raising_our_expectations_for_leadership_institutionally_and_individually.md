@@ -7,10 +7,11 @@ tags:
 - climate
 ---
 
-{: .float-right }
-![mural showing fingers pointing different directions](/img/fingerPointingMural.jpg)<br>
-<small>[Some rights reserved](http://creativecommons.org/licenses/by/2.0/deed.en)<br>
-by [Newtown grafitti](http://www.flickr.com/photos/newtown_grafitti/)</small>
+<div class="image">
+![mural showing fingers pointing different directions](/img/fingerPointingMural.jpg)
+
+[Some rights reserved](https://creativecommons.org/licenses/by/2.0/deed.en) by [Newtown grafitti](https://www.flickr.com/photos/newtown_grafitti/)
+</div>
 
 In an editorial published last weekend, [Power, Privilege, and
 Climate Change: A Tale of Two Presidents](https://www.commondreams.org/view/2013/02/09-0), Vassar College professor Joseph
@@ -32,13 +33,12 @@ They say that all politics is local. As we work to reduce our own energy
 footprints, perhaps concerned individuals should redouble their efforts to
 "green up" their local governments; for instance, we can ask our city leaders to
 join the [sustainable
-cities](http://www.un.org/en/sustainablefuture/cities.shtml) movement. City council and school board members become state leaders,
+cities](https://www.un.org/en/sustainablefuture/cities.shtml) movement. City council and school board members become state leaders,
 who in turn become national legislative and executive leaders, carrying local
 lessons with them. While on the topic of institutional change, let us not forget
 our religious bodies: clergy and lay leadership can and will influence their
 membership, through their personal and institutional examples. This is precisely
-what <a href="http://www.interfaithpowerandlight.org">Interfaith Power &amp;
-Light</a> is trying to accomplish.
+what [Interfaith Power &amp; Light](https://www.interfaithpowerandlight.org) is trying to accomplish.
 
 Let's go back to the grassroots now. Nevins tells us that Uruguay's President
 Mujica, in a speech at the UN Earth Summit last year,
@@ -54,23 +54,9 @@ Mujica, in a speech at the UN Earth Summit last year,
 
 Here in the United States, how do we do that? Collectively, we have managed to
 construct a "comfortable" way of life that is very challenging to escape &mdash;
-and frankly, is really not all that good for us. <a
-href="http://www.livestrong.com/article/164742-environmental-factors-for-heart-disease/"
-title="Environmental Factors for Heart Disease">Heart disease</a>, <a
-href="med.stanford.edu/ism/2010/may/envirome.html" title="New associations
-between diabetes, environmental factors found by novel analytic
-technique">diabetes</a>, <a href="http://www.cancer.gov/cancertopics/causes"
-title="National Institutes of Health: Cancer Causes and Risk
-Factors">cancer</a>; <a
-href="http://www.pbs.org/newshour/rundown/2013/01/genes-and-environment-combine-to-influence-mental-illness.html"
-title="Genes and Environment Combine to Bring on Mental Illness">mental
-illness</a>, <a
-href="http://www.amazon.com/Heat-Wave-Autopsy-Disaster-Illinois/dp/0226443221"
-title="Heat Wave: A Social Autopsy of Disaster in Chicago">social isolation</a>,
-<a
-href="http://www.ibtimes.com/twitter-making-us-meaner-uncivil-discourse-age-social-media-909856"
-title="Is Twitter Making Us Meaner? Uncivil Discourse In The Age Of Social Media
-">rancorous public discourse</a>; these are but some of the physical and
+and frankly, is really not all that good for us. [Heart disease](http://www.livestrong.com/article/164742-environmental-factors-for-heart-disease/), [diabetes](https://med.stanford.edu/ism/2010/may/envirome.html), [cancer](https://www.cancer.gov/cancertopics/causes); [mental
+illness](http://www.pbs.org/newshour/rundown/2013/01/genes-and-environment-combine-to-influence-mental-illness.html), [social isolation](http://www.amazon.com/Heat-Wave-Autopsy-Disaster-Illinois/dp/0226443221),
+[rancorous public discourse](http://www.ibtimes.com/twitter-making-us-meaner-uncivil-discourse-age-social-media-909856); these are but some of the physical and
 spiritual symptoms of a diseased social structure. We need to construct new
 models, at the micro level, in order to arrive at a new mode of life at the
 civilizational level. In the struggle to avoid the worst threats of climate
@@ -86,5 +72,4 @@ change, we need, as 'Abdu'l-Bah&aacute; says, "justice and impartiality", which
 > to know of a certainty that if pain or injury afflicts any member of that
 > body, it must inevitably result in suffering for all the rest. "
 >
-> <a href="http://reference.bahai.org/en/t/ab/SDC/sdc-2.html">Secrets of Divine
-> Civilization</a>, p39
+> [Secrets of Divine Civilization](https://reference.bahai.org/en/t/ab/SDC/sdc-2.html), p39

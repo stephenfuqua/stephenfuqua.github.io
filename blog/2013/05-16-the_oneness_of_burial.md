@@ -9,8 +9,9 @@ tags:
 - Bahai
 ---
 
-{: .float-right }
-![dogwood flowers](/img/dogwoodFlowers.jpg){: .border .rounded }
+<div class="image">
+![dogwood flowers](/img/dogwoodFlowers.jpg)
+</div>
 
 The closing from one of the many beautiful essays in _Moral Ground: Ethical
 Action for a Planet in Peril_ is  incredibly moving (as is the rest of the
@@ -36,5 +37,6 @@ thus going through stages until it arrives in the vegetable kingdom, there
 turning into plants and flowers, developing into trees of the highest paradise,
 becoming perfumed and attaining the beauty of color."
 
-{: .center-block}
-![coreopsis](/img/coreopsisDVSP.jpg){: .border .rounded}
+<div class="image">
+![coreopsis](/img/coreopsisDVSP.jpg)
+</div>

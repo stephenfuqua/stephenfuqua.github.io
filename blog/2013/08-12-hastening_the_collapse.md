@@ -7,8 +7,9 @@ tags:
 - religion
 ---
 
-{: .float-right}
-![pushing a bicyclist over a cliff](/img/pushBikeCliff.jpg){: .border .rounded}
+<div class="image">
+![pushing a bicyclist over a cliff](/img/pushBikeCliff.jpg)
+</div>
 
 At a Bah&aacute;'&iacute; retreat on [Conversations
 on the Way:  Kindling Hope in a Time of Despair](http://www.cvent.com/events/friends-and-family-session-iii-conversations-on-the-way/event-summary-3fb948043b9244a8bbd0e1844a883dc6.aspx), the conversation following
@@ -70,12 +71,12 @@ doubt that we must ameliorate the present conditions of the world, and so to
 should it be for the Bah&aacute'&iacute;s.
 
 Thankfully that small band of believers are not alone: among other groups and
-venues, the <a href="http://www.interfaithpowerandlight.org/">Interfaith Power
-&amp; Light</a> "movement" proves that we can come to this conclusion &mdash;
-that our worship of God requires amelioration of deadly climate conditions
-created by humanity &mdash; from literally all backgrounds. Rather than hasten
-the collapse, let us work across all divisions to "assuage its fury" and hasten
-the _integration_ of civilizations.
+venues, the [Interfaith Power &amp;
+Light](https://www.interfaithpowerandlight.org) "movement" proves that we can
+come to this conclusion &mdash; that our worship of God requires amelioration of
+deadly climate conditions created by humanity &mdash; from literally all
+backgrounds. Rather than hasten the collapse, let us work across all divisions
+to "assuage its fury" and hasten the _integration_ of civilizations.
 
 &dagger; Shoghi Effendi, _The Promised Day is Come_, US Bah&aacute;'&iacute;
-Publishing Trust, 1980 revised edition, from pages  2, 3, and 4. [http://reference.bahai.org/en/t/se/PDC/pdc-2.html](http://reference.bahai.org/en/t/se/PDC/pdc-2.html)
+Publishing Trust, 1980 revised edition, from pages  2, 3, and 4. [https://reference.bahai.org/en/t/se/PDC/pdc-2.html](http://reference.bahai.org/en/t/se/PDC/pdc-2.html)

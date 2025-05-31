@@ -13,14 +13,15 @@ tags:
 I have set myself the goal of learning how to develop a Windows user interface
 with a moderately complex workflow, one that implies a Wizard-like set of
 screens to guide the user through a set of steps. The demonstration project's
-architecture will utilize the [Model-View-ViewModel](http://msdn.microsoft.com/en-us/magazine/dd419663.aspx)
-(MVVM) pattern, with the help of [Caliburn.Micro](http://caliburnmicro.codeplex.com/documentation) (CM)
-[[nice
-tutorial](http://www.mindscapehq.com/blog/index.php/2012/1/12/caliburn-micro-part-1-getting-started/)]. The solution will utilize the _Application Controller_ pattern
-and CM's _Conductors_.
+architecture will utilize the
+[Model-View-ViewModel](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern)
+(MVVM) pattern, with the help of [Caliburn.Micro](https://caliburnmicro.com/)
+(CM). The solution will utilize the _Application Controller_ pattern and CM's
+_Conductors_.
 
-{: .text-center}
+<div class="image">
 ![simple chart showing a branching workflow](/img/workflow.png)
+</div>
 
 <!-- truncate -->
 
@@ -39,21 +40,21 @@ Enterprise Application Architecture_, p 381, [Application
 Controller](http://martinfowler.com/eaaCatalog/applicationController.html))."
 
 The state machine implies some way to manage session state &mdash; in this case,
-I'll let the controller manage the state via a <acronym title="Plain Old C#
-Object">POCO</acronym> called `WorkflowState`, with fields that correspond to
+I'll let the controller manage the state via a <abbr title="Plain Old C#
+Object">POCO</abbr> called `WorkflowState`, with fields that correspond to
 those used in each screen. Each transition in the state machine implies the
 passing around of a `WorkflowState` object.
 
 ```csharp
 public class WorkflowState
 {
-	public string Input1Field1 { get; set; }
-	public string Input1Field2 { get; set; }
-	public DateTime Input1Field3 { get; set; }
-	public bool Question1 { get; set; }
-	public string Input3Field1 { get; set; }
-	public int Input3Field2 { get; set; }
-	public string FinalizeResults { get; set; }
+ public string Input1Field1 { get; set; }
+ public string Input1Field2 { get; set; }
+ public DateTime Input1Field3 { get; set; }
+ public bool Question1 { get; set; }
+ public string Input3Field1 { get; set; }
+ public int Input3Field2 { get; set; }
+ public string FinalizeResults { get; set; }
 }
 ```
 
@@ -75,54 +76,54 @@ transition.
 ```csharp
 public class TransitionMap : Dictionary<Type, Dictionary<StateTransition, Type>>
 {
-	private static TransitionMap m_instance;
+ private static TransitionMap m_instance;
 
-	private TransitionMap() { }
-
-
-	public static TransitionMap GetInstance()
-	{
-		if (m_instance == null)
-		{
-			m_instance = new TransitionMap();
-		}
-		return m_instance;
-	}
+ private TransitionMap() { }
 
 
-	public static void Add<TIdentity, TResponse>(StateTransition transition)
-		where TIdentity : IScreen
-		where TResponse : IScreen
-	{
-		var instance = GetInstance();
+ public static TransitionMap GetInstance()
+ {
+  if (m_instance == null)
+  {
+   m_instance = new TransitionMap();
+  }
+  return m_instance;
+ }
 
-		if (!instance.ContainsKey(typeof(TIdentity)))
-		{
-			instance.Add(typeof(TIdentity), new Dictionary<StateTransition, Type>() { { transition, typeof(TResponse) } });
-		}
-		else
-		{
-			instance[typeof(TIdentity)].Add(transition, typeof(TResponse));
-		}
-	}
 
-	public static IScreen GetNextScreen<TIdentity>(StateTransition transition)
-	{
-		var instance = GetInstance();
-		var identity = typeof(TIdentity);
+ public static void Add<TIdentity, TResponse>(StateTransition transition)
+  where TIdentity : IScreen
+  where TResponse : IScreen
+ {
+  var instance = GetInstance();
 
-		if (!instance.ContainsKey(identity))
-		{
-			throw new InvalidOperationException(string.Format("There are no states transitions defined for state {0}", identity.ToString()));
-		}
+  if (!instance.ContainsKey(typeof(TIdentity)))
+  {
+   instance.Add(typeof(TIdentity), new Dictionary<StateTransition, Type>() { { transition, typeof(TResponse) } });
+  }
+  else
+  {
+   instance[typeof(TIdentity)].Add(transition, typeof(TResponse));
+  }
+ }
 
-		if (!instance[identity].ContainsKey(transition))
-		{
-			throw new InvalidOperationException(string.Format("There is response setup for transition {0} from screen {1}", transition.ToString(), identity.ToString()));
-		}
+ public static IScreen GetNextScreen<TIdentity>(StateTransition transition)
+ {
+  var instance = GetInstance();
+  var identity = typeof(TIdentity);
 
-		return instance[identity][transition] as IScreen;
-	}
+  if (!instance.ContainsKey(identity))
+  {
+   throw new InvalidOperationException(string.Format("There are no states transitions defined for state {0}", identity.ToString()));
+  }
+
+  if (!instance[identity].ContainsKey(transition))
+  {
+   throw new InvalidOperationException(string.Format("There is response setup for transition {0} from screen {1}", transition.ToString(), identity.ToString()));
+  }
+
+  return instance[identity][transition] as IScreen;
+ }
 }
 ```
 
@@ -130,10 +131,10 @@ public class TransitionMap : Dictionary<Type, Dictionary<StateTransition, Type>>
 
 Undoubtedly, there are a number of ways to accomplish this with Caliburn.Micro
 (CM), and the method presented here might not be the best one. At this time, I
-have focused on learning how to utilize <acronym title="Caliburn
-Micro">CM's</acronym> `Conductors` to create the workflow. Before going any
-further, you might want to read [Caliburn
-Micro Part 6: Introduction to Screens and Conductors](http://www.mindscapehq.com/blog/index.php/2013/09/11/caliburn-micro-part-6-introduction-to-screens-and-conductors/).
+have focused on learning how to utilize <abbr title="Caliburn Micro">CM's</abbr>
+`Conductors` to create the workflow. Before going any further, you might want to
+read [Screens, Conductors and
+Composition](https://caliburnmicro.com/documentation/composition).
 
 What's missing from the tutorial linked above is an explanation of how to close
 one screen and move to another. The simplistic approach is to implement
@@ -141,7 +142,7 @@ one screen and move to another. The simplistic approach is to implement
 (event handler on `Deactivated`). But, "the activation of each new item causes
 both the deactivation and close of the previously active item," according to the
 [official
-documentation](http://caliburnmicro.codeplex.com/wikipage?title=Screens%2c%20Conductors%20and%20Composition&referringTitle=Documentation). Thus activation inside of deactivation re-triggers the
+documentation](https://caliburnmicro.com/documentation/). Thus activation inside of deactivation re-triggers the
 original deactivation, and an infinite loop / StackOverflowException ensues. The
 `Conductor<IScreen>.Collection.OneActive` is a better, in fact correct,
 choice. Using an event handler is still possible, but that will leave the screen
@@ -163,84 +164,59 @@ Controller_. Thus, let's (a) define the screen changes using `TransitionMap` and
 ```csharp
 private void initializeMap()
 {
-	TransitionMap.Add<Input1ViewModel, Question2ViewModel>(StateTransition.Input1Success);
-	TransitionMap.Add<Input1ViewModel, Input1ViewModel>(StateTransition.Cancel);
+ TransitionMap.Add<Input1ViewModel, Question2ViewModel>(StateTransition.Input1Success);
+ TransitionMap.Add<Input1ViewModel, Input1ViewModel>(StateTransition.Cancel);
 
-	TransitionMap.Add<Question2ViewModel, Input3ViewModel>(StateTransition.Option1);
-	TransitionMap.Add<Question2ViewModel, Finalize4ViewModel>(StateTransition.Option2);
-	TransitionMap.Add<Question2ViewModel, Input1ViewModel>(StateTransition.Cancel);
+ TransitionMap.Add<Question2ViewModel, Input3ViewModel>(StateTransition.Option1);
+ TransitionMap.Add<Question2ViewModel, Finalize4ViewModel>(StateTransition.Option2);
+ TransitionMap.Add<Question2ViewModel, Input1ViewModel>(StateTransition.Cancel);
 
-	TransitionMap.Add<Input3ViewModel, Finalize4ViewModel>(StateTransition.Input3Success);
-	TransitionMap.Add<Input3ViewModel, Input1ViewModel>(StateTransition.Cancel);
+ TransitionMap.Add<Input3ViewModel, Finalize4ViewModel>(StateTransition.Input3Success);
+ TransitionMap.Add<Input3ViewModel, Input1ViewModel>(StateTransition.Cancel);
 
-	TransitionMap.Add<Finalize4ViewModel, Input1ViewModel>(StateTransition.Cancel);
+ TransitionMap.Add<Finalize4ViewModel, Input1ViewModel>(StateTransition.Cancel);
 }
 
 
 protected override IScreen DetermineNextItemToActivate(IList<IScreen> list, int lastIndex)
 {
-	var theScreenThatJustClosed = list[lastIndex] as BaseViewModel;
-	var state = theScreenThatJustClosed.WorkflowState;
+ var theScreenThatJustClosed = list[lastIndex] as BaseViewModel;
+ var state = theScreenThatJustClosed.WorkflowState;
 
-	var nextScreenType = TransitionMap.GetNextScreenType(theScreenThatJustClosed);
+ var nextScreenType = TransitionMap.GetNextScreenType(theScreenThatJustClosed);
 
-	var nextScreen = Activator.CreateInstance(nextScreenType, state);
+ var nextScreen = Activator.CreateInstance(nextScreenType, state);
 
-	return nextScreen as IScreen;
+ return nextScreen as IScreen;
 }
 ```
 
 ## The Rest of the Demonstration Code
+<!-- TOOD -->
 
+(screenshots temporarily removed while migrating this site to a new blog platform)
+
+<!--
 <script type="text/javascript">
 function animate() {
-		$("#wfd0").hide().fadeIn(1).delay(2000).fadeOut(600);
-		$("#wfd1").hide().delay(2605).fadeIn(600).delay(2000).fadeOut(600);
-		$("#wfd2").hide().delay(5810).fadeIn(600).delay(2000).fadeOut(600);
-		$("#wfd3").hide().delay(9015).fadeIn(600).delay(2000).fadeOut(600);
-		$("#wfd4").hide().delay(12220).fadeIn(600);
+  $("#wfd0").hide().fadeIn(1).delay(2000).fadeOut(600);
+  $("#wfd1").hide().delay(2605).fadeIn(600).delay(2000).fadeOut(600);
+  $("#wfd2").hide().delay(5810).fadeIn(600).delay(2000).fadeOut(600);
+  $("#wfd3").hide().delay(9015).fadeIn(600).delay(2000).fadeOut(600);
+  $("#wfd4").hide().delay(12220).fadeIn(600);
 }
 setInterval(animate, 13000);
 </script>
 
 <div style="text-align: center; width: 350px; height: 400px;">
-	<img id="wfd0" src="/img/wfd1.png" style="width:350px;height:400px;" />
-	<img id="wfd1" src="/img/wfd2.png" style="width:350px;height:400px;display:none;" />
-	<img id="wfd2" src="/img/wfd3.png" style="width:350px;height:400px;display:none;" />
-	<img id="wfd3" src="/img/wfd4.png" style="width:350px;height:400px;display:none;" />
-	<img id="wfd4" src="/img/wfd0.png" style="width:350px;height:400px;display:none;" />
+ <img id="wfd0" src="/img/wfd1.png" style="width:350px;height:400px;" />
+ <img id="wfd1" src="/img/wfd2.png" style="width:350px;height:400px;display:none;" />
+ <img id="wfd2" src="/img/wfd3.png" style="width:350px;height:400px;display:none;" />
+ <img id="wfd3" src="/img/wfd4.png" style="width:350px;height:400px;display:none;" />
+ <img id="wfd4" src="/img/wfd0.png" style="width:350px;height:400px;display:none;" />
 </div>
+-->
 
 And there you have it: clean, easily-maintained, expandable, object-oriented
 code for a WPF wizard-like interface. [Download the
 complete application from GitHub](https://github.com/stephenfuqua/WorkflowDemonstration).
-
-## Comments
-
-_Comments manually imported from old blog_
-
-> author: sanathandroiddev<br>
-> date: '2015-03-03 21:35:07 -0600'
->
-> Nice work
-
----
-
-> author: Gerhard<br>
-> date: '2017-11-05 15:20:37 -0600'
->
-> Hi,
-> I tried to download the sample code, but two files failed (Insert1View.xaml, Insert3View.xaml). Maybe you can send me a .zip with the sample code.
->
->THANKS A LOT.
->
->With best regards
->
->Gerhard
-
----
-
-> author: Stephen Fuqua<br>
-> date: '2017-11-06 22:19:23 -0600'
->
-> Hi Gerhard, I mistakenly put in the wrong file links.  Please refresh the page and you'll find the links have been corrected.

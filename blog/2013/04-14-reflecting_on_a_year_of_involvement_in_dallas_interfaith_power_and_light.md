@@ -8,8 +8,9 @@ tags:
 - climate
 ---
 
-{: .float-right }
+<div class="rightImage">
 ![DIPL Logo](/img/dipl_logo_mini.png)
+</div>
 
 A year ago I began a personal journey that I had long wished to start: a journey
 of integration, practice, cooperation, and learning, all in the name of playing
@@ -105,7 +106,7 @@ _Dallas Interfaith Power &amp; Light's mission is extended by this statement of 
 > and share our own perspectives, building bridges with others who are equally
 > passionate about seeking God and protecting creation.
 
-<div class="text--center">
+<div class="image">
 \***
 </div>
 

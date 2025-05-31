@@ -68,7 +68,9 @@ Again, that is true of both code and verbal/written language. And so on it goes.
 * [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), particularly chapter 7, _Why Did the Tower of Babel Fail?_ <blockquote> Where did they lack? In two respects &mdash; communication, and its consequent, organization. They were unable to talk with each other; hence they could not coordinate. When coordination failed, work ground to a halt. Reading between the lines we gather that lack of communication led to disputes, bad feelings, and group jealousies. Shortly the clans began to move apart, preferring isolation to wrangling. </blockquote>
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://books.google.com/books/about/Clean_Code.html?id=_i6bDeoCQzsC)
 * [Code Complete](https://books.google.com/books?id=3JfE7TGUwvgC&dq=Code+Complete), part VII in general, section 33.5 in particular.
+
 ### Articles
+
 * [Advice for Computer Science College Students](https://www.joelonsoftware.com/articles/CollegeAdvice.html) (Joel on Software). Item 1: "Learn how to write before graduating. "
 * [How to Write Without Writing](https://blog.codinghorror.com/how-to-write-without-writing/)
 * [On the importance of communication in the workplace](https://www.javacodegeeks.com/2011/10/on-importance-of-communication-in.html)

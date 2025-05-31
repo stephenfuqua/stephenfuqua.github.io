@@ -6,12 +6,12 @@ tags:
 - tech
 - programming
 - testing
-
 ---
 
-
-![image depicting a ruby and gherkin](/img/fromRubyToGherkin.jpg){: .float-right .shadow .p-3 .rounded }
-
+<div class="image">
+![image depicting a ruby and gherkin](/img/fromRubyToGherkin.jpg)
+</div>
+<!-- TODO -->
 _Follow-up to [Building a Test Script Environment with C# and IronRuby, pt
 1](/archive/2012/10/11/building_a_test_script_environment_with_c_and_ironruby_pt_1/),
 wherein we change emphasis from coding tests in Ruby to writing them in English
@@ -43,25 +43,29 @@ non-programmer. Compounding the difficulty is the fact that the non-programmer
 users are still trying to understand the _fundamentals_ of software testing, in
 plain English, and without the benefit of meaningful time to study. In other
 words, asking someone else to verify and maintain these tests would be throwing
-them into the deep end with inadequate support. The [inspect-and-adapt](http://marcbless.blogspot.com/2011/05/agile-principle-12-inspect-and-adapt.html)
+them into the deep end with inadequate support. The [inspect-and-adapt](https://marcbless.blogspot.com/2011/05/agile-principle-12-inspect-and-adapt.html)
 mentality suggests modifying the system testing approach.
 
-<div class="float-right shadow p-3 rounded bg-dark text-light">
-<p><b>Inspect and adapt:</b></p>
-1. Tests are still too hard to read, and
-1. The learning curve was too high,
-1. Therefore find a simpler product.
-</div>
+:::tip
 
-[Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) to the
-rescue! The Gherkin language provides a very simple format for writing tests in
-plain English. A programmer then writes code that executes the intended actions,
-in the context of an automation system. Initially I continued on the Ruby path
-by trying to install RSpec as the interpreter, but I could not get it to install
+**Inspect and adapt:**
+
+1. Tests are still too hard to read, and
+2. The learning curve was too high,
+3. Therefore find a simpler product.
+
+:::
+
+[Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) to the rescue! The
+Gherkin language provides a very simple format for writing tests in plain
+English. A programmer then writes code that executes the intended actions, in
+the context of an automation system. Initially I continued on the Ruby path by
+trying to install RSpec as the interpreter, but I could not get it to install
 properly in IronRuby. Undismayed, I revised my goal: no longer would I seek to
 convert a tester into a Ruby programmer. Instead, I would encourage that tester
 to write and review English-language test scenarios in Gherkin, which the
-programming team would then support with code in C# using the [SpecFlow](http://www.specflow.org/specflownew/) framework.
+programming team would then support with code in C# using the SpecFlow (2025:
+SpecFlow is dead, long live [Req'n'roll](https://reqnroll.net)) framework.
 
 At that point, we were working on a line-of-business application. Whereas
 learning the rudiments of Ruby, and setting up the code environment, had taken a

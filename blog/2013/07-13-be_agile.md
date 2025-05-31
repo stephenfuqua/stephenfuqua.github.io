@@ -9,8 +9,11 @@ tags:
 
 ---
 
+:::info
+
 Edited June 24, 2024: dead links, light re-editing, new closing paragraph.
-{: .card .bg-light .card-bare }
+
+:::
 
 Like many, when I first encountered the term "agile software development," I
 thought it was an excuse for a cowboy culture: low planning, low documentation,

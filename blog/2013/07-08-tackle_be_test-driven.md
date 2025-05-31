@@ -27,7 +27,6 @@ you are coding. Allow design to emerge from the tests. Write unit tests that
 handle a various input data, include so-called edge cases (the boundaries, of
 and just beyond, what is acceptable or normal input).
 
-{: .float-right}
 ```none
       /\
      /  \
@@ -46,7 +45,6 @@ if your code is well designed, all code except for that which drives the UI
 itself will already be covered. The unit tests prove that the methods and
 classes work as intended, and the system tests prove that they are well
 integrated / work together as intended.
-
 
 System tests can be expressed in a simple way using Gherkin or Fit. These
 encourage English language descriptions of the _behavior_ of the system. When
@@ -72,7 +70,7 @@ facilitates full integration of the system test framework as well).
 * _Unit test mocking framework:_ [MoQ](http://code.google.com/p/moq/)
 * _System/Specification tests:_ written in [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) using [SpecFlow](http://www.specflow.org/specflownew/)
 * _Automated-build:_ [CruiseControl.Net](http://www.cruisecontrolnet.org/), or [Team Foundation Server](http://msdn.microsoft.com/en-us/magazine/jj721597.aspx) if you have it.
-    * Note: [Microsoft Fakes](http://msdn.microsoft.com/en-us/library/hh549175.aspx) might be an excellent framework, but since it is based on Moles, I am [leery of it](/archive/2012/04/moles-no-longer-fit-for-unit-tests.html) except when working with legacy code that you can't afford to refactor &hellip; yet. The "stubs" part is equivalent to Moq, but the latter has been around longer and is thus better established.
+  * Note: [Microsoft Fakes](http://msdn.microsoft.com/en-us/library/hh549175.aspx) might be an excellent framework, but since it is based on Moles, I am [leery of it](/archive/2012/04/moles-no-longer-fit-for-unit-tests.html) except when working with legacy code that you can't afford to refactor &hellip; yet. The "stubs" part is equivalent to Moq, but the latter has been around longer and is thus better established.
 * _Source Control:_ most of my experience is with [AccuRev](http://www.accurev.com/) (and VSS years ago). AccuRev has its merits, but I wouldn't necessarily recommend it over TFS, SVN, GIT, etc. Personally, I just want to make sure that the tool has atomic transaction support, has good branching/merging, and is well integrated with the rest of the toolset.
 
 ## Resources

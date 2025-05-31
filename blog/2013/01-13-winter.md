@@ -15,10 +15,11 @@ the grass was still green - under the snow - and the branches  would often have
 a delicate coating of the white stuff). Fractals and birds started changing me
 some years ago. This winter has only confirmed that.
 
-<div class="text--center">
-![hawk](/img/IMG_0682.JPG)<br><small>Red-tailed
+<div class="image">
+![hawk](/img/IMG_0682.JPG)
+
+Red-tailed Hawk, in a pecan tree outside my patio, today.
 </div>
-Hawk, in a pecan tree outside my patio, today.</small>
 
 <!-- truncate -->
 
@@ -27,18 +28,19 @@ in winter. Perhaps a flock of Great-tailed Grackles drew my eye. For the first
 time, I looked deeply at the trunk, branches, twigs and stems, noticing the
 beautiful, natural, fractal pattern. I stopped and just admired the creature,
 and the underlying mathematics of nature (this was probably when I was taking
-intro physics and mid-level calculus; I was also starting to overlay [vectors](http://en.wikipedia.org/wiki/Euclidean_vector#Physics) on
-objects in motion and slightly in love with [Gaussian integral](http://en.wikipedia.org/wiki/Gaussian_integral),
+intro physics and mid-level calculus; I was also starting to overlay [vectors](https://en.wikipedia.org/wiki/Euclidean_vector#Physics) on
+objects in motion and slightly in love with [Gaussian integral](https://en.wikipedia.org/wiki/Gaussian_integral),
 that shows the deep relationship of exponentials to conics). From then on, I saw
 winter as a time to appreciate the structural beauty of my surroundings, without
 the distraction of bright colors and extraneous fluff.
 
-<div class="text--center">
-![animals](/img/IMG_0679.JPG)<br><small>A
-</div>
-Great-blue Heron in Florence Branch creek ... and a beaver!</small>
+<div class="image">
+![animals](/img/IMG_0679.JPG)
 
-Several years of assisting Dr. Homayoun in [her fieldwork](http://www.ibamonitoring.org/about/Default.aspx) have
+A Great-blue Heron in Florence Branch creek ... and a beaver!
+</div>
+
+Several years of assisting Dr. Homayoun in [her fieldwork](https://www.ibamonitoring.org/) have
 turned me into an avid birder. When we were in Minnesota, winter meant no more
 birding for us. Being back in Texas, it is now an altogether different story:
 winter means the northern birds have come to us for a few months. Spring means
@@ -47,24 +49,26 @@ leaves that obscure your view. Spring is  beautiful, I love the heat of summer
 followed by the crisp feeling of autumn (when we have one - a drawback of
 Texas), but winter now stands shoulder-to-shoulder  with the others in my heart.
 
-<div class="text--center">
-![coyote](/img/IMG_0664.JPG)<br><small>So
+<div class="image">
+![coyote](/img/IMG_0664.JPG)
+
+So its not a bird, but this coyote on Boxing Day excited me.
 </div>
-its not a bird, but this coyote on Boxing Day excited me.</small>
 
 Finally, a word about organized birding: this year's [Christmas
-Bird Count](http://www.dallasnews.com/lifestyles/home-and-gardening/headlines/20121226-tweet-this-its-time-for-audubons-annual-bird-count-in-dallas.ece?ssimg=835004) (_Dallas Morning News_), the first in Cedar Hill in many years,
+Bird Count](https://www.dallasnews.com/lifestyles/home-and-gardening/headlines/20121226-tweet-this-its-time-for-audubons-annual-bird-count-in-dallas.ece?ssimg=835004) (_Dallas Morning News_), the first in Cedar Hill in many years,
 was a tremendous success.   Personally, I saw 58 different species in one day
 (New Year's), in parts of Grand Prairie, Cedar Hill, and Desoto. All told, the
-volunteer group, based out of <a href="http://dogwoodcanyon.audubon.org">Dogwood
-Canyon Audubon Center</a>, saw more than 100 species in the area, including
+volunteer group, based out of [Dogwood
+Canyon Audubon Center](http://dogwoodcanyon.audubon.org), saw more than 100 species in the area, including
 several surprising Bald Eagle sightings. Joining up with some experienced
-birders is the best way to learn; for those in the Dallas area, the [Trinity Bird Count](http://www.trinitybirdcount.com/) is a great way to
+birders is the best way to learn; for those in the Dallas area, the Trinity Bird Count (dead link) is a great way to
 meet folks on organized birding trips in the city (currently all within Dallas).
 Ignore the old dates - the calendar itself is up-to-date.
 
-<div class="text--center">
-![field sparrow](/img/IMG_0671.JPG)<br><small>This
+<div class="image">
+![field sparrow](/img/IMG_0671.JPG)
+
+This little Field Sparrow, at the Cedar Hill Rec Center, was particularly photogenic after
+a small speaker was hung in a tree, playing their chirps.
 </div>
-little Field Sparrow, at the Cedar Hill Rec Center, was particularly photogenic after
-a small speaker was hung in a tree, playing their chirps.</small>

@@ -29,8 +29,9 @@ applications, we were able to utilize netTcpBinding for increased performance
 and simpler security, in comparison to httpBinding and wsHttpBinding. But as we
 shall see, that decision had an unforeseen consequence.
 
-{: .float-right .shadow .p-3 .rounded}
+<div class="image">
 ![image showing two services communicating through a firewall](/img/wcfClientServer1.png)
+</div>
 
 TCP binding with either Message or Transport is secured by Kerberos tokens
 issued by Active Directory in a Windows network, whereas wsHttpBinding uses a
@@ -51,8 +52,9 @@ under different service accounts in production, and (b) one of the service
 accounts  was not in the same Active Directory domain as the servers (both
 domains being in the same Tree, however).
 
-{: .float-right .shadow .p-3 .rounded}
+<div class="image">
 ![image showing a domain controller reachable by servers on both sides of the firewall](/img/wcfClientServer2.png)
+</div>
 
 To prevent getting too long winded, I won't repeat most of what I found in three
 particularly helpful Microsoft resources &mdash; well, helpful once I was able
@@ -66,8 +68,8 @@ practice.
 Between these  resources, I came to realize that:
 
 1. At the time of installation, a Windows service registers itself in the Domain controller, identifying itself by name, address, and either a Server Principle Name (SPN) or User Principle Name (UPN) (the former when running the service under the default Network Service account and the latter when running under a custom account, as in my situation).
-1. When in the same subnet, it is easy for the client to find the server. I suspect - but do not have the resources to test - that this was particularly true because the same service account was running both.
-1. Service1 (the client) was trying to find Service2 as identified by UPN asdf123@domain1, but in reality it was registered under asdf@domain2. That is, the wrong Kerberos token was being issued while searching for Service2.
+2. When in the same subnet, it is easy for the client to find the server. I suspect - but do not have the resources to test - that this was particularly true because the same service account was running both.
+3. Service1 (the client) was trying to find Service2 as identified by UPN asdf123@domain1, but in reality it was registered under asdf@domain2. That is, the wrong Kerberos token was being issued while searching for Service2.
 
 The solution? Simply specify the UPN identity in the config file (if using the auto-generated client proxy) or in code, using the [fully qualified domain name](http://technet.microsoft.com/en-us/library/cc783351%28v=ws.10%29.aspx) (FQDN):
 
@@ -116,7 +118,7 @@ var upn = EndpointIdentity.CreateSpnIdentity("host/Service2.MyTree.MyForest.loca
 By the way, after finding the answer, I learned that the System log on Service2 actually had a very helpful error message in it; it tells us about using the FQDN and that the wrong account was being used:
 
 > The Kerberos client received a KRB_AP_ERR_MODIFIED error from the server
-> <username>. The target name used was host/<host>.<domain>.local. This
+> `<username>`. The target name used was `host/<host>.<domain>.local`. This
 > indicates that the target server failed to decrypt the ticket provided by the
 > client. This can occur when the target server principal name (SPN) is
 > registered on an account other than the account the target service is using.
@@ -126,23 +128,6 @@ By the way, after finding the answer, I learned that the System log on Service2 
 > the Kerberos Key Distribution Center (KDC) has for the target service account.
 > Please ensure that the service on the server and the KDC are both updated to
 > use the current password. If the server name is not fully qualified, and the
-> target domain (<user's domain>) is different from the client domain (<client's
-> domain>.LOCAL), check if there are identically named server accounts in these
+> target domain (`<user's domain>`) is different from the client domain (`<client's
+> domain>.LOCAL`), check if there are identically named server accounts in these
 > two domains, or use the fully-qualified name to identify the server.
-
-## Comments
-
-_Comments manually imported from old blog_
-
-> date: '2013-08-28 02:10:05 -0500'
->
-> I think you mean userPrincipalName and serverPrincipalName - (case and spelling)
->
-> -david
-
----
-
-> author: Stephen Fuqua<br>
-> date: '2013-11-17 23:11:36 -0600'
->
-> Actually, I spelled it correctly but the JS/CSS for code formatting converted it to lower case. I'll add a note in the text.

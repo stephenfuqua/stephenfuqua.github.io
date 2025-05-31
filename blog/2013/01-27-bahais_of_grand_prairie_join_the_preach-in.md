@@ -9,8 +9,9 @@ tags:
 - Bahai
 ---
 
-{: .center-block}
+<div class="image">
 ![preach-in logo](/img/preachIn.jpg)
+</div>
 
 The [National Preach-In on Global Warming](http://www.preachin.org/)
 is coming up - Feb 8 - 10 &mdash; and I am excited to say that the
@@ -40,5 +41,5 @@ already set in motion."
 
 During the consultation, the community will be asked to consider sending the
 "Love Creation" [postcards
-to the President](http://www.preachin.org/sermon-ideas/send-postcards-to-president-obama/). As well, we will broach the topic of next steps for our
+to the President](https://www.preachin.org/sermon-ideas/send-postcards-to-president-obama/). As well, we will broach the topic of next steps for our
 community.
