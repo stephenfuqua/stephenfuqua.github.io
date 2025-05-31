@@ -10,7 +10,9 @@ tags:
 
 ---
 
-**Problem:** You have an table with encrypted columns. In the ADO.Net Entity
+## Problem
+
+You have an table with encrypted columns. In the ADO.Net Entity
 Framework, you can't directly write an update to this table, since it does not
 handle the encryption commands. Furthermore, the framework will not return
 meaningful information, since it cannot decrypt the data. Finding the solution

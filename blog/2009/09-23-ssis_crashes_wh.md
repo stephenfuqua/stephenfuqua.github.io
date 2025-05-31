@@ -9,11 +9,15 @@ tags:
 - ssis
 ---
 
-**Problem:** SSIS 2005 (actually, Microsoft SQL Server Business Intelligence
+## Problem
+
+SSIS 2005 (actually, Microsoft SQL Server Business Intelligence
 Studio) crashes every time you click on an OLE DB Source to edit it. (there are
 probably similar errors for OLE DB destinations).
 
-**Solution:** oddly enough, synchronize a few DLLs:
+## Solution
+
+oddly enough, synchronize a few DLLs:
 
 > Version of the assemblies `msmdlocal.dll` and `Msmgdsrv.dll` must be the same
 > of the ones installed into `"%ProgramFiles%\Microsoft Visual Studio

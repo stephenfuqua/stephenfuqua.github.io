@@ -10,7 +10,9 @@ tags:
 
 ---
 
-**Problem:** periodically, one of my SSIS packages was throwing an error saying
+## Problem
+
+periodically, one of my SSIS packages was throwing an error saying
 `"The buffer manager cannot create a temporary storage file on any path in the
 BufferTempStoragePath property. There is an incorrect file name or no
 permission."` The package in question then would hang, locking a file that it
@@ -18,7 +20,9 @@ was trying to import.
 
 <!-- truncate -->
 
-**Solution:** The `BufferTempStoragePath` is kind of self explanatory. As usual,
+## Solution
+
+The `BufferTempStoragePath` is kind of self explanatory. As usual,
 Jamie Thomson's SQL Junkie blog has an excellent article that gives useful
 background on the issue, in Dataflow mechanics (dead link removed; SF 2025). He also points to my other favorite SSIS reference,
 _Microsoft SQL Server 2005 Integration Services_, by Kirk Haselden. Apparently

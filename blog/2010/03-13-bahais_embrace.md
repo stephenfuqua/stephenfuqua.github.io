@@ -9,15 +9,14 @@ tags:
 - Bahai
 ---
 
-It's about time. That was my first thought <a href=
-"http://news.bahai.org/story/742">when I heard</a>, late last year, that the
+It's about time. That was my first thought [when I heard](http://news.bahai.org/story/742), late last year, that the
 Bah&aacute;'&iacute; International Community had endorsed the [Interfaith Declaration on Climate
 Change](http://www.interfaithdeclaration.org/). My next thought was: when will this trickle down to us, the people,
 as a meaningful directive to change our habits? A few weeks ago, the National
 Spiritual Assembly of the Bah&aacute;'&iacute;s of the United States sent a
 letter to all American believers, calling their attention to the Declaration,
-and to a <a href="http://www.bcca.org/ief/bic/bicccap.html">Seven Year Plan of
-Action on Climate Change</a>. They encouraged us to actively incorporate
+and to a [Seven Year Plan of
+Action on Climate Change](http://www.bcca.org/ief/bic/bicccap.html). They encouraged us to actively incorporate
 sustainable practices into our community life, in a manner more direct than ever
 before.
 

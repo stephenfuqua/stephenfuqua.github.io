@@ -15,7 +15,9 @@ is rather easy, using `BeginInvoke()`.
 
 <!-- truncate -->
 
-**Problem:** I have a long-running method and want to update the mouse cursor
+## Problem
+
+I have a long-running method and want to update the mouse cursor
 asynchronously. More accurately, I need to span a couple of methods. There is an
 image in a `PictureBox` from which the user needs to select a slice, and the
 user wants to be able to move the selection window around the image without
@@ -25,7 +27,9 @@ to use `this.Cursor = Cursors.Hand` in the MouseDown event, leave it in this
 state during the MouseMove event, and restore the cursor to `Cursors.Default` in
 the MouseUp event.
 
-**Solution:** Create a delegate method, i.e. `public delegate void
+## Solution
+
+Create a delegate method, i.e. `public delegate void
 InvokeDelegate();`. Create a couple of functions that handle the cursor change:
 
 ```csharp

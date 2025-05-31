@@ -31,8 +31,8 @@ and equality (seeking climate justice, for example).
 <!-- truncate -->
 
 <!-- TODO -->
-In a <a href="/archive/2014/12/22/birdsong_and_rustling_leaves">prior blog
-post</a>, I wrote about birdwatching helping me to overcome a sense of being
+In a [prior blog
+post](/archive/2014/12/22/birdsong_and_rustling_leaves), I wrote about birdwatching helping me to overcome a sense of being
 cutoff from the natural world. That is a fragmentation. Prompted by an
 assignment in the GreenFaith Fellowship program, I have identified three
 passages from Bah&aacute;&rsquo;u&rsquo;ll&aacute;h that have further united

@@ -8,11 +8,15 @@ tags:
 - sql-server
 ---
 
-**Problem:** you try to deploy your xslt file from Visual Studio, and get an
+## Problem
+
+you try to deploy your xslt file from Visual Studio, and get an
 error saying "Value for the parameter 'MimeType' is not specified. it is either
 missing from the function call, or it is set to null".
 
-**Solution:** In Solution Explorer, click on the xsl file. Then switch to the
+## Solution
+
+In Solution Explorer, click on the xsl file. Then switch to the
 Properties pane and enter "text/xml" as the MimeType. _Note:_ this is not
 required when deploying the xsl through Report Manager's upload button.
 <!-- truncate -->

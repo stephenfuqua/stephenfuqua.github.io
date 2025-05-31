@@ -9,7 +9,9 @@ tags:
 - ssis
 ---
 
-**Problem:** I have an SSIS package, `MyPackage`, stored on `MyServer` in the
+## Problem
+
+I have an SSIS package, `MyPackage`, stored on `MyServer` in the
 Package Store. I create an Agent to run the package, running under a SQL account
 hooked up to a proper proxy and credentials for Windows authentication. Works in
 development, doesn't work in production: the agent gets the error `Connect to
@@ -17,7 +19,9 @@ SSIS Service on machine "MyServer" failed: Access is denied`.
 
 <!-- truncate -->
 
-**Solution:** Clearly there is something different between the two servers, and
+## Solution
+
+Clearly there is something different between the two servers, and
 it is probably an important difference. Kirk Haselden has  a
 few comments (dead link removed; SF 2025) about this issue. They're instructive, but didn't solve my
 problem. I granted my proxy account full access to MsDtsServer, but still I get

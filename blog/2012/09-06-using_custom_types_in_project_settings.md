@@ -9,11 +9,15 @@ tags:
 
 ---
 
-**Problem:** using [Application
+## Problem
+
+using [Application
 Settings](https://msdn.microsoft.com/en-us/library/k4s6c3a0.aspx) in a .Net project, you find that there are so many entries that
 some organization is needed.
 
-**Solution:** create custom, serializable data types for logical groups of
+## Solution
+
+create custom, serializable data types for logical groups of
 settings.
 
 <!-- truncate -->

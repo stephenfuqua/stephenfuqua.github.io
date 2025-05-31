@@ -8,11 +8,16 @@ tags:
 
 ---
 
-**Problem**: you have image data from an HTML e-mail, but don't know what to do
+## Problem
+
+you have image data from an HTML e-mail, but don't know what to do
+
 with it. When you save it to disk it comes out with a weird string instead of
 binary data.
 
-**Solution**: pretty simple, you just have to know the terms. This string of
+## Solution
+
+pretty simple, you just have to know the terms. This string of
 data is actually Base64 encoded, which means that the binary data has been
 converted to a text string for easy transmission over text protocols. .Net
 Developer's Journal (dead link removed; SF 2025) has a good full explanation.

@@ -9,12 +9,16 @@ tags:
 
 ---
 
-**Problem:** In a T-SQL script, an exception occurs while a cursor is open,
+## Problem
+
+In a T-SQL script, an exception occurs while a cursor is open,
 resulting in the cursor never being closed. But, the exception handling wraps
 the entire script, not just the cursor, so there is no guarantee that the cursor
 will be open if/when the CATCH statement is reached.
 
-**Solution:** query the sys.syscursors view to see if the cursor(s) in question
+## Solution
+
+query the sys.syscursors view to see if the cursor(s) in question
 is still open:
 
 <!-- truncate -->

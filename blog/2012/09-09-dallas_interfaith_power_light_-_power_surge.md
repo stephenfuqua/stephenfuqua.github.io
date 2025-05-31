@@ -17,3 +17,5 @@ Dallas, TX (south of Walnut Hill, north of E Northwest Hwy).
 
 In addition, participants of this new faith-based initiative will be presented
 with an opportunity to comment on the draft Mission and Principles.
+
+<!-- truncate -->

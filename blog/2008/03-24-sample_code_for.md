@@ -17,7 +17,9 @@ actually use this feature. I was pleasantly surprised at how easy it was to use,
 especially with some help from Itzik Ben-Gan's [Inside SQL Server 2005: T-SQL
 Programming](https://www.microsoftpressstore.com/store/inside-microsoft-sql-server-2005-t-sql-programming-9780735621978).
 
-**Problem:** I've begun using data-driven subscriptions in SQL Server Reporting
+## Problem
+
+I've begun using data-driven subscriptions in SQL Server Reporting
 Services. I want to create one table to house subscription data. Various reports
 will have different parameters, both in number and kind. It is impractical to
 create one column for each possible parameter, and seems senseless to create a
@@ -25,7 +27,9 @@ separate table for every report.
 
 <!-- truncate -->
 
-**Solution:** Create a single XML column that can hold any data. Each report
+## Solution
+
+Create a single XML column that can hold any data. Each report
 will get its own schema for specifying the subscription parameters. To
 demonstrate the SQL, let's create a temporary table and some useful queries:
 

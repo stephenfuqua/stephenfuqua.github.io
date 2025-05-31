@@ -29,7 +29,7 @@ Finally, I decided to just try another language. As I've not written anything in
 Perl or PHP in many years (both well suited to the task), I chose Node.js. And I
 was able to send e-mail on the first try.
 
-It seems there is something wrong with the [System.Net.Mail.SmtpClient](http://msdn.microsoft.com/en-us/library/system.net.mail.smtpclient%28v=vs.110%29.aspx).
+It seems there is something wrong with the [System.Net.Mail.SmtpClient](https://msdn.microsoft.com/en-us/library/system.net.mail.smtpclient%28v=vs.110%29.aspx).
 I tried both synchronous and asynchronous, by the way. And I've used the
 SmtpClient with 2.0 and 3.5 applications, though never with 4.0+. There are a
 few people who have experienced similar problems. Although disabling the

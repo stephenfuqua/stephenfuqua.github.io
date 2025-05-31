@@ -9,7 +9,9 @@ tags:
 
 ---
 
-**Problem:** You have a long-running query in SQL Server that is causing failures
+## Problem
+
+You have a long-running query in SQL Server that is causing failures
 all over the place. Activity Monitor shows you the cause is blocking.
 
 **Causes:** Blocking essentially means "you've locked a table, and now someone

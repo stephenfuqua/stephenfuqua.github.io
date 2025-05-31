@@ -40,9 +40,9 @@ Interfaith Power &amp; Light</a> in an attempt to broaden their perspectives and
 find help channeling their spiritual energy into sustainable action and
 reflection. I joined them, along with Jewish, Muslim, and Pagan practitioners,
 for an Earth Day potluck and dialog (prior meetings had also included Hindu and
-Jain participants). Two more <a href="
-http://texasinterfaithcenter.org/content/caring-creation-non-christians-my-journey-interfaith-work">beautiful
-interfaith encounters</a>  followed, engaging us in deep dialogues on our
+Jain participants). Two more [beautiful
+interfaith encounters](
+http://texasinterfaithcenter.org/content/caring-creation-non-christians-my-journey-interfaith-work)  followed, engaging us in deep dialogues on our
 spiritual experiences in nature. This culminated in a July retreat, where
 several of us committed to continuing the journey together, in the context of a
 local affiliate: thus was born <a href="http://www.dallasinterfaith.org">Dallas
@@ -67,8 +67,8 @@ recent gathering was organized by the [Keep Texas Parks Open](http://www.keeptex
 who gave us the opportunity to learn about the state of funding for, and the
 economics of, state and local parks. That was far more enlightening than it
 might sound, thanks to a slate of knowledgeable and passionate speakers. This
-month's meeting will be on the <a href="http://living-future.org/lbc">Living
-Building Challenge</a>. Beyond that, our meetings will likely continue to
+month's meeting will be on the [Living
+Building Challenge](http://living-future.org/lbc). Beyond that, our meetings will likely continue to
 address both practical concerns &mdash; such as green teams, community
 gardening, and xeriscaping &mdash; and big picture ideas, such as environmental
 justice and the call for stewardship from different faith perspectives.
@@ -122,8 +122,8 @@ _Dallas Interfaith Power &amp; Light's mission is extended by this statement of 
   opinions."  'Abdu'l-Bah&aacute;, quoted by Shoghi Effendi, _<a
   href="http://reference.bahai.org/en/t/se/UD/ud-2.html">Unfolding Destiny</a>_,
   p6.
-1. I feel blessed to be working with <a href="http://www.annamclark.com/">Anna
-  Clark</a>, [Genny Rowley](http://www.gennyrowley.com/) (co-chair),
+1. I feel blessed to be working with [Anna
+  Clark](http://www.annamclark.com/), [Genny Rowley](http://www.gennyrowley.com/) (co-chair),
   Glen Suhren (treasurer), and Jinen Adenwala. I serve as co-chair at this time.
 1. Texas Interfaith Power &amp; Light is a program of the Interfaith Center; they
   also support local groups in various stages of development in Austin, Ft.

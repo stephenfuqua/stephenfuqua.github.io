@@ -15,7 +15,9 @@ detail, and try to give a coherent picture of what I was trying to accomplish
 and how it worked out. Doing so will require a sub-series of posts, call them
 parts 3._x_ to the "RS and XSLT" series.
 
-**Problem:** A customer has asked for a report, in plain ASCII text, that will
+## Problem
+
+A customer has asked for a report, in plain ASCII text, that will
 contain a header record, a bunch of pipe delimited detail records, and a trailer
 record. Reporting Services' subscription capabilities are ideal for the report
 delivery, but does not have any built-in way to support this kind of output. One
@@ -27,7 +29,9 @@ can use CSV export, but:
 * column headers are always included in the output
 * any text in a textbox above (i.e. header text) or below (i.e. trailer text) a main table will be added at the beginning and ending of each detail record.
 
-**Solution:** Use XML export coupled with XML stylesheet transformations to
+## Solution
+
+Use XML export coupled with XML stylesheet transformations to
 develop a custom export provider.
 
 ## Desired Output

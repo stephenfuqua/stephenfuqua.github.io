@@ -12,15 +12,14 @@ tags:
 My team often starts Tuesday morning status meetings with a round of
 win/learn/fun - a team-building exercise where each person gets to mention an
 exciting "win", something they learned in the last week, or just something fun.
-Several weeks ago someone brought up C# <a href=
-"http://msdn.microsoft.com/en-us/library/bb383977.aspx">Extension Methods</a> as
+Several weeks ago someone brought up C# [Extension Methods](https://msdn.microsoft.com/en-us/library/bb383977.aspx) as
 a learn. I could see the potential, but I didn't immediately think of any
 practical examples.
 
 <!-- truncate -->
 
 Fast forward: working on an application at home, and started the data layer. I
-was reminded that I am annoyed the fact that [IDataReader](http://msdn.microsoft.com/en-us/library/system.data.idatareader.aspx)
+was reminded that I am annoyed the fact that [IDataReader](https://msdn.microsoft.com/en-us/library/system.data.idatareader.aspx)
 does not have a `GetString(colName: string)` method (or other data types).
 Instead, you must use `reader.GetString(reader.GetOrdinal(colName))`. And you
 must watch out for null values. Suddenly struck me that this would be a good

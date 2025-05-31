@@ -16,6 +16,8 @@ avoid closures, the Local Parks program looks to be in danger for this budget
 cycle. That, despite the presence of a dedicated - but under-utilized - funding
 source in the "Sporting Goods Tax".
 
+<!-- truncate -->
+
 Moving to Plano as a youth, after a childhood spent outdoors, I found nothing to
 entice me outside. I turned inward and focused on my studies; perhaps that was
 for the best. But I felt lost. A part of me was missing. It was the Spring Creek

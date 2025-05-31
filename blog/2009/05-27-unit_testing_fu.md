@@ -8,7 +8,9 @@ tags:
 - testing
 ---
 
-**Problem:** you have a method that logs a message using the Microsoft Patterns &amp;
+## Problem
+
+you have a method that logs a message using the Microsoft Patterns &amp;
 Practices Enterprise Library Logging Block, and you would like to write an automated unit
 test for it in NUnit (or Team System &mdash; solution is easily adapted). Logging to a flat file
 doesn't work; the file is still open when you try to read it to verify that the message has
@@ -17,7 +19,9 @@ database immediately. And so forth. Is there an in-memory way of reading the log
 
 <!-- truncate -->
 
-**Solution:** I wanted to create a Mock or Spy TraceListener, but didn't have the time to
+## Solution
+
+I wanted to create a Mock or Spy TraceListener, but didn't have the time to
 work on this. Thus I gave up on it for a while. Then I remembered that the Enterprise Library
 downloaded included unit tests of the library itself. Surely Microsoft already solved the
 problem for me? Indeed, they have already created a `MockTraceListener` class.

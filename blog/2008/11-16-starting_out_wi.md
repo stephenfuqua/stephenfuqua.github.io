@@ -8,7 +8,9 @@ tags:
 - sql-server
 ---
 
-**Problem:** you have an application that needs to trigger some process via SQL
+## Problem
+
+you have an application that needs to trigger some process via SQL
 Server but don't want your main process hung up waiting. So you decide to setup
 Service Broker in order to make an asynchronous call, with the receiving service
 doing your work for you. You've read all about it, and tried it out after hours,
@@ -16,7 +18,9 @@ but it didn't work. What gives?
 
 <!-- truncate -->
 
-**Solution:** obviously, this situation occurred with your humble blogger. I had
+## Solution
+
+obviously, this situation occurred with your humble blogger. I had
 a few different things going on, but once it was solved, how sweet it was.
 
 First thing is, what's happening? Anything? I couldn't see any sign that

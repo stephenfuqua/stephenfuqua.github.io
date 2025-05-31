@@ -10,14 +10,18 @@ tags:
 
 ---
 
-**Problem:** In SSIS, you want to update a variable from a Script Component
+## Problem
+
+In SSIS, you want to update a variable from a Script Component
 embedded in a Data Transform task. You get an error message reading "the
 collection of variables locked for read and write access is not available
 outside of postexecute". What's up?
 
 <!-- truncate -->
 
-**Solution:** [Microsoft
+## Solution
+
+[Microsoft
 explains](https://msdn2.microsoft.com/en-us/library/aa337079.aspx): "The collection of ReadWriteVariables is only available in the
 PostExecute." OK, so what now? It turns out that this is really easy. In your
 script, add a class-level variable. Make sure you instantiate it. In the

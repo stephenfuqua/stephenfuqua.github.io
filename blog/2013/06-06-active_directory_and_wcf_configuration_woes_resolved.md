@@ -61,9 +61,9 @@ particularly helpful Microsoft resources &mdash; well, helpful once I was able
 to put the pieces together. Alone, none of them simply stated the required
 practice.
 
-* [Chapter 5: Authentication, Authorization, and Identities in WCF](http://msdn.microsoft.com/en-us/library/ff647503.aspx)
+* [Chapter 5: Authentication, Authorization, and Identities in WCF](https://msdn.microsoft.com/en-us/library/ff647503.aspx)
 * [What Is Kerberos Authentication?](http://technet.microsoft.com/en-us/library/cc780469(v=WS.10).aspx)
-* [Debugging Windows Authentication Errors](http://msdn.microsoft.com/en-us/library/vstudio/bb463274(v=vs.100).aspx)
+* [Debugging Windows Authentication Errors](https://msdn.microsoft.com/en-us/library/vstudio/bb463274(v=vs.100).aspx)
 
 Between these  resources, I came to realize that:
 

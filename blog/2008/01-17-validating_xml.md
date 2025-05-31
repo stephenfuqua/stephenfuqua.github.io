@@ -8,11 +8,15 @@ tags:
 
 ---
 
-**Problem:** You have some XML, and you need to validate it against a custom
+## Problem
+
+You have some XML, and you need to validate it against a custom
 schema that you want to deploy with your .Net 2.0 assemblies. Issues addressed:
 opening the file and handling the schema validation.
 
-**Solution:** The `XmlSchema` class contains a
+## Solution
+
+The `XmlSchema` class contains a
 [Read](https://msdn2.microsoft.com/en-us/library/system.xml.schema.xmlschema.read.aspx)
 method that takes a stream as a parameter. Nicely matching up to that, you can
 open a stream from an embedded resource (dead link removed; SF 2025).So, embed

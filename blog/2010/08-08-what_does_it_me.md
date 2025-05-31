@@ -32,7 +32,7 @@ disunity in that community Bah&aacute;'u'll&aacute;h says:
 > to knit together the hearts of men, in His Name, the Unifier, the All-Knowing,
 > the All-Wise."
 >
-> [Gleanings, p9](http://reference.bahai.org/en/t/b/GWB/gwb-5.html))
+> [Gleanings, p9](http://reference.bahai.org/en/t/b/GWB/gwb-5.html)
 
 Unity does not mean absolute agreement or conformity of thought. It means
 support for whatever decision is made. It means that diverse paths are for the
@@ -47,11 +47,10 @@ imperfections:
 > angry or impatient if you love them for the sake of God. Humanity is not
 > perfect. There are imperfections in every human being, and you will always
 > become unhappy if you look toward the people themselves. But if you look
-> toward God, you will love them and be kind to them, for the world of God is
+> toward God, you will love the and be kind to them, for the world of God is
 > the world of perfection and complete mercy."
 >
-> <a href="http://reference.bahai.org/en/t/ab/PUP/pup-39.html">Promulgation of
-> Universal Peace, p93</a>)
+> [Promulgation of Universal Peace](http://reference.bahai.org/en/t/ab/PUP/pup-39.html), p93
 
 And if you love Bah&aacute;'u'll&aacute;h, He asks of us even more personally:
 
@@ -59,7 +58,7 @@ And if you love Bah&aacute;'u'll&aacute;h, He asks of us even more personally:
 > and overlook the faults of one another for My name's sake and as a token of
 > your love for My manifest and resplendent Cause."
 >
-> [Gleanings p315](http://reference.bahai.org/en/t/b/GWB/gwb-146.html))
+> [Gleanings p315](http://reference.bahai.org/en/t/b/GWB/gwb-146.html)
 
 There are many more beautiful passages on this theme, but I want to share just
 one more from 'Abdu'l-Bah&aacute;, as it has become a maxim for me, a litany

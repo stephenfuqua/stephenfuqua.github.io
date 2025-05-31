@@ -9,10 +9,14 @@ tags:
 
 ---
 
-**Problem:** need to move rows up and down, and from one table to another, in an
+## Problem
+
+need to move rows up and down, and from one table to another, in an
 HTML page.
 
-**Solution:** careful use of jQuery. There are probably many different solutions
+## Solution
+
+careful use of jQuery. There are probably many different solutions
 already out there, but I wanted to learn how to write one for myself. Key
 functions: [closest](https://api.jquery.com/closest/), [detach](https://api.jquery.com/detach/), [append](https://api.jquery.com/append/), [prev](https://api.jquery.com/prev/), [next](https://api.jquery.com/next/), [before](https://api.jquery.com/before/), and [after](https://api.jquery.com/after/).
 

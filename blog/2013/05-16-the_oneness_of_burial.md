@@ -24,6 +24,8 @@ us:
 > Let me be absorbed back into the Earth. Let my body turn to soil. Even when
 > I'm dead, let me nourish the future."  (p107, by Carly Lettero).
 
+<!-- truncate -->
+
 In fact, it reminds me of words from 'Abdu'l-Bah&aacute;&hellip; I cannot find
 the passage I am looking for, but I have found another, more succinct passage,
 in _Star of the West_, Vol 11, No. 19 (March 2, 1921):

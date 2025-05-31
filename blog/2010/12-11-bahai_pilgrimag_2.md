@@ -1,7 +1,7 @@
 ---
 title: 'Baha''i Pilgrimage, Pt 3: A Sense of Peace'
 date: 2010-12-11
-slug: bahai_pilgrimage_2
+slug: bahai_pilgrimage_3
 tags:
 - living
 - religion

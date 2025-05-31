@@ -4,7 +4,10 @@ date: 2013-08-21
 tags: [dotnet, testing]
 ---
 
-**Problem**: how do you use Entity Framework, in database-first mode, when
+## Problem
+
+how do you use Entity Framework, in database-first mode, when
+
 following the dependency injection development patterns?
 
 **Answer**: take advantage of partial classes and manually create the interface.
