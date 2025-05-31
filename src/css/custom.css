@@ -24,7 +24,7 @@
 
 .image {
   text-align: center;
-  margin: 1em auto 0 auto;
+  margin: 1rem auto 0 auto;
 
   font-size: 90%;
   color: var(--ifm-color-secondary-darkest);
@@ -35,6 +35,15 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.rightImage {
+  float: right;
+  margin: auto 0 1rem 2rem;
+
+  img {
+    border-radius: 0.25rem !important;
+  }
 }
 
 .logo-safnet {

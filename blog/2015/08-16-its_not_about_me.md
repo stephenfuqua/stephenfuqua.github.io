@@ -51,9 +51,7 @@ back on myself after all. Nevertheless, self-reflection is critical if I am to
 of this great republic toward the full realization of its glorious destiny"
 (from the _Vision of Race Unity_).
 
-<div class="text--center">
-***
-</div>
+---
 
 <!-- markdownlint-disable-next-line MD033 -->
 <a name="1">*</a> Resources dealing with climate and pollution impacts on health and justice:

@@ -100,7 +100,7 @@ sure the baseline data are meaningful and valid for the problem, listen to
 domain experts, and most of all treat equity and justice as key features to be
 baked in rather than bolted on.
 
-<div class="text--center">
+<div class="image">
 ![blurred image of the scoring spreadsheet](/img/prequalification.png)
 </div>
 

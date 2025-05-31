@@ -114,7 +114,7 @@ The paper:
 
 ## Comments
 
-_Comments imported from old blog_
+Comments imported from old blog
 
 > author: dougbelkofer
 > date: '2015-03-31 21:42:51 -0500'

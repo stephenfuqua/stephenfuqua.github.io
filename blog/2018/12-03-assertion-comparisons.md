@@ -182,13 +182,13 @@ up. Here is one place where FluentAssertions is not as attractive. I wrote the
 same tests in each framework and ran them many times. The results below are
 representative of the typical results in repeated executions:
 
-<div class="text--center">
+<div class="image">
 ![Overall execution times](/img/execution-times-summary.png)
 </div>
 
 Yikes! What's going on here? Let's drill into the results a bit...
 
-<div class="text--center">
+<div class="image">
 ![Detailed execution times](/img/execution-times-fa-detail.png)
 </div>
 

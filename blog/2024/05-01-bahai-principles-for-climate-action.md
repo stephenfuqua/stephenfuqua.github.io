@@ -99,7 +99,7 @@ holding ourselves accountable for our thoughts and deeds; personal and communal
 Surely these are ameliorating influences to counter "civilization" "carried to
 excess."
 
-<div class="text--center">
+<div class="image">
 ![A Central Texas Hill Country sunset, by Stephen A. Fuqua](/img/hill-country-sunset.jpg)
 
 Central Texas Hill Country sunset, by Stephen A. Fuqua (2024).

@@ -365,7 +365,7 @@ public abstract class BestRepositoryTests
 }
 ```
 
-<div class="text--center">
+<div class="image">
 ![Visual Studio test explorer with nested classes](/img/bestRepository_nestedClasses_nunit.png)
 </div>
 

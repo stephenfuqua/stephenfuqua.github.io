@@ -69,7 +69,7 @@ that my home's digital smart meter won't literally run backwards when we throw
 that switch and power on. My long wait for solar is just about over. Apologies
 for the navel-gazing - but I just had to share my excitement.
 
-<div class="text--center">
+<div class="image">
 ![solar panel photo 3](/img/solar3.jpg)
 
 One of four banks of panels arrayed across the house.

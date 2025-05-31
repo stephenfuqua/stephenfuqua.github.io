@@ -47,7 +47,8 @@ want to support the following tasks:
 Let's do this all using the new [Bake file](https://docs.docker.com/build/bake/)
 format.
 
-{: .alert .alert-warning .mt-w}
+:::warning
+
 Many users, including your author, have had trouble pulling images from
 Microsoft's registry, receiving error messages like this: `ERROR: failed to do
 request: Head "https://mcr.microsoft.com/v2/dotnet/aspnet/manifests/8.0": EOF`.
@@ -56,7 +57,7 @@ server configuration, related to IPv6. [Turning off
 IPv6](https://github.com/microsoft/containerregistry/issues/165) on your network
 connection resolves the issue.
 
-
+:::
 
 ## Revisiting a .NET 4.7.2 Application
 
@@ -76,10 +77,13 @@ Container](https://learn.microsoft.com/en-us/virtualization/windowscontainers/qu
 but I have no interest in the extra configuration steps required to run Windows
 inside of Windows.
 
-{: .alert .alert-warning .mt-2}
+:::warning
+
 I tried multiple versions of Mono 6.x and was
 unable to resolve a specific error (more on that below). Perhaps an even older
 one would have worked in the end.
+
+:::
 
 Still, it was an interesting learning experience. To start, let's run an image
 containing Mono, and load the `FlightNode.API` source code into it.
@@ -94,7 +98,8 @@ docker run -it --rm `
     mono:6.0.0.334@sha256:ffd791fd085cf5e782cdf27ad37e7ef3b302f4c7062c7ba2465cfe60590bd52a
 ```
 
-{: .alert .alert-success .mt-2}
+:::tip
+
 * `docker run -it --rm` means: run the docker image named at the end of this
   command in interactive (`-it`) mode, removing (`--rm`) the container when done
   using it.
@@ -112,6 +117,8 @@ docker run -it --rm `
 * Finally, name the image to run: `mono` version 6.0.0.334. Pinning to the
   SHA256 digest is a safety feature ensuring that you only get exactly the same
   image every time, on every computer.
+
+:::
 
 The container includes Mono-based versions of `msbuild` and `nuget`, the core
 applications needed to build the assemblies. The command above entered into the
@@ -176,4 +183,3 @@ few conclusions:
 2. But it might not be sufficient as-is in all cases.
 3. And you might need to find additional tools, such as the XUnit console runner
    cited above.
-

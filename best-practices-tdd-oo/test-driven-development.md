@@ -79,7 +79,7 @@ Behavior-Driven Development, or BDD for short, is a variation on TDD that is foc
 
 It should be clear that this is a reformulation of Arrange-Act-Assert. This language can be useful in TDD, especially when [structuring test classes](patterns) and methods so that the test output report is meaningful to non-developers. When writing tests as [nested classes](patterns#one-assert-per-test), I like to keep the action (which is invariant) in a parent class, changing the order to _When-Given-Then_. In ReSharper, I thus getting something like this:
 
-<div class="text--center">
+<div class="image">
 ![Example When-Given-Then test results](/img/test_results_when_given_then.png)
 </div>
 
