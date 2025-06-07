@@ -11,6 +11,7 @@ tags:
 
 <div class="rightImage">
 ![Fundamental Modeling Concepts: Effective Communication of IT Systems](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348635070i/4000313.jpg)
+</div>
 
 [Fundamental
 Modeling Concepts: Effective Communication of IT Systems](https://www.goodreads.com/book/show/4000313-fundamental-modeling-concepts) by Andreas Knopfel
