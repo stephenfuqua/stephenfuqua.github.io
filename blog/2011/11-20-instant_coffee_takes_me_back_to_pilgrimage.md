@@ -8,17 +8,16 @@ tags:
 - Bahai
 ---
 
-<!-- todo -->
 
 We ran out of regular coffee, hence drinking instant this morning (Pampa brand
-from Mexico). The smell of this brand takes me back to Haifa, where I went on [Pilgrimage a year
-ago](http://www.safnet.com/fcgi-bin/mt/mt-search.cgi?IncludeBlogs=2&amp;tag=pilgrimage&amp;limit=20).
-The B&amp;B we stayed in had an electric kettle and kept us well-stocked with
-packages of instant coffee. On mornings where we had to get moving before the
-cafe downstairs opened, that was my wake-up.
+from Mexico). The smell of this brand takes me back to Haifa, where I went on
+[Pilgrimage a year ago](../2010/12-04-bahai_pilgrimag.md). The B&amp;B we stayed
+in had an electric kettle and kept us well-stocked with packages of instant
+coffee. On mornings where we had to get moving before the cafe downstairs
+opened, that was my wake-up.
 
 <div class="image">
-![Templar's Boutique Balcony](/img/balconyView.JPG)
+![Templar's Boutique Balcony](./balconyView.jpg)
 
 View of the cafe from our balcony, November 22, 2010.
 </div>
@@ -31,7 +30,7 @@ On many occasions since, I have let that sense be an anchor, bringing calm to my
 mind and helping me withstand tests and challenges.
 
 <div class="image">
-![Gardens at Bahji](/img/bahjiCactus.JPG)
+![Gardens at Bahji](./bahjiCactus.JPG)
 
 Cactus and rose in the gardens at Bahji.
 </div>
@@ -74,7 +73,7 @@ over-crowded world, both restore and create anew a sense of place that nourishes
 our body, mind, and soul.
 
 <div class="image">
-![Terraces on Mt. Carmel](/img/terraceAndHaifa.JPG)
+![Terraces on Mt. Carmel](./terraceAndHaifa.jpg)
 
 View of the "German colony" and the Port of Haifa, from one of the Terraces
 below the Shrine of the B&aacute;b.
@@ -85,7 +84,7 @@ throughout my life, and though the motivating spirit be unknown, in the small
 works that one day I will have left behind.
 
 <div class="image">
-![Cypress in Mazra'ih](/img/mazriehCypress.JPG)
+![Cypress in Mazra'ih](./mazriehCypress.jpg)
 
 Ancient cypresses in Mazra'ih, enjoyed by Bah&aacute;'u'll&aacute;h in the 1870s,
 delighting many generations since and those to come.

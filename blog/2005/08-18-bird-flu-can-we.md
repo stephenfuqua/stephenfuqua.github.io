@@ -3,13 +3,12 @@ title: "Bird Flu: Can We Out-Collaborate a Pandemic?"
 date: 2005-08-18T13:17:18-06:00
 slug: "bird-flu-can-we"
 tags:
-- health
-- pandemic
-- collaboration
-- public health
+- society
 ---
 
-Inspired by the WorldChanging article Bird Flu: Can We Out-Collaborate a Pandemic?(dead link removed; SF 2025), I want to join the blogosphere chorus for educating the public about the dangers of avian influenza. This is a nasty topic almost no one knows about. Instead of writing my own article, I've borrowed the following from one Barry Campbell and his blog [Enrevanche](https://enrevanche.blogspot.com/2005/08/bird-flu-can-we-out-collaborate.html), licensed under the [Creative Commons SA 2.0](http://creativecommons.org/licenses/by-sa/2.0/).
+Inspired by the WorldChanging article "Bird Flu: Can We Out-Collaborate a Pandemic?" (dead link removed; SF 2025), I want to join the blogosphere chorus for educating the public about the dangers of avian influenza. This is a nasty topic almost no one knows about. Instead of writing my own article, I've borrowed the following from one Barry Campbell and his blog [Enrevanche](https://enrevanche.blogspot.com/2005/08/bird-flu-can-we-out-collaborate.html), licensed under the [Creative Commons SA 2.0](http://creativecommons.org/licenses/by-sa/2.0/).
+
+<!-- truncate -->
 
 > 1. Bird flu ("avian influenza H5N1") which has been **making domestic and wild birds sick in Asia for years**, is spreading rapidly, reaching epidemic levels in Russia and extending its reach towards Europe. (Source: Times of London (dead link removed; SF 2025)) If you are a bird, this sucks.
 >

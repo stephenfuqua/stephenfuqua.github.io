@@ -9,9 +9,9 @@ tags:
 ---
 
 <div class="image">
-![photo of a stream](/img/ridvanWater.png)
+![photo of a stream](./ridvanWater.png)
 
-Stream at the restored [Ridv&aacute;n Garden](http://www.bahaullah.org/ridvan/) near Acre, Israel
+Stream at the restored [Ridv&aacute;n Garden](https://www.bahaullah.org/ridvan/) near Acre, Israel
 </div>
 
 "Fragmentation" often describes our personal lives. Through accident or design,
@@ -30,13 +30,12 @@ and equality (seeking climate justice, for example).
 
 <!-- truncate -->
 
-<!-- TODO -->
-In a [prior blog
-post](/archive/2014/12/22/birdsong_and_rustling_leaves), I wrote about birdwatching helping me to overcome a sense of being
-cutoff from the natural world. That is a fragmentation. Prompted by an
-assignment in the GreenFaith Fellowship program, I have identified three
-passages from Bah&aacute;&rsquo;u&rsquo;ll&aacute;h that have further united
-science and religion in my  "eco-spiritual" awareness.
+In a [prior blog post](../2014/12-22-birdsong_and_rustling_leaves.md), I wrote
+about birdwatching helping me to overcome a sense of being cutoff from the
+natural world. That is a fragmentation. Prompted by an assignment in the
+GreenFaith Fellowship program, I have identified three passages from
+Bah&aacute;&rsquo;u&rsquo;ll&aacute;h that have further united science and
+religion in my  "eco-spiritual" awareness.
 
 > &ldquo;My object is none other than the betterment of the world and the
 > tranquillity of its peoples. The well-being of mankind, its peace and

@@ -35,18 +35,16 @@ society, and that is what I was seeking in April 2012, when I searched for
 "dallas interfaith earth day."
 
 My timing was fortuitous. An ecumenical group of Christians, concerned about
-"care for creation," had reached out to [Texas
-Interfaith Power &amp; Light](https://txipl.org/) in an attempt to broaden their perspectives and
-find help channeling their spiritual energy into sustainable action and
-reflection. I joined them, along with Jewish, Muslim, and Pagan practitioners,
-for an Earth Day potluck and dialog (prior meetings had also included Hindu and
-Jain participants). Two more [beautiful
-interfaith encounters](
-https://texasinterfaithcenter.org/content/caring-creation-non-christians-my-journey-interfaith-work)  followed, engaging us in deep dialogues on our
-spiritual experiences in nature. This culminated in a July retreat, where
-several of us committed to continuing the journey together, in the context of a
-local affiliate: thus was born Dallas
-Interfaith Power &amp; Light.
+"care for creation," had reached out to [Texas Interfaith Power &amp;
+Light](https://txipl.org/) in an attempt to broaden their perspectives and find
+help channeling their spiritual energy into sustainable action and reflection. I
+joined them, along with Jewish, Muslim, and Pagan practitioners, for an Earth
+Day potluck and dialog (prior meetings had also included Hindu and Jain
+participants). Two more beautiful interfaith encounters (dead link removed; SF
+2025) followed, engaging us in deep dialogues on our spiritual experiences in
+nature. This culminated in a July retreat, where several of us committed to
+continuing the journey together, in the context of a local affiliate: thus was
+born Dallas Interfaith Power &amp; Light.
 
 However, even while adopting the Interfaith Power &amp; Light name, and agreeing
 to work as a subsidiary of the state chapter, we wanted to express a sense of
@@ -108,11 +106,11 @@ _Dallas Interfaith Power &amp; Light's mission is extended by this statement of 
 
 ---
 
-1. Wilson, E.O. [_The Creation: An Appeal to Save Life on Earth_](about:todo). See page 168 for these
+1. Wilson, E.O. [_The Creation: An Appeal to Save Life on Earth_](https://wwnorton.com/books/9780393330489). See page 168 for these
   particular words.
 1. for Bah&aacute;'&iacute;s such as myself, this constructive process is carried
   out through a [set of
-  community-building activities](https://www.bahai.us/community-life/) centered on worship, education, and
+  community-building activities](https://www.bahai.us/beliefs/building-community/) centered on worship, education, and
   empowerment.
 1. "The shining spark of truth, cometh forth only after the clash of differing
   opinions."  'Abdu'l-Bah&aacute;, quoted by Shoghi Effendi, [_Unfolding

@@ -22,6 +22,8 @@ decimated. Colin Powell remarked that it was worse than a war zone.
 We&rsquo;ve seen the images and heard the tales of woe &ndash; and where was
 God?
 
+<!-- truncate -->
+
 I cannot speak for anyone else&rsquo;s conception of God &ndash; but on
 January 8th I knew my answer. God was at the Jami Masjid in Las Vegas, where
 I attended a fundraiser at which the Islamic Society of Nevada announced it

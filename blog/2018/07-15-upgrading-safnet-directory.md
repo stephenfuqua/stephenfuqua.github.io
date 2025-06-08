@@ -4,9 +4,7 @@ date: 2018-07-15
 tags: [dotnet, architecture]
 ---
 
-<!-- TODO: update link -->
-
-In 2014 I built a [quick-and-dirty web application](/archive/2014/12/01/safnet-directory/) using ASP.NET MVC5 and AngularJS 1.0.2. There are probably millions of web applications, large and small, that are "stuck" on some older tech, often because people are afraid of the work it will take to modernize them. In this series of blog posts, I'll refactor away the tech debt and polish it up this little app to make it something to be proud of... as much as one can be proud of a simplistic proof-of-concept, anyway.
+In 2014 I built a [quick-and-dirty web application](../2014/12-01-safnet-directory.md) using ASP.NET MVC5 and AngularJS 1.0.2. There are probably millions of web applications, large and small, that are "stuck" on some older tech, often because people are afraid of the work it will take to modernize them. In this series of blog posts, I'll refactor away the tech debt and polish it up this little app to make it something to be proud of... as much as one can be proud of a simplistic proof-of-concept, anyway.
 
 First up: basic and trivial cleanup of the solution, bringing it up to .NET 4.7.2. Future: improved testing; ASP.NET Core; Entity Framework Core and better separation of concerns; UI libraries / frameworks.
 
@@ -61,7 +59,7 @@ Did anything break? No build errors, warnings, or messages. But some unit tests 
 
 The API in this case was simply using MVC controllers and returning JSON, instead of using Web API. In ASP.NET COre the web libraries were merged into one framework instead of two. As the last step in this initial refactoring foray, I'll convert the API endpoints to use Web API. Since I don't have unit tests yet, I will not change the business logic in any way; only the method signatures and return statements should change. This way I don't create unit tests for the old way and then modify them twice (once to Web API and once to APS.NET Core MVC).
 
-Here's a funtion from the `HomeController`:
+Here's a function from the `HomeController`:
 
 ```csharp
 [Authorize(Roles = AdminController.HR_ROLE)]

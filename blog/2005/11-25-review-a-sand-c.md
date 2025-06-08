@@ -7,12 +7,14 @@ tags:
 - literature
 - environment
 ---
-<!-- todo: links and image -->
 
-Completed shortly before his death in 1948, University of Wisconsin forestry professor [Aldo Leopold](http://en.wikipedia.org/wiki/Aldo_Leopold) grants his readers the supreme privilege of seeing nature through the original ecologist's eyes. Leopold was probably not the first to use the term "ecologist", nor the first to be be so branded; surely he was the first to deserve it. Though it may appear a quaint historical piece at first glance, its message is no less potent and relevant in the 21st century: nature, _the land_, deserves full respect and love without regard to traditional economics. Without this, effort at conservation will be a vain half-measure at best.
+Completed shortly before his death in 1948, University of Wisconsin forestry professor [Aldo Leopold](https://en.wikipedia.org/wiki/Aldo_Leopold) grants his readers the supreme privilege of seeing nature through the original ecologist's eyes. Leopold was probably not the first to use the term "ecologist", nor the first to be be so branded; surely he was the first to deserve it. Though it may appear a quaint historical piece at first glance, its message is no less potent and relevant in the 21st century: nature, _the land_, deserves full respect and love without regard to traditional economics. Without this, effort at conservation will be a vain half-measure at best.
 
-![Snowfall in the backyard today](http://www.safnet.com/writing/archives/snow11-25-05-thumb.jpg)
-_Snowfall in the backyard today_
+<div class="image">
+![Snowfall in the backyard today](./snow11-25-05.jpg)
+
+Snowfall in the backyard today
+</div>
 
 <!-- truncate -->
 
@@ -86,8 +88,8 @@ should read the _Almanac_ and wonder at its hallowed status in light
 of what he perceives as commonplace observations, then shall we know that the
 Land Ethic has truly taken hold.
 
-_For a sample of Leopold's writing, I recommend [Thinking Like a Mountain](http://www.eco-action.org/dt/thinking.html), the first piece I ever read from him. From the Sketches, it expresses both a magnificent sense of the order in nature, along with Leopold's wistfulness about mankind's present role in the greater ecosystem. Also available online is [The Land Ethic](http://www.tipiglen.dircon.co.uk/landethic.html) itself._
-
----
-
-_By Stephen Fuqua on 5:18 PM_
+_For a sample of Leopold's writing, I recommend [Thinking Like a
+Mountain](https://archive.org/details/ThinkingLikeAMountain), the first piece I
+ever read from him. From the Sketches, it expresses both a magnificent sense of
+the order in nature, along with Leopold's wistfulness about mankind's present
+role in the greater ecosystem.

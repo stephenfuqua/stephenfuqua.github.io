@@ -69,20 +69,7 @@ There are all kinds of environmental justice issues related to landfills, which
 are frequently sited in minority communities. Landfills take up real estate that
 could be put to better use, and various toxic chemicals can leach out of the
 plastics
-[[Polymers](http://marinedebris.info/sites/default/files/literature/Plastic%20Degradation%20and%20Its%20Environmental%20Implications%20with%20Special%20Reference%20to%20Poly%28ethylene%20terephthalate%29.pdf) 2013, 5].
-
-<!-- TODO -->
-
-<div
-class='visually_embed' style="margin: 0 auto 0 auto">
-<img class='visually_embed_infographic' src='' alt='92% of plastic goes to landfill in the USA' />
-<div class='visually_embed_cycle'>
-<span>by</span>
-<a target='_blank' href='http://www.greenpag.es?utm_source=visually_embed'>katiepatrick</a> .
-<br/>
-</div>
-<script type='text/javascript' src='http://a.visual.ly/api/embed/61858?width=540' class='visually_embed_script' id='visually_embed_script_61858'></script>
-</div>
+[[Polymers](https://www.researchgate.net/publication/274432143_Plastic_Degradation_and_Its_Environmental_Implications_with_Special_Reference_to_Polyethylene_terephthalate) 2013, 5].
 
 ### Personal Impact
 
@@ -96,10 +83,10 @@ hormone-like behavior.
 
 cf [The
 Scary New Evidence on BPA-Free Plastics&hellip; And the Big Tobacco-style
-campaign to bury it](http://www.motherjones.com/environment/2014/03/tritan-certichem-eastman-bpa-free-plastic-safe), by Mariah Blake, _Mother Jones_, March/April 2014.
+campaign to bury it](https://www.motherjones.com/environment/2014/03/tritan-certichem-eastman-bpa-free-plastic-safe/), by Mariah Blake, _Mother Jones_, March/April 2014.
 
 <div class="image">
-![Old ad for bouillon cubes in plastic container](/img/plasticBouillon.jpg)
+![Old ad for bouillon cubes in plastic container](./plasticBouillon.jpg)
 
 By "Classic Film", 2014, Some rights reserved (CC-BY-NC).
 </div>
@@ -145,6 +132,6 @@ by Rachael Stephens and Leighton Walter Kille, October 9, 2014, _Journalit's
 Resource_
 
 [What Happens to All That
-Plastic?](http://blogs.ei.columbia.edu/2012/01/31/what-happens-to-all-that-plastic/),
+Plastic?](https://blogs.ei.columbia.edu/2012/01/31/what-happens-to-all-that-plastic/),
 by Renee Cho, January 31, 2012, _State of the Planet_ blog from Columbia
 University.

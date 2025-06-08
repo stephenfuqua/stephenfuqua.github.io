@@ -142,8 +142,7 @@ a MassTransit-based subscription to this queue, but I don't have any consumer
 running for this message type. The result is that the message is pulled from the
 queue by MassTransit, but then pushed right back to Rabbit in this error queue.
 
-<!-- todo -->
-
+<!-- markdownlint-disable MD033 -->
 <table>
 <tr>
 <th align="left" width="150">Exchange</th>

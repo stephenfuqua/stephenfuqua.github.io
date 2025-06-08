@@ -11,9 +11,8 @@ tags:
 <div class="image">
 ![image depicting a ruby and gherkin](/img/fromRubyToGherkin.jpg)
 </div>
-<!-- TODO -->
-_Follow-up to [Building a Test Script Environment with C# and IronRuby, pt
-1](/archive/2012/10/11/building_a_test_script_environment_with_c_and_ironruby_pt_1/),
+
+_Follow-up to [Building a Test Script Environment with C# and IronRuby, pt 1](../2012/10-10-building_a_test_script_environment_with_c_and_ironruby_pt_1.md),
 wherein we change emphasis from coding tests in Ruby to writing them in English
 (Gherkin) with the help of SpecFlow._
 
@@ -64,7 +63,7 @@ trying to install RSpec as the interpreter, but I could not get it to install
 properly in IronRuby. Undismayed, I revised my goal: no longer would I seek to
 convert a tester into a Ruby programmer. Instead, I would encourage that tester
 to write and review English-language test scenarios in Gherkin, which the
-programming team would then support with code in C# using the SpecFlow (2025:
+programming team would then support with code in C# using the SpecFlow (SF 2025:
 SpecFlow is dead, long live [Req'n'roll](https://reqnroll.net)) framework.
 
 At that point, we were working on a line-of-business application. Whereas

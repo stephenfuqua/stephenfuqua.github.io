@@ -7,12 +7,10 @@ tags:
 - society
 ---
 
-<!-- todo: links -->
-
 Change happens. Today is not the same as yesterday, and both are far
 different from a few decades ago. Nevertheless, most of us look at the
-[troubles](http://www.grist.org/news/maindish/2005/07/26/gertz-inuit/index.html) of the
-[world](http://www.nytimes.com/2005/07/26/opinion/26kristof.html?)
+[troubles](https://grist.org/article/gertz-inuit/) of the
+[world](https://www.nytimes.com/2005/07/26/opinion/26kristof.html?)
 and feel more or less hopeless than any social change will ever lessen the
 suffering and degradation of more than a small handful of any given populace.
 But change does occur. Legalized slavery was abolished in the United States.
@@ -21,7 +19,7 @@ Ukraine, Georgia, Kyrgyzstan, Lebanon. Gandhi and King preached non-violence,
 and with non-violence achieved at least the first vital steps toward
 realizing their dreams. How this change comes about is the topic of an
 excellent essay, albeit one in need of some tightening, called
-[The Six or Seven Axioms of Social Change](http://www.worldchanging.com/archives/003171.html).
+[The Six or Seven Axioms of Social Change](https://newstories.org/resources/the-six-or-seven-axioms-of-social-change/).
 
 <!-- truncate -->
 
@@ -66,11 +64,7 @@ Questions about the worth of communism aside, I pre-suppose that
 
 ## Bonus
 
-As a bonus for reading this far, here's a great page of [spiders on drugs](http://www.caffeineweb.com/NASA%20Study.htm).
-
----
-
-_By Stephen Fuqua on 11:27 PM_
+As a bonus for reading this far, here's a great page of [spiders on drugs](https://en.wikipedia.org/wiki/Effect_of_psychoactive_drugs_on_animals#Spiders).
 
 ## Comments
 

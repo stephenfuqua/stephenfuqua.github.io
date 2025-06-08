@@ -6,7 +6,7 @@ tags:
 - bahai
 - peace
 ---
-<!-- todo: links -->
+
 Yesterday's Minnesota Public Radio story [Finding culture and history in the
 suburbs](https://news.minnesota.publicradio.org/features/2005/02/17_olsond_edina/)
 was perhaps the most poignant I've ever heard, spotlighting a wonderful program

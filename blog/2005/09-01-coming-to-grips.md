@@ -10,7 +10,9 @@ I am sure that I am not alone in having taken a few days to fully grok the long-
 
 The first of these two is of course the most eye-catching (and add another 25,000 [heading to San Antonio](https://www.nytimes.com/aponline/national/AP-Katrina-Texas-HK4.html)). How awful, to think of joining thousands of others in sleeping on cots in the Astrodome for months, with nothing to do, no job, no privacy. That is truly horrible.
 
-The second issue is far more mundane, but equally powerful in my mind: it highlights the extent of the disruption. This hurricane has driven people from their homes and from being able to carry out the daily functions of life. Obviously college students are not alone; I've also read about [Texas taking in primary and secondary](http://www.nytimes.com/2005/09/01/national/nationalspecial/01education.html) school students from the affected areas (in a state with seriously-messed up education financing). I was not a fan of the government in Texas when I left, but I have to say I'm proud of my fellow Texans for the depth and genuineness of their response.
+<!-- truncate -->
+
+The second issue is far more mundane, but equally powerful in my mind: it highlights the extent of the disruption. This hurricane has driven people from their homes and from being able to carry out the daily functions of life. Obviously college students are not alone; I've also read about [Texas taking in primary and secondary](https://www.nytimes.com/2005/09/01/national/nationalspecial/01education.html) school students from the affected areas (in a state with seriously-messed up education financing). I was not a fan of the government in Texas when I left, but I have to say I'm proud of my fellow Texans for the depth and genuineness of their response.
 
 I remember reading a few years back about the effects predicted for a category 4 or 5 hurricane hitting New Orleans. Seems the doomsayers got it right. And New Orleans got lucky, with the hurricane having hit to the east (thus putting the apparently-weaker western eye-wall over the area).
 

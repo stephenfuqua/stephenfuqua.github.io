@@ -155,16 +155,14 @@ test("displayMessage opens a Kendo window and replaces the inner contents", func
 
 Put it all together and load it into JSFiddle&hellip;
 
-<!-- todo -->
-
-<iframe width="100%" height="300" src="http://jsfiddle.net/sfuqua/F3Uw4/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe width="100%" height="300" src="https://jsfiddle.net/sfuqua/F3Uw4/embedded/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 Was it worth it? Maybe not in this specific example, but at work I had a more
 complex situation, combining a couple of different Kendo widgets. **And the test
 actually exposed a bug. Win.** It took embarrassingly long to come up with this
 simple test, due to my long detour through trying to use SinonJS mocks. I think
-I'll stay aware from them. As a next step, I might try out the suggestions in [Using
-QUnit and Require.js to build modular unit tests](https://www.nathandavison.com/article/17/using-qunit-and-requirejs-to-build-modular-unit-tests) (dead link removed; SF 2025). In addition to the QUnit
+I'll stay aware from them. As a next step, I might try out the suggestions in "Using
+QUnit and Require.js to build modular unit tests" (dead link removed; SF 2025). In addition to the QUnit
 and SinonJS documentation linked above, I want to give a shout-out to these
 articles:
 

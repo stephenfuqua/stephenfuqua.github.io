@@ -8,11 +8,9 @@ tags:
 - spirituality
 ---
 
-<!-- todo: links -->
 
 If our economy is in need of a financial bailout, then perhaps our society is
-in need of a nature bailout. I've
-[often felt](http://www.safnet.com/writing/archives/000309.html) that
+in need of a nature bailout. I've often felt that
 lack of spirituality is one of the strongest elements holding society back from
 a greater advancement of the general weal. New evidence suggests that lack of
 contact with the natural world stunts individual focus, resolve, and calm
@@ -24,12 +22,15 @@ these two notions, though I'm not ready to explore that connection just yet.
 
 That our well-being is affected by contact with nature is not only obvious to
 nature lovers; it has also been scientifically established for some time and
-addressed by hypotheses such as
-[nature deficit disorder](http://dir.salon.com/story/mwt/feature/2005/06/02/Louv/index.html) and [biophilia](http://en.wikipedia.org/wiki/Biophilia). The new evidence mentioned above is well-covered in a
-[Boston Globe article](http://www.boston.com/bostonglobe/ideas/articles/2009/01/04/how_the_city_hurts_your_brain/). The author summarizes, "Just being in an urban
-environment, they have found, impairs our basic mental processes. After spending
-a few minutes on a crowded city street, the brain is less able to hold things in
-memory, and suffers from reduced self-control."
+addressed by hypotheses such as [nature deficit
+disorder](https://www.salon.com/2005/06/02/louv/) and
+[biophilia](https://en.wikipedia.org/wiki/Biophilia). The new evidence mentioned
+above is well-covered in a [Boston Globe
+article](https://www.northassoc.org/2009/01/14/boston-globe-how-the-city-hurts-your-brain/).
+The author summarizes, "Just being in an urban environment, they have found,
+impairs our basic mental processes. After spending a few minutes on a crowded
+city street, the brain is less able to hold things in memory, and suffers from
+reduced self-control."
 
 The various research and hypotheses cited on humans in urban habitats lead me
 to wonder:
