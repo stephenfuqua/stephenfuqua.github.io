@@ -43,7 +43,7 @@ Take a look at [this pull
 request](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-Actions/pull/142/commits) I
 created.
 
-![Fake signed commit](/images/github-copilot-fake-signed-commit.webp)
+![Fake signed commit](/images/github-copilot-fake-signed-commit.webp){: .img-fluid .border .rounded }
 
 Looks like Copilot created that commit, doesn't it? But I was the originator.
 Note the lack of a [green "VERIFIED"
@@ -84,9 +84,9 @@ issues quickly, while allowing my team to remain more focused on feature
 development (with or without Coding Agent). On balance, lifting the enforcement
 of code signing to allow use of Code Agent seems worth the tradeoff.
 
-> [!NOTE]
-> Please review your organization's security posture carefully before changing
-> your commit signing policy.
+{: .alert .alert-warning .mt-2 }
+Please review your organization's security posture carefully before changing
+your commit signing policy.
 
 ---
 
