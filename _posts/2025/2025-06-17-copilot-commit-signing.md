@@ -43,7 +43,7 @@ Take a look at [this pull
 request](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-Actions/pull/142/commits) I
 created.
 
-![Fake signed commit](./github-copilot-fake-signed-commit.webp)
+![Fake signed commit](/images/github-copilot-fake-signed-commit.webp)
 
 Looks like Copilot created that commit, doesn't it? But I was the originator.
 Note the lack of a [green "VERIFIED"
