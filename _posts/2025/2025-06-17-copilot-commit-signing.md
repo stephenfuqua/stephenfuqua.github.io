@@ -92,8 +92,8 @@ of code signing to allow use of Code Agent seems worth the tradeoff.
 
 ## Postscript 1: Open-Source problem
 
-ps. I fail to mention that commit signing is great for regular contributors to
-an open-source repository, but present significant friction for new / casual
+I failed to mention that commit signing is great for regular contributors to an
+open-source repository, but presents significant friction for new / casual
 contributors, as described [in this feature
 request](https://github.com/orgs/community/discussions/69706).
 
