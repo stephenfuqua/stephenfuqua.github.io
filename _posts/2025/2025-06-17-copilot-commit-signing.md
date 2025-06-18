@@ -39,10 +39,12 @@ requirement. This raises the question:
 
 What do others do? Microsoft, for example, [does not require signed
 commits](https://github.com/dotnet/aspire/pull/9816/commits). The final merge
-into the `main` branch _is_ signed by GitHub, so that's something. If this is good enough for Microsoft, is it good enough for us?
+into the `main` branch _is_ signed by GitHub, so that's something. If this is
+good enough for Microsoft, is it good enough for us?
 
-Commit signing is ultimately about trust: do you trust the committer, and by extension, the committed code? This trust is (or should be) backed up
-with quality code reviews, static application security testing (SAST), and other
+Commit signing is ultimately about trust: do you trust the committer, and by
+extension, the committed code? This trust is (or should be) backed up with
+quality code reviews, static application security testing (SAST), and other
 defensive measures, regardless of who created the commit.
 
 Is the productivity benefit of Coding Agent worth the tradeoff on commit
@@ -54,3 +56,20 @@ Coding Agent can be a valuable and productive tool for resolving well documented
 issues quickly, while allowing my team to remain more focused on feature
 development (with or without Coding Agent). On balance, lifting the enforcement
 of code signing to allow use of Code Agent seems worth the tradeoff.
+
+---
+
+ps. I fail to mention that commit signing is great for regular contributors to
+an open-source repository, but present significant friction for new / casual
+contributores, as described [in this feature
+request](https://github.com/orgs/community/discussions/69706).
+
+---
+
+pps. More examples of prominent open source projects that do not require signed
+commits on a pull request:
+
+* [LangChain](https://github.com/langchain-ai)
+* [Apache Airflow](https://github.com/apache/airflow/pull/51853/commits)
+* [Redis](https://github.com/redis/redis/pull/14133/commits)
+* [Kubernetes](https://github.com/kubernetes/kubernetes/pull/132352/commits)
