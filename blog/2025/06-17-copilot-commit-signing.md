@@ -40,7 +40,7 @@ request](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-Actions/pull/142/commits) I
 created.
 
 <div class="image">
-![Fake signed commit](/images/github-copilot-fake-signed-commit.webp)
+![Fake signed commit](/img/github-copilot-fake-signed-commit.webp)
 </div>
 
 Looks like Copilot created that commit, doesn't it? But I was the originator.
