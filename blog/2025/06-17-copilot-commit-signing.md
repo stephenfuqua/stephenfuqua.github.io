@@ -1,14 +1,10 @@
 ---
-layout: page
 title: GitHub Copilot and Signed Commits
 date: 2025-06-17
-comments: true
 tags:
 - programming
 - architecture
 - security
-sharing: true
-excerpt_separator: <!-- truncate -->
 ---
 
 GitHub Copilot [Coding
@@ -43,7 +39,9 @@ Take a look at [this pull
 request](https://github.com/Ed-Fi-Alliance-OSS/Ed-Fi-Actions/pull/142/commits) I
 created.
 
-![Fake signed commit](/images/github-copilot-fake-signed-commit.webp){: .img-fluid .border .rounded }
+<div class="image">
+![Fake signed commit](/images/github-copilot-fake-signed-commit.webp)
+</div>
 
 Looks like Copilot created that commit, doesn't it? But I was the originator.
 Note the lack of a [green "VERIFIED"
@@ -84,9 +82,12 @@ issues quickly, while allowing my team to remain more focused on feature
 development (with or without Coding Agent). On balance, lifting the enforcement
 of code signing to allow use of Code Agent seems worth the tradeoff.
 
-{: .alert .alert-warning .mt-2 }
+:::warning
+
 Please review your organization's security posture carefully before changing
 your commit signing policy.
+
+:::
 
 ---
 
