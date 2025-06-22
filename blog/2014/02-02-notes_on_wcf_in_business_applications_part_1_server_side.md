@@ -203,7 +203,7 @@ procedures or perform CRUD operations directly on tables.
 
 None of these advantages are strictly necessary; you could do them all manually.
 But manual steps are prone to error and frustration. So building an MSI package
-is a manifestation of the [Be Kind](/archive/2013/11/25/tackle_be_kind/)
+is a manifestation of the [Be Kind](../2013/11-24-tackle_be_kind.md)
 admonition.
 
 ## Run-time Debugging

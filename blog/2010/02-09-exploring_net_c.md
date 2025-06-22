@@ -16,7 +16,7 @@ spend exploring it, I was fortunate to have time to attend a Twin Cities
 Developers Guild meeting tonight and hear a talk on on how to use the tool,
 which now has me jump started. First a few highlights of what I learned (without
 cribbing too much from Jason Bock's presentation), and then sample results from
-the [method in my last post](/archive/2010/01/18/c_extension_met/).
+the [method in my last post](./01-18-c_extension_met.md).
 
 <!-- truncate -->
 
@@ -31,7 +31,7 @@ the [method in my last post](/archive/2010/01/18/c_extension_met/).
   thrown) might be due to a design feature (throw MyException in some
   situation), and a "passing" test might expose a logical problem that is
   programmatically legit.
-* It comes with [ExtendedReflection](/archive/2010/01/18/c_extension_met/),
+* It comes with [ExtendedReflection](./01-18-c_extension_met.md),
   which can be used for instrumentation/performance profiling.
 * It also comes with Moles, which creates "redirector" methods that can be used
   while writing unit test &mdash; e.g. can create a mock method body on method A

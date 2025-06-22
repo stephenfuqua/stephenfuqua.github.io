@@ -8,7 +8,7 @@ tags:
 ---
 
 In reaction to all of the "agile is dead" articles, I am cleaning up [old posts
-about Agile](/tag/agile), re-reading them, contemplating lessons learned but
+about Agile](/tags/agile), re-reading them, contemplating lessons learned but
 forgotten, and asking myself if some practices have outlived their usefulness.
 That is the spirit of agility: the interplay of action and reflection.
 

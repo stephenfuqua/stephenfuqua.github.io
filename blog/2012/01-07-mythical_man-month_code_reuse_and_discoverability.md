@@ -13,10 +13,10 @@ tags:
 :::info
 
 Part five in a series about Dr. Frederick Brooks Jr.'s _The Mythical Man-Month_:
- [1](/2011/11/10/review_and_reflection_on_the_mythical_man-month_by_frederick_p_brooks_jr/),
- [2](/2011/11/20/mythical_man-month_conceptual_integrity/),
- [3](/2011/11/26/the_mythical_man-month_wiki_and_customer_service/),
- [4](/2011/12/11/mythical_man-month_planning_for_change/),
+ [1](../2011/11-09-review_and_reflection_on_the_mythical_man-month_by_frederick_p_brooks_jr.md),
+ [2](../2011/11-20-mythical_man-month_conceptual_integrity.md),
+ [3](../2011/11-26-the_mythical_man-month_wiki_and_customer_service.md),
+ [4](../2011/12-11-mythical_man-month_planning_for_change.md),
  5 (this piece)
 
 :::
@@ -48,7 +48,7 @@ deal of flexibility in reusable code.
 tools can help spot common flaws in security, design, naming, and more &mdash;
 thereby helping to improve not only the maintainability but also the discovery
 of functionality. For the .Net developer,
-[Pex's](/archive/2010/02/10/exploring_net_c/) automatic discovery of unhandled
+[Pex's](../2010/02-09-exploring_net_c.md) automatic discovery of unhandled
 exceptions can do much to improve, quickly, the code hardening efforts.
 
 [XML code comments](https://msdn.microsoft.com/en-us/magazine/cc302121.aspx),

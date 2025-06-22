@@ -45,7 +45,7 @@ manager to learn: think twice (or more) before jumping into the code. Get better
 at empowering than (hands-on) solving.
 
 <div class="image">
-![Alexander the Great, cutting the Gordian Knot](https://blog.safnet.com/img/gordian-knot.png)
+![Alexander the Great, cutting the Gordian Knot](/img/gordian-knot.png)
 
 Maturino da Firenze. [Alexander Cutting the Gordian
 Knot](https://www.artic.edu/artworks/7441/alexander-cutting-the-gordian-knot),

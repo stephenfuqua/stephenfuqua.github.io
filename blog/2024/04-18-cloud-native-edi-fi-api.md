@@ -23,8 +23,8 @@ Though barely mentioned in the article, the work to create a production ready
 system has been dubbed [Project
 Tanager](https://github.com/Ed-Fi-Alliance-OSS/Project-Tanager), the third
 bird-related project name in my tenure with the Ed-Fi Alliance
-([Roadrunner](/archive/2019/06/04/postgresql-for-the-ods/),
-[Meadowlark](/archive/2022/06/03/exploring-next-generation-meadowlark/)).
+([Roadrunner](../2019/06-04-postgresql-for-the-ods.md),
+[Meadowlark](../2022/06-03-exploring-next-generation-meadowlark.md)).
 
 <div class="image">
 ![Scarlet Tanager, by Adam Jackson, no rights reserved](/img/scarlet-tanager_by_adam-jackson_no-rights-reserved_square-256.png)

@@ -1,7 +1,7 @@
 ---
-title: 'Baha''i Pilgrimage, pt 5: More Birds, Plants, and a Bee'
+title: 'Baha''i Pilgrimage, pt 4: More Birds, Plants, and a Bee'
 date: 2011-01-01
-slug: bahai_pilgrimage_5
+slug: bahai_pilgrimage_4
 tags:
 - living
 - religion
@@ -22,7 +22,7 @@ to share some miscellaneous photos of birds, fruits, trees, and a bee.
 ## Roses at the base of the Bah&aacute;'&iacute; Terraces
 
 <div class="image">
-![roses](http://lh3.ggpht.com/_mZAPo8ePwc4/TR9m2nLV2bI/AAAAAAAAAso/l7Yhn-KRxgY/s400/IMG_2198.JPG)
+![roses](https://lh3.ggpht.com/_mZAPo8ePwc4/TR9m2nLV2bI/AAAAAAAAAso/l7Yhn-KRxgY/s400/IMG_2198.JPG)
 </div>
 
 ## Roses at the Shrine of the B&aacute;b
@@ -42,7 +42,7 @@ to share some miscellaneous photos of birds, fruits, trees, and a bee.
 These twinned olive trees reminded us of the story of [Baucis and Philemon](https://sacred-texts.com/cla/bulf/bulf05.htm), who were said to have been turned into an oak and a linden to live together for eternity.
 
 <div class="image">
-![olive trees](http://lh3.ggpht.com/_mZAPo8ePwc4/TR9kY6t0CnI/AAAAAAAAAsc/yxelUqzP-Dg/s400/IMG_2466.JPG)
+![olive trees](https://lh3.ggpht.com/_mZAPo8ePwc4/TR9kY6t0CnI/AAAAAAAAAsc/yxelUqzP-Dg/s400/IMG_2466.JPG)
 </div>
 
 ## Atrium in the Bahj&iacute; Visitors Center outside the Shrine of Bah&aacute;'u'll&aacute;h
@@ -66,7 +66,7 @@ These twinned olive trees reminded us of the story of [Baucis and Philemon](http
 ## Pigeon nesting in the wall of old Ottoman 'Akk&aacute;
 
 <div class="image">
-![missing caption](http://lh3.ggpht.com/_mZAPo8ePwc4/TR9n-2HsUoI/AAAAAAAAAs8/hASkrw0eotE/s400/IMG_2306.JPG)
+![missing caption](https://lh3.ggpht.com/_mZAPo8ePwc4/TR9n-2HsUoI/AAAAAAAAAs8/hASkrw0eotE/s400/IMG_2306.JPG)
 </div>
 
 ## Bathing crow on the Bah&aacute;'&iacute; Terraces

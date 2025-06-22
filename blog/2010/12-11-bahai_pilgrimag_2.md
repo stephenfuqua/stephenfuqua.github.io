@@ -1,7 +1,7 @@
 ---
-title: 'Baha''i Pilgrimage, Pt 3: A Sense of Peace'
+title: 'Baha''i Pilgrimage, Pt 2: A Sense of Peace'
 date: 2010-12-11
-slug: bahai_pilgrimage_3
+slug: bahai_pilgrimage_2
 tags:
 - living
 - religion
@@ -17,7 +17,7 @@ in the heart of a prison city built above the fetid ruins of the Cruisader
 capital of St. Jean de Acre.
 
 <div class="image">
-![ancient citadel](http://lh3.ggpht.com/_mZAPo8ePwc4/TQPiiCB3eSI/AAAAAAAAApc/UovtgBRN0eU/s400/IMG_2148.JPG)
+![ancient citadel](https://lh3.ggpht.com/_mZAPo8ePwc4/TQPiiCB3eSI/AAAAAAAAApc/UovtgBRN0eU/s400/IMG_2148.JPG)
 
 The Citadel of 'Akk&aacute;
 </div>

@@ -69,8 +69,8 @@ Finally, at some point I skimmed through [_Management 3.0: Leading Agile
 Developers, Developing Agile
 Leaders_](https://management30.com/books/management30/), a book I had first read
 ten years ago (cf in this blog: [easy : simple :: lazy :
-efficient](../2014/2014-05-17-easy-simple-lazy-efficient.md) and [Management
+efficient](../2014/05-17-easy-simple-lazy-efficient.md) and [Management
 3.0: Knowledge and
-Diversity](../2015/2015-01-20-management_30_knowledge_and_diversity.md)). A
+Diversity](../2015/01-20-management_30_knowledge_and_diversity.md)). A
 useful resource, but, unfortunately, what currently stands out in this reader's
 mind is the author's off-putting sarcasm.

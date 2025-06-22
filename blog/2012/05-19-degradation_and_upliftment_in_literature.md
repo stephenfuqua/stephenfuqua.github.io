@@ -38,10 +38,10 @@ in the next decade or more.
    not an excuse for being horrible people! Granted, they are _facilitators_ for
    expression of our worst qualities.
 2. There is an irony in the second choice, _The Idiot_, by Fyodor Dostoyevsky. I
-   wrote a [brief review](/archive/2004/07/16/dostoyevskys_th) in 2004, in which
-   the protagonist's simplicity and understanding of love is mentioned. These
-   are in contrast to the gossiping, spiteful, ruinous human beings he finds all
-   around him. We find that it is impossible to be good and be in society.
+   wrote a brief review in 2004, in which the protagonist's simplicity and
+   understanding of love is mentioned. These are in contrast to the gossiping,
+   spiteful, ruinous human beings he finds all around him. We find that it is
+   impossible to be good and be in society.
 3. Undoubtedly, I will return to Salman Rushdie's _The Moor's Last Sigh_ at some
    future date. Read more recently than the other two, there was so much to it
    that I have trouble remembering _why_ I left feeling so awful about humanity.

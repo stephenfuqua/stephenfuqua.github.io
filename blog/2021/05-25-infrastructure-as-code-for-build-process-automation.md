@@ -12,9 +12,9 @@ tags:
 Acronyms">TLAs</abbr>, is the practice of configuring infrastructure
 components in text files instead of clicking around in a user interface. Last
 year I wrote a few detailed articles on IaC with TeamCity
-([1](/archive/2020/03/21/infrastructure-as-code-in-teamcity/),
-[2](/archive/2020/03/22/splitting-teamcity-kotlin-into-multiple-files/),
-[3](/archive/2020/08/08/teamcity-kotlin-template-inheritance/)). Today I want
+([1](../2020/03-21-infrastructure-as-code-in-teamcity.md),
+[2](../2020/03-22-splitting-teamcity-kotlin-into-multiple-files.md),
+[3](../2020/08-08-teamcity-kotlin-template-inheritance.md)). Today I want
 take a step back and briefly address the topic more broadly, particularly with
 respect to continuous integration (CI) and delivery (CD): the process of
 automating software compilation, testing, quality checks, packaging, deployment,
@@ -376,11 +376,11 @@ TeamCity build configurations can be automated with either XML or Kotlin. The
 latter is my preferred approach, and I've talked about it in three prior blog posts:
 
 1. [Getting Started with Infrastructure as Code in
-   TeamCity](/archive/2020/03/21/infrastructure-as-code-in-teamcity/)
-1. [Splitting TeamCity Kotlin Into Multiple
-   Files](/archive/2020/03/22/splitting-teamcity-kotlin-into-multiple-files/)
-1. [Template Inheritance with TeamCity
-   Kotlin](/archive/2020/08/08/teamcity-kotlin-template-inheritance/)
+   TeamCity](../2020/03-21-infrastructure-as-code-in-teamcity.md/)
+2. [Splitting TeamCity Kotlin Into Multiple
+   Files](./2020/03-22-splitting-teamcity-kotlin-into-multiple-files.md)
+3. [Template Inheritance with TeamCity
+   Kotlin](./2020/08-08-teamcity-kotlin-template-inheritance.md)
 
 ### GitHub Actions
 

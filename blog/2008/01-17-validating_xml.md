@@ -45,7 +45,7 @@ Assembly.GetExecutingAssembly().GetManifestResourceStream(myResourceName);`.
 ### Creating the Schema and Validating
 
 Creating the schema is simple: `XmlSchema mySchema = XmlSchema.Read(myStream,
-new ValidationEventHandler(myDelegateHandler));`. This [ValidationEventHandler](ValidationEventHandler) is a delegate that
+new ValidationEventHandler(myDelegateHandler));`. This `ValidationEventHandler` is a delegate that
 handles any validation errors. Simply create a delegate method somewhere with a
 signature of `void myHandler(object sender, ValidationEventArgs e)`. In that
 method you'll have to decide what to do with the validation errors. There are

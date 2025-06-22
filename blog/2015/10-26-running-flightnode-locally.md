@@ -11,9 +11,9 @@ In order to run FlightNode locally:
 
 ## 1. Retrieve all Repositories
 
-Make local copies of all the repositories mentioned in the [Architecture](/coding/architecture)
+Make local copies of all the repositories mentioned in the [Architecture](https://flightnode.github.io/coding/architecture//coding/architecture)
 page. Be sure to configure an `upstream` remote and follow the workflow
-described in [Git Tutorials Etc](/archive/2015-24-git-tutorials-etc).
+described in [Git Tutorials Etc](./10-24-git-tutorials-etc.md).
 
 ## 2. Start the Identity API
 
@@ -49,12 +49,18 @@ workspace directory.
 
 ### Download NPM Packages
 
-    npm install
+```shell
+npm install
+```
 
 ### Run the Project
 
-    npm start
+```shell
+npm start
+```
 
 or
 
- grunt serve
+```shell
+grunt serve
+```

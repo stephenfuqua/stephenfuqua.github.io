@@ -7,7 +7,6 @@ tags:
 - inclusion
 - tech
 - data-and-analytics
-
 ---
 
 A strange thing about my job is that, although we're all about supporting K-12
@@ -135,6 +134,5 @@ cite.
 
 Also see references in:
 
-* [Constructing Just Algorithms (Dec. 29, 2020)](/archive/2020/12/29/constructing-just-algorithms/)
-* [In Pursuit of Data and Algorithmic Equity (Dec. 06,
-  2020)](https://blog.safnet.com/archive/2020/12/06/in-pursuit-algorithmic-equity/)
+* [Constructing Just Algorithms (Dec. 29, 2020)](../2020/12-29-constructing-just-algorithms.md)
+* [In Pursuit of Data and Algorithmic Equity (Dec. 06, 2020)](../2020/12-06-in-pursuit-algorithmic-equity.md)

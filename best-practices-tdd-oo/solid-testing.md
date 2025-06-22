@@ -212,7 +212,7 @@ So while the principle is sound and theoretically useful, in practice I've not s
 
 :::tip
 
-For more on DbSet, see [Unit Testing with Entity Framework Core and Async](https://tech.safnet.com/archive/2019/12/27/testinging-with-ef-core/)
+For more on DbSet, see [Unit Testing with Entity Framework Core and Async](/2019/12/27/unit-testing-with-ef-core.md)
 
 :::
 

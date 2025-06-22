@@ -29,7 +29,7 @@ God, who is recognized through all the natural wonders:
 > time I contemplate the mountains, I am led to discover the ensigns of Thy
 > victory and the standards of Thine omnipotence.&rdquo;
 >
-> Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_, [CLXXVI](www.bahai.org/r/129964059)
+> Bahá'u'lláh, _Prayers and Meditations by Bahá’u’lláh_, [CLXXVI](https://www.bahai.org/r/129964059)
 
 <div class="image">
 ![Naw Ruz flowers at Enchanted Rock State Natural Area, by Stephen A. Fuqua](/img/Enchanged-Rock-Flowers-2024-03-20.jpg)
@@ -144,11 +144,7 @@ Governance](https://www.bic.org/news/role-environment-future-global-governance),
 article from the Bahá’í International Community, 6 March 2024.
 * [GreenBahai.com](https://www.greenbahai.com), by your humble author.
 * From this blog:
-  * [Discourses of Society: Climate
-    Change](/archive/2014/09/27/discourses_of_society_climate_change/)
-  * [Eco-spiritual Integration: Three
-    Texts](/archive/2015/01/04/eco-spiritual_integration_three_texts_1/)
-  * [Bahá'í­ Devotional Program on Humanity's Relationship with
-    Nature](/archive/2013/04/10/bah_devotional_program_on_humanitys_relationship_with_nature/)
-  * [Can We Talk About Climate
-    Change?](https://blog.safnet.com/archive/2014/02/23/can_we_talk_about_climate_change_pt_1/)
+  * [Discourses of Society: Climate Change](../2014/09-27-discourses_of_society_climate_change.md)
+  * [Eco-spiritual Integration: Three Texts](../2015/01-04-eco-spiritual_integration_three_texts_1.md)
+  * [Bahá'í­ Devotional Program on Humanity's Relationship with Nature](../2013/04-10-bah_devotional_program_on_humanitys_relationship_with_nature.md)
+  * [Can We Talk About Climate Change?](../2014/02-23-can_we_talk_about_climate_change_pt_1.md)

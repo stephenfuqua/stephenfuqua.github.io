@@ -8,8 +8,7 @@ tags:
 - ed-fi
 ---
 
-Following up on [Grudgingly Accepting AI Coding
-Assistants](./2025-01-14-accepting-ai-assistants.md), I have a small win from my
+Following up on [Grudgingly Accepting AI Coding Assistants](./01-14-accepting-ai-assistants.md), I have a small win from my
 first experiment with GitHub Copilot: a Python script for converting portions of
 an Open API specification file to a CSV. There is nothing revolutionary in this
 small win; countless programmers have doubtlessly done much more. But a

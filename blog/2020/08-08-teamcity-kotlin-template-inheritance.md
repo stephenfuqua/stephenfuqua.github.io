@@ -515,5 +515,5 @@ Version
 
 ## Previous Articles on TeamCity and Kotlin
 
-* [Getting Started with Infrastructure as Code in TeamCity](https://tech.safnet.com/archive/2020/03/21/infrastructure-as-code-in-teamcity/)
-* [Splitting TeamCity Kotlin Into Multiple Files](https://tech.safnet.com/archive/2020/03/22/splitting-teamcity-kotlin-into-multiple-files/)
+* [Getting Started with Infrastructure as Code in TeamCity](./03-21-infrastructure-as-code-in-teamcity.md)
+* [Splitting TeamCity Kotlin Into Multiple Files](./03-22-splitting-teamcity-kotlin-into-multiple-files.md)

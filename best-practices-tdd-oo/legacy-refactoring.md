@@ -33,7 +33,8 @@ Find the right pattern, and slowly refactor to take advantage of it (or them, as
 
 Write unit tests as you go, as soon as possible, so that further refactoring will now be covered. And soon you'll find yourself able to fix bugs and add features using full [test-driven development](./test-driven-development.md), instead of always having the test coverage lag behind.
 
-Here's a handy flowchart to help think about test isolation (updated since [the original from 2014](archive/2014/08/06/testing-isolation-legacy/)):
+Here's a handy flowchart to help think about test isolation (updated since
+[the original from 2014](/2014/08/06/unit-test-isolation-legacy.md)):
 
 ```mermaid
 flowchart TD
@@ -235,7 +236,7 @@ namespace Practices_For_TDD_OO
 }
 ```
 
-One option that keeps with the Dapper paradigm is to use [static delegate injection](/archive/2014/04/10/making-a-mockery-of-extension-methods/) to provide a fake method.
+One option that keeps with the Dapper paradigm is to use [static delegate injection](/2014/04/10/making-a-mockery-of-extension-methods.md) to provide a fake method.
 
 ```csharp
 using System;
@@ -305,9 +306,9 @@ namespace Practices_For_TDD_OO
 This looks really clever. For a few seconds. But it isn't.
 
 1. This is very strange looking and will throw off many developers.
-1. As will be seen below, it wasn't really any easier than creating a full-fledged class.
-1. Mocking the static delegate was non-trivial.
-1. If multiple tests set a mock delegate, and tests run in parallel, then you get nasty and unexpected results.
+2. As will be seen below, it wasn't really any easier than creating a full-fledged class.
+3. Mocking the static delegate was non-trivial.
+4. If multiple tests set a mock delegate, and tests run in parallel, then you get nasty and unexpected results.
 
 Time to Wrap that static up, using the [Adapter Pattern](https://en.wikipedia.org/wiki/Adapter_pattern). In this example, instead of delegate factory, we simply create a real class (with interface, naturally) that is almost like a Decorator - it just redirects to Dapper. The new `DapperWrapper` class was easier to write, is easier to think about, and is much safer to use than the `Orm<TEntity>` class above.
 

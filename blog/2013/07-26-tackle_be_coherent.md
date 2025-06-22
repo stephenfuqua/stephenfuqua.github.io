@@ -52,7 +52,7 @@ avoid bugs during initial development.
 
 Although on the surface these two forms of communication &mdash; "plain English"
 (Spanish, Tagalog, etc) and code &mdash; seem very different, this _coherence_
-principle shows us strong parallels between them. [Do not repeat yourself](http://wiki.c2.com/?DontRepeatYourself), in
+principle shows us strong parallels between them. [Do not repeat yourself](https://wiki.c2.com/?DontRepeatYourself), in
 its essence, applies equally in regular written (less so spoken) communication
 as in code. [Curly's
 Law: Do One Thing](https://blog.codinghorror.com/curlys-law-do-one-thing/) is helpful in code, and helpful in writing. After all, you
@@ -65,7 +65,15 @@ Again, that is true of both code and verbal/written language. And so on it goes.
 
 ### Books
 
-* [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), particularly chapter 7, _Why Did the Tower of Babel Fail?_ <blockquote> Where did they lack? In two respects &mdash; communication, and its consequent, organization. They were unable to talk with each other; hence they could not coordinate. When coordination failed, work ground to a halt. Reading between the lines we gather that lack of communication led to disputes, bad feelings, and group jealousies. Shortly the clans began to move apart, preferring isolation to wrangling. </blockquote>
+* [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), particularly chapter 7, _Why Did the Tower of Babel Fail?_
+
+  > Where did they lack? In two respects &mdash; communication, and its
+  > consequent, organization. They were unable to talk with each other; hence
+  > they could not coordinate. When coordination failed, work ground to a halt.
+  > Reading between the lines we gather that lack of communication led to
+  > disputes, bad feelings, and group jealousies. Shortly the clans began to
+  > move apart, preferring isolation to wrangling.
+
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://books.google.com/books/about/Clean_Code.html?id=_i6bDeoCQzsC)
 * [Code Complete](https://books.google.com/books?id=3JfE7TGUwvgC&dq=Code+Complete), part VII in general, section 33.5 in particular.
 
@@ -77,4 +85,4 @@ Again, that is true of both code and verbal/written language. And so on it goes.
 
 ### Related posts from this blog
 
-* [Agile Introverts](/archive/2013/05/20/agile_introverts/)
+* [Agile Introverts](./05-19-agile_introverts.md)

@@ -93,5 +93,5 @@ been done to support Linux in this particular build script. Tools are in place
 to start get this fixed up.
 
 <div class="image">
-![Screenshot of terminal window](https://blog.safnet.com/img/pshell-dotnet-wsl-adminapp.jpg)
+![Screenshot of terminal window](/img/pshell-dotnet-wsl-adminapp.jpg)
 </div>

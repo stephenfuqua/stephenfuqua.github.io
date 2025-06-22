@@ -9,8 +9,8 @@ tags:
 
 [Infrastructure-as-code
 (IaC)](https://www.ibm.com/cloud/learn/infrastructure-as-code) is the principle
-of configuring systems through code instead of mouse clicks (cf [Packer Tips and
-Lessons Learned](/archive/2018/03/10/packer-tips-and-lessons-learned) for
+of configuring systems through code instead of mouse clicks (cf
+[Packer Tips and Lessons Learned](../2018/03-10-packer-tips-and-lessons-learned.md) for
 another example). TeamCity, the popular continuous-integration (CI) server from
 JetBrains, enables IaC through writing scripts to interact with its [REST
 API](https://www.jetbrains.com/help/teamcity/rest-api.html), or by [storing
@@ -21,11 +21,11 @@ DSL](https://www.jetbrains.com/help/teamcity/kotlin-dsl.html) for project
 settings. These will include:
 
 1. What is Kotlin?
-1. Benefits of using Kotlin
-1. Learning Kotlin from TeamCity
-1. Debugging before committing
-1. Managing secure data
-1. Connecting to forks
+2. Benefits of using Kotlin
+3. Learning Kotlin from TeamCity
+4. Debugging before committing
+5. Managing secure data
+6. Connecting to forks
 
 <!-- truncate -->
 

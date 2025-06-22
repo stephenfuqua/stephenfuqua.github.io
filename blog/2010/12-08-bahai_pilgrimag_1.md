@@ -1,7 +1,7 @@
 ---
-title: 'Baha''i Pilgrimage, pt 2: Sacred Space (revised)'
+title: 'Baha''i Pilgrimage, pt 1: Sacred Space (revised)'
 date: 2010-12-08
-slug: bahai_pilgrimage_2
+slug: bahai_pilgrimage_1
 tags:
 - living
 - religion
@@ -74,7 +74,7 @@ International Archives building
 </div>
 
 <div class="image">
-![international archives building](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwyZjy8rLI/AAAAAAAAAqk/GHv6FnQGC5s/s400/IMG_2246.JPG)
+![international archives building](https://lh3.ggpht.com/_mZAPo8ePwc4/TQwyZjy8rLI/AAAAAAAAAqk/GHv6FnQGC5s/s400/IMG_2246.JPG)
 
 View of the International Archives Building from the 12th Terrace
 </div>
@@ -92,7 +92,7 @@ Pulsing water next to the steps - note the crest of water five steps up
 </div>
 
 <div class="image">
-![olive grove](http://lh3.ggpht.com/_mZAPo8ePwc4/TQwzyxe7kFI/AAAAAAAAAqw/5JQy9xIIXQw/s400/IMG_2238.JPG)
+![olive grove](https://lh3.ggpht.com/_mZAPo8ePwc4/TQwzyxe7kFI/AAAAAAAAAqw/5JQy9xIIXQw/s400/IMG_2238.JPG)
 
 Olive grove next to the Shrine of the B&aacute;b
 </div>

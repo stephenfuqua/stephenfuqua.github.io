@@ -67,25 +67,25 @@ facilitates full integration of the system test framework as well).
 ## Preferred Tools
 
 * _Unit test execution:_ [Microsoft Unit Test Framework](https://msdn.microsoft.com/en-us/library/dd264975.aspx), built into Visual Studio
-* _Unit test mocking framework:_ [MoQ](http://code.google.com/p/moq/)
-* _System/Specification tests:_ written in [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) using [SpecFlow](http://www.specflow.org/specflownew/)
-* _Automated-build:_ [CruiseControl.Net](http://www.cruisecontrolnet.org/), or [Team Foundation Server](https://msdn.microsoft.com/en-us/magazine/jj721597.aspx) if you have it.
-  * Note: [Microsoft Fakes](https://msdn.microsoft.com/en-us/library/hh549175.aspx) might be an excellent framework, but since it is based on Moles, I am [leery of it](/archive/2012/04/moles-no-longer-fit-for-unit-tests.html) except when working with legacy code that you can't afford to refactor &hellip; yet. The "stubs" part is equivalent to Moq, but the latter has been around longer and is thus better established.
-* _Source Control:_ most of my experience is with [AccuRev](http://www.accurev.com/) (and VSS years ago). AccuRev has its merits, but I wouldn't necessarily recommend it over TFS, SVN, GIT, etc. Personally, I just want to make sure that the tool has atomic transaction support, has good branching/merging, and is well integrated with the rest of the toolset.
+* _Unit test mocking framework:_ [MoQ](https://github.com/devlooped/moq)
+* _System/Specification tests:_ written in [Gherkin](https://github.com/cucumber/cucumber/wiki/Gherkin) using [SpecFlow](https://reqnroll.net/news/2025/01/specflow-end-of-life-has-been-announced/)
+* _Automated-build:_ [CruiseControl.Net](https://www.cruisecontrolnet.org/), or [Team Foundation Server](https://msdn.microsoft.com/en-us/magazine/jj721597.aspx) if you have it.
+  * Note: [Microsoft Fakes](https://msdn.microsoft.com/en-us/library/hh549175.aspx) might be an excellent framework, but since it is based on Moles, I am [leery of it](../2012/04-19-moles-no-longer-fit-for-unit-tests.md) except when working with legacy code that you can't afford to refactor &hellip; yet. The "stubs" part is equivalent to Moq, but the latter has been around longer and is thus better established.
+* _Source Control:_ most of my experience is with [AccuRev](https://en.wikipedia.org/wiki/AccuRev_SCM) (and VSS years ago). AccuRev has its merits, but I wouldn't necessarily recommend it over TFS, SVN, GIT, etc. Personally, I just want to make sure that the tool has atomic transaction support, has good branching/merging, and is well integrated with the rest of the toolset.
 
 ## Resources
 
 ### Books
 
-* [Growing Object Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) ([my review](/archive/2012/05/review-growing-object-oriented-software-guided-by-tests.html))
+* [Growing Object Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com/) ([my review](../2012/05-12-review_growing_object-oriented_software_guided_by_tests.md))
 * [XUnit Test Patterns](http://xunitpatterns.com/)
-* [Agile Testing: A Practical Guide for Testers and Agile Teams](http://www.agiletester.ca/)
-* * Cohn's diagram is in [Succeeding with Agile Software Development Using Scrum](http://www.succeedingwithagile.com/)
-* [Continuous Integration in .Net](http://www.manning.com/kawalerowicz/)
+* [Agile Testing: A Practical Guide for Testers and Agile Teams](https://agiletester.ca/)
+* Cohn's diagram is in [Succeeding with Agile Software Development Using Scrum](https://www.mountaingoatsoftware.com/books/succeeding-with-agile-software-development-using-scrum)
+* [Continuous Integration in .Net](https://www.manning.com/kawalerowicz/)
 
 ### Articles
 
-* [Writing Features - Gherkin Language](http://docs.behat.org/guides/1.gherkin.html), a worthy companion to the official documentation in the link above
+* [Writing Features - Gherkin Language](https://docs.behat.org/en/latest/user_guide/gherkin.html), a worthy companion to the official documentation in the link above
 
 ### Related posts from this blog
 

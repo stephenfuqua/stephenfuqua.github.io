@@ -25,7 +25,7 @@ behalf all people, most particularly her fellow African Americans and especially
 women of color.
 
 <div class="image">
-![Mary Mcleod Bethune](https://blog.safnet.com/img/mary-mcleod-bethune.jpg)
+![Mary Mcleod Bethune](/img/mary-mcleod-bethune.jpg)
 
 Mary Mcleod Bethune
 </div>

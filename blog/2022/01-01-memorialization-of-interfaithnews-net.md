@@ -9,7 +9,7 @@ tags:
 
 
 <div class="image">
-![Screenshot of today's InterfaithNews.Net](https://blog.safnet.com/img/inn-restored.jpg)
+![Screenshot of today's InterfaithNews.Net](/img/inn-restored.jpg)
 </div>
 
 > "Reacting to religious fanaticism and the challenges of advancing and
@@ -20,7 +20,7 @@ tags:
 
 That was the mission of a little newsletter and website that Joel Beversluis and
 I started, with support from the [North American Interfaith
-Network](http://nain.org) (NAIN) and the [United Religions
+Network](https://nain.org) (NAIN) and the [United Religions
 Initiative](https://www.uri.org) (URI), in 2002. Would that I could remember
 where he and I first met; perhaps at the URI North America summit of 2001 [in
 Salt Lake

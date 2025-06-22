@@ -164,8 +164,7 @@ To further demonstrate, let's add a new file defining a Git VCS root.
 
 ### HelloWorldRepo.kt
 
-See the previous post's [Managing Secure
-Data](/archive/2020/03/21/infrastructure-as-code-in-teamcity/#managing-secure-data)
+See the previous post's [Managing Secure Data](./03-21-infrastructure-as-code-in-teamcity.md#managing-secure-data)
 section for important information on the `accessToken` variable. Note that the
 GitHub organization name is specified as a variable &mdash; allowing a developer
 to test in a fork (substitute user's username for organization) before

@@ -4,7 +4,7 @@ date: 2018-07-21
 tags: [dotnet, architecture, testing]
 ---
 
-Continuing from [Upgrading safnet-directory, part 1](/archive/2018/07/15/upgrading-safnet-directory/), it is time to improve the solution's unit testing. At the outset, the controllers cannot be unit tested effectively due to their direct dependence on Entity Framework and ASP.NET Identity Framework classes. With application of an in-memory database, they could be _integration tested_, but not _unit tested_ as I understand and apply the term.
+Continuing from [Upgrading safnet-directory, part 1](./07-15-upgrading-safnet-directory.md), it is time to improve the solution's unit testing. At the outset, the controllers cannot be unit tested effectively due to their direct dependence on Entity Framework and ASP.NET Identity Framework classes. With application of an in-memory database, they could be _integration tested_, but not _unit tested_ as I understand and apply the term.
 
 <!-- truncate -->
 
@@ -44,7 +44,7 @@ private void ConfigureDependencyInjection(HttpConfiguration config)
 
 On the MVC-side of the house, I was using Owin as a cheap dependency manager for authentication with ASP.NET Identity framework. I will leave this alone for the moment, since that will likely require more radical change in the .NET Core future anyway.
 
-The members of the `IDbContext` were easy to identify, based on how the Controllers were using `ApplicationDbContext`. One of those members returns an `IQueryable`. For unit testing, I need to be able to mock it. [MockQueryable](https://github.com/romantitov/MockQueryable) will do nicely. It seems that it is also time to Install my [preferred unit testing tools](/archive/2018/07/04/dotnet-testing-tools/), [NUnit 3](http://nunit.org/) and [FluentAssertions](https://fluentassertions.com/).
+The members of the `IDbContext` were easy to identify, based on how the Controllers were using `ApplicationDbContext`. One of those members returns an `IQueryable`. For unit testing, I need to be able to mock it. [MockQueryable](https://github.com/romantitov/MockQueryable) will do nicely. It seems that it is also time to Install my [preferred unit testing tools](./07-04-dotnet-unit-test-tools.md), [NUnit 3](https://nunit.org/) and [FluentAssertions](https://fluentassertions.com/).
 
 ```powershell
 Install-package MockQueryable.Moq
