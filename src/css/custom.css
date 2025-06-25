@@ -85,3 +85,8 @@
   --ifm-link-color: #75bbac;
   --ifm-heading-color: #8371a5;
 }
+
+
+.footer a, .footer a:hover {
+  color: #FCDC58;
+}
