@@ -29,7 +29,7 @@ On many occasions since, I have let that sense be an anchor, bringing calm to my
 mind and helping me withstand tests and challenges.
 
 <div class="image">
-![Gardens at Bahji](./bahjiCactus.JPG)
+![Gardens at Bahji](./bahjiCactus.jpg)
 
 Cactus and rose in the gardens at Bahji.
 </div>

@@ -7,7 +7,7 @@ tags:
 ---
 
 <div class="image">
-![photo of the moon over water](/img/MoonOverGulf.JPG)
+![photo of the moon over water](/img/MoonOverGulf.jpg)
 </div>
 
 Last night we turned off the lights early for [Earth
