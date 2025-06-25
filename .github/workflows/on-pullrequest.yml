@@ -55,8 +55,8 @@ jobs:
         if: ${{ github.event_name == 'pull_request' && !github.event.repository.fork }}
         uses: actions/dependency-review-action@3b139cfc5fae8b618d3eae3675e383bb1769c019 # v4.5.0
         with:
-          # this is a webpack vulnerability that only applies in local "start" mode
-          allow-ghsas: GHSA-4v9v-hfq4-rm2v
+          # these are webpack vulnerabilities that only apply in local "start" mode
+          allow-ghsas: GHSA-4v9v-hfq4-rm2v, GHSA-9jgg-88mc-972h
 
       - name: Initialize CodeQL
         if: success()
