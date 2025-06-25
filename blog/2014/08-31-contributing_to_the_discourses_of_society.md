@@ -1,0 +1,30 @@
+---
+title: Contributing to the Discourses of Society
+date: 2014-08-31
+tags:
+- discourse
+- religion
+- Bahai
+---
+
+The Bah&aacute;'&iacute;s of Irving are trying out a concept: on the last Friday
+of each month, we'll talk about a theme related to the "discourses of society,"
+motivated by passages such as this one, from the Universal House of Justice's
+2010 Ridv&aacute;n Letter to the Bah&aacute;'&iacute;­s of the world (p10):
+
+> "... involvement in public discourse can range from an act as simple as
+> introducing Bah&aacute;'&iacute; ideas into everyday conversation to more
+> formal activities such as the preparation of articles and attendance at
+> gatherings, dedicated to themes of social concern - climate change and the
+> environment, governance and human rights, to mention a few. It entails, as
+> well, meaningful interactions with civic groups and local organizations in
+> villages and neighbourhoods."
+
+The August event was the first in the series, and the concept itself was the
+subject of the evening's presentation...
+
+<!-- truncate -->
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/38525963" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen> </iframe>
+
+[Contributing to the Discourses of Society](https:////www.slideshare.net/StephenFuqua/constructive-social-discourse)

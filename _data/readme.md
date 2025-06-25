@@ -1,1 +1,0 @@
-See http://www.minddust.com/post/tags-and-categories-on-github-pages/ for help on using tags and categories.

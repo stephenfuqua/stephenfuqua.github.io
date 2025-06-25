@@ -1,10 +1,9 @@
 ---
-layout: page
 title: "References on Test-Driven and Object Oriented Development"
 permalink: /best-practices-tdd-oo/references
 date: 2020-01-12
-comments: true
 tags: [testing, programming, oo]
+sidebar_position: 6
 ---
 
 Books and a few relevant articles that influenced the techniques found in this web site.
@@ -34,4 +33,4 @@ Books and a few relevant articles that influenced the techniques found in this w
 
 ------------------------------
 
-_[Back to the introduction / table of contents](intro)_
+_[Back to the introduction / table of contents](./readme.md)_

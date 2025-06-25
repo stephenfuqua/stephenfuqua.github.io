@@ -1,18 +1,18 @@
 ---
-layout: page
 title: "Legacy Refactoring Isolation Patterns"
 permalink: /best-practices-tdd-oo/legacy-refactoring
 date: 2020-01-13
-comments: true
 tags: [testing, programming, oo]
+sidebar_position: 2
 ---
 
 Any code that has been released is "legacy code." This article is about that really old legacy code your team inherited (from itself?). It wasn't designed in a way that is amenable to unit testing, and yet you're on a mission to add features, stamp out bugs, and improve the quality through refactoring. Here are some brief, practical tips for getting through this Gordian knot without a scimitar.
 
 ## Justification
 
-{: .center-block }
-![Lego wheel improvement](/images/lego-refactoring.jpg){: .img-fluid .border .rounded }
+<div class="image">
+![Lego wheel improvement](/img/lego-refactoring.jpg)
+</div>
 
 Before getting into the patterns, let's talk a bit more about refactoring. We've all heard the argument "I don't have time to refactor". Counter:
 
@@ -31,12 +31,28 @@ In order to refactor, you'll need to start isolating bits of code so that they c
 
 Find the right pattern, and slowly refactor to take advantage of it (or them, as the case may be). Keep this scientific principle in mind: hold everything constant, vary one thing, and measure the outcome. In software terms: make small changes, test frequently, or else you'll likely have an awfully hard time figuring out which variation caused the application to blow up. Martin Fowler [calls these changes](https://martinfowler.com/bliki/RefactoringMalapropism.html) "small behavior-preserving transformations."
 
-Write unit tests as you go, as soon as possible, so that further refactoring will now be covered. And soon you'll find yourself able to fix bugs and add features using full [test-driven development](test-driven-development), instead of always having the test coverage lag behind.
+Write unit tests as you go, as soon as possible, so that further refactoring will now be covered. And soon you'll find yourself able to fix bugs and add features using full [test-driven development](./test-driven-development.md), instead of always having the test coverage lag behind.
 
-Here's a handy flowchart to help think about test isolation (updated since [the original from 2014](archive/2014/08/06/testing-isolation-legacy/)):
+Here's a handy flowchart to help think about test isolation (updated since
+[the original from 2014](/2014/08/06/unit-test-isolation-legacy)):
 
-{: .center-block }
-![Test isolation flowchart](/images/testing-isolation-flowchart-2020.png){: .img-fluid .border .rounded }
+```mermaid
+flowchart TD
+    start([Unit Test Isolation for Legacy Code]) --> sep{"Already have<br>separation<br>of interfaces?"}
+    sep -->|No| C{"Due to static<br>method calls?"}
+    sep -->|Yes| D[Use stub and mock objects]
+    C -->|Yes| E["Create Adapters (Wrappers) for Dependency Injection"]
+    C -->|No - instance methods| F{Dealing with a dependency?}
+    F -->|No| G[Find a Seam and slowly pull the class apart into useful/testable components]
+    F -->|Yes| H{Does the dependency have a mockable interface?}
+    H -->|No| G
+    H -->|Yes| I[Sprout small new method that is easily tested]
+    E --> D
+
+    D --> done([Done with this refactor])
+    G --> done
+    I --> **done**
+```
 
 ## Stubs and Mocks
 
@@ -44,9 +60,9 @@ Stubs and mocks are about faking out dependencies, allowing you to isolate the s
 
 Mocks are used for behavior verification after the system under test has run, whereas stubs more simply allow you to inject pre-defined input behavior into that system. Some mocking frameworks are very strict about this. And I used to be very strict about mocks and behavior: with MoQ, I would also use `MockBehavior.Strict` to ensure that no unexpected method calls were made on the mock. In a quickly evolving system, my teams found this resulted in brittle unit test code with little upside (that we could detect). So we stopped being so strict&hellip; and thousands of unit tests later I cannot think of a single time this decision has haunted me.
 
-Last year, the team I support began getting rid of RhinoMocks, which has been dead for a long time. Before blindly jumping on the well-trodden path of MoQ, the team evaluated FakeItEasy. And liked it. So do I. It made for an easy transition from RhinoMocks, as it has some similar syntax. And it does away with the explicit distinction between mocks and stubs. Again, haven't seen a problem with that yet. (See [Unit Test Tools and Patterns](testing-tools-patterns) for more on these frameworks).
+Last year, the team I support began getting rid of RhinoMocks, which has been dead for a long time. Before blindly jumping on the well-trodden path of MoQ, the team evaluated FakeItEasy. And liked it. So do I. It made for an easy transition from RhinoMocks, as it has some similar syntax. And it does away with the explicit distinction between mocks and stubs. Again, haven't seen a problem with that yet. (See [Toolkit for .NET Unit Testing](./toolkit.md) for more on these frameworks).
 
-But you can only create a fake object (aka test double, aka either stub or mock, &hellip;) when you are [using interfaces](solid-testing).
+But you can only create a fake object (aka test double, aka either stub or mock, &hellip;) when you are [using interfaces](./solid-testing.md).
 
 Here's a trivial example to think about. `BadSystem` is not unit testable &ndash; because you cannot isolate the system from the `ConcreteA` and `ConcreteB` classes.
 
@@ -134,7 +150,7 @@ namespace mockAndStubExample
 }
 ```
 
-And now unit test it with the help of a hand-created mock (with behavior verification capability) and stub. See [Unit Test Tools and Patterns](testing-tools-patterns) for improved versions that use mock/fake tools and a more structured approach to test writing.
+And now unit test it with the help of a hand-created mock (with behavior verification capability) and stub. See [Patterns for Writing Clean Test Cases](./patterns.md) for improved versions that use mock/fake tools and a more structured approach to test writing.
 
 ```csharp
 using System;
@@ -220,7 +236,7 @@ namespace Practices_For_TDD_OO
 }
 ```
 
-One option that keeps with the Dapper paradigm is to use [static delegate injection](/archive/2014/04/10/making-a-mockery-of-extension-methods/) to provide a fake method.
+One option that keeps with the Dapper paradigm is to use [static delegate injection](/2014/04/10/making-a-mockery-of-extension-methods) to provide a fake method.
 
 ```csharp
 using System;
@@ -290,9 +306,9 @@ namespace Practices_For_TDD_OO
 This looks really clever. For a few seconds. But it isn't.
 
 1. This is very strange looking and will throw off many developers.
-1. As will be seen below, it wasn't really any easier than creating a full-fledged class.
-1. Mocking the static delegate was non-trivial.
-1. If multiple tests set a mock delegate, and tests run in parallel, then you get nasty and unexpected results.
+2. As will be seen below, it wasn't really any easier than creating a full-fledged class.
+3. Mocking the static delegate was non-trivial.
+4. If multiple tests set a mock delegate, and tests run in parallel, then you get nasty and unexpected results.
 
 Time to Wrap that static up, using the [Adapter Pattern](https://en.wikipedia.org/wiki/Adapter_pattern). In this example, instead of delegate factory, we simply create a real class (with interface, naturally) that is almost like a Decorator - it just redirects to Dapper. The new `DapperWrapper` class was easier to write, is easier to think about, and is much safer to use than the `Orm<TEntity>` class above.
 
@@ -693,8 +709,11 @@ public class FileSystemReporter
 }
 ```
 
-{: .bg-info }
+:::info
+
 Aside: since `StringBuilder` is a reference type, there was no requirement that the second method return the object. So why do so? Principle of "no suprises", discussed by Martin in _Clean Code_. In the main method it is very clear that second method is not just using the argument, but in fact modifying its state.
+
+:::
 
 Now we can write effective unit tests for those two new functions using a test-specific subclass. Here are a pair of tests that are passing withe "legacy" code, which can now be modified following the red-green-refactor methdology.
 
@@ -721,7 +740,7 @@ public class FileSystemReporterTest
         const string path = "c:\\some\\where";
         const string expected = @"Report for directory c:\some\where
 
-File Name	File Size
+File Name File Size
 ";
 
         var actual = TestSpecificFileSystemReporter.CreateReportHeader(path);
@@ -734,7 +753,7 @@ File Name	File Size
     {
         const string fileName = "file.txt";
         const long fileLength = 234;
-        const string expected = @"file.txt	234
+        const string expected = @"file.txt 234
 ";
 
         var builder = new StringBuilder();
@@ -747,4 +766,4 @@ File Name	File Size
 
 ---
 
-_[Back to the introduction / table of contents](intro)_
+_[Back to the introduction / table of contents](./readme.md)_

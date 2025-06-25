@@ -1,10 +1,9 @@
 ---
-layout: page
 title: "Patterns for Writing Clean Test Cases"
 permalink: /best-practices-tdd-oo/patterns
 date: 2020-01-16
-comments: true
 tags: [testing, programming, oo]
+sidebar_position: 4
 ---
 
 Each team will want to find its own style for expressing unit tests. Or multiple styles, depending on the situation. The patterns below represent just a handful of techniques that may be useful in creating easy-to-read and easy-to-maintain unit tests.
@@ -366,8 +365,9 @@ public abstract class BestRepositoryTests
 }
 ```
 
-{: .center-block }
-![Visual Studio test explorer with nested classes](/images/bestRepository_nestedClasses_nunit.png){: .img-fluid .border .rounded }
+<div class="image">
+![Visual Studio test explorer with nested classes](/img/bestRepository_nestedClasses_nunit.png)
+</div>
 
 ## Do Not Mock By Hand
 
@@ -375,4 +375,4 @@ All of these examples have shown hand-coded stubs and mocks in order to provide 
 
 ---
 
-_[Back to the introduction / table of contents](intro)_
+_[Back to the introduction / table of contents](./readme.md)_
