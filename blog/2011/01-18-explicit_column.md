@@ -1,7 +1,6 @@
 ---
 title: Explicit Column Mappings for SqlBulkCopy
 date: '2011-01-18 10:25:57 -0600'
-slug: explicit_column
 tags:
 - tech
 - dotnet

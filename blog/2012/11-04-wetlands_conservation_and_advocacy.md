@@ -1,7 +1,6 @@
 ---
 title: Wetlands Conservation and Advocacy
 date: 2012-11-04
-slug: wetlands_conservation_and_advocacy
 tags:
 - discourse
 - nature

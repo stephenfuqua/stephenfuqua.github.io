@@ -1,7 +1,6 @@
 ---
 title: Change HostType["Pex"] to HostType["Moles"]
 date: '2010-05-19 10:48:11 -0500'
-slug: change_hosttype
 tags:
 - tech
 - dotnet

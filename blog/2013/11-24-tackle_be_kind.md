@@ -1,7 +1,6 @@
 ---
 title: 'Be Kind'
 date: '2013-11-24 22:25:20 -0600'
-slug: tackle_be_kind
 tags:
 - tech
 - meta

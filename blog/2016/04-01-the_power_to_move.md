@@ -1,7 +1,6 @@
 ---
 title: The Power to Move
 date: 2016-04-01
-slug: the_power_to_move
 tags:
 - discourse
 - inclusion

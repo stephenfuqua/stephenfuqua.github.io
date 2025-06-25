@@ -1,7 +1,6 @@
 ---
 title: Unit Testing Functions That Call Microsoft Enterprise Logging
 date: '2009-05-27 21:53:23 -0500'
-slug: unit_testing_fu
 tags:
 - tech
 - dotnet

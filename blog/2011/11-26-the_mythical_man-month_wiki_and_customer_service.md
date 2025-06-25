@@ -1,7 +1,6 @@
 ---
 title: 'The Mythical Man-Month: Wiki and Customer Service'
 date: '2011-11-26 09:57:19 -0600'
-slug: the_mythical_man-month_wiki_and_customer_service
 tags:
 - tech
 - programming

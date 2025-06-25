@@ -1,7 +1,6 @@
 ---
 title: API Calls from Postman Work, But Not From the Browsers
 date: '2016-12-10'
-slug: api_calls_from_postman_work_but_not_from_the_browsers
 tags:
 - tech
 - programming

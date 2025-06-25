@@ -1,7 +1,6 @@
 ---
 title: Transcendent Moments
 date: 2014-11-23
-slug: transcendent_moments
 tags:
 - living
 - nature

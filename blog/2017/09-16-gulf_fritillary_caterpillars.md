@@ -1,7 +1,6 @@
 ---
 title: Gulf fritillary caterpillars
 date: 2017-09-16
-slug: gulf_fritillary_caterpillars
 tags:
 - living
 - nature

@@ -1,7 +1,6 @@
 ---
 title: Why did they remove Promote Local Variable refactor?
 date: '2010-05-08 20:15:14 -0500'
-slug: why_did_they_re
 tags:
 - tech
 - dotnet

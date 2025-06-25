@@ -1,7 +1,6 @@
 ---
 title: Protecting Against SQL Injection in Dynamic SQL Statements
 date: '2011-02-26 11:42:16 -0600'
-slug: protecting_agai
 tags:
 - tech
 - database

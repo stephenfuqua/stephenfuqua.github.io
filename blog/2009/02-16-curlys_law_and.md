@@ -1,7 +1,6 @@
 ---
 title: Curly's Law and Questions for the Team
 date: '2009-02-16 12:54:02 -0600'
-slug: curlys_law_and
 tags:
 - tech
 - programming

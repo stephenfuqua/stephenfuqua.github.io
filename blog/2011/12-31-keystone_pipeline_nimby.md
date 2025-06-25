@@ -1,7 +1,6 @@
 ---
 title: 'Keystone Pipeline: NIMBY'
 date: 2011-12-31
-slug: keystone_pipeline_nimby
 tags:
 - discourse
 - climate

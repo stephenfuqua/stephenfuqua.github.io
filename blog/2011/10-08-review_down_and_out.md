@@ -1,7 +1,6 @@
 ---
 title: 'Review: Down and Out'
 date: 2011-10-08
-slug: review_down_and_out
 tags:
 - books
 ---

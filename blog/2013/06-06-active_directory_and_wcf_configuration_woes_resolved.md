@@ -1,7 +1,6 @@
 ---
 title: Active Directory and WCF Configuration Woes Resolved
 date: '2013-06-06 21:10:46 -0500'
-slug: active_directory_and_wcf_configuration_woes_resolved
 tags:
 - tech
 - programming

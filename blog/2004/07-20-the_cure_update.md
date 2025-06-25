@@ -1,7 +1,6 @@
 ---
 title: The Cure Update
 date: 2004-07-20
-slug: the_cure_update
 tags:
 - music
 ---

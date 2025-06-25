@@ -1,7 +1,6 @@
 ---
 title: Performance Test Harness
 date: '2015-02-10'
-slug: performance_test_harness
 tags:
 - tech
 - programming

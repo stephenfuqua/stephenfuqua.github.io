@@ -1,7 +1,6 @@
 ---
 title: 'RS and XSLT, pt3.3: Using XSLT for Custom Reporting Services Output'
 date: '2008-08-17 21:45:24 -0500'
-slug: rs_and_xslt_pt3_2
 tags:
 - tech
 - database

@@ -1,7 +1,6 @@
 ---
 title: "White People's Burden"
 date: 2005-10-01T10:02:41-06:00
-slug: white-peoples-b
 tags:
 - race
 - social justice

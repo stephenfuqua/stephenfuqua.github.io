@@ -1,7 +1,6 @@
 ---
 title: Letter to City Council
 date: 2020-06-13
-slug: letter_to_city_council
 tags:
 - discourse
 - justice

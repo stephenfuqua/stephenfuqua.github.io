@@ -1,7 +1,6 @@
 ---
 title: 'Discourses of Society: Climate Change'
 date: 2014-09-27
-slug: discourses_of_society_climate_change
 tags:
 - discourse
 - climate

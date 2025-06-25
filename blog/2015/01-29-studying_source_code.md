@@ -1,7 +1,6 @@
 ---
 title: Studying Source Code
 date: '2015-01-29'
-slug: studying_source_code
 tags:
 - tech
 - programming

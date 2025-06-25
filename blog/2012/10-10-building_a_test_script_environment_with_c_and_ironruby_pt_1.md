@@ -1,7 +1,6 @@
 ---
 title: 'C# + IronRuby: Building Automated System Tests, pt 1'
 date: '2012-10-10 22:16:06 -0500'
-slug: building_a_test_script_environment_with_c_and_ironruby_pt_1
 tags:
 - tech
 - programming

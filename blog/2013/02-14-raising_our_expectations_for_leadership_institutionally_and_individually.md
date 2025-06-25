@@ -1,7 +1,6 @@
 ---
 title: Raising Our Expectations for Climate Leadership, Institutionally and Individually
 date: 2013-02-14
-slug: raising_our_expectations_for_leadership_institutionally_and_individually
 tags:
 - discourse
 - climate

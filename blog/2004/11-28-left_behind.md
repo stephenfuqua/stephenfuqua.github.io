@@ -1,7 +1,6 @@
 ---
 title: Left Behind
 date: 2004-11-28
-slug: left_behind
 tags:
 - discourse
 - religion

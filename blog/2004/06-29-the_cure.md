@@ -1,7 +1,6 @@
 ---
 title: The Cure
 date: 2004-06-29
-slug: the_cure
 tags:
 - music
 ---

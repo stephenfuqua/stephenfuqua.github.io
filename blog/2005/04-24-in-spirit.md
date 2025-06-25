@@ -1,7 +1,6 @@
 ---
 title: "In Spirit"
 date: 2005-04-24T16:19:55-06:00
-slug: in-spirit
 tags:
 - poetry
 ---

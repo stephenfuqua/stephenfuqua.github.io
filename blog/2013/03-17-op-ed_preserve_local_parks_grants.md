@@ -1,7 +1,6 @@
 ---
 title: 'Op-Ed: Preserve Local Parks Grants'
 date: 2013-03-17
-slug: op-ed_preserve_local_parks_grants
 tags:
 - discourse
 - nature

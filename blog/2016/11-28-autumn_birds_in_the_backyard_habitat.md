@@ -1,7 +1,6 @@
 ---
 title: Autumn Birds in the Backyard Habitat
 date: 2016-11-28
-slug: autumn_birds_in_the_backyard_habitat
 tags:
 - nature
 - living

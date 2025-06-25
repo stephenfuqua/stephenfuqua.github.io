@@ -1,7 +1,6 @@
 ---
 title: Connecting with the Wild in Urban America
 date: 2013-03-17
-slug: connecting_with_the_wild_in_urban_america
 tags:
 - discourse
 - living

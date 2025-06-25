@@ -1,7 +1,6 @@
 ---
 title: Minnesota Cold
 date: 2004-10-17
-slug: minnesota_cold
 tags:
 - living
 ---

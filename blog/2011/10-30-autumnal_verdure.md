@@ -1,7 +1,6 @@
 ---
 title: Autumnal Verdure
 date: 2011-10-30
-slug: autumnal_verdure
 tags:
 - living
 - nature

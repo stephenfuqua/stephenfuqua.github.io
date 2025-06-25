@@ -1,7 +1,6 @@
 ---
 title: Mass Social Change
 date: 2005-07-27T23:27:12-06:00
-slug: mass-social-cha
 tags:
 - social justice
 - society

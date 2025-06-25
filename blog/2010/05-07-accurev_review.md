@@ -1,7 +1,6 @@
 ---
 title: AccuRev - Review and Practices
 date: '2010-05-07 20:27:24 -0500'
-slug: accurev_review
 tags:
 - tech
 - sdlc

@@ -1,7 +1,6 @@
 ---
 title: Nice technique for modifying a subset of a List<T>
 date: '2009-03-04 16:27:00 -0600'
-slug: nice_technique
 tags:
 - tech
 - programming

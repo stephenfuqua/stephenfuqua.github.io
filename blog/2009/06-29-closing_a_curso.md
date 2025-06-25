@@ -1,7 +1,6 @@
 ---
 title: Closing A Cursor in SQL Catch
 date: '2009-06-29 10:42:42 -0500'
-slug: closing_a_curso
 tags:
 - tech
 - database

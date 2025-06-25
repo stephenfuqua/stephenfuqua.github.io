@@ -1,7 +1,6 @@
 ---
 title: "Talks by 'Abdu'l-Bah&aacute;: The Spirit of Christ"
 date: 2012-11-25
-slug: talks_by_abdul-baha_the_spirit_of_christ
 tags:
 - discourse
 - religion

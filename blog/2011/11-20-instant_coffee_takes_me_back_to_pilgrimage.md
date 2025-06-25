@@ -1,7 +1,6 @@
 ---
 title: Instant Coffee Takes Me Back to Pilgrimage
 date: 2011-11-20
-slug: instant_coffee_takes_me_back_to_pilgrimage
 tags:
 - living
 - religion
@@ -11,7 +10,7 @@ tags:
 
 We ran out of regular coffee, hence drinking instant this morning (Pampa brand
 from Mexico). The smell of this brand takes me back to Haifa, where I went on
-[Pilgrimage a year ago](../2010/12-04-bahai_pilgrimag.md). The B&amp;B we stayed
+[Pilgrimage a year ago](../2010/12-04-bahai_pilgrimage_1.md). The B&amp;B we stayed
 in had an electric kettle and kept us well-stocked with packages of instant
 coffee. On mornings where we had to get moving before the cafe downstairs
 opened, that was my wake-up.

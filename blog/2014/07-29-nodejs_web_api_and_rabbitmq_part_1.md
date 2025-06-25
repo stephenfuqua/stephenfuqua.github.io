@@ -1,7 +1,6 @@
 ---
 title: Node.js, Web API, and RabbitMQ. Part 1
 date: '2014-07-29'
-slug: nodejs_web_api_and_rabbitmq_part_1
 tags:
 - tech
 - programming

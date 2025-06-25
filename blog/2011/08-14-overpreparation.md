@@ -1,7 +1,6 @@
 ---
 title: Over-preparation and Mindfulness
 date: 2011-08-14
-slug: overpreparation
 tags:
 - discourse
 - living

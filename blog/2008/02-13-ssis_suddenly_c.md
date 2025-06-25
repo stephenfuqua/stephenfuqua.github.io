@@ -1,7 +1,6 @@
 ---
 title: 'SSIS: Suddenly Can''t Write to Buffer'
 date: '2008-02-13 09:22:39 -0600'
-slug: ssis_suddenly_c
 tags:
 - tech
 - database

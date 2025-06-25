@@ -1,7 +1,6 @@
 ---
 title: What about uint?
 date: '2010-08-18 20:38:01 -0500'
-slug: what_about_uint
 tags:
 - tech
 - dotnet

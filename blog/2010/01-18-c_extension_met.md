@@ -1,7 +1,6 @@
 ---
 title: C# Extension Methods for IDataReader
 date: '2010-01-18 17:29:11 -0600'
-slug: c_extension_met
 tags:
 - tech
 - dotnet

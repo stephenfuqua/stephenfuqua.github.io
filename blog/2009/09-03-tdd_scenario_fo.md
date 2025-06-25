@@ -1,7 +1,6 @@
 ---
 title: TDD - Scenario for Red, Green, Refactor
 date: '2009-09-03 13:53:09 -0500'
-slug: tdd_scenario_fo
 tags:
 - tech
 - dotnet

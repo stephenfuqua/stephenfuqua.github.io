@@ -1,7 +1,6 @@
 ---
 title: "Bird Flu: Can We Out-Collaborate a Pandemic?"
 date: 2005-08-18T13:17:18-06:00
-slug: "bird-flu-can-we"
 tags:
 - society
 ---

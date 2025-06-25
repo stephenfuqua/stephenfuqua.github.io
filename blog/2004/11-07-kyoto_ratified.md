@@ -1,7 +1,6 @@
 ---
 title: Kyoto Ratified - What Next?
 date: 2004-11-07
-slug: kyoto_ratified
 tags:
 - discourse
 - nature

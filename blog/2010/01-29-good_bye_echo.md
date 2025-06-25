@@ -1,7 +1,6 @@
 ---
 title: Good bye, Echo
 date: 2010-01-29
-slug: good_bye_echo
 ---
 
 No television show in recent memory has been so thought-provoking and forward-looking,

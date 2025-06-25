@@ -1,7 +1,6 @@
 ---
 title: Moles Free Download Without Pex
 date: '2010-05-19 11:10:18 -0500'
-slug: moles_free_down
 tags:
 - tech
 - dotnet

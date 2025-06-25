@@ -1,7 +1,6 @@
 ---
 title: URI, You've Grown Up
 date: 2010-05-27
-slug: uri_youve_grown
 tags:
 - discourse
 - religion

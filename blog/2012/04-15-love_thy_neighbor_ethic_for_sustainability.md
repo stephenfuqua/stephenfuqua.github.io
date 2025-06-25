@@ -1,7 +1,6 @@
 ---
 title: 'Love Thy Neighbor: Ethic for Sustainability'
 date: 2012-04-15
-slug: love_thy_neighbor_ethic_for_sustainability
 tags:
 - discourse
 - religion

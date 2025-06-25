@@ -1,7 +1,6 @@
 ---
 title: Public Comment on Proposed EPA Standards for New Fossil-Fuel Power Plants
 date: 2012-06-17
-slug: public_comment_on_proposed_epa_standards_for_new_fossil-fuel_power_plants
 tags:
 - discourse
 - climate

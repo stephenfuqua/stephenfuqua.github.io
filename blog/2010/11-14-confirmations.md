@@ -1,7 +1,6 @@
 ---
 title: Confirmations
 date: 2010-11-14
-slug: confirmations
 tags:
 - discourse
 - religion

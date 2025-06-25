@@ -1,7 +1,6 @@
 ---
 title: Passing Objects Does Not Require 'ref'
 date: '2007-10-02 16:05:21 -0500'
-slug: passing_objects
 tags: [tech, dotnet]
 
 ---

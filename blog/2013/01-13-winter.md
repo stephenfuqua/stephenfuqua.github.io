@@ -1,7 +1,6 @@
 ---
 title: Winter
 date: 2013-01-13
-slug: winter
 tags:
 - living
 - birds

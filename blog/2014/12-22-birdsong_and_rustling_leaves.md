@@ -1,7 +1,6 @@
 ---
 title: Birdsong and Rustling Leaves
 date: 2014-12-22
-slug: birdsong_and_rustling_leaves
 tags:
 - living
 - birds

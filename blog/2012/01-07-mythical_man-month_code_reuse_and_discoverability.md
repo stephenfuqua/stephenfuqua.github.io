@@ -1,7 +1,6 @@
 ---
 title: 'Mythical Man-Month: Code Reuse and Discoverability'
 date: '2012-01-07 20:09:21 -0600'
-slug: mythical_man-month_code_reuse_and_discoverability
 tags:
 - tech
 - programming

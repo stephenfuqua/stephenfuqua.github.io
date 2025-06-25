@@ -1,7 +1,6 @@
 ---
 title: Manipulating Table Rows with jQuery
 date: '2012-07-11 21:48:13 -0500'
-slug: manipulating_table_rows_with_jquery
 tags:
 - tech
 - programming

@@ -1,7 +1,6 @@
 ---
 title: Anti-biotics and Pesticides
 date: 2011-09-11
-slug: anti-biotics_and_pesticides
 tags:
 - discourse
 - nature

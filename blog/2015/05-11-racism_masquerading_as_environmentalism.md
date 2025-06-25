@@ -1,7 +1,6 @@
 ---
 title: Racism Masquerading as Environmentalism
 date: 2015-05-11
-slug: racism_masquerading_as_environmentalism
 tags:
 - discourse
 - nature

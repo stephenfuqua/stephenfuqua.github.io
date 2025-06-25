@@ -1,7 +1,6 @@
 ---
 title: Unit vs. Integration Tests When Querying Nullable Columns
 date: '2012-04-12 20:47:11 -0500'
-slug: unit_vs_integration_tests_when_querying_nullable_columns
 tags:
 - tech
 - programming

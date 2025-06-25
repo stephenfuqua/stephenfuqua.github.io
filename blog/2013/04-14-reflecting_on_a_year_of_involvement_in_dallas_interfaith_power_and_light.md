@@ -1,7 +1,6 @@
 ---
 title: Reflecting on a Year of Involvement in Dallas Interfaith Power and Light
 date: 2013-04-14
-slug: reflecting_on_a_year_of_involvement_in_dallas_interfaith_power_and_light
 tags:
 - discourse
 - religion

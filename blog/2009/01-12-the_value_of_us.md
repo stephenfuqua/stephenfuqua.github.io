@@ -1,7 +1,6 @@
 ---
 title: The value of using braces to avoid code defects
 date: '2009-01-12 12:13:48 -0600'
-slug: the_value_of_us
 tags:
 - tech
 - dotnet

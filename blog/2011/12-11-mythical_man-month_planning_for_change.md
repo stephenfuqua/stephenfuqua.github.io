@@ -1,7 +1,6 @@
 ---
 title: 'Mythical Man-Month: Planning for Change'
 date: '2011-12-11 11:17:59 -0600'
-slug: mythical_man-month_planning_for_change
 tags:
 - tech
 - programming

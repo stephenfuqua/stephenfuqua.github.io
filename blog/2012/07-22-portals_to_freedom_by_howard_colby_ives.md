@@ -1,7 +1,6 @@
 ---
 title: Portals to Freedom, by Howard Colby Ives
 date: 2012-07-22
-slug: portals_to_freedom_by_howard_colby_ives
 tags:
 - books
 - religion

@@ -2,7 +2,6 @@
 title: How to assign namespace and action to FaultContract in ServiceContract Interface
   (Web Service Software Factory)?
 date: '2010-04-02 09:39:13 -0500'
-slug: how_to_assign_n
 tags:
 - tech
 - dotnet

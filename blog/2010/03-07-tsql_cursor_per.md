@@ -1,7 +1,6 @@
 ---
 title: T-SQL Cursor Performance Optimization
 date: '2010-03-07 20:33:17 -0600'
-slug: tsql_cursor_per
 tags:
 - tech
 - database

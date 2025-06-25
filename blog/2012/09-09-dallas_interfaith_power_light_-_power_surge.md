@@ -1,7 +1,6 @@
 ---
 title: Dallas Interfaith Power & Light - "Power Surge"
 date: 2012-09-09
-slug: dallas_interfaith_power_light_-_power_surge
 tags:
 - discourse
 - climate

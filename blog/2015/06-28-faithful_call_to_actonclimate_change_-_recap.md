@@ -1,7 +1,6 @@
 ---
 title: 'Faithful Call to #ActOnClimate Change'
 date: 2015-06-28
-slug: faithful_call_to_actonclimate_change_-_recap
 tags:
 - discourse
 - climate

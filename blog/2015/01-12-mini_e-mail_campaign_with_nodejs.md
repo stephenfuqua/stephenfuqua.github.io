@@ -1,7 +1,6 @@
 ---
 title: Mini E-mail Campaign With Node.js
 date: '2015-01-12'
-slug: mini_e-mail_campaign_with_nodejs
 tags:
 - tech
 - programming

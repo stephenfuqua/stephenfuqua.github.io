@@ -1,7 +1,6 @@
 ---
 title: Opposition to the Keystone XL Pipeline
 date: 2013-04-04
-slug: opposition_to_the_keystone_xl_pipeline
 tags:
 - discourse
 - climate

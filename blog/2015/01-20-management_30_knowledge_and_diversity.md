@@ -1,7 +1,6 @@
 ---
 title: 'Management 3.0: Knowledge and Diversity'
 date: '2015-01-20 22:21:55 -0600'
-slug: management_30_knowledge_and_diversity
 tags:
 - tech
 - programming

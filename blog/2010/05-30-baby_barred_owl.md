@@ -1,7 +1,6 @@
 ---
 title: Baby barred owls!
 date: 2010-05-30
-slug: baby_barred_owl
 tags:
 - birds
 ---

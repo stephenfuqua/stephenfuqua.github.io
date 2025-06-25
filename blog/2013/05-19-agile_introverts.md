@@ -1,7 +1,6 @@
 ---
 title: Agile Introverts
 date: '2013-05-19 21:48:15 -0500'
-slug: agile_introverts
 tags:
 - tech
 - sdlc

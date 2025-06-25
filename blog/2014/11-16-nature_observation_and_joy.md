@@ -1,7 +1,6 @@
 ---
 title: Nature Observation and Joy
 date: 2014-11-16
-slug: nature_observation_and_joy
 tags:
 - living
 - nature

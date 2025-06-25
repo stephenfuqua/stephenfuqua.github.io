@@ -1,7 +1,6 @@
 ---
 title: Lessons On North Texas Water, Courtesy of John Bunker Sands Wetlands Center
 date: 2011-10-16
-slug: lessons_on_north_texas_water_courtesy_of_john_bunk_sands_wetlands_center
 tags:
 - discourse
 - nature

@@ -1,7 +1,6 @@
 ---
 title: On Religious Leadership, and the GreenFaith Fellowship
 date: 2014-06-15
-slug: on_religious_leadership_and_the_greenfaith_fellowship
 tags:
 - discourse
 - religion

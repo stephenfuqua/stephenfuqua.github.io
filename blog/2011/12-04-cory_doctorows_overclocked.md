@@ -1,7 +1,6 @@
 ---
 title: Cory Doctorow's Overclocked
 date: 2011-12-04
-slug: cory_doctorows_overclocked
 tags:
 - books
 ---

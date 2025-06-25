@@ -1,7 +1,6 @@
 ---
 title: Can We Talk About Climate Change? Pt 1
 date: 2014-02-23
-slug: can_we_talk_about_climate_change_pt_1
 tags:
 - discourse
 - religion

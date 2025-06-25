@@ -1,7 +1,6 @@
 ---
 title: The Web of Life, a Review
 date: 2004-12-05
-slug: the_web_of_life
 tags:
 - discourse
 - books

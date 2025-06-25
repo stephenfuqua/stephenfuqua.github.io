@@ -1,7 +1,6 @@
 ---
 title: 'Performance #6: Reading Directly Into the Parser'
 date: '2007-07-23 17:10:25 -0500'
-slug: performance_5_r
 tags: [tech, dotnet, performance]
 
 ---

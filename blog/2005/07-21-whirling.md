@@ -1,7 +1,6 @@
 ---
 title: "Whirling"
 date: 2005-07-21T23:48:01-06:00
-slug: whirling
 tags:
 - poetry
 - personal

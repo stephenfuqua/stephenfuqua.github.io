@@ -1,7 +1,6 @@
 ---
 title: DbMail - A use for global temp tables in SQL
 date: '2010-08-07 21:01:22 -0500'
-slug: dbmail_a_use_fo
 tags:
 - tech
 - database

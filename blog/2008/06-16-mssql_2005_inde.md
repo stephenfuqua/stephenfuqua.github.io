@@ -1,7 +1,6 @@
 ---
 title: 'MSSQL 2005: Indexed Views'
 date: '2008-06-16 14:39:35 -0500'
-slug: mssql_2005_inde
 tags:
 - tech
 - sql-server

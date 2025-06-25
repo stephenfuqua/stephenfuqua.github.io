@@ -1,7 +1,6 @@
 ---
 title: 'Be Test-Driven'
 date: '2013-07-08 21:23:28 -0500'
-slug: tackle_be_test-driven
 tags:
 - tech
 - programming

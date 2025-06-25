@@ -1,7 +1,6 @@
 ---
 title: Of what use are stories?
 date: 2010-01-17
-slug: of_what_use_are
 tags:
 - books
 ---

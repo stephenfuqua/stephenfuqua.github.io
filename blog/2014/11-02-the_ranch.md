@@ -1,7 +1,6 @@
 ---
 title: The Ranch
 date: 2014-11-02
-slug: the_ranch
 tags:
 - living
 - nature

@@ -1,7 +1,6 @@
 ---
 title: Traceability
 date: '2008-08-17 16:14:02 -0500'
-slug: traceability
 tags:
 - tech
 - sdlc

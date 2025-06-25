@@ -1,7 +1,6 @@
 ---
 title: Using QUnit and SinonJS for JavaScript Testing
 date: 2014-05-31
-slug: using_qunit_and_sinonjs_for_javascript_testing
 tags:
 - tech
 - programming

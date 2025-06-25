@@ -1,7 +1,6 @@
 ---
 title: 'SSIS: Updating Variables From Resultset Data'
 date: '2008-01-29 09:56:08 -0600'
-slug: ssis_updating_v
 tags:
 - tech
 - database

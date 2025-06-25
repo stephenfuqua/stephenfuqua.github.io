@@ -1,7 +1,6 @@
 ---
 title: Call for International Grassroots Spirituality
 date: 2004-10-19
-slug: call_for_international_grassroots_spirituality
 tags:
 - discourse
 - justice

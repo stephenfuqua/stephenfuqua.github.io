@@ -1,7 +1,6 @@
 ---
 title: Threading Links
 date: '2007-07-18 14:08:30 -0500'
-slug: threading_links
 tags: [tech, dotnet]
 
 ---

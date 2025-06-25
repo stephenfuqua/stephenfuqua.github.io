@@ -1,7 +1,6 @@
 ---
 title: Sam Houston Trail Park - Shorebirds!
 date: 2014-09-28
-slug: sam_houston_trail_park_-_shorebirds
 tags:
 - nature
 - birds

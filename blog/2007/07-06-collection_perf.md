@@ -1,7 +1,6 @@
 ---
 title: Collection Performance Comparisons
 date: '2007-07-06 20:55:01 -0500'
-slug: collection_perf
 tags: [tech, dotnet, performance]
 ---
 
