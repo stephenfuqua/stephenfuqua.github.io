@@ -28,7 +28,7 @@ frequently ruthless business tactics. Where is there room for kindness in the
 business environment? This is not the place for a thorough discussion of
 political economy, so I will offer little justification for this postulate:
 capitalism and **virtue are not incompatible**. Maybe I'll follow-up on this on
-my [regular blog](../) one day. For now, I'll stick to the small-scale:
+my [regular blog](/) one day. For now, I'll stick to the small-scale:
 programmers in a (primarily) business environment.
 
 This notion of kindness stems from a remark from a co-worker a few years ago. He

@@ -27,6 +27,14 @@ and version 3, at [openapi-to-csv](https://github.com/Ed-Fi-Exchange-OSS/openapi
 
 :::
 
+:::warning
+
+6/25/2025: On further testing, I discovered significant problems with this
+approach, which had looked so promising. I should try again some day with a
+better prompt - I don't blame Copilot, I blame my skill at using it.
+
+:::
+
 ## Context
 
 Interoperability with the [Ed-Fi Data

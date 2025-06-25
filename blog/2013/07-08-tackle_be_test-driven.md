@@ -5,7 +5,6 @@ tags:
 - tech
 - programming
 - testing
-
 ---
 
 Executable tests are the best form of requirements documentation. They improve
@@ -88,4 +87,4 @@ facilitates full integration of the system test framework as well).
 
 ### Related posts from this blog
 
-[/tag/testing](/tag/testing)
+[/tags/testing](/tag/testing)

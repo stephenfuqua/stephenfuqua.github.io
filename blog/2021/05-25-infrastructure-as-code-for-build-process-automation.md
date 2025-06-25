@@ -377,9 +377,9 @@ latter is my preferred approach, and I've talked about it in three prior blog po
 1. [Getting Started with Infrastructure as Code in
    TeamCity](../2020/03-21-infrastructure-as-code-in-teamcity.md/)
 2. [Splitting TeamCity Kotlin Into Multiple
-   Files](./2020/03-22-splitting-teamcity-kotlin-into-multiple-files.md)
+   Files](../2020/03-22-splitting-teamcity-kotlin-into-multiple-files.md)
 3. [Template Inheritance with TeamCity
-   Kotlin](./2020/08-08-teamcity-kotlin-template-inheritance.md)
+   Kotlin](../2020/08-08-teamcity-kotlin-template-inheritance.md)
 
 ### GitHub Actions
 

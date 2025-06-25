@@ -60,7 +60,7 @@ If I were hand-coding the `DbContext` class, I would have made sure to include a
 
 So now we have two classes to test: the controller and the repository. Let's focus on the repository. At first glance, it would seem trivial to write tests, and make them pass, using the `Clients` property and `SaveChangesAsync` method. The challenge comes from `DbSet`: it is an abstract class, it contains no implemented methods, the query logic requires an `IQueryable`, and the modification logic now returns `EntityEntry` objects. The `EntityEntry` object in turn is difficult to construct and the classes involved have warnings in the source code that they should not be directly relied on in non EntityFramework code.
 
-Also of note: EntityFrameworkCore now has an `Update` method to go along with `Add` and `Remove`, so that those of who do not like using EntityFramework change tracking (more on this below) no longer need to use `Attach` and manually set `EntityState.Modified`, subject of my [February blog post](2019-02-08-refactor-awayfrom-global-static).
+Also of note: EntityFrameworkCore now has an `Update` method to go along with `Add` and `Remove`, so that those of who do not like using EntityFramework change tracking (more on this below) no longer need to use `Attach` and manually set `EntityState.Modified`, subject of my [February blog post](./02-08-refactor-away-from-global-static.md).
 
 In order to unit test this, we will need some kind of test double that gives us the equivalent functionality while minimizing the effort required to write the tests. After all, if the testing is hard, we're all the more likely to skip it.
 
