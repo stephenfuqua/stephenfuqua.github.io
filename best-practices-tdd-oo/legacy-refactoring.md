@@ -34,7 +34,7 @@ Find the right pattern, and slowly refactor to take advantage of it (or them, as
 Write unit tests as you go, as soon as possible, so that further refactoring will now be covered. And soon you'll find yourself able to fix bugs and add features using full [test-driven development](./test-driven-development.md), instead of always having the test coverage lag behind.
 
 Here's a handy flowchart to help think about test isolation (updated since
-[the original from 2014](/2014/08/06/unit-test-isolation-legacy.md)):
+[the original from 2014](/2014/08/06/unit-test-isolation-legacy)):
 
 ```mermaid
 flowchart TD
@@ -236,7 +236,7 @@ namespace Practices_For_TDD_OO
 }
 ```
 
-One option that keeps with the Dapper paradigm is to use [static delegate injection](/2014/04/10/making-a-mockery-of-extension-methods.md) to provide a fake method.
+One option that keeps with the Dapper paradigm is to use [static delegate injection](/2014/04/10/making-a-mockery-of-extension-methods) to provide a fake method.
 
 ```csharp
 using System;

@@ -5,7 +5,6 @@ tags:
   - devops
   - tech
   - sdlc
-
 ---
 
 "Infrastructure as Code", or IaC if you prefer <abbr title="Three Letter

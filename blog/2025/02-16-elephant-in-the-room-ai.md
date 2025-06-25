@@ -54,13 +54,13 @@ management strategy?
 Some remarked on the need for humans to provide _knowledge engineering_:
 structuring knowledge to provide context and more intelligent capability. Hence
 the continuing need for [data
-cataloging](./2025-02-03-data-cataloging-at-ddtx2025.md). In discussing
-education and training, others commented on the need to focus on semantics –
-algorithms and problem solving – over syntax. LLM’s can help you write the
-proper code in whatever language, but you as an engineer need to know how to
-diagnose a problem and describe a solution. Another observation is that these
-tools may help us collectively fix the massive tech debt found in mission
-critical, but obsolete, software systems.
+cataloging](./02-03-data-cataloging-at-ddtx2025.md). In discussing education and
+training, others commented on the need to focus on semantics – algorithms and
+problem solving – over syntax. LLM’s can help you write the proper code in
+whatever language, but you as an engineer need to know how to diagnose a problem
+and describe a solution. Another observation is that these tools may help us
+collectively fix the massive tech debt found in mission critical, but obsolete,
+software systems.
 
 One individual suggested embracing product management.
 Learn to identify and prioritize features and functionality on your own, weaving

@@ -6,8 +6,8 @@ tags: [devops, Windows]
 
 
 One of my very first technical blog posts was about running [OpenSSH on
-Windows](../2003/12-18-fork_problem_wi.md) - written over 14 years ago. Recently
-I was playing around with Microsoft's [port of
+Windows](../2003/12-18-fork_problem_with_cygwin.md) - written over 14 years ago.
+Recently I was playing around with Microsoft's [port of
 OpenSSH](https://github.com/PowerShell/Win32-OpenSSH), which has officially
 achieved version [v1.0.0.0 beta
 status](https://github.com/PowerShell/Win32-OpenSSH/releases/tag/v1.0.0.0).
