@@ -27,7 +27,6 @@
   margin: 1rem auto 0 auto;
 
   font-size: 90%;
-  color: var(--ifm-color-secondary-darkest);
 }
 
 .image img {
@@ -93,4 +92,16 @@
 
 .footer a, .footer a:hover {
   color: #FCDC58;
+}
+
+.quote {
+  font-size: 1.25rem;
+  font-family: Cambria, "Times New Roman", serif;
+}
+
+.attribution {
+  font-size: 0.9rem;
+  text-align: right;
+  margin-left: 20%;
+  margin-bottom: 2rem;
 }
