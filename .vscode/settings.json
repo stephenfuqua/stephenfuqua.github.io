@@ -6,5 +6,10 @@
   },
   "editor.codeActionsOnSave": {
     "source.fixAll.markdownlint": "explicit"
-  }
+  },
+  "cSpell.words": [
+    "Abdu'l",
+    "Bahá",
+    "Bahá’u’lláh"
+  ]
 }
