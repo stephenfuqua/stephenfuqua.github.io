@@ -10,6 +10,8 @@ tags:
 
 Another of His teachings is the concept of moderation [2]. One manifestation of that moderation is in the balancing act between "units" of humanity: individual, family, community, institutions, government. Each unit has its prerogatives [3], its spheres of action, overlapping one another, seeking to avoid infringement on the others whilst simultaneously protecting the harmony of all.
 
+<!-- truncate -->
+
 I was stirred into contemplation of "the individual" within these overlapping contexts on reading the following quote from Karl Jaspers, in The Origin and Goal of History [4]:
 
 > "Man proved capable of contrasting himself inwardly with the entire universe. He discovered within himself the origin from which to raise himself above his own self and the world."
