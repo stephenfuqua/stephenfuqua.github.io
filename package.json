@@ -14,7 +14,10 @@
     "write-heading-ids": "docusaurus write-heading-ids",
     "format": "npx prettier . --write",
     "lint": "markdownlint-cli2 **/*.md #node_modules #staged-blog #_drafts && eslint **/*.mdx",
-    "lint:fix": "markdownlint-cli2 **/*.md #node_modules #staged-blog #_drafts --fix"
+    "lint:fix": "markdownlint-cli2 **/*.md #node_modules #staged-blog #_drafts --fix",
+    "test:scripts": "node --test scripts/test/",
+    "classify": "node scripts/classify-posts.js",
+    "apply-tags": "node scripts/apply-tags.js"
   },
   "dependencies": {
     "@docusaurus/core": "^3.9.2",
@@ -31,6 +34,7 @@
     "@docusaurus/types": "3.9.2",
     "eslint": "^9.39.2",
     "eslint-plugin-mdx": "^3.6.2",
+    "gray-matter": "^4.0.3",
     "markdownlint-cli2": "^0.20.0",
     "prettier": "^3.7.4"
   },
