@@ -1,0 +1,60 @@
+.sidebar {
+  padding: 1.25rem 1rem;
+  font-size: 0.95rem;
+}
+
+.avatar {
+  display: block;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 auto 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.name {
+  text-align: center;
+  font-size: 1.25rem;
+  margin: 0 0 0.25rem;
+}
+
+.tagline {
+  text-align: center;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-700);
+  margin: 0 0 1rem;
+}
+
+.paragraph {
+  margin: 0 0 1.25rem;
+  line-height: 1.5;
+}
+
+.chips {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  background: var(--ifm-color-primary-lightest);
+  color: var(--ifm-color-primary-darkest);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: background 0.15s ease;
+}
+
+.chip:hover,
+.chip:focus {
+  background: var(--ifm-color-primary-lighter);
+  text-decoration: none;
+}
