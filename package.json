@@ -2,6 +2,7 @@
   "name": "docusaurus-site",
   "version": "0.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -15,7 +16,7 @@
     "format": "npx prettier . --write",
     "lint": "markdownlint-cli2 **/*.md #node_modules #staged-blog #_drafts && eslint **/*.mdx",
     "lint:fix": "markdownlint-cli2 **/*.md #node_modules #staged-blog #_drafts --fix",
-    "test:scripts": "node --test scripts/test/",
+    "test:scripts": "node --test scripts/test/**/*.test.js",
     "classify": "node scripts/classify-posts.js",
     "apply-tags": "node scripts/apply-tags.js"
   },
