@@ -3,9 +3,9 @@ title: Baha'is Embrace Sustainability in Face of Climate Change
 date: 2010-03-13
 tags:
 - discourse
-- climate
+- nature
 - religion
-- Bahai
+- bahai-faith
 ---
 
 It's about time. That was my first thought [when I heard](http://news.bahai.org/story/742), late last year, that the

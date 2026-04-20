@@ -5,6 +5,7 @@ tags:
 - nature
 - living
 - birds
+- nature
 ---
 
 The Yellow-rumped Warblers and Dark-eyed Juncos have been back and enjoying our

@@ -6,7 +6,7 @@ tags:
 - inclusion
 - justice
 - religion
-- Bahai
+- bahai-faith
 
 ---
 

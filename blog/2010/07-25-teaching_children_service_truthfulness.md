@@ -4,7 +4,7 @@ date: 2010-07-25
 tags:
 - discourse
 - religion
-- Bahai
+- bahai-faith
 ---
 
 I've done my alloted time now: taught a [Bah&aacute;'&iacute; children's

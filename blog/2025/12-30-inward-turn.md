@@ -3,10 +3,10 @@ title: The Inward Turn
 date: 2025-12-30
 tags:
 - discourse
-- bahai
+- bahai-faith
 ---
 
-[Bahá'u'lláh's teachings](/tags/bahai) focus, at their core, on the concept of the essential unity of humanity: that we are biologically one "species", we should expand our notions of belonging and compassion to the entirety of humanity, and that doing so is the road to peace. [1]
+[Bahá'u'lláh's teachings](/tags/bahai-faith) focus, at their core, on the concept of the essential unity of humanity: that we are biologically one "species", we should expand our notions of belonging and compassion to the entirety of humanity, and that doing so is the road to peace. [1]
 
 Another of His teachings is the concept of moderation [2]. One manifestation of that moderation is in the balancing act between "units" of humanity: individual, family, community, institutions, government. Each unit has its prerogatives [3], its spheres of action, overlapping one another, seeking to avoid infringement on the others whilst simultaneously protecting the harmony of all.
 

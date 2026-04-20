@@ -1,6 +1,8 @@
 ---
 title: Reflecting on the Life of the Spirit in Spanish
 date: 2010-02-21
+tags:
+- bahai-faith-faith
 ---
 
 A while back I received an e-mail: a Spanish-speaker in my area had called

@@ -3,6 +3,7 @@ title: Bird List - Inner Shore of Padre Island
 date: 2010-03-20
 tags:
 - birds
+- nature
 ---
 
 Had an exciting morning in Texas: fifteen new-to-me bird species seen this

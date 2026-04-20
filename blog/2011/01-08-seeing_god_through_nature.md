@@ -5,7 +5,7 @@ tags:
 - discourse
 - religion
 - nature
-- Bahai
+- bahai-faith
 ---
 
 A friend recently told me about this passage from the collection of

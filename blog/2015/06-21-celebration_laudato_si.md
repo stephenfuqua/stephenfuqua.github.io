@@ -3,7 +3,7 @@ title: In Celebration of Laudato Si
 date: 2015-06-21
 tags:
 - discourse
-- climate
+- nature
 - religion
 ---
 

@@ -3,7 +3,7 @@ title: Judaic Mythology
 date: 2006-01-15T21:31:05-06:00
 tags:
 - religion
-- bahai
+- bahai-faith
 ---
 
 

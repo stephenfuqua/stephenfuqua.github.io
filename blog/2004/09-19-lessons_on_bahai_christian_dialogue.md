@@ -3,7 +3,7 @@ title: Lessons on Baha'i-Christian Dialogue from a Muslim
 date: 2004-09-19
 tags:
 - religion
-- Bahai
+- bahai-faith
 ---
 
 As an active Bah&aacute;'&iacute; on campus in the mid-to-late 90's, I often

@@ -2,7 +2,7 @@
 title: Commemorating the Birth of Bahá'u'lláh
 date: 2025-10-23
 tags:
-- bahai
+- bahai-faith
 ---
 
 Today we are celebrating the second of the Twin Holy days in the Bah&aacute;&#39;&iacute;

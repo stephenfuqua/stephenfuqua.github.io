@@ -3,7 +3,7 @@ title: 'Discourses of Society: Climate Change'
 date: 2014-09-27
 tags:
 - discourse
-- climate
+- nature
 - religion
 ---
 

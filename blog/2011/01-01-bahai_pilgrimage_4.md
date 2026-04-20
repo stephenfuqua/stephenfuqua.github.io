@@ -4,7 +4,7 @@ date: 2011-01-01
 tags:
 - living
 - religion
-- Bahai
+- bahai-faith
 ---
 
 There is more to show about the holy sites and places visited, but first I want

@@ -4,7 +4,7 @@ date: 2010-12-11
 tags:
 - living
 - religion
-- Bahai
+- bahai-faith
 ---
 
 Perhaps my most powerful emotion in direct reaction to the sites we visited

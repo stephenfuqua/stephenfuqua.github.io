@@ -4,7 +4,7 @@ date: 2015-10-31
 tags:
 - living
 - nature
-- climate
+- nature
 ---
 
 Twenty-something years ago, not long after the Exxon Valdez disaster, I wrote a

@@ -3,9 +3,9 @@ title: Baha'is of Grand Prairie Join the Preach-In
 date: 2013-01-27
 tags:
 - discourse
-- climate
+- nature
 - religion
-- Bahai
+- bahai-faith
 ---
 
 <div class="image">

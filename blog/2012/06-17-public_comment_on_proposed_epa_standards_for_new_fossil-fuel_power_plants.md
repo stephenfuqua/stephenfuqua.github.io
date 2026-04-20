@@ -3,7 +3,7 @@ title: Public Comment on Proposed EPA Standards for New Fossil-Fuel Power Plants
 date: 2012-06-17
 tags:
 - discourse
-- climate
+- nature
 ---
 
 The EPA has a proposed new standard for fossil fuel-burning power plants, which

@@ -3,7 +3,7 @@ title: 'Keystone Pipeline: NIMBY'
 date: 2011-12-31
 tags:
 - discourse
-- climate
+- nature
 - nature
 - justice
 ---

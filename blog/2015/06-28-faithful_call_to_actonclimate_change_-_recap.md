@@ -3,7 +3,7 @@ title: 'Faithful Call to #ActOnClimate Change'
 date: 2015-06-28
 tags:
 - discourse
-- climate
+- nature
 - religion
 ---
 

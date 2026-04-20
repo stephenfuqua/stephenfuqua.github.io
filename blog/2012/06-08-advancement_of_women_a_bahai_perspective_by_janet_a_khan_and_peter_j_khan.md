@@ -7,7 +7,7 @@ tags:
 - discourse
 - books
 - religion
-- Bahai
+- bahai-faith
 ---
 
 <div class="rightImage">

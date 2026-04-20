@@ -3,7 +3,7 @@ title: Opposition to the Keystone XL Pipeline
 date: 2013-04-04
 tags:
 - discourse
-- climate
+- nature
 - justice
 ---
 

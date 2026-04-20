@@ -1,7 +1,10 @@
 ---
 title: "Upgrading safnet-directory, Part 1: Trivial Cleanup"
 date: 2018-07-15
-tags: [dotnet, architecture]
+tags:
+- dotnet,
+- architecture
+- technology
 ---
 
 In 2014 I built a [quick-and-dirty web application](../2014/12-01-safnet-directory.md) using ASP.NET MVC5 and AngularJS 1.0.2. There are probably millions of web applications, large and small, that are "stuck" on some older tech, often because people are afraid of the work it will take to modernize them. In this series of blog posts, I'll refactor away the tech debt and polish it up this little app to make it something to be proud of... as much as one can be proud of a simplistic proof-of-concept, anyway.

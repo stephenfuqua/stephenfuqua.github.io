@@ -4,7 +4,7 @@ date: 2010-12-26
 tags:
 - books
 - religion
-- Bahai
+- bahai-faith
 ---
 
 The words "thou" and "thee" are unfamiliar to most of us, except in the context

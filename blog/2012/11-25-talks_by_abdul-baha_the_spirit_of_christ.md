@@ -4,7 +4,7 @@ date: 2012-11-25
 tags:
 - discourse
 - religion
-- Bahai
+- bahai-faith
 ---
 
 _Talks by 'Abdu'l-Bah&aacute;: The Spirit of Christ_ is a new arrangement of

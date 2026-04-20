@@ -1,7 +1,7 @@
 ---
 title: Comparing Assertion Libraries for .NET Framework
 date: 2018-12-03
-tags: [testing, dotnet, programming]
+tags: [testing, dotnet, programming, technology]
 ---
 
 Working with a legacy codebase using NUnit and .NET Framework, I've found that

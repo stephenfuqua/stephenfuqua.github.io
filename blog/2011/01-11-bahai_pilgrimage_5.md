@@ -4,7 +4,7 @@ date: 2011-01-11
 tags:
 - living
 - religion
-- Bahai
+- bahai-faith
 ---
 
 While it was unfortunate that we were not able to see the Shrine of the

@@ -4,7 +4,7 @@ date: 2011-06-25
 tags:
 - discourse
 - religion
-- Bahai
+- bahai-faith
 ---
 
 _Letter to Congresswoman McCollum, and Senators Franken and Klobuchar:_

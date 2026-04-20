@@ -3,6 +3,7 @@ title: Baby barred owls!
 date: 2010-05-30
 tags:
 - birds
+- nature
 ---
 
 This morning at Battle Creek West, where we saw an adult Barred Owl drying

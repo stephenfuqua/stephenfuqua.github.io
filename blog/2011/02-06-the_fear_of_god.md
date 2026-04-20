@@ -4,7 +4,7 @@ date: 2011-02-06
 tags:
 - discourse
 - religion
-- Bahai
+- bahai-faith
 ---
 
 A friend asked about the need for the concept of "fear of God" in the

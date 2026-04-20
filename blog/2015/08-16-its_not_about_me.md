@@ -4,7 +4,7 @@ date: 2015-08-16
 tags:
 - discourse
 - inclusion
-- Bahai
+- bahai-faith
 ---
 
 More than twenty years ago, the National Spiritual Assembly of the

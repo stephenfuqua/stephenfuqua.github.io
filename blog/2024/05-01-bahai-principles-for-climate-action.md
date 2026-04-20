@@ -4,8 +4,8 @@ date: 2024-05-01
 tags:
 - religion
 - nature
-- Bahai
-- climate
+- bahai-faith
+- nature
 - discourse
 ---
 

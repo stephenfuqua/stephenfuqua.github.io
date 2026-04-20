@@ -4,7 +4,7 @@ date: 2010-12-08
 tags:
 - living
 - religion
-- Bahai
+- bahai-faith
 ---
 
 In an [epistle](http://bahai-library.com/provisionals/lawh.bagh.ridvan.html)

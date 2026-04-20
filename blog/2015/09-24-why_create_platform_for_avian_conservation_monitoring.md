@@ -5,6 +5,7 @@ tags:
 - technology
 - programming
 - birds
+- nature
 ---
 
 <div class="image">

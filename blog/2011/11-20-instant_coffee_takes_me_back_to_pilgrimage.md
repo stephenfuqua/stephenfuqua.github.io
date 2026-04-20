@@ -4,7 +4,7 @@ date: 2011-11-20
 tags:
 - living
 - religion
-- Bahai
+- bahai-faith
 ---
 
 

@@ -4,7 +4,7 @@ date: 2004-11-07
 tags:
 - discourse
 - nature
-- climate
+- nature
 ---
 
 The Kyoto Protocol has been ratified by Russia (dead link removed; SF 2025). What happens now?

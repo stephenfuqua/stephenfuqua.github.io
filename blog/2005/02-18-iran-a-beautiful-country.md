@@ -2,7 +2,7 @@
 title: "Iran, a Beautiful Place to Be"
 date: 2005-02-18T07:51:22-06:00
 tags:
-- bahai
+- bahai-faith
 - peace
 ---
 

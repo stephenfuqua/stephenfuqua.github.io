@@ -3,7 +3,7 @@ title: Destruction of Baha'i Holy Sites
 date: 2004-08-03
 tags:
 - religion
-- Bahai
+- bahai-faith
 ---
 
 The persecution of the Bah&aacute;'&iacute;s of Iran continues: recent months
