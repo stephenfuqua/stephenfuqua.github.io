@@ -2,7 +2,7 @@
 title: Curly's Law and Questions for the Team
 date: '2009-02-16 12:54:02 -0600'
 tags:
-- tech
+- technology
 - programming
 
 ---

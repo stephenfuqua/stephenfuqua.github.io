@@ -2,7 +2,7 @@
 title: 'Project T: Getting Started With Continuous Delivery, part 1'
 date: '2015-02-17 23:00:11 -0600'
 tags:
-- tech
+- technology
 - programming
 - devops
 

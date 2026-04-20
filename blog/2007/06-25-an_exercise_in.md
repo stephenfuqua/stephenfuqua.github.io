@@ -1,7 +1,7 @@
 ---
 title: An Exercise in Performance Tuning in C#.Net
 date: '2007-06-25 19:59:27 -0500'
-tags: [tech, dotnet]
+tags: [technology, dotnet]
 
 ---
 

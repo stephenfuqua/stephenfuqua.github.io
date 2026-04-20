@@ -5,7 +5,7 @@ tags:
 - discourse
 - justice
 - inclusion
-- tech
+- technology
 - data-and-analytics
 ---
 

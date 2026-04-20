@@ -2,7 +2,7 @@
 title: Closing A Cursor in SQL Catch
 date: '2009-06-29 10:42:42 -0500'
 tags:
-- tech
+- technology
 - database
 - sql-server
 

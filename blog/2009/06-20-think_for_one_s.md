@@ -2,7 +2,7 @@
 title: Think For One ... Second
 date: '2009-06-20 07:58:06 -0500'
 tags:
-- tech
+- technology
 - dotnet
 - programming
 

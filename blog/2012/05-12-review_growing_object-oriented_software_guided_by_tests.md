@@ -2,7 +2,7 @@
 title: 'Review: Growing Object-Oriented Software, Guided By Tests'
 date: '2012-05-12 21:50:18 -0500'
 tags:
-- tech
+- technology
 - programming
 - testing
 - books

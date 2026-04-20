@@ -4,7 +4,7 @@ date: 2025-01-24
 
 tags:
 - programming
-- tech
+- technology
 - ed-fi
 ---
 

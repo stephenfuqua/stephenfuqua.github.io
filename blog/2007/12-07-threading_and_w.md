@@ -1,7 +1,7 @@
 ---
 title: Threading and Waiting with Delegates
 date: '2007-12-07 10:33:45 -0600'
-tags: [tech, dotnet]
+tags: [technology, dotnet]
 
 ---
 

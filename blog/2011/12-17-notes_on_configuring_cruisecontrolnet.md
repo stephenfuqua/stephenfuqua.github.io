@@ -2,7 +2,7 @@
 title: Notes on Configuring CruiseControl.Net
 date: '2011-12-17 22:50:23 -0600'
 tags:
-- tech
+- technology
 - dotnet
 - programming
 - devops

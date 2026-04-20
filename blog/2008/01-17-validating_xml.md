@@ -2,7 +2,7 @@
 title: Validating XML Via Embedded XSD Schema
 date: '2008-01-17 15:30:14 -0600'
 tags:
-- tech
+- technology
 - dotnet
 
 ---

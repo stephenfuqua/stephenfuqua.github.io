@@ -2,7 +2,7 @@
 title: Test Naming Convention
 date: '2012-03-30 12:31:36 -0500'
 tags:
-- tech
+- technology
 - programming
 - dotnet
 - testing

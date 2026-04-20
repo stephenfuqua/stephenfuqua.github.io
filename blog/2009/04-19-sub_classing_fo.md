@@ -2,7 +2,7 @@
 title: Sub classing for automated testing
 date: '2009-04-19 15:55:26 -0500'
 tags:
-- tech
+- technology
 - dotnet
 - testing
 

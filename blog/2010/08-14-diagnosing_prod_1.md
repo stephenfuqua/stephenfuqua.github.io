@@ -2,7 +2,7 @@
 title: 'Diagnosing Production Problems: Zeroth Law'
 date: '2010-08-14 10:26:07 -0500'
 tags:
-- tech
+- technology
 - sdlc
 - programming
 

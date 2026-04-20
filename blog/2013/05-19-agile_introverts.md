@@ -2,7 +2,7 @@
 title: Agile Introverts
 date: '2013-05-19 21:48:15 -0500'
 tags:
-- tech
+- technology
 - sdlc
 - agile
 

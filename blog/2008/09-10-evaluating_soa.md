@@ -2,7 +2,7 @@
 title: Evaluating SOA for Enterprise Architecture
 date: '2008-09-10 19:40:02 -0500'
 tags:
-- tech
+- technology
 - architecture
 
 ---

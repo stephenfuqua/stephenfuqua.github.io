@@ -1,7 +1,7 @@
 ---
 title: Reusing Code in SSIS
 date: '2007-12-13 14:48:09 -0600'
-tags: [tech, database, sql-server, ssis]
+tags: [technology, database, sql-server, ssis]
 ---
 
 ## Problem

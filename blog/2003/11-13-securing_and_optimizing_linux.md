@@ -1,7 +1,7 @@
 ---
 title: 'Securing and Optimizing Linux, pt. 1: Services'
 date: '2003-11-13 17:47:07 -0600'
-tags: [tech, Linux]
+tags: [technology, Linux]
 ---
 
 I find that Red Hat Linux (dead link removed; SF 2025) is fairly

@@ -2,7 +2,7 @@
 title: Node.js, Web API, and RabbitMQ. Part 4
 date: 2014-10-13
 tags:
-- tech
+- technology
 - programming
 - javascript
 - dotnet

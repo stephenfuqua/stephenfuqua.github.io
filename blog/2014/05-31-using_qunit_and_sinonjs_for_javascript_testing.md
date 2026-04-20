@@ -2,7 +2,7 @@
 title: Using QUnit and SinonJS for JavaScript Testing
 date: 2014-05-31
 tags:
-- tech
+- technology
 - programming
 - javascript
 

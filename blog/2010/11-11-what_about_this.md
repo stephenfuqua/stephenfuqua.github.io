@@ -2,7 +2,7 @@
 title: What about this "agile" thing?
 date: '2010-11-11 21:37:09 -0600'
 tags:
-- tech
+- technology
 - sdlc
 - agile
 

@@ -2,7 +2,7 @@
 title: FlightNode Authentication and Authorization
 date: 2015-10-04
 tags:
-- tech
+- technology
 - architecture
 - FlightNode
 ---

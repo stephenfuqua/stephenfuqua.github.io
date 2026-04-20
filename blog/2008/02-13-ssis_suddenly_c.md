@@ -2,7 +2,7 @@
 title: 'SSIS: Suddenly Can''t Write to Buffer'
 date: '2008-02-13 09:22:39 -0600'
 tags:
-- tech
+- technology
 - database
 - sql-server
 - ssis

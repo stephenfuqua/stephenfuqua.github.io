@@ -2,7 +2,7 @@
 title: 'RS and XSLT, pt1: Applying a Basic Transformation'
 date: '2008-02-22 15:53:47 -0600'
 tags:
-- tech
+- technology
 - database
 - sql-server
 ---

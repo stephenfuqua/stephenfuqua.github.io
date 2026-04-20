@@ -2,7 +2,7 @@
 title: Some Tips for Use of DataAnnotations in .Net
 date: '2012-06-27 20:14:22 -0500'
 tags:
-- tech
+- technology
 - programming
 - dotnet
 

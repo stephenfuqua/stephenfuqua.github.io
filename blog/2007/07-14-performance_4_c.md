@@ -1,7 +1,7 @@
 ---
 title: 'Performance #4: Consolidate Object Creation from Database'
 date: '2007-07-14 15:01:21 -0500'
-tags: [tech, dotnet, performance]
+tags: [technology, dotnet, performance]
 ---
 
 _This article is part of the series [An Exercise in Performance Tuning in C#.Net](./06-25-an_exercise_in.md)_.

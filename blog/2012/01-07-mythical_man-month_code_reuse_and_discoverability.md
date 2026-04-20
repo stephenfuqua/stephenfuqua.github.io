@@ -2,7 +2,7 @@
 title: 'Mythical Man-Month: Code Reuse and Discoverability'
 date: '2012-01-07 20:09:21 -0600'
 tags:
-- tech
+- technology
 - programming
 - books
 - dotnet

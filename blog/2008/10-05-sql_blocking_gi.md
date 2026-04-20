@@ -2,7 +2,7 @@
 title: "(SQL) Blocking Giving You the Blues?"
 date: '2008-10-05 22:02:03 -0500'
 tags:
-- tech
+- technology
 - database
 - sql-server
 

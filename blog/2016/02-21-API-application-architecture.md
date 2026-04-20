@@ -2,7 +2,7 @@
 title: FlightNode API Application Architecture
 date: 2016-02-21
 tags:
-- tech
+- technology
 - programming
 - architecture
 - FlightNode

@@ -2,7 +2,7 @@
 title: "Call for Community Expertise and Input – Ed-Fi in Containers!"
 date: 2020-06-24
 tags:
-- tech
+- technology
 - devops
 - ed-fi
 ---

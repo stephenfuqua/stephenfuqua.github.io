@@ -2,7 +2,7 @@
 title: 'Be Agile'
 date: '2013-07-13 11:45:23 -0500'
 tags:
-- tech
+- technology
 - programming
 - agile
 

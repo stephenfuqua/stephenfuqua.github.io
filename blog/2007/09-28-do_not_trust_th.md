@@ -1,7 +1,7 @@
 ---
 title: Do not trust the generic List!
 date: '2007-09-28 13:43:11 -0500'
-tags: [tech, dotnet]
+tags: [technology, dotnet]
 
 ---
 

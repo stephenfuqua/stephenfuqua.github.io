@@ -2,7 +2,7 @@
 title: Design Updates and Fresh Content
 date: '2011-10-12 22:00:39 -0500'
 tags:
-- tech
+- technology
 - meta
 
 ---

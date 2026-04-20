@@ -2,7 +2,7 @@
 title: TDD - Scenario for Red, Green, Refactor
 date: '2009-09-03 13:53:09 -0500'
 tags:
-- tech
+- technology
 - dotnet
 - programming
 - testing

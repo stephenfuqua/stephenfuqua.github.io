@@ -1,7 +1,7 @@
 ---
 title: 'Performance #3: CLR Profiler'
 date: '2007-07-05 19:59:15 -0500'
-tags: [tech, dotnet, performance]
+tags: [technology, dotnet, performance]
 
 ---
 

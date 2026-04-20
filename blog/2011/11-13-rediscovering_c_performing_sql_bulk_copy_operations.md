@@ -2,7 +2,7 @@
 title: Rediscovering C++  / Performing SQL Bulk Copy Operations
 date: '2011-11-13 13:53:58 -0600'
 tags:
-- tech
+- technology
 - programming
 
 ---

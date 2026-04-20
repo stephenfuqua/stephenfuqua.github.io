@@ -2,7 +2,7 @@
 title: "Why Create a Platform for Avian Conservation Monitoring?"
 date: 2015-09-24
 tags:
-- tech
+- technology
 - programming
 - birds
 ---

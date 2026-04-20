@@ -2,7 +2,7 @@
 title: Cold Fusion and Alternative Energy
 date: 2004-09-16
 tags:
-- tech
+- technology
 ---
 
 Though historically I've not read many blogs, I've been poking around looking

@@ -1,7 +1,7 @@
 ---
 title: NUnit Ignores App.Config
 date: '2007-12-31 12:00:41 -0600'
-tags: [tech, dotnet, testing]
+tags: [technology, dotnet, testing]
 
 ---
 

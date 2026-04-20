@@ -2,7 +2,7 @@
 title: Why did they remove Promote Local Variable refactor?
 date: '2010-05-08 20:15:14 -0500'
 tags:
-- tech
+- technology
 - dotnet
 - programming
 

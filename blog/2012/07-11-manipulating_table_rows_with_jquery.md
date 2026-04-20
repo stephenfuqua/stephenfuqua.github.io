@@ -2,7 +2,7 @@
 title: Manipulating Table Rows with jQuery
 date: '2012-07-11 21:48:13 -0500'
 tags:
-- tech
+- technology
 - programming
 - javascript
 

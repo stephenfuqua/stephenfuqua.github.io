@@ -2,7 +2,7 @@
 title: Encryption, Views, and Stand-Alone Stored Procedures in the Entity Framework
 date: '2009-08-26 11:12:48 -0500'
 tags:
-- tech
+- technology
 - database
 - sql-server
 - dotnet

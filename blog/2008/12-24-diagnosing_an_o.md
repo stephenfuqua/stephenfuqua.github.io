@@ -2,7 +2,7 @@
 title: Diagnosing an Obnoxious Reporting Timeout Problem
 date: '2008-12-24 22:10:58 -0600'
 tags:
-- tech
+- technology
 - dotnet
 - sql-server
 - performance

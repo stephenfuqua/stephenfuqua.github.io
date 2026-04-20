@@ -1,7 +1,7 @@
 ---
 title: Collection Performance Comparisons
 date: '2007-07-06 20:55:01 -0500'
-tags: [tech, dotnet, performance]
+tags: [technology, dotnet, performance]
 ---
 
 This is _not_ part of my series on performance tuning a specific app.

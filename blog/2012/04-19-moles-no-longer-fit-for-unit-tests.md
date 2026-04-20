@@ -2,7 +2,7 @@
 title: 'Moles: No Longer Fit for Unit Tests'
 date: 2012-04-19
 tags:
-- tech
+- technology
 - programming
 - dotnet
 - testing

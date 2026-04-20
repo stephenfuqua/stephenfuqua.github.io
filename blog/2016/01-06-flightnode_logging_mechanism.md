@@ -2,7 +2,7 @@
 title: FlightNode Logging Mechanism
 date: 2016-01-06
 tags:
-- tech
+- technology
 - programming
 - FlightNode
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sanitize Your Database Inputs!
 date: '2007-10-10 20:33:37 -0500'
-tags: [tech, database]
+tags: [technology, database]
 
 ---
 

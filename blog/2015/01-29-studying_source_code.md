@@ -2,7 +2,7 @@
 title: Studying Source Code
 date: '2015-01-29'
 tags:
-- tech
+- technology
 - programming
 - dotnet
 ---

@@ -2,7 +2,7 @@
 title: The value of using braces to avoid code defects
 date: '2009-01-12 12:13:48 -0600'
 tags:
-- tech
+- technology
 - dotnet
 - programming
 

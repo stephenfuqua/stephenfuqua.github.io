@@ -1,7 +1,7 @@
 ---
 title: 'Visual Studio Says: "Failed to create component"'
 date: '2007-07-17 20:27:07 -0500'
-tags: [tech, dotnet]
+tags: [technology, dotnet]
 
 ---
 

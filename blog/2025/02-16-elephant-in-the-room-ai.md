@@ -2,7 +2,7 @@
 title: Addressing the Elephant in the Room – AI – at the Data Day Texas 2025 Town Hall
 date: 2025-02-16
 tags:
-- tech
+- technology
 - data-and-analytics
 ---
 
