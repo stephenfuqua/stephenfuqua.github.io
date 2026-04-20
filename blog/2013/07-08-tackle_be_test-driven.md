@@ -87,4 +87,4 @@ facilitates full integration of the system test framework as well).
 
 ### Related posts from this blog
 
-[/tags/testing](/tag/testing)
+[/tags/testing](/tags/testing)

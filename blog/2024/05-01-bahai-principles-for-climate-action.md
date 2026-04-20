@@ -5,7 +5,6 @@ tags:
 - religion
 - nature
 - bahai-faith
-- nature
 - discourse
 ---
 

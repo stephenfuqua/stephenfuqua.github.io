@@ -4,6 +4,7 @@ date: 2018-5-06
 tags:
 - sdlc
 - technology
+- testing
 ---
 
 There is a positive a trend of developers doing more of their own testing, going beyond unit testing. However, if independent testers are cut out of the loop, then surely many applications will suffer. Case in point: a user unexpectedly entering a decimal temperatures and military time in a citizen science data collection application.

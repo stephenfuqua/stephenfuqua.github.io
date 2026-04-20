@@ -34,7 +34,7 @@ Sidebar contents, top to bottom:
 5. **Topic chips** — three pill-shaped links in a row (wraps on narrow widths):
    * Technology → `/tags/technology`
    * Nature → `/tags/nature`
-   * Bahá'í Faith → `/tags/bahai-faith`
+   * Bahá'í Faith → `/tags/bahai-faith-faith`
 6. **(Optional) Social links** — GitHub, LinkedIn. Deferred unless author wants them duplicated from the navbar.
 
 The component lives at `src/theme/BlogSidebar/index.jsx` (or `.tsx`) with styles in a sibling `styles.module.css`. It is small, stateless, and contains a comment noting it is a swizzle override so future Docusaurus upgrades do not silently diverge.
@@ -73,7 +73,7 @@ Each post ends up with exactly one of the three bucket tags; free-form tags it a
 
 ### 5. Tag slugs are permanent
 
-Once `/tags/technology`, `/tags/nature`, and `/tags/bahai-faith` are live, renaming them breaks inbound links and feed URLs. These three slugs are fixed as part of this design and will not change.
+Once `/tags/technology`, `/tags/nature`, and `/tags/bahai-faith-faith` are live, renaming them breaks inbound links and feed URLs. These three slugs are fixed as part of this design and will not change.
 
 ## File changes
 

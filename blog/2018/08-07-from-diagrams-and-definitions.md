@@ -13,7 +13,7 @@ Data Standard documentation in Tech Docs is top notch. Nevertheless, going from
 diagrams and definitions to actual query code for, let’s say, each student’s
 average math grade during a grading period, is not a trivial exercise.
 
-_Originaly posted on <www.ed-fi.org>...
+_Originally posted on [www.ed-fi.org](https://www.ed-fi.org)_
 
 <!-- truncate -->
 Have you ever tried to write a query using the Ed-Fi ODS for reporting or analytics? To say that it is challenging is to use the mildest language. The Data Standard documentation in Tech Docs is top notch. Nevertheless, going from diagrams and definitions to actual query code for, let’s say, each student’s average math grade during a grading period, is not a trivial exercise.
@@ -30,8 +30,10 @@ The ODS (operational data store) is highly normalized, reflecting the Unifying D
 
 Simplification through creation of targeted, de-normalized, SQL views to ease the burden of querying the ODS in reporting tools and analytics solutions. We call this the “analytics middle tier” – a layer of support to sit between the raw table structures and the end-user tools. And we think it will be particularly beneficial to local education agencies who lack the resources to invest in rooms full of business intelligence analysts, and to vendors seeking to leverage the ODS to create off-the-shelf analytics solutions.
 
-{original diagram was not archived}
+:::warning
 
-_Complexity Simplified (upper portion does not include all source tables)_
+An image file with a diagram was lost
+
+:::
 
 The Ed-Fi Alliance will soon publish a technical paper analyzing this yawning gap between data storage and data reporting and providing concomitant architectural recommendations and patterns – starting from those SQL views – for overcoming that gap. The paper particularly focuses on provision of data to an Early Warning System, although the patterns will easily support other use cases in the future.

@@ -11,7 +11,7 @@ As education agencies increasingly look for cost-savings and scalability
 benefits through adoption of hybrid or cloud-only IT infrastructures, it is
 natural to ask: what should an ideal Ed-Fi installation look like in the cloud?
 
-_Originally posted on <www.ed-fi.org>_
+_Originally posted on [www.ed-fi.org](https://www.ed-fi.org)_
 
 <!-- truncate -->
 
