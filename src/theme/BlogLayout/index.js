@@ -1,6 +1,6 @@
 import clsx from "clsx";
 import Layout from "@theme/Layout";
-import BlogSidebar from "@theme/BlogSidebar";
+import BlogSidebar from "../BlogSidebar";
 
 export default function BlogLayoutWrapper(props) {
   const { sidebar, toc, children, ...layoutProps } = props;

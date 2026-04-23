@@ -6,6 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
+  --ifm-background-surface-color: rgb(243, 243, 243);
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -25,7 +26,6 @@
 .image {
   text-align: center;
   margin: 1rem auto 0 auto;
-
   font-size: 90%;
 }
 
