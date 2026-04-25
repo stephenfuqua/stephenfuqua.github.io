@@ -20,8 +20,8 @@ const Bio = function () {
         className={styles.avatar}
         src="/img/author-avatar.webp"
         alt="Stephen A. Fuqua"
-        width={120}
-        height={120}
+        width={140}
+        height={140}
       />
       <p>
         I write about{" "}
