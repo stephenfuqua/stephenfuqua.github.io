@@ -4,9 +4,10 @@ date: 2016-04-01
 tags:
 - discourse
 - inclusion
+- justice
 ---
 
-Great stories moves us. They do not only move us: indded, they instill the
+Great stories moves us. They do not only move us: indeed, they instill the
 _desire to move_. But it is we, the reader or audience, who choose where to go,
 and what to do.
 

@@ -6,6 +6,7 @@ tags:
 - nature
 - bahai-faith
 - discourse
+- climate
 ---
 
 Amongst its many admirable principles, where does one find environmental

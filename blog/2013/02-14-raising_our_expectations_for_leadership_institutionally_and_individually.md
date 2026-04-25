@@ -4,6 +4,7 @@ date: 2013-02-14
 tags:
 - discourse
 - nature
+- climate
 ---
 
 <div class="image">

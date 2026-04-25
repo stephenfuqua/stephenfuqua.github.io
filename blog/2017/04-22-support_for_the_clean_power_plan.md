@@ -4,6 +4,7 @@ date: 2017-04-22
 tags:
 - discourse
 - nature
+- climate
 ---
 
 The serious nature of air pollution did not truly hit me until a family wedding

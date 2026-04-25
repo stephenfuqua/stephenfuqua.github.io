@@ -5,6 +5,7 @@ tags:
 - discourse
 - nature
 - religion
+- climate
 ---
 
 <div class="image">

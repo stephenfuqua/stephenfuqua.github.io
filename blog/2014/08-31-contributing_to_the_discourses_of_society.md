@@ -15,7 +15,7 @@ motivated by passages such as this one, from the Universal House of Justice's
 > "... involvement in public discourse can range from an act as simple as
 > introducing Bah&aacute;'&iacute; ideas into everyday conversation to more
 > formal activities such as the preparation of articles and attendance at
-> gatherings, dedicated to themes of social concern - nature change and the
+> gatherings, dedicated to themes of social concern - climate change and the
 > environment, governance and human rights, to mention a few. It entails, as
 > well, meaningful interactions with civic groups and local organizations in
 > villages and neighbourhoods."

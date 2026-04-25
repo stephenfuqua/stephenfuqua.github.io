@@ -2,7 +2,6 @@
 title: Mid-June, Mid-Afternoon Birding at Sam Houston Trail Park
 date: 2016-06-12
 tags:
-- nature
 - birds
 - nature
 ---

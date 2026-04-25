@@ -5,6 +5,7 @@ tags:
 - living
 - nature
 - nature
+- climate
 ---
 
 Twenty-something years ago, not long after the Exxon Valdez disaster, I wrote a

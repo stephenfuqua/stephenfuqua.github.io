@@ -2,7 +2,7 @@
 title: "Upgrading safnet-directory, Part 1: Trivial Cleanup"
 date: 2018-07-15
 tags:
-- dotnet,
+- dotnet
 - architecture
 - technology
 ---

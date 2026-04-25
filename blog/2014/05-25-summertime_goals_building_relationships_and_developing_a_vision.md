@@ -5,6 +5,7 @@ tags:
 - religion
 - discourse
 - nature
+- climate
 ---
 
 **Stirring up a grassroots movement is hard work.**

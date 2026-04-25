@@ -4,6 +4,7 @@ date: 2013-08-12
 tags:
 - discourse
 - religion
+- climate
 - bahai-faith
 ---
 
