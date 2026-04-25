@@ -99,14 +99,14 @@ the voices of women.
 ## Citations
 
 <!-- markdownlint-disable MD033 -->
-1. <a name="f1"></a>Bethune, Mary McLeod. "We, Too, Are Americans!", _Pittsburgh
+1. <a id="f1"></a>Bethune, Mary McLeod. "We, Too, Are Americans!", _Pittsburgh
    Courier_, January 17, 1941. p. 8.
-2. <a name="f2"></a>Bethune, Mary McLeod. "Mary McLeod Bethune", _American
+2. <a id="f2"></a>Bethune, Mary McLeod. "Mary McLeod Bethune", _American
    Spiritual Autobiographies: Fifteen Self-Portraits_, edited by Louis
    Finkelstein. (New York, NY: Harper & Brothers, 1948). pp. 182-190.
-3. <a name="f3"></a>Rabbani, Shoghi Effendi. _Directives from the Guardian_.
+3. <a id="f3"></a>Rabbani, Shoghi Effendi. _Directives from the Guardian_.
    (India/Hawaii, 1973 edition). p 87.
-4. <a name="f4"></a> Bah&aacute;'u'll&aacute;h. _Gleanings From the Writings of
+4. <a id="f4"></a> Bah&aacute;'u'll&aacute;h. _Gleanings From the Writings of
    Bah&aacute;'u'll&aacute;h. (US Bah&aacute;'&iacute; Publishing Trust, 1990
    pocket-size edition). p 346.
 <!-- markdownlint-restore -->

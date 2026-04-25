@@ -53,7 +53,7 @@ of this great republic toward the full realization of its glorious destiny"
 ---
 
 <!-- markdownlint-disable-next-line MD033 -->
-<a name="1">*</a> Resources dealing with climate and pollution impacts on health and justice:
+<a id="1">*</a> Resources dealing with climate and pollution impacts on health and justice:
 
 * [Here's how environmental justice advocates improved Obama's Clean Power Plan](https://grist.org/climate-energy/heres-how-environmental-justice-advocates-improved-obamas-clean-power-plan/), by Jalonne L. White-Newsome in Grist (Aug 2015).
 * [Program for Environmental and Regional Equity](https://dornsife.usc.edu/pere/publications/) at the University of Southern California.
@@ -63,7 +63,7 @@ of this great republic toward the full realization of its glorious destiny"
 * [Children's Environmental Health Disparities: Black and African American Children and Asthma](https://www.epa.gov/children/childrens-environmental-health-disparities-black-and-african-american-children-and-asthma), fact sheet from the Environmental Protection Agency, directly connecting ozone and other pollutants to asthma. These pollutants are corollary byproducts of the fossil fuel burning that is a significant driver of climate change.
 
 <!-- markdownlint-disable-next-line MD033 -->
-<a name="2">**</a> A few examples:
+<a id="2">**</a> A few examples:
 
 * [Black Lives Matter has showed us: the oppression of black people is borderless](http:s//www.theguardian.com/commentisfree/2015/aug/09/black-lives-matter-movement-taught-black-oppression-borderless-michael-brown), by Steven W. Thrasher (Aug 2015).
 * [#BlackLivesMatter: the birth of a new civil rights movement](http://www.theguardian.com/world/2015/jul/19/blacklivesmatter-birth-civil-rights-movement), by Elizabeth Day (July 2015).
