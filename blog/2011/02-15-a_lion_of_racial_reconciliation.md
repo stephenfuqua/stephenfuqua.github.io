@@ -6,7 +6,7 @@ tags:
 - religion
 - books
 - inclusion
-- Bahai
+- bahai-faith
 ---
 
 It was about three years ago, while attending a conference at Green Acre

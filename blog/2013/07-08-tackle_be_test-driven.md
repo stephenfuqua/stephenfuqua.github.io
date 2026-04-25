@@ -2,7 +2,7 @@
 title: 'Be Test-Driven'
 date: '2013-07-08 21:23:28 -0500'
 tags:
-- tech
+- technology
 - programming
 - testing
 ---
@@ -87,4 +87,4 @@ facilitates full integration of the system test framework as well).
 
 ### Related posts from this blog
 
-[/tags/testing](/tag/testing)
+[/tags/testing](/tags/testing)

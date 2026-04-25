@@ -2,7 +2,7 @@
 title: 'The Mythical Man-Month: Conceptual Integrity'
 date: '2011-11-20 10:30:21 -0600'
 tags:
-- tech
+- technology
 - programming
 - books
 ---

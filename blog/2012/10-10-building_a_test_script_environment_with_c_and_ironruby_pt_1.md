@@ -2,7 +2,7 @@
 title: 'C# + IronRuby: Building Automated System Tests, pt 1'
 date: '2012-10-10 22:16:06 -0500'
 tags:
-- tech
+- technology
 - programming
 - testing
 

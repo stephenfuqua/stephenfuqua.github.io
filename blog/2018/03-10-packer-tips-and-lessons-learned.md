@@ -1,7 +1,7 @@
 ---
 title: Packer Tips and Lessons Learned
 date: 2018-03-10
-tags: [tech, devops, Windows]
+tags: [technology, devops, Windows]
 ---
 
 [Packer](https://www.packer.io) is a cross-platform tool for scripting out virtual machine images. Put another way: use it to create new virtual machines with fully automated and repeatable installations. No clicking around. Some of the benefits:

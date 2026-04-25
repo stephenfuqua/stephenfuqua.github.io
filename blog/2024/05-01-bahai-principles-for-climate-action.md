@@ -4,9 +4,9 @@ date: 2024-05-01
 tags:
 - religion
 - nature
-- Bahai
-- climate
+- bahai-faith
 - discourse
+- climate
 ---
 
 Amongst its many admirable principles, where does one find environmental

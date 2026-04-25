@@ -2,9 +2,8 @@
 title: 'Be Kind'
 date: '2013-11-24 22:25:20 -0600'
 tags:
-- tech
+- technology
 - meta
-
 ---
 
 This is a technical blog, right? Why would I mention this virtue? In [Management

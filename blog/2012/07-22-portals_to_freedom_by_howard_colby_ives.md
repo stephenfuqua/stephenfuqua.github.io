@@ -4,7 +4,7 @@ date: 2012-07-22
 tags:
 - books
 - religion
-- Bahai
+- bahai-faith
 ---
 
 <div class="rightImage">

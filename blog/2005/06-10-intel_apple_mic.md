@@ -1,7 +1,7 @@
 ---
 title: Intel + Apple = Microsoft Killer?
 date: '2005-06-10 12:36:05 -0500'
-tags: [tech]
+tags: [technology]
 ---
 
 PBS's Robert X. Cringeley thinks Intel is poised to buy

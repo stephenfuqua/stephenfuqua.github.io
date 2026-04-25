@@ -2,7 +2,7 @@
 title: String.IsNullOrEmpty - performance considerations, bugs
 date: '2008-11-20 10:00:03 -0600'
 tags:
-- tech
+- technology
 - dotnet
 
 ---

@@ -2,7 +2,7 @@
 title: Protecting Against SQL Injection in Dynamic SQL Statements
 date: '2011-02-26 11:42:16 -0600'
 tags:
-- tech
+- technology
 - database
 - sql-server
 

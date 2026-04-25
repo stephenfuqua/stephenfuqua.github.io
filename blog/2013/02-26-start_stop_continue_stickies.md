@@ -2,7 +2,7 @@
 title: Start Stop Continue Stickies
 date: '2013-02-26 20:42:23 -0600'
 tags:
-- tech
+- technology
 - sdlc
 - agile
 

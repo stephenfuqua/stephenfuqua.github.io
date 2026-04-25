@@ -3,7 +3,7 @@ title: Preparing for PowerShell Core and .NET Development on Ubuntu on Windows
 date: 2021-11-08
 tags:
   - devops
-  - tech
+  - technology
   - programming
   - Linux
   - Windows

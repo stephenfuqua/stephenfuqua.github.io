@@ -2,7 +2,7 @@
 title: Running FlightNode Locally
 date: 2015-10-26
 tags:
-- tech
+- technology
 - programming
 - FlightNode
 ---

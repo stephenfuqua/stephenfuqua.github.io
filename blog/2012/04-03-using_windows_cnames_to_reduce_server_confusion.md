@@ -2,7 +2,7 @@
 title: Using Windows CNAMEs to Reduce Server Confusion
 date: '2012-04-03 19:20:19 -0500'
 tags:
-- tech
+- technology
 - Windows
 
 ---

@@ -2,7 +2,7 @@
 title: 'SSIS: Updating Variables From Resultset Data'
 date: '2008-01-29 09:56:08 -0600'
 tags:
-- tech
+- technology
 - database
 - sql-server
 - ssis

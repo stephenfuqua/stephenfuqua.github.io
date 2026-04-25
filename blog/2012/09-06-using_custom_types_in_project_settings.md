@@ -2,7 +2,7 @@
 title: Using Custom Types in Project Settings
 date: '2012-09-06 20:57:04 -0500'
 tags:
-- tech
+- technology
 - programming
 - dotnet
 

@@ -2,7 +2,7 @@
 title: 'Management 3.0: Knowledge and Diversity'
 date: '2015-01-20 22:21:55 -0600'
 tags:
-- tech
+- technology
 - programming
 - sdlc
 - inclusion

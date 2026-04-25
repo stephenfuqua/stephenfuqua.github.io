@@ -2,7 +2,7 @@
 title: Performance Test Harness
 date: '2015-02-10'
 tags:
-- tech
+- technology
 - programming
 - testing
 

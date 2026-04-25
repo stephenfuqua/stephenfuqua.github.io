@@ -2,7 +2,7 @@
 title: 'Be Coherent'
 date: '2013-07-26 13:55:38 -0500'
 tags:
-- tech
+- technology
 - sdlc
 - meta
 

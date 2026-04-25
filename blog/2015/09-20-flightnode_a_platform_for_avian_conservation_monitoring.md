@@ -2,7 +2,7 @@
 title: 'FlightNode: A Platform for Avian Conservation Monitoring'
 date: '2015-09-20'
 tags:
-- tech
+- technology
 - programming
 - FlightNode
 

@@ -3,7 +3,7 @@ title: Data Cataloging at Data Day Texas 2025
 date: 2025-02-03
 
 tags:
-- tech
+- technology
 - data-and-analytics
 ---
 

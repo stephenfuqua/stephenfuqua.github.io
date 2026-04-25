@@ -28,7 +28,7 @@ All of these birds are coming around because we've provided habitat for them:
 water, food, shelter. While native plants provide the most diverse and
 beneficial habitats, some non-natives can also play a meaningful role in our
 backyard habitats. For a few years I dismissed the non-native crapemyrtle as
-showy but useless. That is, until I saw Gold Finches eating their seeds in the
+showy but useless. That is, until I saw American Goldfinches eating their seeds in the
 front yard last year.
 
 In this photo, notice that clump of leaves next to the bird. You can kind of

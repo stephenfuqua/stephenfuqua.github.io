@@ -2,7 +2,7 @@
 title: Updating the GUI Before a Method Completes
 date: '2008-04-28 09:50:39 -0500'
 tags:
-- tech
+- technology
 - dotnet
 ---
 

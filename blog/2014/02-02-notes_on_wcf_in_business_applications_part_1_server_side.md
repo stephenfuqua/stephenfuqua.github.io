@@ -2,7 +2,7 @@
 title: 'Notes on WCF in Business Applications, Part 1: Server Side'
 date: '2014-02-02'
 tags:
-- tech
+- technology
 - programming
 - dotnet
 

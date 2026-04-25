@@ -2,7 +2,7 @@
 title: 'Mythical Man-Month: Planning for Change'
 date: '2011-12-11 11:17:59 -0600'
 tags:
-- tech
+- technology
 - programming
 - books
 - agile

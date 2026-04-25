@@ -3,8 +3,8 @@ title: Desperately Seeking Action on DFW Smog
 date: 2016-01-25
 tags:
 - discourse
-- nature
 - climate
+- nature
 - justice
 ---
 

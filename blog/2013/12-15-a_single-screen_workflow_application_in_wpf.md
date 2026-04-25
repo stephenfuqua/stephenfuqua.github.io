@@ -2,7 +2,7 @@
 title: A Single-Screen Workflow Application in WPF
 date: 2013-12-15
 tags:
-- tech
+- technology
 - programming
 - dotnet
 

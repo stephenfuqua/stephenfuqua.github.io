@@ -2,9 +2,10 @@
 title: "Why Create a Platform for Avian Conservation Monitoring?"
 date: 2015-09-24
 tags:
-- tech
+- technology
 - programming
 - birds
+- nature
 ---
 
 <div class="image">
@@ -54,11 +55,11 @@ cost and burden of implementing an online management tool.
 ---
 
 <!-- markdownlint-disable-next-line MD033 -->
-<a name="1">1.</a> Dr. Tania Z. Homayoun, _Program Background_,
+<a id="1">1.</a> Dr. Tania Z. Homayoun, _Program Background_,
 [IbaMonitoring.org](http://www.ibamonitoring.org/about/Default.aspx),
 2010.
 
 <!-- markdownlint-disable-next-line MD033 -->
-<a name="2">2.</a> To understand the potential impacts of climate
+<a id="2">2.</a> To understand the potential impacts of climate
 change on North American birds, see [Audubon's Birds and Climate Change
 Report](http://climate.audubon.org/), published earlier this year.

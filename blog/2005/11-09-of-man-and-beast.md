@@ -2,7 +2,7 @@
 title: Of Man and Beast
 date: 2005-11-09T23:56:06-06:00
 tags:
-- bahai
+- bahai-faith
 - science and religion
 - literature
 - environment

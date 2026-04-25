@@ -1,7 +1,7 @@
 ---
 title: Server 'myserver' is not configured for RPC
 date: '2007-06-22 18:25:07 -0500'
-tags: [tech, database, sql-server]
+tags: [technology, database, sql-server]
 
 ---
 

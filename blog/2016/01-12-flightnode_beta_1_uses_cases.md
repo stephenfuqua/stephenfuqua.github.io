@@ -2,7 +2,7 @@
 title: FlightNode Beta 1 Uses Cases
 date: 2016-01-12
 tags:
-- tech
+- technology
 - programming
 - FlightNode
 ---

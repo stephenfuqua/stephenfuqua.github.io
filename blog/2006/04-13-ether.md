@@ -4,7 +4,7 @@ date: 2006-04-13
 tags:
 - science
 - religion
-- bahai
+- bahai-faith
 ---
 
 An interesting little discussion on the intersection of science and religion has

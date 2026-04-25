@@ -4,7 +4,7 @@ date: 2010-12-04
 tags:
 - living
 - religion
-- Bahai
+- bahai-faith
 ---
 
 We returned yesterday from our Bah&aacute;'&iacute; pilgrimage. Pilgrimage to

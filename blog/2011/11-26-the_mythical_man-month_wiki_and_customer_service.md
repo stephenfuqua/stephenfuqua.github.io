@@ -2,7 +2,7 @@
 title: 'The Mythical Man-Month: Wiki and Customer Service'
 date: '2011-11-26 09:57:19 -0600'
 tags:
-- tech
+- technology
 - programming
 - books
 

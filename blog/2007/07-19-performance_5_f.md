@@ -2,7 +2,7 @@
 title: 'Performance #5: File Buffering'
 date: '2007-07-19 18:54:22 -0500'
 tags:
-- tech
+- technology
 - dotnet
 - performance
 

@@ -2,7 +2,7 @@
 title: Running Python With Graphics Support in Windows Subsystem for Linux (WSL)
 date: 2022-01-21
 tags:
-  - tech
+  - technology
   - programming
   - Linux
   - Windows

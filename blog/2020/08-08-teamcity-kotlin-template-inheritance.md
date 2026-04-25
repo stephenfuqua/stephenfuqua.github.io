@@ -3,7 +3,7 @@ title: Template Inheritance with TeamCity Kotlin
 date: 2020-08-08
 tags:
   - devops
-  - tech
+  - technology
   - sdlc
 
 ---

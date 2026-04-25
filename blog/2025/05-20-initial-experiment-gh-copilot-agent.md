@@ -5,7 +5,7 @@ tags:
 - programming
 - architecture
 - dotnet
-
+- technology
 ---
 
 GitHub CoPilot recently promoted [Agent mode as a full

@@ -2,7 +2,7 @@
 title: Viewing Embedded Images in HTML E-mail (Base64)
 date: '2008-01-11 13:10:28 -0600'
 tags:
-- tech
+- technology
 - dotnet
 
 ---

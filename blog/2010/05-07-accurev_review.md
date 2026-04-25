@@ -2,7 +2,7 @@
 title: AccuRev - Review and Practices
 date: '2010-05-07 20:27:24 -0500'
 tags:
-- tech
+- technology
 - sdlc
 
 ---

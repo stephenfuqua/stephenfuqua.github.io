@@ -3,7 +3,7 @@ title: The Present Future
 date: 2004-08-28
 tags:
 - discourse
-- tech
+- technology
 ---
 
 As a child I watched Elroy Jetson with a certain bemusement, flitting about in

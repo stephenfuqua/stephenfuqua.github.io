@@ -3,7 +3,7 @@ title: Reflecting on a "Power to Choose" Energy Workshop
 date: 2013-03-03
 tags:
 - discourse
-- climate
+- nature
 ---
 
 <div class="image">

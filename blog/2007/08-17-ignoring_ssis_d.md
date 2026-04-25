@@ -1,7 +1,7 @@
 ---
 title: Ignoring SSIS Data Conversion Failures
 date: '2007-08-17 20:39:51 -0500'
-tags: [tech, database, sql-server, ssis]
+tags: [technology, database, sql-server, ssis]
 
 ---
 

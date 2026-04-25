@@ -4,7 +4,7 @@ date: 2014-02-23
 tags:
 - discourse
 - religion
-- climate
+- nature
 ---
 
 Last weekend, faith communities across the U.S. hosted more than two-hundred

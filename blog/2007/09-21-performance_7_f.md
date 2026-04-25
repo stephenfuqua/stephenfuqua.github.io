@@ -1,7 +1,7 @@
 ---
 title: 'Performance #7: An (unsafe) Dead End'
 date: '2007-09-21 09:25:17 -0500'
-tags: [tech, dotnet, performance]
+tags: [technology, dotnet, performance]
 
 ---
 

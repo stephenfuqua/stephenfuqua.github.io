@@ -1,7 +1,7 @@
 ---
 title: Rethrowing Exceptions Is a Dangerous Business
 date: '2007-07-09 04:21:14 -0500'
-tags: [tech, dotnet]
+tags: [technology, dotnet]
 
 ---
 

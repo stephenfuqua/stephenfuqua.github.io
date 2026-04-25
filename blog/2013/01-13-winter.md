@@ -5,6 +5,7 @@ tags:
 - living
 - birds
 - nature
+- nature
 ---
 
 Winter was once a midly depressing time for me, as it is for most: short, cool

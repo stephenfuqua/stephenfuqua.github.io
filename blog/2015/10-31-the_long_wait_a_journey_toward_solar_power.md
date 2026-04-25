@@ -4,6 +4,7 @@ date: 2015-10-31
 tags:
 - living
 - nature
+- nature
 - climate
 ---
 

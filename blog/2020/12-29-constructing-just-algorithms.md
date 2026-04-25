@@ -2,7 +2,7 @@
 title: Constructing Just Algorithms
 date: 2020-12-29
 tags:
-- tech
+- technology
 - discourse
 - justice
 - inclusion

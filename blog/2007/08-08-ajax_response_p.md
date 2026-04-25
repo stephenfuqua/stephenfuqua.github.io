@@ -1,7 +1,7 @@
 ---
 title: AJAX RESPONSE Parsing Exception
 date: '2007-08-08 15:27:13 -0500'
-tags: [tech, dotnet]
+tags: [technology, dotnet]
 
 ---
 

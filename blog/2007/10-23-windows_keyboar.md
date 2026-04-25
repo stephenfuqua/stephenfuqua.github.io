@@ -1,7 +1,7 @@
 ---
 title: Windows Keyboard Shortcuts
 date: '2007-10-23 15:45:15 -0500'
-tags: [tech, Windows]
+tags: [technology, Windows]
 
 ---
 

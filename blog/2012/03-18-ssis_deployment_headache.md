@@ -2,7 +2,7 @@
 title: SSIS Deployment Headache
 date: '2012-03-18 14:42:04 -0500'
 tags:
-- tech
+- technology
 - database
 - sql-server
 - ssis

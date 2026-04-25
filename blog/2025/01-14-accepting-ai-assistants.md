@@ -3,7 +3,7 @@ title: Grudgingly Accepting AI Coding Assistants
 date: 2025-01-14
 tags:
 - programming
-- tech
+- technology
 ---
 
 As a software engineering director building open source products, I have

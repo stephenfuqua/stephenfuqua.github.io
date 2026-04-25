@@ -2,7 +2,7 @@
 title: Configuring Apache (Wamp) With Additional Ports
 date: '2008-08-22 20:18:36 -0500'
 tags:
-- tech
+- technology
 - devops
 
 ---

@@ -4,7 +4,7 @@ date: 2010-08-22
 tags:
 - religion
 - books
-- Bahai
+- bahai-faith
 ---
 
 Did you know that many Bah&aacute;'&iacute; books are available for free

@@ -4,7 +4,7 @@ date: 2010-09-18
 tags:
 - discourse
 - religion
-- Bahai
+- bahai-faith
 ---
 
 This devotional program was presented at the Bah&aacute;'&iacute; House of

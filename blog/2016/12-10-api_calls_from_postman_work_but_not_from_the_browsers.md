@@ -2,7 +2,7 @@
 title: API Calls from Postman Work, But Not From the Browsers
 date: '2016-12-10'
 tags:
-- tech
+- technology
 - programming
 - testing
 ---

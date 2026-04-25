@@ -1,10 +1,13 @@
 ---
 title: Mississippi River Bird Monitoring - Statistics Now Posted!
 date: 2010-06-09
+tags:
+- nature
+- technology
 ---
 
 I've just uploaded some statistics for the [Mississippi River Twin
-Cities Landbird Monitoring Project](http://www.ibamonitoring.org). Go into an individual species and you
+Cities Landbird Monitoring Project](https://www.ibamonitoring.org). Go into an individual species and you
 can see a color-coded table of results, histogram showing species presence over
 time, and a Google maps display with the count of birds at each exact point
 count location within the various sites monitored. Interestingly, Gold Finchs

@@ -4,7 +4,7 @@ date: 2011-01-02
 tags:
 - discourse
 - religion
-- Bahai
+- bahai-faith
 ---
 
 In responding to a friend about the nature of the "god concept" in the

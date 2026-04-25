@@ -5,7 +5,7 @@ tags:
 - discourse
 - religion
 - books
-- Bahai
+- bahai-faith
 ---
 
 A particular comment in Louis Gregory's biography struck me as illustrating the

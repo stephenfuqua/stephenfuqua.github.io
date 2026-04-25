@@ -1,7 +1,7 @@
 ---
 title: Fork Problem with Cygwin
 date: '2003-12-18 04:34:56 -0600'
-tags: [tech, Windows]
+tags: [technology, Windows]
 ---
 
 I've been enjoying the use of [OpenSSH in Windows](https://sshwindows.sourceforge.net/) lately but ran

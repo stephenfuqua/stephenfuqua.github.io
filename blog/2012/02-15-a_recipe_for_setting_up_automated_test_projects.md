@@ -2,7 +2,7 @@
 title: A Recipe for Setting Up Automated Test Projects
 date: '2012-02-15 21:04:28 -0600'
 tags:
-- tech
+- technology
 - dotnet
 - testing
 

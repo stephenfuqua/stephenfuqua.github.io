@@ -5,7 +5,7 @@ tags:
 - discourse
 - religion
 - nature
-- Bahai
+- bahai-faith
 ---
 
 In a letter dated 2 March 2013, to the Bah&aacute;'&iacute;s of Iran, the

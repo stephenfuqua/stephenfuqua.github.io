@@ -4,7 +4,7 @@ date: 2014-08-31
 tags:
 - discourse
 - religion
-- Bahai
+- bahai-faith
 ---
 
 The Bah&aacute;'&iacute;s of Irving are trying out a concept: on the last Friday

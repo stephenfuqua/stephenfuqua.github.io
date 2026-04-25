@@ -2,7 +2,7 @@
 title: Active Directory and WCF Configuration Woes Resolved
 date: '2013-06-06 21:10:46 -0500'
 tags:
-- tech
+- technology
 - programming
 - dotnet
 

@@ -3,7 +3,7 @@ title: Russia Supports Kyoto - Maybe
 date: 2004-09-30
 tags:
 - discourse
-- climate
+- nature
 ---
 
 It was declared today that Russian President Vladimir Putin has at last

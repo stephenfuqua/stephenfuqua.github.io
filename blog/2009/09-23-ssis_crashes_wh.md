@@ -2,7 +2,7 @@
 title: SSIS Crashes When Editing OLE DB Source
 date: '2009-09-23 09:49:26 -0500'
 tags:
-- tech
+- technology
 - database
 - sql-server
 - ssis

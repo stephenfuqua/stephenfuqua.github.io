@@ -2,7 +2,7 @@
 title: Identifying Highly Fragmented (and important) Indexes
 date: '2008-05-23 22:10:08 -0500'
 tags:
-- tech
+- technology
 - database
 - sql-server
 ---

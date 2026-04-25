@@ -2,7 +2,7 @@
 title: Reggie - Regular Expression Generation/Testing Tool
 date: '2011-12-15 16:27:40 -0600'
 tags:
-- tech
+- technology
 - dotnet
 - programming
 ---

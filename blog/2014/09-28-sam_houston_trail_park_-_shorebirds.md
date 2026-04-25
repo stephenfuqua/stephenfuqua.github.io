@@ -4,6 +4,7 @@ date: 2014-09-28
 tags:
 - nature
 - birds
+- nature
 ---
 
 <div class="image">

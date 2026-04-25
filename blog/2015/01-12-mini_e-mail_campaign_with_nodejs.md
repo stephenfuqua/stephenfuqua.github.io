@@ -2,7 +2,7 @@
 title: Mini E-mail Campaign With Node.js
 date: '2015-01-12'
 tags:
-- tech
+- technology
 - programming
 - javascript
 

@@ -4,6 +4,7 @@ date: 2014-04-20
 tags:
 - birds
 - nature
+- nature
 ---
 
 In the east, you have the [Ruby-Throated

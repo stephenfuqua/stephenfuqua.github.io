@@ -3,7 +3,7 @@ title: Review and Reflection on "The Mythical Man-Month" by Frederick P.
   Brooks Jr.
 date: '2011-11-09 21:05:44 -0600'
 tags:
-- tech
+- technology
 - programming
 - books
 ---
