@@ -50,8 +50,9 @@ const config = {
           feedOptions: {
             type: "all",
             xslt: true,
-            copyright: "Copyright © ${new Date().getFullYear()} Stephen A. Fuqua",
-            description: "Stephen A. Fuqua writes about technology, the natural world, and the Bah&aacute;'&iacute; Faith",
+            copyright: `Copyright © ${new Date().getFullYear()} Stephen A. Fuqua`,
+            description:
+              "Stephen A. Fuqua writes about technology, the natural world, and the Bahá'í Faith",
           },
           path: "./blog",
           routeBasePath: "/",
