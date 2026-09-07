@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Stephen A. Fuqua - Blog",
+  title: "Stephen A. Fuqua",
   tagline:
     "Stephen A. Fuqua (SAF) is a Bahá'í, software engineer, and nature lover in Austin, Texas, USA.",
   favicon: "img/BHCU-logo-safnet-small.webp",
@@ -48,8 +48,10 @@ const config = {
         blog: {
           showReadingTime: true,
           feedOptions: {
-            type: ["rss", "atom"],
+            type: "all",
             xslt: true,
+            copyright: "Copyright © ${new Date().getFullYear()} Stephen A. Fuqua",
+            description: "Stephen A. Fuqua writes about technology, the natural world, and the Bah&aacute;'&iacute; Faith",
           },
           path: "./blog",
           routeBasePath: "/",
@@ -59,7 +61,7 @@ const config = {
           onInlineAuthors: "warn",
           onUntruncatedBlogPosts: "warn",
           blogDescription:
-            "Stephen A. Fuqua writes about technology, the natural world, and religion.",
+            "Stephen A. Fuqua writes about technology, the natural world, and the Bah&aacute;'&iacute; Faith.",
         },
         theme: {
           customCss: "./src/css/custom.css",
