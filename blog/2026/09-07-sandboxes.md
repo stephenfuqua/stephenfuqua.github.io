@@ -39,14 +39,14 @@ Guiltily, I recognized my guard was down: were there previous occasions in which
 
 Goal: select an approach for safely running in YOLO mode, satisfying this non-exhaustive list of requirements:
 
-1. Run in Windows and/or WSL
-2. Allow network access
-3. No access to my filesystem or Windows operations, other than the code repository I am working in
-4. No access to environment variables
-5. Works for multiple coding harness - in particular, Claude Code and GitHub Copilot
-6. Must be able to install dev tools, such as Node.js and the .NET SDK
-7. Can connect to GitHub for read/write access to pull requests
-8. "Easy" to manage, with low impact on the operating environment
+- Run in Windows and/or WSL
+- Allow network access
+- No access to my filesystem or Windows operations, other than the code repository I am working in
+- No access to environment variables
+- Works for multiple coding harness - in particular, Claude Code and GitHub Copilot
+- Must be able to install dev tools, such as Node.js and the .NET SDK
+- Can connect to GitHub for read/write access to pull requests
+- "Easy" to manage, with low impact on the operating environment
 
 ## A quick survey of solutions
 
@@ -79,12 +79,12 @@ Next: Claude Code has a number of [ideas for sandboxing](https://code.claude.com
 
 | Approach | Meets Requirements |
 | -- | -- |
-| Sandboxed Bash | no - Claude specific |
-| Sandbox runtime | no - Claude specific |
-| Dev container | might work |
-| Custom container | should work |
-| Virtual machine | no - too intensive |
-| Claude Code on the web | yes - but see below |
+| Sandboxed Bash | ❌ no - Claude specific |
+| Sandbox runtime | ❌ no - Claude specific |
+| Dev container | ✅ looks intriguing |
+| Custom container | ✅ let's try this |
+| Virtual machine | ❌ no - too intensive |
+| Claude Code on the web | ⚠️ yes - but see below |
 
 :::tip
 
@@ -98,11 +98,11 @@ What about [dev containers](https://containers.dev/)? Has promise, but I've yet 
 
 And custom containers? I am _very_ used to those. To jumpstart, a search: "use docker as a sandbox for claude code".
 
-Oh! [Docker Sandboxes](https://docs.docker.com/ai/sandboxes/) are a thing. A product. Pre-configured and free. What's the catch? You must sign-in; corporate governance tools are available but require a paid account. Out of the box, it meets all requirements, though #5 (Must be able to install dev tools) will require a little effort. Why build my own container when I can use this product?
+Oh! [Docker Sandboxes](https://docs.docker.com/ai/sandboxes/) are a thing. A product. Pre-configured and free. What's the catch? You must sign-in; corporate governance tools are available but require a paid account. Out of the box, it meets all requirements, though #5 (Must be able to install dev tools) will require a little effort. Why build my own custom container when I can use this product?
 
 ## Solution
 
-Two weeks later: I won't say this is _the best_ solution. Having failed to try out a few options, that would be disingenuous to claim.  But it _is_ working for me.
+Two weeks later: I won't say this is _the best_ solution. Having passed on trying out other options, that claim would be disingenuous. But it _is_ working for me.
 
 As a regular Docker user, the command line interface is familiar and easy to learn. The containers run with a small footprint micro VM architecture, and the solution is completely separate from Docker Desktop (which is not required).
 
@@ -110,9 +110,9 @@ At last, I feel that I'm practicing safe permission bypass. That is, assuming th
 
 ## Tips
 
-1. Plan to create and use a GitHub token with minimal permissions required to get the job done.
-2. git clone mode is the safer option instead of directly mounting the directory; otherwise the sandbox will have access to local environment files. Clone mode is not the same as a worktree, but accomplishes the same goal.
-3. The runtime environment can be customized with a [Dockerfile-based template](https://docs.docker.com/ai/sandboxes/customize/templates/); for example, I have a template called [sandboxes-with-pwsh-and-dotnet](https://github.com/stephenfuqua/sandboxes-with-pwsh-and-dotnet). Drawback that I can live with: To get the latest versions I will need to remember to rebuild the image from time to time.
+- Plan to create and use a GitHub token with minimal permissions required to get the job done.
+- git clone mode is the safer option instead of directly mounting the directory; otherwise the sandbox will have access to local environment files. Clone mode is not the same as a worktree, but accomplishes the same goal.
+- The runtime environment can be customized with a [Dockerfile-based template](https://docs.docker.com/ai/sandboxes/customize/templates/); for example, I have a template called [sandboxes-with-pwsh-and-dotnet](https://github.com/stephenfuqua/sandboxes-with-pwsh-and-dotnet). Drawback that I can live with: To get the latest versions I will need to remember to rebuild the image from time to time.
 
    Example command, running in clone mode with a custom template:
 
@@ -120,7 +120,7 @@ At last, I feel that I'm practicing safe permission bypass. That is, assuming th
    sbx run claude --clone --template stephenfuqua/sbx-claude-pwsh-dotnet
    ```
 
-4. Plan to have a separate sandbox instance for every repository. While it is possible to mount multiple repositories into a sandbox, the session will always default to the first mounted directory; switching to another is tedious. Even after switching directories, you risk the agent reading files from the original repository by mistake.
+- Plan to have a separate sandbox instance for every repository. While it is possible to mount multiple repositories into a sandbox, the session will always default to the first mounted directory; switching to another is tedious. Even after switching directories, you risk the agent reading files from the original repository by mistake.
 
 :::warning
 
@@ -131,3 +131,7 @@ Separate sandbox containers for each harness, spanning dozens of repositories, c
 ## Postscript: Future Direction
 
 While this is working well, eventually I may get frustrated at some quirks to this approach. Perhaps I will come around to building my own container containing the compiler / runtime tools I need, along with both coding harnesses that I actively use. Which starts to sound a lot like a devcontainer...
+
+---
+
+_This blog post was handcrafted and conceived, with minor only minor updates from Copilot Review Agent and a Claude Code + Sonnet 5 editorial review._
