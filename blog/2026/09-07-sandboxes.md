@@ -108,11 +108,7 @@ As a regular Docker user, the command line interface is familiar and easy to lea
 
 At last, I feel that I'm practicing safe permission bypass. That is, assuming the agent doesn't do anything crazy with my GitHub token 😉.
 
-## Postscript: Future Direction
-
-While this is working well, eventually I may get frustrated at some quirks to this approach. Perhaps I will come around to building my own container containing the compiler / runtime tools I need, along with both coding harnesses that I actively use. Which starts to sound a lot like a devcontainer...
-
-## Appendix: Tips
+## Tips
 
 1. Plan to create and use a GitHub token with minimal permissions required to get the job done.
 2. git clone mode is the safer option instead of directly mounting the directory; otherwise the sandbox will have access to local environment files. Clone mode is not the same as a worktree, but accomplishes the same goal.
@@ -131,3 +127,7 @@ While this is working well, eventually I may get frustrated at some quirks to th
 Separate sandbox containers for each harness, spanning dozens of repositories, could eventually eat a lot of disk space. Will need to keep an eye on that going forward.
 
 :::
+
+## Postscript: Future Direction
+
+While this is working well, eventually I may get frustrated at some quirks to this approach. Perhaps I will come around to building my own container containing the compiler / runtime tools I need, along with both coding harnesses that I actively use. Which starts to sound a lot like a devcontainer...
