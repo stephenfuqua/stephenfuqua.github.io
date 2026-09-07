@@ -64,7 +64,7 @@ $ az account list
     "state": "Enabled",
     "tenantDefaultDomain": "*****.onmicrosoft.com",
     "tenantDisplayName": "Default Directory",
-    "tenantId": "1c1909b3-c36b-4877-930b-9620dcc80278",
+    "tenantId": ""*****",
     "user": {
       "name": "*****",
       "type": "user"
