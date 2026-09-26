@@ -128,9 +128,26 @@ Separate sandbox containers for each harness, spanning dozens of repositories, c
 
 :::
 
+- If you have already customized local settings, copy them in to the sandbox. Example: copy my Claude settings file and a custom script for the status line into a sandbox that was created with `--name claude-pilot` (note to self: add this as a layer in my Dockerfile template):
+
+  ```powershell
+  sbx cp C:\Users\<username>\.claude\settings.json claude-pilot:/home/agent/.claude
+  sbx cp C:\Users\<username>\.claude\statusline-command.sh claude-pilot:/home/agent/.claude
+  ```
+
 ## Postscript: Future Direction
 
 While this is working well, eventually I may get frustrated at some quirks to this approach. Perhaps I will come around to building my own container containing the compiler / runtime tools I need, along with both coding harnesses that I actively use. Which starts to sound a lot like a devcontainer...
+
+## Postscript 2026-09-26: Unable to use Copilot
+
+When I got around to trying Copilot in a Docker Sandbox, I was disappointed to find that it unusable. The following error displays when trying to select a model, and I am unable to find any additional information about this:
+
+```plaintext
+Error loading model list: Error: 400 "checking third-party user token: bad request: Personal Access Tokens are not supported for this endpoint\n
+```
+
+As of June, 2026, Copilot does have its own [sandbox mode](https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings), but for Windows users it requires running a Windows Insiders build.
 
 ---
 
