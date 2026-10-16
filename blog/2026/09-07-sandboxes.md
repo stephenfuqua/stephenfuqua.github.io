@@ -149,6 +149,10 @@ Error loading model list: Error: 400 "checking third-party user token: bad reque
 
 As of June, 2026, Copilot does have its own [sandbox mode](https://docs.github.com/en/copilot/how-tos/cloud-and-local-sandboxes/configuring-local-sandbox-settings), but for Windows users it requires running a Windows Insiders build.
 
+## Postscript 2026-10-16: Resolving the Copilot Error
+
+I posted the copilot problem as [issue 368](https://github.com/docker/sbx-kits-contrib/issues/368) in the source repository. Then with a little help from Claude I found the fix. See the issue and its pull requests for more information. Copilot is now working in the sandbox on my machine.
+
 ---
 
 _This blog post was handcrafted and conceived, with minor only minor updates from Copilot Review Agent and a Claude Code + Sonnet 5 editorial review._
