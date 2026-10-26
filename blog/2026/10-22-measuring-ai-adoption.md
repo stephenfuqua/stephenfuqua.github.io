@@ -8,8 +8,8 @@ What follows: reflections from the conversation at [Data and AI Weekend
 In brief:
 
 - Measure business value, not minimum use
-- Apart from monetary cost, there may be such a thing as maximum use
-- Measure the humnan element - what we bring and share in an artificially
+- In addition to monetary cost, there may be such a thing as too much use
+- Measure the human element - what we bring and share in an artificially
   intelligent workplace
 
 <!-- truncate -->

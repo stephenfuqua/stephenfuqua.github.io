@@ -1,13 +1,21 @@
 ---
-title: "Data and AI Weekend 2026: Measuring AI Adoption"
+title: "Data and AI Weekend 2026: A Conversation"
 ---
 
-Over two days in October, data engineers, architects, and enthusiasts gathered
-in Austin, TX for an unusual conference: Data and AI Weekend. This event was
-advertised as -- and succeeded at -- being about the hallway conversations and
-whiteboard moments where people share their questions and expertise naturally,
-instead of being focused on lectures from the puplit (there was a bit of that
-too, which was fine). In each session, an "animateurs" framed a theme and the
-audience talked -- to each other. And it worked.
+A conference focused on the hallway conversations rather than the slide decks?
 
-<!-- Replace with LinkedIn post and image, perhaps a brief overview of the conversations? -->
+Is that going to work?, I kept wondering.
+
+Answer: a resounding YES.
+
+While the speakers at prior Data Days were always terrific, this (mostly) conversational format delivered so much more in terms of _practical ideas_ and _deep questions_ for continued reflection.
+
+I can read the speakers books and blogs or listen to their podcasts on my own: but the conversation with all of you made it so much more interesting.
+
+For those who led the sessions: thank you for your time, your insights, and seeding the questions that got the ideas flowing. For the participants: thank you for a weekend of inspiring conversations. And a special shout out, blessings, and gratitude for Lynn Bender pulling it all together.
+
+The economics of such an event are difficult. Keeping my fingers crossed that Lynn still has the heart - and the business model - for Data AI Weekend in 2027.
+
+![Stick figures at a table, talking](/img/2026-10-12-conversation-circle.jpg)
+
+<!-- truncate -->
