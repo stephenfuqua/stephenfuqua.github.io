@@ -1,13 +1,18 @@
 ---
 title: Configuring and Extending AI Coding Harnesses
+tags:
+- programming
+- technology
 ---
 
-These notes are roughly adapted from a lunch-and-learn at the office, intended
+_Updated October 2026_
+
+These notes are adapted from a lunch-and-learn at the office, intended
 to socialize terminology and some lessons learned in recent months.
 
 :::warning
 
-This field is moving so fast, that these notes will surely be stale in six
+This field is moving so fast that these notes will surely be stale in six
 months.
 
 :::
@@ -17,22 +22,22 @@ months.
 ## Glossary
 
 - **AI Coding Harness**: LLM + specialized instructions, procedures, and
-  behaviors. _GitHub Copilot, Claude Code, Cursor, etc._.
+  behaviors. _GitHub Copilot, Claude Code, Cursor, etc._
 - **Instructions**: Standing context &mdash; project overview, conventions,
-  rules. _Loaded automatically at session start_.
+  rules. _Loaded automatically at session start._
 - **Skills**: Procedural knowledge for specific tasks. _Matched to user requests
   automatically._
 - **Hooks**: Unconditional automation at workflow events. _Triggered by the
   harness at defined lifecycle points._
 - **Agents**: Autonomous workers. _Explicitly invoked by the user or an
-  orchestrating skill_.
+  orchestrating skill._
 
 ## Instructions
 
 ### Instruction Files
 
-Instruction files &mdash; "AGENTS.md" and the like - are always loaded at
-startup. They should contain instruction that the coding agent won't discover on
+Instruction files &mdash; "AGENTS.md" and the like &mdash; are always loaded at
+startup. They should contain instructions that the coding agent won't discover on
 its own or that would be expensive to rediscover each time. Keep the file small!
 Ideally, each line is based on a real failure that you want to avoid in the
 future.
@@ -48,11 +53,11 @@ future.
 `/init` can create a file for you, but it is verbose; you should refine to
 simplify it and add what the agent cannot figure out on its own. Better yet:
 write it based on actual experience of missteps taken by the agent(s). When
-using multiple tools, you may need different instructions for each tool
+using multiple tools, you may need different instructions for each tool.
 
 :::tip
 
-Update October 2026: Claude Code now reads AGENTS.md!
+Update, October 2026: Claude Code now reads AGENTS.md natively.
 
 :::
 
@@ -61,12 +66,14 @@ Update October 2026: Claude Code now reads AGENTS.md!
 Each tool has its own customization. GitHub Copilot has the most overlap with
 other tools, but even there it has limitations. For example, Copilot reads a
 root CLAUDE.md file, but not one in a sub-directory &mdash; but it _will_ read
-AGENTS.md in a sub-directory.
+AGENTS.md in a sub-directory (as of May 2026).
 
 ```plaintext
 ├─ ~/.claude/                 # Copilot does not read, use ~/.copilot
-| ├── <same as below>
-└── <your-repo>/
+  ├── <same as below>
+
+
+├── <your-repo>/
   ├── .claude/
   │ ├── agents/               # Copilot reads
   │ ├── rules/                # Copilot reads
@@ -105,11 +112,12 @@ When creating a new JavaScript file, always start with the following license hea
 
 In retrospect, the `javascript` language marker is a waste of a few tokens.
 
-:::warning
+:::note
 
-That license header seemed valuable when we first went open source. But now
-every single file has about 59 tokens of boilerplate before getting to the real
-file text. Small change, but every bit counts? May need to rethink this.
+An aside: that license header seemed valuable when we first went open source.
+But now every single file has about 59 tokens of boilerplate before getting to
+the real file text. Small change, but every bit counts... perhaps stop using
+them? Need to rethink that.
 
 :::
 
@@ -146,7 +154,7 @@ It is a good idea to keep your coding agent away from sensitive data.
 And this can be very hard to do.
 
 Adding an instruction to "NEVER READ .env" is insufficient; remember, the agents
-follows these instructions probabilistically. Furthermore, merely denying access
+follow these instructions probabilistically. Furthermore, merely denying access
 to read the file does not mean the agent won't act on your behalf: it could run
 the code that uses the .env file, which might not be what you want.
 
@@ -175,7 +183,7 @@ built-in skill for building skills!
 ### Frontmatter
 
 Each skill declares itself via a YAML frontmatter block at the top of its
-`SKILL.md`. Example, with added comments
+`SKILL.md`. Example, with added comments:
 
 ```plaintext
 ---
@@ -204,7 +212,7 @@ needs clear trigger keywords.
 :::tip
 
 This and other custom skills developed by my team is available in
-[AI-Tools-for-Ed-Fi-SDLC](https://github.com/Ed-Fi-Alliance-OSS/AI-Tools-for-Ed-Fi-SDLC)
+[AI-Tools-for-Ed-Fi-SDLC](https://github.com/Ed-Fi-Alliance-OSS/AI-Tools-for-Ed-Fi-SDLC).
 
 :::
 
@@ -233,7 +241,7 @@ Also, I’m eager to compare Addy Osmani’s newer
 ### Thoughts on Unit Tests
 
 Superpowers follows a test-driven approach &mdash; even when using it to write
-new skills! it has an "Iron Law": `NO PRODUCTION CODE WITHOUT A FAILING TEST
+new skills! It has an "Iron Law": `NO PRODUCTION CODE WITHOUT A FAILING TEST
 FIRST`. I like this philosophy. Although I admit that I go back and forth in
 using true test-driven development, because sometimes I need to explore what I
 am trying to achieve before I know how to write a test for it.
@@ -249,8 +257,8 @@ repository. This also makes them available to everyone else using the
 repository, so you may want to discuss as a team before committing.
 
 What about standardization across teams? I recommend socializing the practices,
-but avoiding mandate which skills to adopt until they have proven absolute value
-over other options.
+but avoid mandate which skills to adopt until they have proven their absolute
+value over other options.
 
 ## Hooks
 
@@ -260,9 +268,9 @@ certain times in the lifecycle of work.
 
 ### Example: Markdown Linting
 
-This example is from Claude Code. It runs a `markdownlint-cli2` and `prettier`
-both on writing (new) or editing (existing) file. Assumes that these tools, and
-`jq`, are available on the path.
+The following example was developed for Claude Code. It runs both
+`markdownlint-cli2` and `prettier` on writing (new) or editing (existing) file.
+It assumes that these tools, and `jq`, are available on the path.
 
 ```json
 {
@@ -331,14 +339,15 @@ tools:                              # Explicit allowlist of permi
   - Write
   - Edit
 skills:
-  - update-dependencies             # Skills to load into the agent''s context
+  - update-dependencies             # Skills to load into the agent's context
 ---
 
 <agent body – similar to a skill>
 ```
 
-GitHub Copilot has a different tools list. Being able to assign a GitHub Issue
-directly to a subagent seems appealing. I should try that one of these days.
+GitHub Copilot has a different tools list, as seen below. In GitHub Copilot
+Coding Agent (online), you can assign this and other custom agents to an Issue,
+something you can't do with a skill.
 
 ```plaintext
 ---
@@ -352,7 +361,11 @@ tools: ["execute", "read", "edit", "search"]
 <agent body – almost identical to Claude Code version>
 ```
 
-The real value here might be when running on the cloud and auto-assigning work.
-For example, one could setup a trigger process to look for new GitHub Issues and
-assign them to a "Triage Agent." If the agent determines that the issue (a) is
-a bug and (b) is legitimate, it could then call the "Bugfix Agent."
+The real value will come when running on the cloud and auto-assigning work. For
+example, one could setup a trigger process to look for new GitHub Issues and
+assign them to a "Triage Agent." If the agent determines determines that the
+Issue is a legitimate bug, then it could in turn trigger a "Bugfix Agent."
+
+## Next
+
+Keep learning, experimenting, and sharing!

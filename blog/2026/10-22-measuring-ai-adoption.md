@@ -1,5 +1,8 @@
 ---
 title: "Data and AI Weekend 2026: Measuring AI Adoption"
+tags:
+- programming
+- technology
 ---
 
 Reflections from the conversation at [Data and AI Weekend
@@ -9,7 +12,9 @@ In brief:
 
 - Measure business value, not minimum use
 - In addition to monetary cost, there may be such a thing as too much use
-- Measure the human element - what we bring and share in an artificially
+- Conversations with the LLMs risk short-circuiting conversations with
+  co-workers
+- Measure the human element &mdash; what we bring and share in an artificially
   intelligent workplace
 
 <!-- truncate -->
@@ -17,14 +22,14 @@ In brief:
 ## Minimum Use and Business Value
 
 In the opening conversation, I was surprised to hear that many organizations
-have "AI adoption" goals that prioritize token-usage as a metric without taking
-sufficient thought for _effective_ and _productive_ use of the tools.
-Leaderboards and spending do not provide any indication of whether the work is
-delivering real business value. Token usage is the new line count: a measure
-easily gamed and with near zero practical value.
+have "AI adoption" goals that prioritize token-usage as a metric without giving
+sufficient thought to _effective_ use of the tools. Leaderboards and spending do
+not provide any indication of whether the work is delivering real business
+value. Token usage is the new line count: a measure easily gamed and with near
+zero practical value.
 
-On the other hand, some said, there is still a great reluctance to try these
-tools among some of their less tech-enthused coworkers. Although a blunt
+On the other hand, several participants reported that many of their less
+tech-enthused coworkers are still reluctant to try these tools. Although a blunt
 instrument, forced practice could lead to greater comfort and recognition of
 possibilities.
 
@@ -35,10 +40,10 @@ excellence and mentoring can help recognize opportunities for coaching and for
 encouraging the sharing of prompts, skills, and code.
 
 _Output_ will never be a substitute for _outcome_ when delivering business
-value. Implication: as technologists, we can help our colleagues and
-organizations adopt AI tools wisely, share and improve on insights and skills,
-and keep our eyes on the strategic performance measures that drive actual value
-rather than mere busywork.
+value. As technologists, we can help our colleagues and organizations adopt AI
+tools wisely, share and improve on insights and skills, and keep our eyes on the
+strategic performance measures that drive actual value rather than mere
+busywork.
 
 ## Setting a Ceiling
 
@@ -50,19 +55,14 @@ activities. Personally, I have noticed that my AI-assisted work days are leaving
 me more exhausted and less able to engage in other intellectual pursuits after
 hours. (Or, maybe that is simply a sign of getting older...)
 
-Maybe enlightened organizations could set a maximum bar on AI usage to help
+Enlightened organizations could set a maximum bar on AI usage to help
 avoid burnout. And managers driving automation could recognize the benefit of
 encouraging periods of lower intensity work.
 
 A ceiling on AI would combat cognitive apathy (letting the LLM decide
 everything, failing to question assumptions, throwing slop over the wall) and
-basic skills loss. An analogy from a participant: airline pilots must re-certify
-every six months without autopilot, to ensure they can handle emergency
-situations. (Note: my searching tells me the participant hallucinated this, but
-since I like the idea of it, I'll keep the false analogy anyway).
-
-Maybe we should force ourselves into temporary "AI free" periods
-(detox?) &mdash; with a manager's support.
+basic skills loss. Maybe we should force ourselves into temporary "AI free" periods
+(detox?) &mdash; with a manager's support, of course.
 
 ## Measuring the Human Element
 
@@ -74,20 +74,23 @@ to measure. Marketing, for example. There, one needs stories &mdash; _human_
 stories &mdash; showing how a customer was influenced, subtly or grossly, by an
 advertisement at the airport, a booth at a conference, or some other stratagem.
 
-Opportunity: share and record stories of experiments, successes and failures.
+Share and record stories of experiments, successes and failures.
 
-At my office, we have found value in the topical lunch and learn -- for example,
-getting all the technologists together to learn and share about Skills, Hooks,
-and Agents for coding assistants.
+At my office, we have found value in the topical lunch and learn. For example,
+getting all the technologists together to learn and share about [Skills, Hooks,
+and Agents](./05-31-configuring-and-extending-the-harness.md) for coding
+assistants.
 
-Opportunity: share prompts and skills. Measure that, not tokens.
+Share prompts and skills. Measure that, not tokens.
 
 At mid-year, my team added short-term performance goals around developing and
-sharing skills and agentic workflows. Setting explicit and specific performance
-goals made the priority crystal clear, without adding arbitrary units of
-measure. A next step will be to treat these as internal products, subject
-to feedback and continuous improvement. Importantly, these short-term goals
-were each designed to to support longer-term _outcome-oriented_ goals.
+[sharing skills and agentic
+workflows](https://github.com/Ed-Fi-Alliance-OSS/AI-Tools-for-Ed-Fi-SDLC).
+Setting explicit and specific performance goals made the priority crystal clear,
+without adding arbitrary units of measure. A next step will be to treat these as
+internal products, subject to feedback and continuous improvement. Importantly,
+these short-term goals were each designed to to support longer-term
+_outcome-oriented_ goals.
 
 Our conversations with the LLMs risk short-circuiting productive conversations
 with our co-workers. Active asset sharing and story-telling can help restore
@@ -101,7 +104,7 @@ baseline, then change the process and take repeated measurements again. Do you
 see improvement?
 
 That is always good advice, though many elements of creative work are not so
-repeatable to submit to this type of measurement.
+repeatable and susceptible to this type of measurement.
 
 Here, anecdote and story come into play again.
 
