@@ -2,7 +2,7 @@
 title: "Data and AI Weekend 2026: Measuring AI Adoption"
 ---
 
-What follows: reflections from the conversation at [Data and AI Weekend
+Reflections from the conversation at [Data and AI Weekend
 2026](./10-12-data-ai-weekend-2026.md), on the subject of measuring AI adoption.
 
 In brief:
@@ -28,11 +28,11 @@ tools among some of their less tech-enthused coworkers. Although a blunt
 instrument, forced practice could lead to greater comfort and recognition of
 possibilities.
 
-Ungoverned and forced AI adoption can also lead to a lot of duplicated effort
-(multiple people solving the same problem without sharing) and inefficient
-solutions (such as probabilistic instructions that should be deterministic
-code). AI centers of excellence and mentoring can help recognize opportunities
-for coaching and encouraging sharing of prompts, skills, and code.
+Ungoverned and forced AI adoption can also lead to duplicated effort (multiple
+people solving the same problem without sharing) and inefficient solutions (such
+as probabilistic instructions that should be deterministic code). AI centers of
+excellence and mentoring can help recognize opportunities for coaching and for
+encouraging the sharing of prompts, skills, and code.
 
 _Output_ will never be a substitute for _outcome_ when delivering business
 value. Implication: as technologists, we can help our colleagues and
@@ -48,7 +48,7 @@ One of the dangers of accelerated effort with AI tools is the loss of downtime
 between tasks. Brains and muscles alike need recovery time between intense
 activities. Personally, I have noticed that my AI-assisted work days are leaving
 me more exhausted and less able to engage in other intellectual pursuits after
-hours.
+hours. (Or, maybe that is simply a sign of getting older...)
 
 Maybe enlightened organizations could set a maximum bar on AI usage to help
 avoid burnout. And managers driving automation could recognize the benefit of
@@ -56,10 +56,13 @@ encouraging periods of lower intensity work.
 
 A ceiling on AI would combat cognitive apathy (letting the LLM decide
 everything, failing to question assumptions, throwing slop over the wall) and
-basic skills loss. An analogy: airline pilots must re-certify periodically
-without autopilot, to ensure they can handle emergency situations. Maybe we
-should force ourselves into temporary "AI free" periods (detox?) &mdash; with a
-manager's support.
+basic skills loss. An analogy from a participant: airline pilots must re-certify
+every six months without autopilot, to ensure they can handle emergency
+situations. (Note: my searching tells me the participant hallucinated this, but
+since I like the idea of it, I'll keep the false analogy anyway).
+
+Maybe we should force ourselves into temporary "AI free" periods
+(detox?) &mdash; with a manager's support.
 
 ## Measuring the Human Element
 
@@ -92,7 +95,7 @@ human connection and socialize best practices.
 
 ## Back to Basics
 
-In our haste to adopt these tools, are we forgetting about simple before / after
+In our haste to adopt these tools, are we forgetting about simple before/after
 or A/B testing? When changing a process, take repeated measurement of a
 baseline, then change the process and take repeated measurements again. Do you
 see improvement?
