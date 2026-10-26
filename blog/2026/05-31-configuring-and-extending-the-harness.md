@@ -5,8 +5,12 @@ title: Configuring and Extending AI Coding Harnesses
 These notes are roughly adapted from a lunch-and-learn at the office, intended
 to socialize terminology and some lessons learned in recent months.
 
-⚠️ This field is moving so fast, that these notes will surely be stale in six
+:::warning
+
+This field is moving so fast, that these notes will surely be stale in six
 months.
+
+:::
 
 <!-- truncate -->
 
@@ -15,13 +19,13 @@ months.
 - **AI Coding Harness**: LLM + specialized instructions, procedures, and
   behaviors. _GitHub Copilot, Claude Code, Cursor, etc._.
 - **Instructions**: Standing context &mdash; project overview, conventions,
-  rules. _Loaded automatically at session start.
+  rules. _Loaded automatically at session start_.
 - **Skills**: Procedural knowledge for specific tasks. _Matched to user requests
   automatically._
 - **Hooks**: Unconditional automation at workflow events. _Triggered by the
   harness at defined lifecycle points._
 - **Agents**: Autonomous workers. _Explicitly invoked by the user or an
-  orchestrating skill.
+  orchestrating skill_.
 
 ## Instructions
 
@@ -36,14 +40,21 @@ future.
 | Harness / File | copilot-instructions.md | CLAUDE.md | AGENTS.md |
 | -- | -- | -- | -- |
 | GitHub Copilot | X | X | X |
-| Claude Code | | X | [hackable](https://github.com/anthropics/claude-code/issues/6235)[^1]
+| Claude Code | | X | X |
 | Open AI Codex | | | X |
 | Gemini | Customizable | Customizable | Customizable |
 | Cursor | | | X |
 
-`/init` can create a file for you, but it is verbose &mdash; refine to simplify
-and add what the agent cannot figure out on its own. Experiment &mdash; when
+`/init` can create a file for you, but it is verbose; you should refine to
+simplify it and add what the agent cannot figure out on its own. Better yet:
+write it based on actual experience of missteps taken by the agent(s). When
 using multiple tools, you may need different instructions for each tool
+
+:::tip
+
+Update October 2026: Claude Code now reads AGENTS.md!
+
+:::
 
 ### Config and Instruction Locations
 
@@ -345,8 +356,3 @@ The real value here might be when running on the cloud and auto-assigning work.
 For example, one could setup a trigger process to look for new GitHub Issues and
 assign them to a "Triage Agent." If the agent determines that the issue (a) is
 a bug and (b) is legitimate, it could then call the "Bugfix Agent."
-
-### Defined in `agents` Directory
-
-[^1]: In October 2026, Claude Code added native support for reading AGENTS.md,
-    in the absence of a CLAUDE.md file.
