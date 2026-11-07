@@ -6,6 +6,7 @@ tags:
 - programming
 - technology
 - ed-fi
+- ai
 ---
 
 Following up on [Grudgingly Accepting AI Coding Assistants](./01-14-accepting-ai-assistants.md), I have a small win from my

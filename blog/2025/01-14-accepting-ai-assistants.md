@@ -4,6 +4,7 @@ date: 2025-01-14
 tags:
 - programming
 - technology
+- ai
 ---
 
 As a software engineering director building open source products, I have

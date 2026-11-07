@@ -3,6 +3,7 @@ title: "Data and AI Weekend 2026: Measuring AI Adoption"
 tags:
 - programming
 - technology
+- ai
 ---
 
 Reflections from the conversation at [Data and AI Weekend

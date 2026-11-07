@@ -4,6 +4,7 @@ date: 2025-02-16
 tags:
 - technology
 - data-and-analytics
+- ai
 ---
 
 Data engineering gurus [Joe Reis and Matthew

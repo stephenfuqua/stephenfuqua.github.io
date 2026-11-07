@@ -4,6 +4,7 @@ date: 2026-08-13
 tags:
 - programming
 - technology
+- ai
 ---
 
 From time to time I pop in to peek at one of the dozens of pull requests that come through my mailbox daily, furthering the work of the Ed-Fi Alliance to help connect student data. What feature, improvement, or bug fix are the teams working on? How has this engineer approached a given problem, what tests have they written, what documentation have they provided, are the I/O seams sufficiently fault tolerant? Did they run the GitHub Copilot Code Review Agent, and fix the issues detected there?

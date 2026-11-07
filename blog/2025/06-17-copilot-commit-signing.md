@@ -6,6 +6,7 @@ tags:
 - architecture
 - security
 - technology
+- ai
 ---
 
 GitHub Copilot [Coding

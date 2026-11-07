@@ -3,6 +3,7 @@ title: Configuring and Extending AI Coding Harnesses
 tags:
 - programming
 - technology
+- ai
 ---
 
 _Updated October 2026_

@@ -4,6 +4,7 @@ date: 2026-09-07
 tags:
 - programming
 - technology
+- ai
 ---
 
 TL;DR summary: Docker Sandboxes are a convenient and effective means of safely running a coding harness in permissions bypass mode.

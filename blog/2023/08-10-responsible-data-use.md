@@ -7,6 +7,7 @@ tags:
 - inclusion
 - technology
 - data-and-analytics
+- ai
 ---
 
 A strange thing about my job is that, although we're all about supporting K-12

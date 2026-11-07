@@ -3,6 +3,7 @@ title: "Data and AI Weekend 2026: A Conversation"
 tags:
 - programming
 - technology
+- ai
 ---
 
 A conference focused on the hallway conversations rather than the slide decks?

@@ -4,6 +4,7 @@ date: 2026-04-10
 tags:
 - programming
 - technology
+- ai
 ---
 
 For all of last year, I wondered why anyone would use the CLI version of Claude Code and similar tools. I asked a colleague about this a couple of times, and still had trouble getting it.

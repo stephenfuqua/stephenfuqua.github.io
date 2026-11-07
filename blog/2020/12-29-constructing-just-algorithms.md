@@ -7,6 +7,7 @@ tags:
 - justice
 - inclusion
 - data-and-analytics
+- ai
 ---
 
 Are algorithms doomed to be racist and harmful, or is there a legitimate role

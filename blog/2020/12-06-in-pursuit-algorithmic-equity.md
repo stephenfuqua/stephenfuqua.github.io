@@ -7,7 +7,7 @@ tags:
 - inclusion
 - technology
 - data-and-analytics
-
+- ai
 ---
 
 Advances in the availability and breadth of data over the past few decades have
