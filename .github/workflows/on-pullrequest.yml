@@ -53,18 +53,18 @@ jobs:
 
       - name: Dependency Review ("Dependabot on PR")
         if: ${{ github.event_name == 'pull_request' && !github.event.repository.fork }}
-        uses: actions/dependency-review-action@a1d282b36b6f3519aa1f3fc636f609c47dddb294 # v5.0.0
+        uses: actions/dependency-review-action@bbc44d14a204704ccc493733616cd1e93a0321ec # v5.0.1
         with:
           # these are webpack vulnerabilities that only apply in local "start" mode
           allow-ghsas: GHSA-4v9v-hfq4-rm2v, GHSA-9jgg-88mc-972h
 
       - name: Initialize CodeQL
         if: success()
-        uses: github/codeql-action/init@33d7b85da1a04171e211befe2c739303b9a4c066 # v4.39.3
+        uses: github/codeql-action/init@1bd86f2fdb4b86187fa4059f16f31a3202acc9ea # v4.39.4
         with:
           languages: javascript-typescript
 
       - name: Perform CodeQL Analysis
         if: success()
-        uses: github/codeql-action/analyze@33d7b85da1a04171e211befe2c739303b9a4c066 # v4.39.3
+        uses: github/codeql-action/analyze@1bd86f2fdb4b86187fa4059f16f31a3202acc9ea # v4.39.4
 
